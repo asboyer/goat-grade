@@ -1,2 +1,3 @@
-LBJ IS THE GOAT <br>
-No, MJ is
+*coming soon ... *
+
+(goatgrade.com)

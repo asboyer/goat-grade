@@ -28,6 +28,7 @@ for i in range(len(rows)):
 			h += 1
 
 
-json_object = json.dumps(stats, indent = 4)
-print(json_object)
+with open('../stats/stats.json', 'w+', encoding='utf8') as file:
+    file.write(json.dumps(stats, ensure_ascii=False, indent =4))
+
 # print(stats['Bradley Beal']['PTS'])

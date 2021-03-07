@@ -1,3 +1,0 @@
-*coming soon ... *
-
-(goatgrade.com)

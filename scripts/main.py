@@ -31,4 +31,4 @@ for i in range(len(rows)):
 with open('../stats/stats.json', 'w+', encoding='utf8') as file:
     file.write(json.dumps(stats, ensure_ascii=False, indent =4))
 
-# print(stats['Bradley Beal']['PTS'])
+# print(stats['Luka Dončić']['PTS'])

@@ -8,6 +8,7 @@ html = urlopen(url)
 soup = BeautifulSoup(html, 'html.parser')
 
 
+
 soup.findAll('tr', limit=2)
 headers = [th.getText() for th in soup.findAll('tr', limit=2)[0].findAll('th')]
 headers = headers[1:]
@@ -15,15 +16,11 @@ headers = headers[1:]
 
 rows = soup.findAll('tr')[1:]
 
-stats = {}
-
-for i in range(len(rows)):
-	if len(rows[i].findAll('td')) > 0:
+with open('../stats/stats.txt', 'w+', encoding='utf-8') as file:
+	for i in range(len(rows)):
+		file.write("_________\n")
 		h = 0
-		name = rows[i].findAll('td')[0].getText()
-		stats[name] = {}
 		for td in rows[i].findAll('td'):
-			stats[name][headers[h]] = td.getText()
+			file.write(headers[h] + ": " + td.getText() + "\n")
 			h += 1
 
-print(stats['Bradley Beal']['PTS'])

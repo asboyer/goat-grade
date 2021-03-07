@@ -5,6 +5,7 @@ To do:
 	- BS, scrapy ???
 	- store in dictionary 
 	- store in json, xml
+	- ignore special characters when importing
 
 - Algorithm 
 	assts* 50, points *100, * 100 - .... = FINAL SCORE

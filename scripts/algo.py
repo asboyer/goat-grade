@@ -9,6 +9,10 @@ def rank(stats, category):
 
 	return rank
 
+def print_rank(rankings, category):
+	for player in rankings:
+		print(f"{rankings[player][f'{category} Rank'] + 1}. {player} ({rankings[player][cateogry]})")
+
 with open('../stats/stats.json', 'r', encoding='utf8') as file:
 	stats = json.load(file)
 	rankings = {}
@@ -21,5 +25,4 @@ with open('../stats/stats.json', 'r', encoding='utf8') as file:
 		rankings[name]['PTS Rank'] = i
 		rankings[name]['PTS'] = points
 
-	for player in rankings:
-		print(f"{rankings[player]['PTS Rank'] + 1}. {player} ({rankings[player]['PTS']})")
+	print_rank(rankings, 'PTS')

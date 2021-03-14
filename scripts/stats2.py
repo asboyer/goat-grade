@@ -24,7 +24,10 @@ for i in range(len(rows)):
 		name = rows[i].findAll('td')[0].getText()
 		stats[name] = {}
 		for td in rows[i].findAll('td'):
-			stats[name][headers[h]] = td.getText()
+			header = headers[h]
+			if header == 'MP':
+				header = 'TMP'
+			stats[name][header] = td.getText()
 			h += 1
 
 

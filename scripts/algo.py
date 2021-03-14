@@ -13,7 +13,6 @@ def add_to_dict(rank, rankings, category):
 	for i in range(len(rank)):
 		name = rank[i][0]
 		value = rank[i][1]
-		rankings[name] = {}
 		rankings[name][f'{category} Rank'] = i
 		rankings[name][category] = value
 
@@ -25,15 +24,20 @@ def make_dict(stats):
 	return rankings
 
 def print_rank(rankings, category):
+	order = []
 	for player in rankings:
-		print(f"{rankings[player][f'{category} Rank'] + 1}. {player} ({rankings[player][category]})")
+		order.append([player, rankings[player][f'{category} Rank'], rankings[player][category]])
+	order = sorted(order, key=lambda x: x[1])
+	for player in order:
+		print(f"{player[1] + 1}. {player[0]} ({player[2]})")
+
+def total(rankings):
+	pass
+
 
 with open('../stats/stats.json', 'r', encoding='utf8') as file:
 	stats = json.load(file)
 	ranks = make_dict(stats)
-	# rankings = {}
-	# point_rank = rank(stats, 'PTS') 
-
+	rank(stats, 'PTS', ranks)
+	rank(stats, 'AST', ranks)
 	print(ranks)
-
-	# print_rank(rankings, 'PTS')

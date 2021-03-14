@@ -22,4 +22,4 @@ with open('../stats/stats.json', 'r', encoding='utf8') as file:
 		rankings[name]['PTS'] = points
 
 	for player in rankings:
-		print(f"{rankings[player]['PTS Rank'] + 1}. {player}")
+		print(f"{rankings[player]['PTS Rank'] + 1}. {player} ({rankings[player]['PTS']})")

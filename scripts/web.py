@@ -69,7 +69,7 @@ with open('../stats/stats.json', 'r', encoding='utf8') as file:
 
 Who is the best basketball player in the world? <br>
 <br>
-<strong>Here are our rankings</strong>:
+<strong>Here are our rankings (based off of points and assists leader rank)</strong>:
 <br>
 <br>
 ''')	

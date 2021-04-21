@@ -12,6 +12,5 @@ To do:
 		- sort by category
 	- store in json, excel
 
-- Display results on the site
-	- html, js
-	- aws (faster) heroku (slow) 
+
+Currently moving to streamlit ....

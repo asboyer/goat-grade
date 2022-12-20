@@ -2,7 +2,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
 
-year = 2021
+year = 2023
 url = "https://www.basketball-reference.com/leagues/NBA_{}_per_game.html".format(year)
 html = urlopen(url)
 soup = BeautifulSoup(html, 'html.parser')

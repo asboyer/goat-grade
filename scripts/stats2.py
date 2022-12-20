@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import json
 
 
-year = 2021
-url = "https://www.basketball-reference.com/leagues/NBA_2021_advanced.html".format(year)
+year = 2023
+url = "https://www.basketball-reference.com/leagues/NBA_{}_advanced.html".format(year)
 html = urlopen(url)
 soup = BeautifulSoup(html, 'html.parser')
 

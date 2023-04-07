@@ -23,9 +23,10 @@
         "VORP": 243,
         "eFG%": 332,
         "G": 336,
-        "grade": 60.98,
+        "grade": 57.8,
         "name": "Tariq Abdul-Wahad",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shareef Abdur-Rahim": {
         "PTS": 19,
@@ -51,9 +52,10 @@
         "VORP": 25,
         "eFG%": 172,
         "G": 56,
-        "grade": 88.45,
+        "grade": 89.02,
         "name": "Shareef Abdur-Rahim",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Cory Alexander": {
         "PTS": 332,
@@ -79,9 +81,10 @@
         "VORP": 242,
         "eFG%": 343,
         "G": 306,
-        "grade": 55.62,
+        "grade": 51.7,
         "name": "Cory Alexander",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ray Allen*": {
         "PTS": 15,
@@ -107,9 +110,10 @@
         "VORP": 15,
         "eFG%": 58,
         "G": 55,
-        "grade": 88.24,
+        "grade": 88.78,
         "name": "Ray Allen",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rafer Alston": {
         "PTS": 342,
@@ -135,9 +139,10 @@
         "VORP": 320,
         "eFG%": 344,
         "G": 310,
-        "grade": 49.61,
+        "grade": 44.87,
         "name": "Rafer Alston",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "John Amaechi": {
         "PTS": 117,
@@ -163,9 +168,10 @@
         "VORP": 294,
         "eFG%": 273,
         "G": 97,
-        "grade": 67.15,
+        "grade": 64.81,
         "name": "John Amaechi",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Derek Anderson": {
         "PTS": 43,
@@ -191,9 +197,10 @@
         "VORP": 113,
         "eFG%": 193,
         "G": 215,
-        "grade": 77.69,
+        "grade": 76.78,
         "name": "Derek Anderson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kenny Anderson": {
         "PTS": 66,
@@ -219,9 +226,10 @@
         "VORP": 44,
         "eFG%": 149,
         "G": 54,
-        "grade": 82.81,
+        "grade": 82.61,
         "name": "Kenny Anderson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Nick Anderson": {
         "PTS": 115,
@@ -247,9 +255,10 @@
         "VORP": 130,
         "eFG%": 177,
         "G": 174,
-        "grade": 70.08,
+        "grade": 68.13,
         "name": "Nick Anderson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shandon Anderson": {
         "PTS": 92,
@@ -275,9 +284,10 @@
         "VORP": 112,
         "eFG%": 45,
         "G": 53,
-        "grade": 81.31,
+        "grade": 80.9,
         "name": "Shandon Anderson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Anstey": {
         "PTS": 245,
@@ -303,9 +313,10 @@
         "VORP": 265,
         "eFG%": 257,
         "G": 163,
-        "grade": 66.16,
+        "grade": 63.69,
         "name": "Chris Anstey",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Greg Anthony": {
         "PTS": 236,
@@ -331,9 +342,10 @@
         "VORP": 108,
         "eFG%": 66,
         "G": 52,
-        "grade": 74.59,
+        "grade": 73.26,
         "name": "Greg Anthony",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "B.J. Armstrong": {
         "PTS": 189,
@@ -359,9 +371,10 @@
         "VORP": 306,
         "eFG%": 158,
         "G": 309,
-        "grade": 62.08,
+        "grade": 59.04,
         "name": "B.J. Armstrong",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Darrell Armstrong": {
         "PTS": 50,
@@ -387,9 +400,10 @@
         "VORP": 14,
         "eFG%": 117,
         "G": 51,
-        "grade": 87.64,
+        "grade": 88.1,
         "name": "Darrell Armstrong",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chucky Atkins": {
         "PTS": 135,
@@ -415,9 +429,10 @@
         "VORP": 166,
         "eFG%": 206,
         "G": 50,
-        "grade": 69.41,
+        "grade": 67.38,
         "name": "Chucky Atkins",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Stacey Augmon": {
         "PTS": 320,
@@ -443,9 +458,10 @@
         "VORP": 188,
         "eFG%": 181,
         "G": 235,
-        "grade": 63.81,
+        "grade": 61.01,
         "name": "Stacey Augmon",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Isaac Austin": {
         "PTS": 213,
@@ -471,9 +487,10 @@
         "VORP": 316,
         "eFG%": 290,
         "G": 234,
-        "grade": 60.01,
+        "grade": 56.69,
         "name": "Isaac Austin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vin Baker": {
         "PTS": 48,
@@ -499,9 +516,10 @@
         "VORP": 330,
         "eFG%": 226,
         "G": 112,
-        "grade": 71.84,
+        "grade": 70.14,
         "name": "Vin Baker",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Charles Barkley*": {
         "PTS": 62,
@@ -527,9 +545,10 @@
         "VORP": 155,
         "eFG%": 130,
         "G": 328,
-        "grade": 77.5,
+        "grade": 76.57,
         "name": "Charles Barkley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dana Barros": {
         "PTS": 198,
@@ -555,9 +574,10 @@
         "VORP": 147,
         "eFG%": 53,
         "G": 173,
-        "grade": 72.91,
+        "grade": 71.36,
         "name": "Dana Barros",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brent Barry": {
         "PTS": 103,
@@ -583,9 +603,10 @@
         "VORP": 40,
         "eFG%": 4,
         "G": 96,
-        "grade": 87.14,
+        "grade": 87.52,
         "name": "Brent Barry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jon Barry": {
         "PTS": 173,
@@ -611,9 +632,10 @@
         "VORP": 88,
         "eFG%": 11,
         "G": 223,
-        "grade": 81.63,
+        "grade": 81.27,
         "name": "Jon Barry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tony Battie": {
         "PTS": 218,
@@ -639,9 +661,10 @@
         "VORP": 206,
         "eFG%": 168,
         "G": 49,
-        "grade": 72.26,
+        "grade": 70.62,
         "name": "Tony Battie",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Corey Benjamin": {
         "PTS": 179,
@@ -667,9 +690,10 @@
         "VORP": 315,
         "eFG%": 216,
         "G": 270,
-        "grade": 59.33,
+        "grade": 55.92,
         "name": "Corey Benjamin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Travis Best": {
         "PTS": 145,
@@ -695,9 +719,10 @@
         "VORP": 107,
         "eFG%": 60,
         "G": 48,
-        "grade": 81.55,
+        "grade": 81.17,
         "name": "Travis Best",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mike Bibby": {
         "PTS": 61,
@@ -723,9 +748,10 @@
         "VORP": 58,
         "eFG%": 148,
         "G": 47,
-        "grade": 80.96,
+        "grade": 80.51,
         "name": "Mike Bibby",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chauncey Billups": {
         "PTS": 155,
@@ -751,9 +777,10 @@
         "VORP": 241,
         "eFG%": 338,
         "G": 338,
-        "grade": 61.16,
+        "grade": 58.0,
         "name": "Chauncey Billups",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mookie Blaylock": {
         "PTS": 110,
@@ -779,9 +806,10 @@
         "VORP": 68,
         "eFG%": 235,
         "G": 162,
-        "grade": 74.23,
+        "grade": 72.85,
         "name": "Mookie Blaylock",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Corie Blount": {
         "PTS": 331,
@@ -807,9 +835,10 @@
         "VORP": 293,
         "eFG%": 116,
         "G": 288,
-        "grade": 58.88,
+        "grade": 55.4,
         "name": "Corie Blount",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Muggsy Bogues": {
         "PTS": 275,
@@ -835,9 +864,10 @@
         "VORP": 205,
         "eFG%": 205,
         "G": 95,
-        "grade": 69.84,
+        "grade": 67.87,
         "name": "Muggsy Bogues",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Etdrick Bohannon": {
         "PTS": 337,
@@ -863,9 +893,10 @@
         "VORP": 264,
         "eFG%": 24,
         "G": 342,
-        "grade": 59.54,
+        "grade": 56.16,
         "name": "Etdrick Bohannon",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Calvin Booth": {
         "PTS": 310,
@@ -891,9 +922,10 @@
         "VORP": 263,
         "eFG%": 342,
         "G": 341,
-        "grade": 54.17,
+        "grade": 50.06,
         "name": "Calvin Booth",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bruce Bowen": {
         "PTS": 274,
@@ -919,9 +951,10 @@
         "VORP": 240,
         "eFG%": 135,
         "G": 308,
-        "grade": 60.56,
+        "grade": 57.31,
         "name": "Bruce Bowen",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ryan Bowen": {
         "PTS": 335,
@@ -947,9 +980,10 @@
         "VORP": 187,
         "eFG%": 331,
         "G": 259,
-        "grade": 60.47,
+        "grade": 57.22,
         "name": "Ryan Bowen",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Earl Boykins": {
         "PTS": 267,
@@ -975,9 +1009,10 @@
         "VORP": 174,
         "eFG%": 74,
         "G": 313,
-        "grade": 72.08,
+        "grade": 70.41,
         "name": "Earl Boykins",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shawn Bradley": {
         "PTS": 160,
@@ -1003,9 +1038,10 @@
         "VORP": 94,
         "eFG%": 163,
         "G": 125,
-        "grade": 79.34,
+        "grade": 78.66,
         "name": "Shawn Bradley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Elton Brand": {
         "PTS": 21,
@@ -1031,9 +1067,10 @@
         "VORP": 43,
         "eFG%": 154,
         "G": 79,
-        "grade": 84.24,
+        "grade": 84.23,
         "name": "Elton Brand",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Terrell Brandon": {
         "PTS": 41,
@@ -1059,9 +1096,10 @@
         "VORP": 17,
         "eFG%": 126,
         "G": 182,
-        "grade": 89.0,
+        "grade": 89.64,
         "name": "Terrell Brandon",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chucky Brown": {
         "PTS": 295,
@@ -1087,9 +1125,10 @@
         "VORP": 305,
         "eFG%": 272,
         "G": 295,
-        "grade": 55.12,
+        "grade": 51.13,
         "name": "Chucky Brown",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dee Brown": {
         "PTS": 205,
@@ -1115,9 +1154,10 @@
         "VORP": 186,
         "eFG%": 131,
         "G": 287,
-        "grade": 62.59,
+        "grade": 59.63,
         "name": "Dee Brown",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "P.J. Brown": {
         "PTS": 134,
@@ -1143,9 +1183,10 @@
         "VORP": 93,
         "eFG%": 162,
         "G": 94,
-        "grade": 79.95,
+        "grade": 79.36,
         "name": "P.J. Brown",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Randy Brown": {
         "PTS": 228,
@@ -1171,9 +1212,10 @@
         "VORP": 340,
         "eFG%": 339,
         "G": 233,
-        "grade": 59.51,
+        "grade": 56.13,
         "name": "Randy Brown",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kobe Bryant*": {
         "PTS": 13,
@@ -1199,9 +1241,10 @@
         "VORP": 13,
         "eFG%": 134,
         "G": 209,
-        "grade": 91.2,
+        "grade": 92.15,
         "name": "Kobe Bryant",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mark Bryant": {
         "PTS": 253,
@@ -1227,9 +1270,10 @@
         "VORP": 329,
         "eFG%": 95,
         "G": 142,
-        "grade": 66.79,
+        "grade": 64.4,
         "name": "Mark Bryant",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Greg Buckner": {
         "PTS": 252,
@@ -1255,9 +1299,10 @@
         "VORP": 216,
         "eFG%": 110,
         "G": 269,
-        "grade": 69.05,
+        "grade": 66.97,
         "name": "Greg Buckner",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jud Buechler": {
         "PTS": 341,
@@ -1283,9 +1328,10 @@
         "VORP": 204,
         "eFG%": 318,
         "G": 240,
-        "grade": 56.7,
+        "grade": 52.93,
         "name": "Jud Buechler",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rodney Buford": {
         "PTS": 298,
@@ -1311,9 +1357,10 @@
         "VORP": 262,
         "eFG%": 280,
         "G": 292,
-        "grade": 56.81,
+        "grade": 53.05,
         "name": "Rodney Buford",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Matt Bullard": {
         "PTS": 207,
@@ -1339,9 +1386,10 @@
         "VORP": 173,
         "eFG%": 44,
         "G": 247,
-        "grade": 67.58,
+        "grade": 65.29,
         "name": "Matt Bullard",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Scott Burrell": {
         "PTS": 240,
@@ -1367,9 +1415,10 @@
         "VORP": 124,
         "eFG%": 125,
         "G": 155,
-        "grade": 73.26,
+        "grade": 71.75,
         "name": "Scott Burrell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jason Caffey": {
         "PTS": 97,
@@ -1395,9 +1444,10 @@
         "VORP": 339,
         "eFG%": 164,
         "G": 181,
-        "grade": 66.64,
+        "grade": 64.22,
         "name": "Jason Caffey",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Cage": {
         "PTS": 344,
@@ -1423,9 +1473,10 @@
         "VORP": 215,
         "eFG%": 107,
         "G": 327,
-        "grade": 66.4,
+        "grade": 63.95,
         "name": "Michael Cage",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Marcus Camby": {
         "PTS": 124,
@@ -1451,9 +1502,10 @@
         "VORP": 72,
         "eFG%": 157,
         "G": 232,
-        "grade": 82.74,
+        "grade": 82.53,
         "name": "Marcus Camby",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Elden Campbell": {
         "PTS": 82,
@@ -1479,9 +1531,10 @@
         "VORP": 146,
         "eFG%": 249,
         "G": 119,
-        "grade": 75.77,
+        "grade": 74.6,
         "name": "Elden Campbell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Antoine Carr": {
         "PTS": 323,
@@ -1507,9 +1560,10 @@
         "VORP": 292,
         "eFG%": 271,
         "G": 324,
-        "grade": 52.93,
+        "grade": 48.65,
         "name": "Antoine Carr",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Carr": {
         "PTS": 131,
@@ -1535,9 +1589,10 @@
         "VORP": 319,
         "eFG%": 282,
         "G": 266,
-        "grade": 61.55,
+        "grade": 58.44,
         "name": "Chris Carr",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anthony Carter": {
         "PTS": 235,
@@ -1563,9 +1618,10 @@
         "VORP": 314,
         "eFG%": 329,
         "G": 111,
-        "grade": 62.68,
+        "grade": 59.72,
         "name": "Anthony Carter",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vince Carter": {
         "PTS": 4,
@@ -1591,9 +1647,10 @@
         "VORP": 5,
         "eFG%": 122,
         "G": 46,
-        "grade": 91.21,
+        "grade": 92.15,
         "name": "Vince Carter",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sam Cassell": {
         "PTS": 29,
@@ -1619,9 +1676,10 @@
         "VORP": 31,
         "eFG%": 171,
         "G": 78,
-        "grade": 84.97,
+        "grade": 85.07,
         "name": "Sam Cassell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kelvin Cato": {
         "PTS": 151,
@@ -1647,9 +1705,10 @@
         "VORP": 145,
         "eFG%": 27,
         "G": 213,
-        "grade": 76.92,
+        "grade": 75.92,
         "name": "Kelvin Cato",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Cedric Ceballos": {
         "PTS": 47,
@@ -1675,9 +1734,10 @@
         "VORP": 165,
         "eFG%": 195,
         "G": 191,
-        "grade": 77.0,
+        "grade": 76.01,
         "name": "Cedric Ceballos",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "John Celestand": {
         "PTS": 339,
@@ -1703,9 +1763,10 @@
         "VORP": 304,
         "eFG%": 340,
         "G": 335,
-        "grade": 51.36,
+        "grade": 46.86,
         "name": "John Celestand",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rex Chapman": {
         "PTS": 217,
@@ -1731,9 +1792,10 @@
         "VORP": 261,
         "eFG%": 234,
         "G": 257,
-        "grade": 60.22,
+        "grade": 56.93,
         "name": "Rex Chapman",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Calbert Cheaney": {
         "PTS": 305,
@@ -1759,9 +1821,10 @@
         "VORP": 326,
         "eFG%": 185,
         "G": 203,
-        "grade": 58.93,
+        "grade": 55.47,
         "name": "Calbert Cheaney",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Pete Chilcutt": {
         "PTS": 327,
@@ -1787,9 +1850,10 @@
         "VORP": 239,
         "eFG%": 34,
         "G": 316,
-        "grade": 65.14,
+        "grade": 62.52,
         "name": "Pete Chilcutt",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Childs": {
         "PTS": 266,
@@ -1815,9 +1879,10 @@
         "VORP": 291,
         "eFG%": 209,
         "G": 180,
-        "grade": 64.0,
+        "grade": 61.23,
         "name": "Chris Childs",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Doug Christie": {
         "PTS": 89,
@@ -1843,9 +1908,10 @@
         "VORP": 63,
         "eFG%": 191,
         "G": 161,
-        "grade": 80.91,
+        "grade": 80.45,
         "name": "Doug Christie",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Keon Clark": {
         "PTS": 154,
@@ -1871,9 +1937,10 @@
         "VORP": 139,
         "eFG%": 22,
         "G": 77,
-        "grade": 79.38,
+        "grade": 78.7,
         "name": "Keon Clark",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Keith Closs": {
         "PTS": 300,
@@ -1899,9 +1966,10 @@
         "VORP": 238,
         "eFG%": 138,
         "G": 242,
-        "grade": 63.0,
+        "grade": 60.09,
         "name": "Keith Closs",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Derrick Coleman": {
         "PTS": 45,
@@ -1927,9 +1995,10 @@
         "VORP": 52,
         "eFG%": 153,
         "G": 154,
-        "grade": 85.33,
+        "grade": 85.48,
         "name": "Derrick Coleman",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bimbo Coles": {
         "PTS": 168,
@@ -1955,9 +2024,10 @@
         "VORP": 260,
         "eFG%": 208,
         "G": 93,
-        "grade": 68.08,
+        "grade": 65.86,
         "name": "Bimbo Coles",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tyrone Corbin": {
         "PTS": 302,
@@ -1983,9 +2053,10 @@
         "VORP": 290,
         "eFG%": 336,
         "G": 254,
-        "grade": 57.98,
+        "grade": 54.38,
         "name": "Tyrone Corbin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Crawford": {
         "PTS": 289,
@@ -2011,9 +2082,10 @@
         "VORP": 289,
         "eFG%": 314,
         "G": 251,
-        "grade": 56.8,
+        "grade": 53.04,
         "name": "Chris Crawford",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Austin Croshere": {
         "PTS": 121,
@@ -2039,9 +2111,10 @@
         "VORP": 100,
         "eFG%": 132,
         "G": 76,
-        "grade": 81.6,
+        "grade": 81.23,
         "name": "Austin Croshere",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "John Crotty": {
         "PTS": 286,
@@ -2067,9 +2140,10 @@
         "VORP": 203,
         "eFG%": 133,
         "G": 190,
-        "grade": 66.93,
+        "grade": 64.56,
         "name": "John Crotty",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Terry Cummings": {
         "PTS": 159,
@@ -2095,9 +2169,10 @@
         "VORP": 259,
         "eFG%": 292,
         "G": 321,
-        "grade": 62.01,
+        "grade": 58.97,
         "name": "Terry Cummings",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vonteego Cummings": {
         "PTS": 137,
@@ -2123,9 +2198,10 @@
         "VORP": 202,
         "eFG%": 264,
         "G": 141,
-        "grade": 67.07,
+        "grade": 64.71,
         "name": "Vonteego Cummings",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bill Curley": {
         "PTS": 333,
@@ -2151,9 +2227,10 @@
         "VORP": 303,
         "eFG%": 324,
         "G": 315,
-        "grade": 50.9,
+        "grade": 46.33,
         "name": "Bill Curley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dell Curry": {
         "PTS": 185,
@@ -2179,9 +2256,10 @@
         "VORP": 138,
         "eFG%": 33,
         "G": 202,
-        "grade": 71.2,
+        "grade": 69.41,
         "name": "Dell Curry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Curry": {
         "PTS": 239,
@@ -2207,9 +2285,10 @@
         "VORP": 335,
         "eFG%": 152,
         "G": 45,
-        "grade": 64.33,
+        "grade": 61.6,
         "name": "Michael Curry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Erick Dampier": {
         "PTS": 172,
@@ -2235,9 +2314,10 @@
         "VORP": 325,
         "eFG%": 322,
         "G": 323,
-        "grade": 55.3,
+        "grade": 51.34,
         "name": "Erick Dampier",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Antonio Daniels": {
         "PTS": 238,
@@ -2263,9 +2343,10 @@
         "VORP": 123,
         "eFG%": 87,
         "G": 197,
-        "grade": 75.44,
+        "grade": 74.22,
         "name": "Antonio Daniels",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Antonio Davis": {
         "PTS": 108,
@@ -2291,9 +2372,10 @@
         "VORP": 237,
         "eFG%": 269,
         "G": 110,
-        "grade": 73.68,
+        "grade": 72.23,
         "name": "Antonio Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Baron Davis": {
         "PTS": 246,
@@ -2319,9 +2401,10 @@
         "VORP": 164,
         "eFG%": 241,
         "G": 44,
-        "grade": 68.83,
+        "grade": 66.71,
         "name": "Baron Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dale Davis": {
         "PTS": 127,
@@ -2347,9 +2430,10 @@
         "VORP": 87,
         "eFG%": 99,
         "G": 153,
-        "grade": 81.15,
+        "grade": 80.73,
         "name": "Dale Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Emanual Davis": {
         "PTS": 304,
@@ -2375,9 +2459,10 @@
         "VORP": 236,
         "eFG%": 279,
         "G": 253,
-        "grade": 58.33,
+        "grade": 54.78,
         "name": "Emanual Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Hubert Davis": {
         "PTS": 188,
@@ -2403,9 +2488,10 @@
         "VORP": 235,
         "eFG%": 13,
         "G": 109,
-        "grade": 69.41,
+        "grade": 67.38,
         "name": "Hubert Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mark Davis": {
         "PTS": 237,
@@ -2431,9 +2517,10 @@
         "VORP": 302,
         "eFG%": 319,
         "G": 319,
-        "grade": 55.94,
+        "grade": 52.07,
         "name": "Mark Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ricky Davis": {
         "PTS": 285,
@@ -2459,9 +2546,10 @@
         "VORP": 201,
         "eFG%": 94,
         "G": 268,
-        "grade": 68.69,
+        "grade": 66.56,
         "name": "Ricky Davis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Todd Day": {
         "PTS": 206,
@@ -2487,9 +2575,10 @@
         "VORP": 154,
         "eFG%": 129,
         "G": 239,
-        "grade": 70.61,
+        "grade": 68.73,
         "name": "Todd Day",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Andrew DeClercq": {
         "PTS": 216,
@@ -2515,9 +2604,10 @@
         "VORP": 288,
         "eFG%": 77,
         "G": 43,
-        "grade": 70.56,
+        "grade": 68.69,
         "name": "Andrew DeClercq",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vinny Del Negro": {
         "PTS": 269,
@@ -2543,9 +2633,10 @@
         "VORP": 234,
         "eFG%": 147,
         "G": 201,
-        "grade": 65.29,
+        "grade": 62.69,
         "name": "Vinny Del Negro",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tony Delk": {
         "PTS": 227,
@@ -2571,9 +2662,10 @@
         "VORP": 185,
         "eFG%": 248,
         "G": 274,
-        "grade": 66.52,
+        "grade": 64.1,
         "name": "Tony Delk",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Dickerson": {
         "PTS": 32,
@@ -2599,9 +2691,10 @@
         "VORP": 79,
         "eFG%": 146,
         "G": 42,
-        "grade": 81.37,
+        "grade": 80.97,
         "name": "Michael Dickerson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vlade Divac*": {
         "PTS": 91,
@@ -2627,9 +2720,10 @@
         "VORP": 34,
         "eFG%": 82,
         "G": 41,
-        "grade": 87.88,
+        "grade": 88.37,
         "name": "Vlade Divac",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Doleac": {
         "PTS": 202,
@@ -2655,9 +2749,10 @@
         "VORP": 287,
         "eFG%": 232,
         "G": 75,
-        "grade": 70.43,
+        "grade": 68.53,
         "name": "Michael Doleac",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sherman Douglas": {
         "PTS": 244,
@@ -2683,9 +2778,10 @@
         "VORP": 200,
         "eFG%": 39,
         "G": 326,
-        "grade": 71.89,
+        "grade": 70.2,
         "name": "Sherman Douglas",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bryce Drew": {
         "PTS": 247,
@@ -2711,9 +2807,10 @@
         "VORP": 258,
         "eFG%": 230,
         "G": 172,
-        "grade": 61.96,
+        "grade": 58.91,
         "name": "Bryce Drew",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tim Duncan*": {
         "PTS": 9,
@@ -2739,9 +2836,10 @@
         "VORP": 7,
         "eFG%": 128,
         "G": 152,
-        "grade": 91.26,
+        "grade": 92.21,
         "name": "Tim Duncan",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Howard Eisley": {
         "PTS": 153,
@@ -2767,9 +2865,10 @@
         "VORP": 199,
         "eFG%": 204,
         "G": 40,
-        "grade": 70.27,
+        "grade": 68.36,
         "name": "Howard Eisley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mario Elie": {
         "PTS": 187,
@@ -2795,9 +2894,10 @@
         "VORP": 122,
         "eFG%": 76,
         "G": 108,
-        "grade": 75.65,
+        "grade": 74.47,
         "name": "Mario Elie",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sean Elliott": {
         "PTS": 243,
@@ -2823,9 +2923,10 @@
         "VORP": 257,
         "eFG%": 306,
         "G": 330,
-        "grade": 59.12,
+        "grade": 55.68,
         "name": "Sean Elliott",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dale Ellis": {
         "PTS": 338,
@@ -2851,9 +2952,10 @@
         "VORP": 286,
         "eFG%": 245,
         "G": 314,
-        "grade": 50.74,
+        "grade": 46.15,
         "name": "Dale Ellis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "LaPhonso Ellis": {
         "PTS": 158,
@@ -2879,9 +2981,10 @@
         "VORP": 233,
         "eFG%": 229,
         "G": 238,
-        "grade": 66.71,
+        "grade": 64.3,
         "name": "LaPhonso Ellis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Evan Eschmeyer": {
         "PTS": 328,
@@ -2907,9 +3010,10 @@
         "VORP": 256,
         "eFG%": 38,
         "G": 301,
-        "grade": 63.09,
+        "grade": 60.2,
         "name": "Evan Eschmeyer",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Patrick Ewing*": {
         "PTS": 58,
@@ -2935,9 +3039,10 @@
         "VORP": 129,
         "eFG%": 199,
         "G": 222,
-        "grade": 77.79,
+        "grade": 76.91,
         "name": "Patrick Ewing",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tony Farmer": {
         "PTS": 234,
@@ -2963,9 +3068,10 @@
         "VORP": 163,
         "eFG%": 305,
         "G": 151,
-        "grade": 69.67,
+        "grade": 67.68,
         "name": "Tony Farmer",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jamie Feick": {
         "PTS": 251,
@@ -2991,9 +3097,10 @@
         "VORP": 285,
         "eFG%": 285,
         "G": 74,
-        "grade": 68.88,
+        "grade": 66.77,
         "name": "Jamie Feick",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Danny Ferry": {
         "PTS": 193,
@@ -3019,9 +3126,10 @@
         "VORP": 198,
         "eFG%": 23,
         "G": 217,
-        "grade": 74.31,
+        "grade": 72.95,
         "name": "Danny Ferry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Finley": {
         "PTS": 12,
@@ -3047,9 +3155,10 @@
         "VORP": 23,
         "eFG%": 137,
         "G": 39,
-        "grade": 87.71,
+        "grade": 88.18,
         "name": "Michael Finley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Derek Fisher": {
         "PTS": 233,
@@ -3075,9 +3184,10 @@
         "VORP": 197,
         "eFG%": 327,
         "G": 118,
-        "grade": 64.55,
+        "grade": 61.85,
         "name": "Derek Fisher",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Danny Fortson": {
         "PTS": 184,
@@ -3103,9 +3213,10 @@
         "VORP": 196,
         "eFG%": 37,
         "G": 250,
-        "grade": 73.91,
+        "grade": 72.49,
         "name": "Danny Fortson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Greg Foster": {
         "PTS": 319,
@@ -3131,9 +3242,10 @@
         "VORP": 324,
         "eFG%": 313,
         "G": 231,
-        "grade": 52.56,
+        "grade": 48.22,
         "name": "Greg Foster",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rick Fox": {
         "PTS": 222,
@@ -3159,9 +3271,10 @@
         "VORP": 162,
         "eFG%": 184,
         "G": 38,
-        "grade": 71.26,
+        "grade": 69.47,
         "name": "Rick Fox",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Adonal Foyle": {
         "PTS": 258,
@@ -3187,9 +3300,10 @@
         "VORP": 313,
         "eFG%": 75,
         "G": 134,
-        "grade": 65.9,
+        "grade": 63.38,
         "name": "Adonal Foyle",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Steve Francis": {
         "PTS": 34,
@@ -3215,9 +3329,10 @@
         "VORP": 36,
         "eFG%": 121,
         "G": 124,
-        "grade": 85.99,
+        "grade": 86.22,
         "name": "Steve Francis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Lawrence Funderburke": {
         "PTS": 226,
@@ -3243,9 +3358,10 @@
         "VORP": 137,
         "eFG%": 46,
         "G": 140,
-        "grade": 75.01,
+        "grade": 73.74,
         "name": "Lawrence Funderburke",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kevin Garnett*": {
         "PTS": 10,
@@ -3271,9 +3387,10 @@
         "VORP": 4,
         "eFG%": 81,
         "G": 73,
-        "grade": 94.05,
+        "grade": 95.39,
         "name": "Kevin Garnett",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dean Garrett": {
         "PTS": 343,
@@ -3299,9 +3416,10 @@
         "VORP": 284,
         "eFG%": 256,
         "G": 246,
-        "grade": 57.5,
+        "grade": 53.84,
         "name": "Dean Garrett",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Pat Garrity": {
         "PTS": 164,
@@ -3327,9 +3445,10 @@
         "VORP": 195,
         "eFG%": 73,
         "G": 37,
-        "grade": 70.27,
+        "grade": 68.35,
         "name": "Pat Garrity",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Gatling": {
         "PTS": 118,
@@ -3355,9 +3474,10 @@
         "VORP": 194,
         "eFG%": 190,
         "G": 285,
-        "grade": 71.55,
+        "grade": 69.81,
         "name": "Chris Gatling",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Matt Geiger": {
         "PTS": 132,
@@ -3383,9 +3503,10 @@
         "VORP": 318,
         "eFG%": 267,
         "G": 212,
-        "grade": 65.46,
+        "grade": 62.88,
         "name": "Matt Geiger",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kendall Gill": {
         "PTS": 77,
@@ -3411,9 +3532,10 @@
         "VORP": 106,
         "eFG%": 297,
         "G": 133,
-        "grade": 74.69,
+        "grade": 73.38,
         "name": "Kendall Gill",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Armen Gilliam": {
         "PTS": 212,
@@ -3439,9 +3561,10 @@
         "VORP": 283,
         "eFG%": 275,
         "G": 265,
-        "grade": 62.1,
+        "grade": 59.06,
         "name": "Armen Gilliam",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dion Glover": {
         "PTS": 221,
@@ -3467,9 +3590,10 @@
         "VORP": 255,
         "eFG%": 303,
         "G": 303,
-        "grade": 57.7,
+        "grade": 54.06,
         "name": "Dion Glover",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brian Grant": {
         "PTS": 192,
@@ -3495,9 +3619,10 @@
         "VORP": 172,
         "eFG%": 120,
         "G": 216,
-        "grade": 74.87,
+        "grade": 73.58,
         "name": "Brian Grant",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Horace Grant": {
         "PTS": 167,
@@ -3523,9 +3648,10 @@
         "VORP": 128,
         "eFG%": 255,
         "G": 132,
-        "grade": 73.02,
+        "grade": 71.48,
         "name": "Horace Grant",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "A.C. Green": {
         "PTS": 278,
@@ -3551,9 +3677,10 @@
         "VORP": 136,
         "eFG%": 244,
         "G": 36,
-        "grade": 70.84,
+        "grade": 69.0,
         "name": "A.C. Green",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Adrian Griffin": {
         "PTS": 211,
@@ -3579,9 +3706,10 @@
         "VORP": 99,
         "eFG%": 262,
         "G": 171,
-        "grade": 73.39,
+        "grade": 71.9,
         "name": "Adrian Griffin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tom Gugliotta": {
         "PTS": 70,
@@ -3607,9 +3735,10 @@
         "VORP": 86,
         "eFG%": 156,
         "G": 252,
-        "grade": 82.86,
+        "grade": 82.66,
         "name": "Tom Gugliotta",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Darvin Ham": {
         "PTS": 273,
@@ -3635,9 +3764,10 @@
         "VORP": 171,
         "eFG%": 14,
         "G": 290,
-        "grade": 71.77,
+        "grade": 70.06,
         "name": "Darvin Ham",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Richard Hamilton": {
         "PTS": 142,
@@ -3663,9 +3793,10 @@
         "VORP": 323,
         "eFG%": 261,
         "G": 179,
-        "grade": 61.22,
+        "grade": 58.07,
         "name": "Richard Hamilton",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Thomas Hamilton": {
         "PTS": 313,
@@ -3691,9 +3822,10 @@
         "VORP": 254,
         "eFG%": 260,
         "G": 320,
-        "grade": 56.0,
+        "grade": 52.14,
         "name": "Thomas Hamilton",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anfernee Hardaway": {
         "PTS": 42,
@@ -3719,9 +3851,10 @@
         "VORP": 30,
         "eFG%": 115,
         "G": 230,
-        "grade": 88.86,
+        "grade": 89.48,
         "name": "Anfernee Hardaway",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tim Hardaway*": {
         "PTS": 73,
@@ -3747,9 +3880,10 @@
         "VORP": 78,
         "eFG%": 215,
         "G": 258,
-        "grade": 76.55,
+        "grade": 75.49,
         "name": "Tim Hardaway",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ron Harper": {
         "PTS": 201,
@@ -3775,9 +3909,10 @@
         "VORP": 98,
         "eFG%": 289,
         "G": 92,
-        "grade": 72.22,
+        "grade": 70.57,
         "name": "Ron Harper",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Al Harrington": {
         "PTS": 215,
@@ -3803,9 +3938,10 @@
         "VORP": 301,
         "eFG%": 183,
         "G": 264,
-        "grade": 63.01,
+        "grade": 60.1,
         "name": "Al Harrington",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Othella Harrington": {
         "PTS": 76,
@@ -3831,9 +3967,10 @@
         "VORP": 338,
         "eFG%": 86,
         "G": 35,
-        "grade": 73.63,
+        "grade": 72.18,
         "name": "Othella Harrington",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Lucious Harris": {
         "PTS": 210,
@@ -3859,9 +3996,10 @@
         "VORP": 153,
         "eFG%": 194,
         "G": 123,
-        "grade": 69.69,
+        "grade": 67.69,
         "name": "Lucious Harris",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Hersey Hawkins": {
         "PTS": 176,
@@ -3887,9 +4025,10 @@
         "VORP": 184,
         "eFG%": 113,
         "G": 226,
-        "grade": 72.54,
+        "grade": 70.93,
         "name": "Hersey Hawkins",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Alan Henderson": {
         "PTS": 75,
@@ -3915,9 +4054,10 @@
         "VORP": 183,
         "eFG%": 203,
         "G": 34,
-        "grade": 74.68,
+        "grade": 73.37,
         "name": "Alan Henderson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Cedric Henderson": {
         "PTS": 261,
@@ -3943,9 +4083,10 @@
         "VORP": 334,
         "eFG%": 330,
         "G": 225,
-        "grade": 54.75,
+        "grade": 50.72,
         "name": "Cedric Henderson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Herren": {
         "PTS": 325,
@@ -3971,9 +4112,10 @@
         "VORP": 300,
         "eFG%": 213,
         "G": 276,
-        "grade": 54.71,
+        "grade": 50.67,
         "name": "Chris Herren",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Grant Hill*": {
         "PTS": 3,
@@ -3999,9 +4141,10 @@
         "VORP": 9,
         "eFG%": 102,
         "G": 150,
-        "grade": 91.54,
+        "grade": 92.53,
         "name": "Grant Hill",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tyrone Hill": {
         "PTS": 96,
@@ -4027,9 +4170,10 @@
         "VORP": 182,
         "eFG%": 142,
         "G": 196,
-        "grade": 76.14,
+        "grade": 75.03,
         "name": "Tyrone Hill",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Fred Hoiberg": {
         "PTS": 141,
@@ -4055,9 +4199,10 @@
         "VORP": 181,
         "eFG%": 221,
         "G": 300,
-        "grade": 70.73,
+        "grade": 68.88,
         "name": "Fred Hoiberg",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jeff Hornacek": {
         "PTS": 88,
@@ -4083,9 +4228,10 @@
         "VORP": 57,
         "eFG%": 26,
         "G": 122,
-        "grade": 85.45,
+        "grade": 85.61,
         "name": "Jeff Hornacek",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Robert Horry": {
         "PTS": 250,
@@ -4111,9 +4257,10 @@
         "VORP": 51,
         "eFG%": 167,
         "G": 131,
-        "grade": 79.86,
+        "grade": 79.25,
         "name": "Robert Horry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Allan Houston": {
         "PTS": 22,
@@ -4139,9 +4286,10 @@
         "VORP": 33,
         "eFG%": 43,
         "G": 33,
-        "grade": 88.0,
+        "grade": 88.5,
         "name": "Allan Houston",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Juwan Howard": {
         "PTS": 60,
@@ -4167,9 +4315,10 @@
         "VORP": 322,
         "eFG%": 214,
         "G": 32,
-        "grade": 70.08,
+        "grade": 68.13,
         "name": "Juwan Howard",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Troy Hudson": {
         "PTS": 148,
@@ -4195,9 +4344,10 @@
         "VORP": 321,
         "eFG%": 281,
         "G": 221,
-        "grade": 60.46,
+        "grade": 57.2,
         "name": "Troy Hudson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Larry Hughes": {
         "PTS": 11,
@@ -4223,9 +4373,10 @@
         "VORP": 193,
         "eFG%": 326,
         "G": 298,
-        "grade": 69.74,
+        "grade": 67.76,
         "name": "Larry Hughes",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rick Hughes": {
         "PTS": 307,
@@ -4251,9 +4402,10 @@
         "VORP": 282,
         "eFG%": 141,
         "G": 322,
-        "grade": 55.4,
+        "grade": 51.45,
         "name": "Rick Hughes",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Lindsey Hunter": {
         "PTS": 81,
@@ -4279,9 +4431,10 @@
         "VORP": 59,
         "eFG%": 51,
         "G": 31,
-        "grade": 80.81,
+        "grade": 80.33,
         "name": "Lindsey Hunter",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Allen Iverson*": {
         "PTS": 2,
@@ -4307,9 +4460,10 @@
         "VORP": 21,
         "eFG%": 247,
         "G": 185,
-        "grade": 82.11,
+        "grade": 81.81,
         "name": "Allen Iverson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bobby Jackson": {
         "PTS": 272,
@@ -4335,9 +4489,10 @@
         "VORP": 152,
         "eFG%": 300,
         "G": 160,
-        "grade": 67.66,
+        "grade": 65.39,
         "name": "Bobby Jackson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jaren Jackson": {
         "PTS": 232,
@@ -4363,9 +4518,10 @@
         "VORP": 151,
         "eFG%": 124,
         "G": 72,
-        "grade": 67.89,
+        "grade": 65.64,
         "name": "Jaren Jackson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jim Jackson": {
         "PTS": 44,
@@ -4391,9 +4547,10 @@
         "VORP": 135,
         "eFG%": 219,
         "G": 107,
-        "grade": 74.04,
+        "grade": 72.64,
         "name": "Jim Jackson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mark Jackson": {
         "PTS": 166,
@@ -4419,9 +4576,10 @@
         "VORP": 35,
         "eFG%": 70,
         "G": 71,
-        "grade": 82.26,
+        "grade": 81.98,
         "name": "Mark Jackson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sam Jacobson": {
         "PTS": 277,
@@ -4447,9 +4605,10 @@
         "VORP": 299,
         "eFG%": 36,
         "G": 267,
-        "grade": 64.19,
+        "grade": 61.45,
         "name": "Sam Jacobson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Antawn Jamison": {
         "PTS": 23,
@@ -4475,9 +4634,10 @@
         "VORP": 192,
         "eFG%": 189,
         "G": 281,
-        "grade": 72.3,
+        "grade": 70.66,
         "name": "Antawn Jamison",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anthony Johnson": {
         "PTS": 318,
@@ -4503,9 +4663,10 @@
         "VORP": 232,
         "eFG%": 278,
         "G": 331,
-        "grade": 55.51,
+        "grade": 51.58,
         "name": "Anthony Johnson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Avery Johnson": {
         "PTS": 111,
@@ -4531,9 +4692,10 @@
         "VORP": 85,
         "eFG%": 180,
         "G": 30,
-        "grade": 78.56,
+        "grade": 77.77,
         "name": "Avery Johnson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ervin Johnson": {
         "PTS": 284,
@@ -4559,9 +4721,10 @@
         "VORP": 127,
         "eFG%": 57,
         "G": 91,
-        "grade": 76.7,
+        "grade": 75.66,
         "name": "Ervin Johnson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Larry Johnson": {
         "PTS": 116,
@@ -4587,9 +4750,10 @@
         "VORP": 77,
         "eFG%": 170,
         "G": 184,
-        "grade": 76.54,
+        "grade": 75.48,
         "name": "Larry Johnson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Charles Jones": {
         "PTS": 317,
@@ -4615,9 +4779,10 @@
         "VORP": 253,
         "eFG%": 296,
         "G": 245,
-        "grade": 55.43,
+        "grade": 51.49,
         "name": "Charles Jones",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Eddie Jones": {
         "PTS": 20,
@@ -4643,9 +4808,10 @@
         "VORP": 12,
         "eFG%": 144,
         "G": 170,
-        "grade": 90.12,
+        "grade": 90.92,
         "name": "Eddie Jones",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shawn Kemp": {
         "PTS": 36,
@@ -4671,9 +4837,10 @@
         "VORP": 231,
         "eFG%": 307,
         "G": 29,
-        "grade": 76.03,
+        "grade": 74.9,
         "name": "Shawn Kemp",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jerome Kersey": {
         "PTS": 292,
@@ -4699,9 +4866,10 @@
         "VORP": 150,
         "eFG%": 315,
         "G": 169,
-        "grade": 64.16,
+        "grade": 61.41,
         "name": "Jerome Kersey",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jason Kidd*": {
         "PTS": 63,
@@ -4727,9 +4895,10 @@
         "VORP": 16,
         "eFG%": 263,
         "G": 200,
-        "grade": 85.54,
+        "grade": 85.71,
         "name": "Jason Kidd",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Gerard King": {
         "PTS": 265,
@@ -4755,9 +4924,10 @@
         "VORP": 180,
         "eFG%": 98,
         "G": 220,
-        "grade": 69.09,
+        "grade": 67.02,
         "name": "Gerard King",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kerry Kittles": {
         "PTS": 78,
@@ -4783,9 +4953,10 @@
         "VORP": 71,
         "eFG%": 85,
         "G": 219,
-        "grade": 80.67,
+        "grade": 80.17,
         "name": "Kerry Kittles",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brevin Knight": {
         "PTS": 138,
@@ -4811,9 +4982,10 @@
         "VORP": 121,
         "eFG%": 310,
         "G": 211,
-        "grade": 72.32,
+        "grade": 70.69,
         "name": "Brevin Knight",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Toni Kukoč*": {
         "PTS": 87,
@@ -4839,9 +5011,10 @@
         "VORP": 111,
         "eFG%": 176,
         "G": 297,
-        "grade": 77.55,
+        "grade": 76.62,
         "name": "Toni Kukoč",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Christian Laettner": {
         "PTS": 93,
@@ -4867,9 +5040,10 @@
         "VORP": 144,
         "eFG%": 166,
         "G": 28,
-        "grade": 80.77,
+        "grade": 80.28,
         "name": "Christian Laettner",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Raef LaFrentz": {
         "PTS": 86,
@@ -4895,9 +5069,10 @@
         "VORP": 92,
         "eFG%": 161,
         "G": 70,
-        "grade": 79.89,
+        "grade": 79.29,
         "name": "Raef LaFrentz",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Andrew Lang": {
         "PTS": 324,
@@ -4923,9 +5098,10 @@
         "VORP": 230,
         "eFG%": 270,
         "G": 329,
-        "grade": 57.33,
+        "grade": 53.65,
         "name": "Andrew Lang",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Trajan Langdon": {
         "PTS": 280,
@@ -4951,9 +5127,10 @@
         "VORP": 229,
         "eFG%": 179,
         "G": 344,
-        "grade": 62.69,
+        "grade": 59.74,
         "name": "Trajan Langdon",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tim Legler": {
         "PTS": 321,
@@ -4979,9 +5156,10 @@
         "VORP": 281,
         "eFG%": 323,
         "G": 318,
-        "grade": 51.54,
+        "grade": 47.07,
         "name": "Tim Legler",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Voshon Lenard": {
         "PTS": 100,
@@ -5007,9 +5185,10 @@
         "VORP": 134,
         "eFG%": 136,
         "G": 256,
-        "grade": 74.31,
+        "grade": 72.94,
         "name": "Voshon Lenard",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Quincy Lewis": {
         "PTS": 309,
@@ -5035,9 +5214,10 @@
         "VORP": 333,
         "eFG%": 316,
         "G": 149,
-        "grade": 54.25,
+        "grade": 50.15,
         "name": "Quincy Lewis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rashard Lewis": {
         "PTS": 163,
@@ -5063,9 +5243,10 @@
         "VORP": 120,
         "eFG%": 49,
         "G": 27,
-        "grade": 79.41,
+        "grade": 78.74,
         "name": "Rashard Lewis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Randy Livingston": {
         "PTS": 283,
@@ -5091,9 +5272,10 @@
         "VORP": 214,
         "eFG%": 266,
         "G": 106,
-        "grade": 65.49,
+        "grade": 62.92,
         "name": "Randy Livingston",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Grant Long": {
         "PTS": 282,
@@ -5119,9 +5301,10 @@
         "VORP": 213,
         "eFG%": 259,
         "G": 282,
-        "grade": 65.03,
+        "grade": 62.39,
         "name": "Grant Long",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Luc Longley": {
         "PTS": 231,
@@ -5147,9 +5330,10 @@
         "VORP": 336,
         "eFG%": 198,
         "G": 168,
-        "grade": 64.71,
+        "grade": 62.03,
         "name": "Luc Longley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Felipe López": {
         "PTS": 291,
@@ -5175,9 +5359,10 @@
         "VORP": 252,
         "eFG%": 284,
         "G": 210,
-        "grade": 58.32,
+        "grade": 54.77,
         "name": "Felipe López",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "George Lynch": {
         "PTS": 133,
@@ -5203,9 +5388,10 @@
         "VORP": 67,
         "eFG%": 182,
         "G": 139,
-        "grade": 80.11,
+        "grade": 79.54,
         "name": "George Lynch",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sam Mack": {
         "PTS": 276,
@@ -5231,9 +5417,10 @@
         "VORP": 280,
         "eFG%": 334,
         "G": 317,
-        "grade": 55.49,
+        "grade": 51.55,
         "name": "Sam Mack",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Corey Maggette": {
         "PTS": 157,
@@ -5259,9 +5446,10 @@
         "VORP": 279,
         "eFG%": 160,
         "G": 121,
-        "grade": 69.91,
+        "grade": 67.95,
         "name": "Corey Maggette",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dan Majerle": {
         "PTS": 191,
@@ -5287,9 +5475,10 @@
         "VORP": 48,
         "eFG%": 31,
         "G": 189,
-        "grade": 81.33,
+        "grade": 80.93,
         "name": "Dan Majerle",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Karl Malone*": {
         "PTS": 5,
@@ -5315,9 +5504,10 @@
         "VORP": 3,
         "eFG%": 69,
         "G": 26,
-        "grade": 93.99,
+        "grade": 95.32,
         "name": "Karl Malone",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Matt Maloney": {
         "PTS": 225,
@@ -5343,9 +5533,10 @@
         "VORP": 278,
         "eFG%": 225,
         "G": 263,
-        "grade": 60.1,
+        "grade": 56.79,
         "name": "Matt Maloney",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Danny Manning": {
         "PTS": 288,
@@ -5371,9 +5562,10 @@
         "VORP": 277,
         "eFG%": 265,
         "G": 167,
-        "grade": 61.62,
+        "grade": 58.52,
         "name": "Danny Manning",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Stephon Marbury": {
         "PTS": 14,
@@ -5399,9 +5591,10 @@
         "VORP": 29,
         "eFG%": 220,
         "G": 148,
-        "grade": 83.13,
+        "grade": 82.97,
         "name": "Stephon Marbury",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shawn Marion": {
         "PTS": 123,
@@ -5427,9 +5620,10 @@
         "VORP": 119,
         "eFG%": 175,
         "G": 262,
-        "grade": 79.99,
+        "grade": 79.4,
         "name": "Shawn Marion",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Donyell Marshall": {
         "PTS": 64,
@@ -5455,9 +5649,10 @@
         "VORP": 91,
         "eFG%": 299,
         "G": 214,
-        "grade": 77.23,
+        "grade": 76.26,
         "name": "Donyell Marshall",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Darrick Martin": {
         "PTS": 249,
@@ -5483,9 +5678,10 @@
         "VORP": 276,
         "eFG%": 277,
         "G": 178,
-        "grade": 60.81,
+        "grade": 57.6,
         "name": "Darrick Martin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jamal Mashburn": {
         "PTS": 38,
@@ -5511,9 +5707,10 @@
         "VORP": 66,
         "eFG%": 119,
         "G": 130,
-        "grade": 82.91,
+        "grade": 82.72,
         "name": "Jamal Mashburn",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anthony Mason": {
         "PTS": 106,
@@ -5539,9 +5736,10 @@
         "VORP": 50,
         "eFG%": 159,
         "G": 25,
-        "grade": 83.8,
+        "grade": 83.73,
         "name": "Anthony Mason",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tony Massenburg": {
         "PTS": 287,
@@ -5567,9 +5765,10 @@
         "VORP": 228,
         "eFG%": 254,
         "G": 343,
-        "grade": 61.91,
+        "grade": 58.86,
         "name": "Tony Massenburg",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vernon Maxwell": {
         "PTS": 114,
@@ -5595,9 +5794,10 @@
         "VORP": 227,
         "eFG%": 312,
         "G": 272,
-        "grade": 62.37,
+        "grade": 59.38,
         "name": "Vernon Maxwell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Walter McCarty": {
         "PTS": 308,
@@ -5623,9 +5823,10 @@
         "VORP": 298,
         "eFG%": 311,
         "G": 224,
-        "grade": 54.78,
+        "grade": 50.75,
         "name": "Walter McCarty",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "George McCloud": {
         "PTS": 125,
@@ -5651,9 +5852,10 @@
         "VORP": 118,
         "eFG%": 101,
         "G": 117,
-        "grade": 75.82,
+        "grade": 74.67,
         "name": "George McCloud",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jelani McCoy": {
         "PTS": 297,
@@ -5679,9 +5881,10 @@
         "VORP": 251,
         "eFG%": 5,
         "G": 237,
-        "grade": 67.42,
+        "grade": 65.12,
         "name": "Jelani McCoy",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Antonio McDyess": {
         "PTS": 27,
@@ -5707,9 +5910,10 @@
         "VORP": 62,
         "eFG%": 80,
         "G": 69,
-        "grade": 85.14,
+        "grade": 85.26,
         "name": "Antonio McDyess",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tracy McGrady*": {
         "PTS": 56,
@@ -5735,9 +5939,10 @@
         "VORP": 24,
         "eFG%": 212,
         "G": 105,
-        "grade": 85.26,
+        "grade": 85.4,
         "name": "Tracy McGrady",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jim McIlvaine": {
         "PTS": 336,
@@ -5763,9 +5968,10 @@
         "VORP": 226,
         "eFG%": 309,
         "G": 208,
-        "grade": 59.32,
+        "grade": 55.91,
         "name": "Jim McIlvaine",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jeff McInnis": {
         "PTS": 197,
@@ -5791,9 +5997,10 @@
         "VORP": 312,
         "eFG%": 240,
         "G": 312,
-        "grade": 60.26,
+        "grade": 56.98,
         "name": "Jeff McInnis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Derrick McKey": {
         "PTS": 296,
@@ -5819,9 +6026,10 @@
         "VORP": 161,
         "eFG%": 253,
         "G": 296,
-        "grade": 68.62,
+        "grade": 66.48,
         "name": "Derrick McKey",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Aaron McKie": {
         "PTS": 171,
@@ -5847,9 +6055,10 @@
         "VORP": 84,
         "eFG%": 239,
         "G": 24,
-        "grade": 76.39,
+        "grade": 75.31,
         "name": "Aaron McKie",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Roshown McLeod": {
         "PTS": 196,
@@ -5875,9 +6084,10 @@
         "VORP": 328,
         "eFG%": 328,
         "G": 279,
-        "grade": 55.18,
+        "grade": 51.21,
         "name": "Roshown McLeod",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ron Mercer": {
         "PTS": 57,
@@ -5903,9 +6113,10 @@
         "VORP": 311,
         "eFG%": 325,
         "G": 299,
-        "grade": 63.42,
+        "grade": 60.56,
         "name": "Ron Mercer",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Andre Miller": {
         "PTS": 112,
@@ -5931,9 +6142,10 @@
         "VORP": 56,
         "eFG%": 224,
         "G": 23,
-        "grade": 81.05,
+        "grade": 80.61,
         "name": "Andre Miller",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anthony Miller": {
         "PTS": 312,
@@ -5959,9 +6171,10 @@
         "VORP": 225,
         "eFG%": 29,
         "G": 289,
-        "grade": 65.61,
+        "grade": 63.05,
         "name": "Anthony Miller",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brad Miller": {
         "PTS": 178,
@@ -5987,9 +6200,10 @@
         "VORP": 160,
         "eFG%": 207,
         "G": 249,
-        "grade": 74.6,
+        "grade": 73.28,
         "name": "Brad Miller",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Oliver Miller": {
         "PTS": 230,
@@ -6015,9 +6229,10 @@
         "VORP": 110,
         "eFG%": 3,
         "G": 261,
-        "grade": 79.02,
+        "grade": 78.3,
         "name": "Oliver Miller",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Reggie Miller*": {
         "PTS": 33,
@@ -6043,9 +6258,10 @@
         "VORP": 22,
         "eFG%": 41,
         "G": 68,
-        "grade": 87.79,
+        "grade": 88.27,
         "name": "Reggie Miller",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Mills": {
         "PTS": 52,
@@ -6071,9 +6287,10 @@
         "VORP": 170,
         "eFG%": 276,
         "G": 325,
-        "grade": 71.96,
+        "grade": 70.28,
         "name": "Chris Mills",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Terry Mills": {
         "PTS": 209,
@@ -6099,9 +6316,10 @@
         "VORP": 133,
         "eFG%": 28,
         "G": 22,
-        "grade": 74.84,
+        "grade": 73.55,
         "name": "Terry Mills",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sam Mitchell": {
         "PTS": 220,
@@ -6127,9 +6345,10 @@
         "VORP": 212,
         "eFG%": 211,
         "G": 207,
-        "grade": 68.55,
+        "grade": 66.4,
         "name": "Sam Mitchell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Cuttino Mobley": {
         "PTS": 55,
@@ -6155,9 +6374,10 @@
         "VORP": 105,
         "eFG%": 155,
         "G": 67,
-        "grade": 81.14,
+        "grade": 80.71,
         "name": "Cuttino Mobley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mikki Moore": {
         "PTS": 175,
@@ -6183,9 +6403,10 @@
         "VORP": 179,
         "eFG%": 1,
         "G": 305,
-        "grade": 76.48,
+        "grade": 75.41,
         "name": "Mikki Moore",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Alonzo Mourning*": {
         "PTS": 16,
@@ -6211,9 +6432,10 @@
         "VORP": 11,
         "eFG%": 16,
         "G": 104,
-        "grade": 90.95,
+        "grade": 91.87,
         "name": "Alonzo Mourning",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Mullin*": {
         "PTS": 271,
@@ -6239,9 +6461,10 @@
         "VORP": 132,
         "eFG%": 18,
         "G": 271,
-        "grade": 74.57,
+        "grade": 73.25,
         "name": "Chris Mullin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Eric Murdock": {
         "PTS": 256,
@@ -6267,9 +6490,10 @@
         "VORP": 224,
         "eFG%": 298,
         "G": 284,
-        "grade": 60.95,
+        "grade": 57.76,
         "name": "Eric Murdock",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Lamond Murray": {
         "PTS": 54,
@@ -6295,9 +6519,10 @@
         "VORP": 117,
         "eFG%": 174,
         "G": 147,
-        "grade": 78.58,
+        "grade": 77.8,
         "name": "Lamond Murray",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tracy Murray": {
         "PTS": 122,
@@ -6323,9 +6548,10 @@
         "VORP": 104,
         "eFG%": 56,
         "G": 90,
-        "grade": 77.07,
+        "grade": 76.09,
         "name": "Tracy Murray",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dikembe Mutombo*": {
         "PTS": 107,
@@ -6351,9 +6577,10 @@
         "VORP": 27,
         "eFG%": 10,
         "G": 21,
-        "grade": 87.13,
+        "grade": 87.52,
         "name": "Dikembe Mutombo",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Steve Nash*": {
         "PTS": 152,
@@ -6379,9 +6606,10 @@
         "VORP": 169,
         "eFG%": 12,
         "G": 244,
-        "grade": 75.95,
+        "grade": 74.81,
         "name": "Steve Nash",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tyrone Nesby": {
         "PTS": 74,
@@ -6407,9 +6635,10 @@
         "VORP": 310,
         "eFG%": 238,
         "G": 159,
-        "grade": 67.64,
+        "grade": 65.36,
         "name": "Tyrone Nesby",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rasho Nesterović": {
         "PTS": 248,
@@ -6435,9 +6664,10 @@
         "VORP": 275,
         "eFG%": 173,
         "G": 20,
-        "grade": 67.51,
+        "grade": 65.22,
         "name": "Rasho Nesterović",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Johnny Newman": {
         "PTS": 126,
@@ -6463,9 +6693,10 @@
         "VORP": 211,
         "eFG%": 89,
         "G": 19,
-        "grade": 73.61,
+        "grade": 72.15,
         "name": "Johnny Newman",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Moochie Norris": {
         "PTS": 204,
@@ -6491,9 +6722,10 @@
         "VORP": 159,
         "eFG%": 188,
         "G": 302,
-        "grade": 73.22,
+        "grade": 71.7,
         "name": "Moochie Norris",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dirk Nowitzki": {
         "PTS": 37,
@@ -6519,9 +6751,10 @@
         "VORP": 39,
         "eFG%": 63,
         "G": 18,
-        "grade": 88.26,
+        "grade": 88.8,
         "name": "Dirk Nowitzki",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jermaine O'Neal": {
         "PTS": 306,
@@ -6547,9 +6780,10 @@
         "VORP": 250,
         "eFG%": 140,
         "G": 183,
-        "grade": 65.61,
+        "grade": 63.06,
         "name": "Jermaine O'Neal",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shaquille O'Neal*": {
         "PTS": 1,
@@ -6575,9 +6809,10 @@
         "VORP": 1,
         "eFG%": 6,
         "G": 103,
-        "grade": 92.3,
+        "grade": 93.4,
         "name": "Shaquille O'Neal",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Charles Oakley": {
         "PTS": 203,
@@ -6603,9 +6838,10 @@
         "VORP": 249,
         "eFG%": 288,
         "G": 89,
-        "grade": 69.48,
+        "grade": 67.46,
         "name": "Charles Oakley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Lamar Odom": {
         "PTS": 46,
@@ -6631,9 +6867,10 @@
         "VORP": 65,
         "eFG%": 197,
         "G": 129,
-        "grade": 80.65,
+        "grade": 80.16,
         "name": "Lamar Odom",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Hakeem Olajuwon*": {
         "PTS": 120,
@@ -6659,9 +6896,10 @@
         "VORP": 149,
         "eFG%": 218,
         "G": 278,
-        "grade": 72.86,
+        "grade": 71.3,
         "name": "Hakeem Olajuwon",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Olowokandi": {
         "PTS": 130,
@@ -6687,9 +6925,10 @@
         "VORP": 344,
         "eFG%": 274,
         "G": 88,
-        "grade": 61.12,
+        "grade": 57.95,
         "name": "Michael Olowokandi",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Greg Ostertag": {
         "PTS": 290,
@@ -6715,9 +6954,10 @@
         "VORP": 143,
         "eFG%": 202,
         "G": 66,
-        "grade": 71.3,
+        "grade": 69.52,
         "name": "Greg Ostertag",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bo Outlaw": {
         "PTS": 242,
@@ -6743,9 +6983,10 @@
         "VORP": 20,
         "eFG%": 2,
         "G": 17,
-        "grade": 86.01,
+        "grade": 86.25,
         "name": "Bo Outlaw",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Billy Owens": {
         "PTS": 224,
@@ -6771,9 +7012,10 @@
         "VORP": 274,
         "eFG%": 333,
         "G": 334,
-        "grade": 57.6,
+        "grade": 53.95,
         "name": "Billy Owens",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Robert Pack": {
         "PTS": 144,
@@ -6799,9 +7041,10 @@
         "VORP": 223,
         "eFG%": 294,
         "G": 304,
-        "grade": 65.72,
+        "grade": 63.18,
         "name": "Robert Pack",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anthony Parker": {
         "PTS": 315,
@@ -6827,9 +7070,10 @@
         "VORP": 222,
         "eFG%": 287,
         "G": 333,
-        "grade": 58.81,
+        "grade": 55.32,
         "name": "Anthony Parker",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Cherokee Parks": {
         "PTS": 326,
@@ -6855,9 +7099,10 @@
         "VORP": 178,
         "eFG%": 112,
         "G": 243,
-        "grade": 66.53,
+        "grade": 64.1,
         "name": "Cherokee Parks",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ruben Patterson": {
         "PTS": 105,
@@ -6883,9 +7128,10 @@
         "VORP": 55,
         "eFG%": 20,
         "G": 65,
-        "grade": 87.35,
+        "grade": 87.77,
         "name": "Ruben Patterson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Gary Payton*": {
         "PTS": 7,
@@ -6911,9 +7157,10 @@
         "VORP": 2,
         "eFG%": 97,
         "G": 16,
-        "grade": 91.08,
+        "grade": 92.0,
         "name": "Gary Payton",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Anthony Peeler": {
         "PTS": 129,
@@ -6939,9 +7186,10 @@
         "VORP": 131,
         "eFG%": 114,
         "G": 15,
-        "grade": 75.75,
+        "grade": 74.58,
         "name": "Anthony Peeler",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Will Perdue": {
         "PTS": 334,
@@ -6967,9 +7215,10 @@
         "VORP": 332,
         "eFG%": 341,
         "G": 199,
-        "grade": 53.43,
+        "grade": 49.21,
         "name": "Will Perdue",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sam Perkins": {
         "PTS": 214,
@@ -6995,9 +7244,10 @@
         "VORP": 109,
         "eFG%": 52,
         "G": 64,
-        "grade": 74.66,
+        "grade": 73.34,
         "name": "Sam Perkins",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Elliot Perry": {
         "PTS": 264,
@@ -7023,9 +7273,10 @@
         "VORP": 221,
         "eFG%": 228,
         "G": 229,
-        "grade": 64.43,
+        "grade": 61.71,
         "name": "Elliot Perry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Wesley Person": {
         "PTS": 140,
@@ -7051,9 +7302,10 @@
         "VORP": 103,
         "eFG%": 72,
         "G": 102,
-        "grade": 74.23,
+        "grade": 72.85,
         "name": "Wesley Person",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bobby Phills": {
         "PTS": 72,
@@ -7079,9 +7331,10 @@
         "VORP": 158,
         "eFG%": 109,
         "G": 307,
-        "grade": 75.19,
+        "grade": 73.94,
         "name": "Bobby Phills",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Eric Piatkowski": {
         "PTS": 150,
@@ -7107,9 +7360,10 @@
         "VORP": 220,
         "eFG%": 111,
         "G": 138,
-        "grade": 69.06,
+        "grade": 66.98,
         "name": "Eric Piatkowski",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Paul Pierce*": {
         "PTS": 24,
@@ -7135,9 +7389,10 @@
         "VORP": 19,
         "eFG%": 139,
         "G": 158,
-        "grade": 89.07,
+        "grade": 89.72,
         "name": "Paul Pierce",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Scottie Pippen*": {
         "PTS": 85,
@@ -7163,9 +7418,10 @@
         "VORP": 18,
         "eFG%": 100,
         "G": 14,
-        "grade": 87.83,
+        "grade": 88.31,
         "name": "Scottie Pippen",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Scot Pollard": {
         "PTS": 260,
@@ -7191,9 +7447,10 @@
         "VORP": 142,
         "eFG%": 40,
         "G": 128,
-        "grade": 78.11,
+        "grade": 77.27,
         "name": "Scot Pollard",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Olden Polynice": {
         "PTS": 263,
@@ -7219,9 +7476,10 @@
         "VORP": 309,
         "eFG%": 68,
         "G": 13,
-        "grade": 70.49,
+        "grade": 68.6,
         "name": "Olden Polynice",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Terry Porter": {
         "PTS": 136,
@@ -7247,9 +7505,10 @@
         "VORP": 49,
         "eFG%": 21,
         "G": 195,
-        "grade": 82.98,
+        "grade": 82.8,
         "name": "Terry Porter",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "James Posey": {
         "PTS": 162,
@@ -7275,9 +7534,10 @@
         "VORP": 90,
         "eFG%": 84,
         "G": 63,
-        "grade": 79.42,
+        "grade": 78.75,
         "name": "James Posey",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Vitaly Potapenko": {
         "PTS": 139,
@@ -7303,9 +7563,10 @@
         "VORP": 327,
         "eFG%": 108,
         "G": 101,
-        "grade": 69.79,
+        "grade": 67.8,
         "name": "Vitaly Potapenko",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brent Price": {
         "PTS": 316,
@@ -7331,9 +7592,10 @@
         "VORP": 273,
         "eFG%": 236,
         "G": 283,
-        "grade": 56.87,
+        "grade": 53.12,
         "name": "Brent Price",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Theo Ratliff": {
         "PTS": 99,
@@ -7359,9 +7621,10 @@
         "VORP": 89,
         "eFG%": 93,
         "G": 241,
-        "grade": 81.95,
+        "grade": 81.62,
         "name": "Theo Ratliff",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bryant Reeves": {
         "PTS": 143,
@@ -7387,9 +7650,10 @@
         "VORP": 341,
         "eFG%": 243,
         "G": 188,
-        "grade": 62.27,
+        "grade": 59.26,
         "name": "Bryant Reeves",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Don Reid": {
         "PTS": 223,
@@ -7415,9 +7679,10 @@
         "VORP": 191,
         "eFG%": 8,
         "G": 332,
-        "grade": 75.09,
+        "grade": 73.83,
         "name": "Don Reid",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "J.R. Reid": {
         "PTS": 294,
@@ -7443,9 +7708,10 @@
         "VORP": 272,
         "eFG%": 302,
         "G": 291,
-        "grade": 57.42,
+        "grade": 53.74,
         "name": "J.R. Reid",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Glen Rice": {
         "PTS": 53,
@@ -7471,9 +7737,10 @@
         "VORP": 64,
         "eFG%": 187,
         "G": 87,
-        "grade": 83.02,
+        "grade": 82.84,
         "name": "Glen Rice",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mitch Richmond*": {
         "PTS": 39,
@@ -7499,9 +7766,10 @@
         "VORP": 61,
         "eFG%": 192,
         "G": 146,
-        "grade": 81.42,
+        "grade": 81.02,
         "name": "Mitch Richmond",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Isaiah Rider": {
         "PTS": 25,
@@ -7527,9 +7795,10 @@
         "VORP": 177,
         "eFG%": 252,
         "G": 228,
-        "grade": 71.14,
+        "grade": 69.34,
         "name": "Isaiah Rider",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Clifford Robinson": {
         "PTS": 30,
@@ -7555,9 +7824,10 @@
         "VORP": 28,
         "eFG%": 55,
         "G": 86,
-        "grade": 89.84,
+        "grade": 90.6,
         "name": "Clifford Robinson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "David Robinson*": {
         "PTS": 35,
@@ -7583,9 +7853,10 @@
         "VORP": 10,
         "eFG%": 65,
         "G": 85,
-        "grade": 91.54,
+        "grade": 92.53,
         "name": "David Robinson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Eddie Robinson": {
         "PTS": 200,
@@ -7611,9 +7882,10 @@
         "VORP": 141,
         "eFG%": 17,
         "G": 198,
-        "grade": 76.18,
+        "grade": 75.07,
         "name": "Eddie Robinson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Glenn Robinson": {
         "PTS": 17,
@@ -7639,9 +7911,10 @@
         "VORP": 83,
         "eFG%": 96,
         "G": 62,
-        "grade": 83.72,
+        "grade": 83.65,
         "name": "Glenn Robinson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dennis Rodman*": {
         "PTS": 330,
@@ -7667,9 +7940,10 @@
         "VORP": 248,
         "eFG%": 335,
         "G": 339,
-        "grade": 57.11,
+        "grade": 53.4,
         "name": "Dennis Rodman",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Carlos Rogers": {
         "PTS": 170,
@@ -7695,9 +7969,10 @@
         "VORP": 176,
         "eFG%": 42,
         "G": 255,
-        "grade": 71.98,
+        "grade": 70.3,
         "name": "Carlos Rogers",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rodney Rogers": {
         "PTS": 68,
@@ -7723,9 +7998,10 @@
         "VORP": 38,
         "eFG%": 15,
         "G": 12,
-        "grade": 88.98,
+        "grade": 89.62,
         "name": "Rodney Rogers",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Sean Rooks": {
         "PTS": 293,
@@ -7751,9 +8027,10 @@
         "VORP": 271,
         "eFG%": 283,
         "G": 177,
-        "grade": 61.65,
+        "grade": 58.56,
         "name": "Sean Rooks",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jalen Rose": {
         "PTS": 31,
@@ -7779,9 +8056,10 @@
         "VORP": 42,
         "eFG%": 92,
         "G": 84,
-        "grade": 88.4,
+        "grade": 88.96,
         "name": "Jalen Rose",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Malik Rose": {
         "PTS": 208,
@@ -7807,9 +8085,10 @@
         "VORP": 270,
         "eFG%": 217,
         "G": 145,
-        "grade": 70.62,
+        "grade": 68.75,
         "name": "Malik Rose",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Ruffin": {
         "PTS": 340,
@@ -7835,9 +8114,10 @@
         "VORP": 331,
         "eFG%": 304,
         "G": 176,
-        "grade": 54.88,
+        "grade": 50.86,
         "name": "Michael Ruffin",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bryon Russell": {
         "PTS": 65,
@@ -7863,9 +8143,10 @@
         "VORP": 37,
         "eFG%": 88,
         "G": 11,
-        "grade": 86.23,
+        "grade": 86.5,
         "name": "Bryon Russell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Arvydas Sabonis*": {
         "PTS": 102,
@@ -7891,9 +8172,10 @@
         "VORP": 47,
         "eFG%": 67,
         "G": 206,
-        "grade": 89.12,
+        "grade": 89.78,
         "name": "Arvydas Sabonis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Detlef Schrempf": {
         "PTS": 186,
@@ -7919,9 +8201,10 @@
         "VORP": 97,
         "eFG%": 223,
         "G": 120,
-        "grade": 78.22,
+        "grade": 77.39,
         "name": "Detlef Schrempf",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dennis Scott": {
         "PTS": 255,
@@ -7947,9 +8230,10 @@
         "VORP": 247,
         "eFG%": 151,
         "G": 205,
-        "grade": 61.89,
+        "grade": 58.83,
         "name": "Dennis Scott",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Malik Sealy": {
         "PTS": 109,
@@ -7975,9 +8259,10 @@
         "VORP": 116,
         "eFG%": 150,
         "G": 10,
-        "grade": 79.87,
+        "grade": 79.26,
         "name": "Malik Sealy",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brian Shaw": {
         "PTS": 301,
@@ -8003,9 +8288,10 @@
         "VORP": 168,
         "eFG%": 317,
         "G": 144,
-        "grade": 64.35,
+        "grade": 61.62,
         "name": "Brian Shaw",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dickey Simpkins": {
         "PTS": 299,
@@ -8031,9 +8317,10 @@
         "VORP": 343,
         "eFG%": 321,
         "G": 187,
-        "grade": 55.45,
+        "grade": 51.5,
         "name": "Dickey Simpkins",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Brian Skinner": {
         "PTS": 259,
@@ -8059,9 +8346,10 @@
         "VORP": 246,
         "eFG%": 79,
         "G": 294,
-        "grade": 67.01,
+        "grade": 64.65,
         "name": "Brian Skinner",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Joe Smith": {
         "PTS": 128,
@@ -8087,9 +8375,10 @@
         "VORP": 269,
         "eFG%": 200,
         "G": 116,
-        "grade": 75.8,
+        "grade": 74.64,
         "name": "Joe Smith",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Michael Smith": {
         "PTS": 229,
@@ -8115,9 +8404,10 @@
         "VORP": 140,
         "eFG%": 9,
         "G": 273,
-        "grade": 77.25,
+        "grade": 76.29,
         "name": "Michael Smith",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Steve Smith": {
         "PTS": 59,
@@ -8143,9 +8433,10 @@
         "VORP": 26,
         "eFG%": 50,
         "G": 9,
-        "grade": 89.41,
+        "grade": 90.11,
         "name": "Steve Smith",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rik Smits": {
         "PTS": 79,
@@ -8171,9 +8462,10 @@
         "VORP": 190,
         "eFG%": 143,
         "G": 100,
-        "grade": 76.21,
+        "grade": 75.11,
         "name": "Rik Smits",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Eric Snow": {
         "PTS": 174,
@@ -8199,9 +8491,10 @@
         "VORP": 82,
         "eFG%": 268,
         "G": 8,
-        "grade": 75.66,
+        "grade": 74.48,
         "name": "Eric Snow",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Latrell Sprewell": {
         "PTS": 28,
@@ -8229,7 +8522,8 @@
         "G": 7,
         "grade": 84.29,
         "name": "Latrell Sprewell",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jerry Stackhouse": {
         "PTS": 8,
@@ -8255,9 +8549,10 @@
         "VORP": 46,
         "eFG%": 222,
         "G": 6,
-        "grade": 84.4,
+        "grade": 84.42,
         "name": "Jerry Stackhouse",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Joe Stephens": {
         "PTS": 322,
@@ -8283,9 +8578,10 @@
         "VORP": 219,
         "eFG%": 337,
         "G": 337,
-        "grade": 55.89,
+        "grade": 52.01,
         "name": "Joe Stephens",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bryant Stith": {
         "PTS": 254,
@@ -8311,9 +8607,10 @@
         "VORP": 167,
         "eFG%": 106,
         "G": 275,
-        "grade": 71.44,
+        "grade": 69.68,
         "name": "Bryant Stith",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "John Stockton*": {
         "PTS": 94,
@@ -8339,9 +8636,10 @@
         "VORP": 8,
         "eFG%": 35,
         "G": 5,
-        "grade": 91.32,
+        "grade": 92.28,
         "name": "John Stockton",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Peja Stojaković": {
         "PTS": 98,
@@ -8367,9 +8665,10 @@
         "VORP": 76,
         "eFG%": 54,
         "G": 143,
-        "grade": 81.71,
+        "grade": 81.36,
         "name": "Peja Stojaković",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Damon Stoudamire": {
         "PTS": 84,
@@ -8395,9 +8694,10 @@
         "VORP": 70,
         "eFG%": 169,
         "G": 115,
-        "grade": 80.55,
+        "grade": 80.04,
         "name": "Damon Stoudamire",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Erick Strickland": {
         "PTS": 80,
@@ -8423,9 +8723,10 @@
         "VORP": 75,
         "eFG%": 145,
         "G": 194,
-        "grade": 81.8,
+        "grade": 81.46,
         "name": "Erick Strickland",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Mark Strickland": {
         "PTS": 279,
@@ -8451,9 +8752,10 @@
         "VORP": 157,
         "eFG%": 19,
         "G": 236,
-        "grade": 73.32,
+        "grade": 71.82,
         "name": "Mark Strickland",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rod Strickland": {
         "PTS": 83,
@@ -8479,9 +8781,10 @@
         "VORP": 74,
         "eFG%": 286,
         "G": 186,
-        "grade": 75.82,
+        "grade": 74.67,
         "name": "Rod Strickland",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bob Sura": {
         "PTS": 67,
@@ -8507,9 +8810,10 @@
         "VORP": 54,
         "eFG%": 64,
         "G": 157,
-        "grade": 82.78,
+        "grade": 82.57,
         "name": "Bob Sura",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Wally Szczerbiak": {
         "PTS": 104,
@@ -8535,9 +8839,10 @@
         "VORP": 73,
         "eFG%": 32,
         "G": 156,
-        "grade": 84.2,
+        "grade": 84.18,
         "name": "Wally Szczerbiak",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Maurice Taylor": {
         "PTS": 40,
@@ -8563,9 +8868,10 @@
         "VORP": 337,
         "eFG%": 201,
         "G": 218,
-        "grade": 67.46,
+        "grade": 65.16,
         "name": "Maurice Taylor",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jason Terry": {
         "PTS": 165,
@@ -8591,9 +8897,10 @@
         "VORP": 156,
         "eFG%": 231,
         "G": 61,
-        "grade": 70.51,
+        "grade": 68.62,
         "name": "Jason Terry",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kenny Thomas": {
         "PTS": 161,
@@ -8619,9 +8926,10 @@
         "VORP": 297,
         "eFG%": 291,
         "G": 166,
-        "grade": 65.66,
+        "grade": 63.11,
         "name": "Kenny Thomas",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kurt Thomas": {
         "PTS": 169,
@@ -8647,9 +8955,10 @@
         "VORP": 115,
         "eFG%": 83,
         "G": 83,
-        "grade": 80.24,
+        "grade": 79.68,
         "name": "Kurt Thomas",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Tim Thomas": {
         "PTS": 101,
@@ -8675,9 +8984,10 @@
         "VORP": 148,
         "eFG%": 91,
         "G": 82,
-        "grade": 77.77,
+        "grade": 76.87,
         "name": "Tim Thomas",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Otis Thorpe": {
         "PTS": 257,
@@ -8703,9 +9013,10 @@
         "VORP": 308,
         "eFG%": 59,
         "G": 260,
-        "grade": 64.48,
+        "grade": 61.78,
         "name": "Otis Thorpe",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Robert Traylor": {
         "PTS": 314,
@@ -8731,9 +9042,10 @@
         "VORP": 210,
         "eFG%": 178,
         "G": 277,
-        "grade": 65.94,
+        "grade": 63.43,
         "name": "Robert Traylor",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Gary Trent": {
         "PTS": 69,
@@ -8759,9 +9071,10 @@
         "VORP": 245,
         "eFG%": 118,
         "G": 340,
-        "grade": 67.45,
+        "grade": 65.15,
         "name": "Gary Trent",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Nick Van Exel": {
         "PTS": 51,
@@ -8787,9 +9100,10 @@
         "VORP": 96,
         "eFG%": 251,
         "G": 99,
-        "grade": 76.44,
+        "grade": 75.36,
         "name": "Nick Van Exel",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Keith Van Horn": {
         "PTS": 26,
@@ -8815,9 +9129,10 @@
         "VORP": 102,
         "eFG%": 165,
         "G": 81,
-        "grade": 83.54,
+        "grade": 83.44,
         "name": "Keith Van Horn",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jacque Vaughn": {
         "PTS": 311,
@@ -8843,9 +9158,10 @@
         "VORP": 317,
         "eFG%": 258,
         "G": 114,
-        "grade": 58.04,
+        "grade": 54.46,
         "name": "Jacque Vaughn",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Antoine Walker": {
         "PTS": 18,
@@ -8871,9 +9187,10 @@
         "VORP": 53,
         "eFG%": 227,
         "G": 4,
-        "grade": 81.85,
+        "grade": 81.52,
         "name": "Antoine Walker",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Samaki Walker": {
         "PTS": 270,
@@ -8899,9 +9216,10 @@
         "VORP": 268,
         "eFG%": 237,
         "G": 175,
-        "grade": 64.28,
+        "grade": 61.54,
         "name": "Samaki Walker",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Ben Wallace*": {
         "PTS": 281,
@@ -8927,9 +9245,10 @@
         "VORP": 60,
         "eFG%": 90,
         "G": 60,
-        "grade": 79.09,
+        "grade": 78.38,
         "name": "Ben Wallace",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "John Wallace": {
         "PTS": 219,
@@ -8955,9 +9274,10 @@
         "VORP": 267,
         "eFG%": 196,
         "G": 227,
-        "grade": 64.05,
+        "grade": 61.28,
         "name": "John Wallace",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rasheed Wallace": {
         "PTS": 49,
@@ -8983,9 +9303,10 @@
         "VORP": 32,
         "eFG%": 48,
         "G": 59,
-        "grade": 89.37,
+        "grade": 90.07,
         "name": "Rasheed Wallace",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Rex Walters": {
         "PTS": 329,
@@ -9011,9 +9332,10 @@
         "VORP": 266,
         "eFG%": 250,
         "G": 293,
-        "grade": 55.41,
+        "grade": 51.46,
         "name": "Rex Walters",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Charlie Ward": {
         "PTS": 190,
@@ -9039,9 +9361,10 @@
         "VORP": 45,
         "eFG%": 25,
         "G": 165,
-        "grade": 82.25,
+        "grade": 81.97,
         "name": "Charlie Ward",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Clarence Weatherspoon": {
         "PTS": 195,
@@ -9067,9 +9390,10 @@
         "VORP": 95,
         "eFG%": 62,
         "G": 113,
-        "grade": 81.41,
+        "grade": 81.01,
         "name": "Clarence Weatherspoon",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Webber*": {
         "PTS": 6,
@@ -9095,9 +9419,10 @@
         "VORP": 6,
         "eFG%": 123,
         "G": 137,
-        "grade": 92.01,
+        "grade": 93.07,
         "name": "Chris Webber",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Bonzi Wells": {
         "PTS": 147,
@@ -9123,9 +9448,10 @@
         "VORP": 126,
         "eFG%": 61,
         "G": 204,
-        "grade": 79.16,
+        "grade": 78.45,
         "name": "Bonzi Wells",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "David Wesley": {
         "PTS": 71,
@@ -9151,9 +9477,10 @@
         "VORP": 81,
         "eFG%": 186,
         "G": 3,
-        "grade": 80.17,
+        "grade": 79.61,
         "name": "David Wesley",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Doug West": {
         "PTS": 303,
@@ -9179,9 +9506,10 @@
         "VORP": 296,
         "eFG%": 320,
         "G": 286,
-        "grade": 55.71,
+        "grade": 51.8,
         "name": "Doug West",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jahidi White": {
         "PTS": 199,
@@ -9207,9 +9535,10 @@
         "VORP": 295,
         "eFG%": 78,
         "G": 80,
-        "grade": 71.35,
+        "grade": 69.58,
         "name": "Jahidi White",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Chris Whitney": {
         "PTS": 177,
@@ -9235,9 +9564,10 @@
         "VORP": 101,
         "eFG%": 71,
         "G": 2,
-        "grade": 77.67,
+        "grade": 76.77,
         "name": "Chris Whitney",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Aaron Williams": {
         "PTS": 183,
@@ -9263,9 +9593,10 @@
         "VORP": 125,
         "eFG%": 47,
         "G": 58,
-        "grade": 79.98,
+        "grade": 79.39,
         "name": "Aaron Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Alvin Williams": {
         "PTS": 262,
@@ -9291,9 +9622,10 @@
         "VORP": 189,
         "eFG%": 295,
         "G": 248,
-        "grade": 63.35,
+        "grade": 60.48,
         "name": "Alvin Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Eric Williams": {
         "PTS": 194,
@@ -9319,9 +9651,10 @@
         "VORP": 209,
         "eFG%": 210,
         "G": 193,
-        "grade": 68.04,
+        "grade": 65.81,
         "name": "Eric Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jason Williams": {
         "PTS": 90,
@@ -9347,9 +9680,10 @@
         "VORP": 208,
         "eFG%": 242,
         "G": 57,
-        "grade": 69.78,
+        "grade": 67.8,
         "name": "Jason Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Jerome Williams": {
         "PTS": 156,
@@ -9375,9 +9709,10 @@
         "VORP": 69,
         "eFG%": 7,
         "G": 1,
-        "grade": 84.09,
+        "grade": 84.06,
         "name": "Jerome Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Monty Williams": {
         "PTS": 149,
@@ -9403,9 +9738,10 @@
         "VORP": 175,
         "eFG%": 127,
         "G": 136,
-        "grade": 74.87,
+        "grade": 73.58,
         "name": "Monty Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Scott Williams": {
         "PTS": 182,
@@ -9431,9 +9767,10 @@
         "VORP": 218,
         "eFG%": 105,
         "G": 192,
-        "grade": 73.83,
+        "grade": 72.39,
         "name": "Scott Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Shammond Williams": {
         "PTS": 268,
@@ -9459,9 +9796,10 @@
         "VORP": 244,
         "eFG%": 293,
         "G": 280,
-        "grade": 56.87,
+        "grade": 53.12,
         "name": "Shammond Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Walt Williams": {
         "PTS": 113,
@@ -9487,9 +9825,10 @@
         "VORP": 80,
         "eFG%": 30,
         "G": 127,
-        "grade": 82.86,
+        "grade": 82.66,
         "name": "Walt Williams",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Corliss Williamson": {
         "PTS": 119,
@@ -9515,9 +9854,10 @@
         "VORP": 217,
         "eFG%": 104,
         "G": 126,
-        "grade": 74.22,
+        "grade": 72.84,
         "name": "Corliss Williamson",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Kevin Willis": {
         "PTS": 181,
@@ -9543,9 +9883,10 @@
         "VORP": 342,
         "eFG%": 308,
         "G": 98,
-        "grade": 64.58,
+        "grade": 61.89,
         "name": "Kevin Willis",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Dedric Willoughby": {
         "PTS": 180,
@@ -9571,9 +9912,10 @@
         "VORP": 207,
         "eFG%": 301,
         "G": 311,
-        "grade": 63.04,
+        "grade": 60.14,
         "name": "Dedric Willoughby",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Metta World Peace": {
         "PTS": 95,
@@ -9599,9 +9941,10 @@
         "VORP": 114,
         "eFG%": 246,
         "G": 164,
-        "grade": 73.53,
+        "grade": 72.06,
         "name": "Metta World Peace",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     },
     "Lorenzen Wright": {
         "PTS": 241,
@@ -9627,8 +9970,9 @@
         "VORP": 307,
         "eFG%": 103,
         "G": 135,
-        "grade": 68.05,
+        "grade": 65.83,
         "name": "Lorenzen Wright",
-        "league_grade": 7.16
+        "league_grade": 78.74,
+        "year": 2000
     }
 }

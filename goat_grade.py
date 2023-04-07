@@ -21,16 +21,12 @@ def scrape(url):
             try:
                 if stats[name] != {}:
                     h = 0
-                    player_dict = {}
                     for td in tds:
                         header = headers[h]
-                        if header == "MP" and "advanced" in url:
-                            header = "TMP"
-                        stats[name][header] = td.getText()
-                    if player_dict["Tm"] == "TOT":
-                        stats[name] = player_dict
-                    else:
-                        pass
+                        if header == "Tm":
+                            team = td.getText()
+                        h += 1
+                    stats[name]["Tm"].append(team)
             except:
                 stats[name] = {}
                 h = 0
@@ -40,22 +36,11 @@ def scrape(url):
                         header = "TMP"
                     stats[name][header] = td.getText()
                     h += 1
+                if stats[name]["Tm"] == "TOT":
+                    stats[name]["Tm"] = []
     return stats
 
-
-def GOAT_GRADE(year,
-            categories=[
-                        "PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK",
-                        "MP", "PER", "TS%", "WS", "BPM", "2P%", "OWS", "DWS", 
-                        "WS/48", "USG%", "OBPM", "DBPM", "VORP", "eFG%", "G"
-                        ],
-            all_time_categories=["eFG%", "2P%","FG%", "AST", "PTS", "TS%", "FT%"],
-            extra_categories=[],
-            folder="",
-            file_name="ranks"):
-
-    categories = list(categories + extra_categories)
-
+def get_stats(year, categories, folder):
     reg_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
     adv_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_advanced.html"
 
@@ -93,8 +78,32 @@ def GOAT_GRADE(year,
             if float(reg_stats[player]["G"]) < 10:
                 del reg_stats[player]
 
+    with open(f"stats/stats_{year}.json", "w+", encoding="utf8") as file:
+        file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
 
-    stats = reg_stats
+    return reg_stats
+
+
+def GOAT_GRADE(year,
+            update=True,
+            categories=[
+                        "PTS", "AST", "TRB", "FG%", "FT%", "3P%", "STL", "BLK",
+                        "MP", "PER", "TS%", "WS", "BPM", "2P%", "OWS", "DWS", 
+                        "WS/48", "USG%", "OBPM", "DBPM", "VORP", "eFG%"
+                        ],
+            all_time_categories=["eFG%", "2P%","FG%", "AST", "PTS", "TS%", "FT%"],
+            extra_categories=[],
+            folder="",
+            file_name="ranks"):
+
+    categories = list(categories + extra_categories)
+
+    if update:
+        stats = get_stats(year, categories, folder)
+    else:
+        f = open(f"stats/stats_{year}.json", "r", encoding="utf8")
+        stats = json.load(f)
+        f.close()
 
     ranks = {}
     for player in stats:
@@ -116,10 +125,8 @@ def GOAT_GRADE(year,
             avg = 0
             topsters = category_rankings[0:10]
             
-
             for player in topsters:
                 avg += player[1]
-
 
             topster_averages.append([category, round(avg / 10, 2)])
 
@@ -151,16 +158,21 @@ def GOAT_GRADE(year,
         # divide by all players then multiply by 100
         player_grade = (player_grade / len(list(reg_stats))) * 100
 
-        # multiply grade by strength of league
-        player_grade = player_grade / (league_grade * 1.25)
+        # divide score by league grade times 2
+        player_grade = player_grade / (league_grade * 2)
+
+        # subtract from 100
         player_grade = 100 - (player_grade * 100)
         player_grade += (5 * (league_grade/100))
+        player_grade -= (2.5 - (league_grade/100))
         # player_grade = 100 - ((player_grade / league_grade) * )
 
         ranks[player]["grade"] = round(player_grade, 2)
         ranks[player]["name"] = player.replace("*", "")
         ranks[player]["league_grade"] = league_grade
         ranks[player]["year"] = year
+        ranks[player]["games_played"] = int(reg_stats[player]["G"])
+        ranks[player]["team"] = reg_stats[player]["Tm"] 
 
     with open(f"{folder}{file_name}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent =4))
@@ -168,3 +180,6 @@ def GOAT_GRADE(year,
     with open(f"{folder}/stats/raw_stats{year}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
 
+
+if __name__ == "__main__":
+    GOAT_GRADE(2023)

@@ -12,9 +12,10 @@
         "DWS": 5,
         "eFG%": 11,
         "G": 42,
-        "grade": 91.16,
+        "grade": 91.13,
         "name": "Paul Arizin",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Curly Armstrong": {
         "PTS": 84,
@@ -29,9 +30,10 @@
         "DWS": 74,
         "eFG%": 99,
         "G": 84,
-        "grade": 48.34,
+        "grade": 42.46,
         "name": "Curly Armstrong",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Cliff Barker": {
         "PTS": 115,
@@ -46,9 +48,10 @@
         "DWS": 82,
         "eFG%": 118,
         "G": 66,
-        "grade": 41.22,
+        "grade": 34.36,
         "name": "Cliff Barker",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Leo Barnhorst": {
         "PTS": 54,
@@ -63,9 +66,10 @@
         "DWS": 32,
         "eFG%": 64,
         "G": 18,
-        "grade": 65.21,
+        "grade": 61.63,
         "name": "Leo Barnhorst",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Bartels": {
         "PTS": 98,
@@ -80,9 +84,10 @@
         "DWS": 120,
         "eFG%": 120,
         "G": 114,
-        "grade": 36.2,
+        "grade": 28.66,
         "name": "Ed Bartels",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ralph Beard": {
         "PTS": 8,
@@ -97,9 +102,10 @@
         "DWS": 23,
         "eFG%": 40,
         "G": 36,
-        "grade": 82.75,
+        "grade": 81.57,
         "name": "Ralph Beard",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Nelson Bobb": {
         "PTS": 113,
@@ -114,9 +120,10 @@
         "DWS": 69,
         "eFG%": 78,
         "G": 69,
-        "grade": 50.44,
+        "grade": 44.85,
         "name": "Nelson Bobb",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ike Borsavage": {
         "PTS": 114,
@@ -131,9 +138,10 @@
         "DWS": 119,
         "eFG%": 58,
         "G": 106,
-        "grade": 46.09,
+        "grade": 39.9,
         "name": "Ike Borsavage",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Vince Boryla": {
         "PTS": 14,
@@ -148,9 +156,10 @@
         "DWS": 68,
         "eFG%": 12,
         "G": 35,
-        "grade": 86.19,
+        "grade": 85.48,
         "name": "Vince Boryla",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Harry Boykoff": {
         "PTS": 57,
@@ -165,9 +174,10 @@
         "DWS": 96,
         "eFG%": 43,
         "G": 116,
-        "grade": 63.54,
+        "grade": 59.73,
         "name": "Harry Boykoff",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Frankie Brian": {
         "PTS": 7,
@@ -182,9 +192,10 @@
         "DWS": 19,
         "eFG%": 86,
         "G": 17,
-        "grade": 76.73,
+        "grade": 74.73,
         "name": "Frankie Brian",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Walt Budko": {
         "PTS": 56,
@@ -199,9 +210,10 @@
         "DWS": 31,
         "eFG%": 48,
         "G": 47,
-        "grade": 76.54,
+        "grade": 74.51,
         "name": "Walt Budko",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Art Burris": {
         "PTS": 121,
@@ -216,9 +228,10 @@
         "DWS": 87,
         "eFG%": 119,
         "G": 94,
-        "grade": 37.01,
+        "grade": 29.58,
         "name": "Art Burris",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Tommy Byrnes": {
         "PTS": 91,
@@ -233,9 +246,10 @@
         "DWS": 109,
         "eFG%": 83,
         "G": 111,
-        "grade": 48.05,
+        "grade": 42.13,
         "name": "Tommy Byrnes",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Gerry Calabrese": {
         "PTS": 93,
@@ -250,9 +264,10 @@
         "DWS": 101,
         "eFG%": 50,
         "G": 76,
-        "grade": 57.75,
+        "grade": 53.16,
         "name": "Gerry Calabrese",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bill Calhoun": {
         "PTS": 60,
@@ -267,9 +282,10 @@
         "DWS": 67,
         "eFG%": 63,
         "G": 34,
-        "grade": 65.45,
+        "grade": 61.91,
         "name": "Bill Calhoun",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Carpenter": {
         "PTS": 77,
@@ -284,9 +300,10 @@
         "DWS": 73,
         "eFG%": 23,
         "G": 88,
-        "grade": 73.57,
+        "grade": 71.14,
         "name": "Bob Carpenter",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Al Cervi*": {
         "PTS": 47,
@@ -301,9 +318,10 @@
         "DWS": 61,
         "eFG%": 27,
         "G": 68,
-        "grade": 80.36,
+        "grade": 78.85,
         "name": "Al Cervi",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Leroy Chollet": {
         "PTS": 124,
@@ -318,9 +336,10 @@
         "DWS": 125,
         "eFG%": 125,
         "G": 122,
-        "grade": 31.14,
+        "grade": 22.9,
         "name": "Leroy Chollet",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Cal Christensen": {
         "PTS": 74,
@@ -335,9 +354,10 @@
         "DWS": 18,
         "eFG%": 104,
         "G": 21,
-        "grade": 65.54,
+        "grade": 62.01,
         "name": "Cal Christensen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Nat Clifton*": {
         "PTS": 46,
@@ -352,9 +372,10 @@
         "DWS": 53,
         "eFG%": 85,
         "G": 41,
-        "grade": 55.99,
+        "grade": 51.15,
         "name": "Nat Clifton",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bill Closs": {
         "PTS": 44,
@@ -369,9 +390,10 @@
         "DWS": 14,
         "eFG%": 87,
         "G": 40,
-        "grade": 65.69,
+        "grade": 62.18,
         "name": "Bill Closs",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Jack Coleman": {
         "PTS": 25,
@@ -386,9 +408,10 @@
         "DWS": 26,
         "eFG%": 6,
         "G": 20,
-        "grade": 90.25,
+        "grade": 90.1,
         "name": "Jack Coleman",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Chuck Cooper*": {
         "PTS": 40,
@@ -403,9 +426,10 @@
         "DWS": 46,
         "eFG%": 66,
         "G": 33,
-        "grade": 75.24,
+        "grade": 73.04,
         "name": "Chuck Cooper",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ray Corley": {
         "PTS": 99,
@@ -420,9 +444,10 @@
         "DWS": 108,
         "eFG%": 69,
         "G": 112,
-        "grade": 49.2,
+        "grade": 43.43,
         "name": "Ray Corley",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Cousy*": {
         "PTS": 10,
@@ -437,9 +462,10 @@
         "DWS": 35,
         "eFG%": 56,
         "G": 1,
-        "grade": 80.93,
+        "grade": 79.51,
         "name": "Bob Cousy",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Davies*": {
         "PTS": 12,
@@ -454,9 +480,10 @@
         "DWS": 40,
         "eFG%": 34,
         "G": 54,
-        "grade": 82.56,
+        "grade": 81.35,
         "name": "Bob Davies",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Joe Dolhon": {
         "PTS": 102,
@@ -471,9 +498,10 @@
         "DWS": 124,
         "eFG%": 102,
         "G": 123,
-        "grade": 44.09,
+        "grade": 37.62,
         "name": "Joe Dolhon",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Donham": {
         "PTS": 78,
@@ -488,9 +516,10 @@
         "DWS": 81,
         "eFG%": 1,
         "G": 16,
-        "grade": 76.82,
+        "grade": 74.83,
         "name": "Bob Donham",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Andy Duncan": {
         "PTS": 123,
@@ -505,9 +534,10 @@
         "DWS": 123,
         "eFG%": 123,
         "G": 121,
-        "grade": 34.24,
+        "grade": 26.43,
         "name": "Andy Duncan",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Dike Eddleman": {
         "PTS": 11,
@@ -522,9 +552,10 @@
         "DWS": 15,
         "eFG%": 49,
         "G": 15,
-        "grade": 76.82,
+        "grade": 74.83,
         "name": "Dike Eddleman",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Arnie Ferrin": {
         "PTS": 86,
@@ -539,9 +570,10 @@
         "DWS": 25,
         "eFG%": 89,
         "G": 14,
-        "grade": 61.91,
+        "grade": 57.89,
         "name": "Arnie Ferrin",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Larry Foust": {
         "PTS": 17,
@@ -556,9 +588,10 @@
         "DWS": 9,
         "eFG%": 62,
         "G": 13,
-        "grade": 73.62,
+        "grade": 71.19,
         "name": "Larry Foust",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Joe Fulks*": {
         "PTS": 4,
@@ -573,9 +606,10 @@
         "DWS": 4,
         "eFG%": 93,
         "G": 32,
-        "grade": 71.52,
+        "grade": 68.8,
         "name": "Joe Fulks",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bill Gabor": {
         "PTS": 26,
@@ -590,9 +624,10 @@
         "DWS": 60,
         "eFG%": 68,
         "G": 59,
-        "grade": 64.25,
+        "grade": 60.55,
         "name": "Bill Gabor",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Harry Gallatin*": {
         "PTS": 20,
@@ -607,9 +642,10 @@
         "DWS": 38,
         "eFG%": 7,
         "G": 31,
-        "grade": 88.58,
+        "grade": 88.2,
         "name": "Harry Gallatin",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Vern Gardner": {
         "PTS": 83,
@@ -624,9 +660,10 @@
         "DWS": 30,
         "eFG%": 72,
         "G": 58,
-        "grade": 59.71,
+        "grade": 55.39,
         "name": "Vern Gardner",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Gayda": {
         "PTS": 106,
@@ -641,9 +678,10 @@
         "DWS": 118,
         "eFG%": 9,
         "G": 118,
-        "grade": 63.2,
+        "grade": 59.35,
         "name": "Ed Gayda",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Chuck Gilmur": {
         "PTS": 112,
@@ -658,9 +696,10 @@
         "DWS": 117,
         "eFG%": 116,
         "G": 115,
-        "grade": 38.59,
+        "grade": 31.37,
         "name": "Chuck Gilmur",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bud Grant": {
         "PTS": 116,
@@ -675,9 +714,10 @@
         "DWS": 59,
         "eFG%": 108,
         "G": 57,
-        "grade": 44.28,
+        "grade": 37.84,
         "name": "Bud Grant",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Alex Groza": {
         "PTS": 2,
@@ -692,9 +732,10 @@
         "DWS": 11,
         "eFG%": 2,
         "G": 30,
-        "grade": 93.84,
+        "grade": 94.17,
         "name": "Alex Groza",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Chick Halbert": {
         "PTS": 53,
@@ -709,9 +750,10 @@
         "DWS": 58,
         "eFG%": 26,
         "G": 93,
-        "grade": 75.68,
+        "grade": 73.53,
         "name": "Chick Halbert",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bruce Hale": {
         "PTS": 107,
@@ -726,9 +768,10 @@
         "DWS": 107,
         "eFG%": 105,
         "G": 103,
-        "grade": 39.59,
+        "grade": 32.52,
         "name": "Bruce Hale",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Alex Hannum*": {
         "PTS": 62,
@@ -743,9 +786,10 @@
         "DWS": 50,
         "eFG%": 39,
         "G": 53,
-        "grade": 66.21,
+        "grade": 62.77,
         "name": "Alex Hannum",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "John Hargis": {
         "PTS": 105,
@@ -760,9 +804,10 @@
         "DWS": 116,
         "eFG%": 31,
         "G": 117,
-        "grade": 53.17,
+        "grade": 47.94,
         "name": "John Hargis",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Harris": {
         "PTS": 81,
@@ -777,9 +822,10 @@
         "DWS": 86,
         "eFG%": 47,
         "G": 79,
-        "grade": 62.82,
+        "grade": 58.92,
         "name": "Bob Harris",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Harrison": {
         "PTS": 80,
@@ -794,9 +840,10 @@
         "DWS": 22,
         "eFG%": 61,
         "G": 12,
-        "grade": 72.38,
+        "grade": 69.78,
         "name": "Bob Harrison",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Billy Hassett": {
         "PTS": 97,
@@ -811,9 +858,10 @@
         "DWS": 106,
         "eFG%": 115,
         "G": 97,
-        "grade": 40.12,
+        "grade": 33.11,
         "name": "Billy Hassett",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Kleggie Hermsen": {
         "PTS": 76,
@@ -828,9 +876,10 @@
         "DWS": 105,
         "eFG%": 96,
         "G": 107,
-        "grade": 43.8,
+        "grade": 37.3,
         "name": "Kleggie Hermsen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Sonny Hertzberg": {
         "PTS": 35,
@@ -845,9 +894,10 @@
         "DWS": 57,
         "eFG%": 92,
         "G": 39,
-        "grade": 69.56,
+        "grade": 66.58,
         "name": "Sonny Hertzberg",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Paul Hoffman": {
         "PTS": 43,
@@ -862,9 +912,10 @@
         "DWS": 56,
         "eFG%": 90,
         "G": 83,
-        "grade": 57.66,
+        "grade": 53.05,
         "name": "Paul Hoffman",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Joe Holland": {
         "PTS": 68,
@@ -879,9 +930,10 @@
         "DWS": 34,
         "eFG%": 77,
         "G": 19,
-        "grade": 57.56,
+        "grade": 52.94,
         "name": "Joe Holland",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Red Holzman*": {
         "PTS": 66,
@@ -896,9 +948,10 @@
         "DWS": 66,
         "eFG%": 81,
         "G": 11,
-        "grade": 59.57,
+        "grade": 55.22,
         "name": "Red Holzman",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Joe Hutton": {
         "PTS": 118,
@@ -913,9 +966,10 @@
         "DWS": 65,
         "eFG%": 79,
         "G": 61,
-        "grade": 48.58,
+        "grade": 42.73,
         "name": "Joe Hutton",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Gene James": {
         "PTS": 90,
@@ -930,9 +984,10 @@
         "DWS": 80,
         "eFG%": 74,
         "G": 81,
-        "grade": 52.11,
+        "grade": 46.75,
         "name": "Gene James",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Tony Jaros": {
         "PTS": 103,
@@ -947,9 +1002,10 @@
         "DWS": 49,
         "eFG%": 101,
         "G": 52,
-        "grade": 46.91,
+        "grade": 40.83,
         "name": "Tony Jaros",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Arnie Johnson": {
         "PTS": 38,
@@ -964,9 +1020,10 @@
         "DWS": 37,
         "eFG%": 4,
         "G": 10,
-        "grade": 88.67,
+        "grade": 88.31,
         "name": "Arnie Johnson",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ralph Johnson": {
         "PTS": 45,
@@ -981,9 +1038,10 @@
         "DWS": 20,
         "eFG%": 88,
         "G": 9,
-        "grade": 61.29,
+        "grade": 57.18,
         "name": "Ralph Johnson",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Wah Wah Jones": {
         "PTS": 28,
@@ -998,9 +1056,10 @@
         "DWS": 76,
         "eFG%": 21,
         "G": 108,
-        "grade": 78.16,
+        "grade": 76.36,
         "name": "Wah Wah Jones",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Noble Jorgensen": {
         "PTS": 39,
@@ -1015,9 +1074,10 @@
         "DWS": 72,
         "eFG%": 32,
         "G": 82,
-        "grade": 70.8,
+        "grade": 67.99,
         "name": "Noble Jorgensen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "George Kaftan": {
         "PTS": 87,
@@ -1032,9 +1092,10 @@
         "DWS": 100,
         "eFG%": 24,
         "G": 56,
-        "grade": 64.3,
+        "grade": 60.6,
         "name": "George Kaftan",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Jack Kerris": {
         "PTS": 30,
@@ -1049,9 +1110,10 @@
         "DWS": 13,
         "eFG%": 38,
         "G": 8,
-        "grade": 81.31,
+        "grade": 79.94,
         "name": "Jack Kerris",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Duane Klueh": {
         "PTS": 63,
@@ -1066,9 +1128,10 @@
         "DWS": 45,
         "eFG%": 67,
         "G": 55,
-        "grade": 64.68,
+        "grade": 61.04,
         "name": "Duane Klueh",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Frank Kudelka": {
         "PTS": 89,
@@ -1083,9 +1146,10 @@
         "DWS": 115,
         "eFG%": 44,
         "G": 102,
-        "grade": 54.7,
+        "grade": 49.68,
         "name": "Frank Kudelka",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Tony Lavelli": {
         "PTS": 110,
@@ -1100,9 +1164,10 @@
         "DWS": 114,
         "eFG%": 65,
         "G": 99,
-        "grade": 55.99,
+        "grade": 51.15,
         "name": "Tony Lavelli",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bob Lavoy": {
         "PTS": 52,
@@ -1117,9 +1182,10 @@
         "DWS": 39,
         "eFG%": 46,
         "G": 51,
-        "grade": 62.49,
+        "grade": 58.54,
         "name": "Bob Lavoy",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Leede": {
         "PTS": 73,
@@ -1134,9 +1200,10 @@
         "DWS": 95,
         "eFG%": 84,
         "G": 65,
-        "grade": 58.23,
+        "grade": 53.7,
         "name": "Ed Leede",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ron Livingstone": {
         "PTS": 92,
@@ -1151,9 +1218,10 @@
         "DWS": 27,
         "eFG%": 106,
         "G": 50,
-        "grade": 51.49,
+        "grade": 46.04,
         "name": "Ron Livingstone",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Don Lofgran": {
         "PTS": 82,
@@ -1168,9 +1236,10 @@
         "DWS": 104,
         "eFG%": 111,
         "G": 120,
-        "grade": 40.36,
+        "grade": 33.38,
         "name": "Don Lofgran",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "John Logan": {
         "PTS": 59,
@@ -1185,9 +1254,10 @@
         "DWS": 55,
         "eFG%": 98,
         "G": 98,
-        "grade": 58.71,
+        "grade": 54.25,
         "name": "John Logan",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ray Lumpp": {
         "PTS": 70,
@@ -1202,9 +1272,10 @@
         "DWS": 94,
         "eFG%": 14,
         "G": 46,
-        "grade": 75.05,
+        "grade": 72.82,
         "name": "Ray Lumpp",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Macauley*": {
         "PTS": 3,
@@ -1219,9 +1290,10 @@
         "DWS": 33,
         "eFG%": 3,
         "G": 7,
-        "grade": 94.22,
+        "grade": 94.61,
         "name": "Ed Macauley",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Johnny Macknowski": {
         "PTS": 72,
@@ -1236,9 +1308,10 @@
         "DWS": 79,
         "eFG%": 103,
         "G": 63,
-        "grade": 47.43,
+        "grade": 41.42,
         "name": "Johnny Macknowski",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Norm Mager": {
         "PTS": 85,
@@ -1253,9 +1326,10 @@
         "DWS": 103,
         "eFG%": 114,
         "G": 105,
-        "grade": 44.47,
+        "grade": 38.06,
         "name": "Norm Mager",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "John Mahnken": {
         "PTS": 120,
@@ -1270,9 +1344,10 @@
         "DWS": 113,
         "eFG%": 124,
         "G": 124,
-        "grade": 34.1,
+        "grade": 26.27,
         "name": "John Mahnken",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Slater Martin*": {
         "PTS": 48,
@@ -1287,9 +1362,10 @@
         "DWS": 12,
         "eFG%": 42,
         "G": 6,
-        "grade": 76.11,
+        "grade": 74.02,
         "name": "Slater Martin",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ariel Maughan": {
         "PTS": 65,
@@ -1304,9 +1380,10 @@
         "DWS": 93,
         "eFG%": 97,
         "G": 87,
-        "grade": 57.75,
+        "grade": 53.16,
         "name": "Ariel Maughan",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Dick McGuire*": {
         "PTS": 51,
@@ -1321,9 +1398,10 @@
         "DWS": 52,
         "eFG%": 35,
         "G": 45,
-        "grade": 77.73,
+        "grade": 75.87,
         "name": "Dick McGuire",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bones McKinney": {
         "PTS": 69,
@@ -1338,9 +1416,10 @@
         "DWS": 92,
         "eFG%": 91,
         "G": 90,
-        "grade": 54.03,
+        "grade": 48.92,
         "name": "Bones McKinney",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Mal McMullen": {
         "PTS": 100,
@@ -1355,9 +1434,10 @@
         "DWS": 78,
         "eFG%": 113,
         "G": 72,
-        "grade": 39.21,
+        "grade": 32.08,
         "name": "Mal McMullen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Joe McNamee": {
         "PTS": 122,
@@ -1372,9 +1452,10 @@
         "DWS": 99,
         "eFG%": 109,
         "G": 60,
-        "grade": 38.06,
+        "grade": 30.78,
         "name": "Joe McNamee",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Dick Mehen": {
         "PTS": 75,
@@ -1389,9 +1470,10 @@
         "DWS": 71,
         "eFG%": 28,
         "G": 80,
-        "grade": 66.21,
+        "grade": 62.77,
         "name": "Dick Mehen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Mikan": {
         "PTS": 36,
@@ -1406,9 +1488,10 @@
         "DWS": 42,
         "eFG%": 29,
         "G": 92,
-        "grade": 72.19,
+        "grade": 69.56,
         "name": "Ed Mikan",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "George Mikan*": {
         "PTS": 1,
@@ -1423,9 +1506,10 @@
         "DWS": 1,
         "eFG%": 5,
         "G": 5,
-        "grade": 96.51,
+        "grade": 97.22,
         "name": "George Mikan",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Vern Mikkelsen*": {
         "PTS": 15,
@@ -1440,9 +1524,10 @@
         "DWS": 2,
         "eFG%": 16,
         "G": 44,
-        "grade": 86.28,
+        "grade": 85.59,
         "name": "Vern Mikkelsen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Leo Mogus": {
         "PTS": 119,
@@ -1457,9 +1542,10 @@
         "DWS": 77,
         "eFG%": 55,
         "G": 64,
-        "grade": 55.56,
+        "grade": 50.66,
         "name": "Leo Mogus",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Chuck Mrazovich": {
         "PTS": 109,
@@ -1474,9 +1560,10 @@
         "DWS": 112,
         "eFG%": 59,
         "G": 104,
-        "grade": 48.86,
+        "grade": 43.05,
         "name": "Chuck Mrazovich",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ken Murray": {
         "PTS": 34,
@@ -1491,9 +1578,10 @@
         "DWS": 85,
         "eFG%": 107,
         "G": 119,
-        "grade": 55.75,
+        "grade": 50.88,
         "name": "Ken Murray",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Paul Noel": {
         "PTS": 117,
@@ -1508,9 +1596,10 @@
         "DWS": 98,
         "eFG%": 112,
         "G": 70,
-        "grade": 39.74,
+        "grade": 32.68,
         "name": "Paul Noel",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Dick O'Keefe": {
         "PTS": 101,
@@ -1525,9 +1614,10 @@
         "DWS": 111,
         "eFG%": 122,
         "G": 113,
-        "grade": 36.54,
+        "grade": 29.04,
         "name": "Dick O'Keefe",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Kevin O'Shea": {
         "PTS": 96,
@@ -1542,9 +1632,10 @@
         "DWS": 44,
         "eFG%": 80,
         "G": 49,
-        "grade": 60.48,
+        "grade": 56.26,
         "name": "Kevin O'Shea",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "John Oldham": {
         "PTS": 50,
@@ -1559,9 +1650,10 @@
         "DWS": 28,
         "eFG%": 75,
         "G": 4,
-        "grade": 63.58,
+        "grade": 59.79,
         "name": "John Oldham",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Don Otten": {
         "PTS": 49,
@@ -1576,9 +1668,10 @@
         "DWS": 41,
         "eFG%": 41,
         "G": 75,
-        "grade": 75.44,
+        "grade": 73.26,
         "name": "Don Otten",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Warren Perkins": {
         "PTS": 79,
@@ -1593,9 +1686,10 @@
         "DWS": 29,
         "eFG%": 95,
         "G": 29,
-        "grade": 59.62,
+        "grade": 55.28,
         "name": "Warren Perkins",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Peterson": {
         "PTS": 55,
@@ -1610,9 +1704,10 @@
         "DWS": 48,
         "eFG%": 76,
         "G": 85,
-        "grade": 60.53,
+        "grade": 56.31,
         "name": "Ed Peterson",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Andy Phillip*": {
         "PTS": 27,
@@ -1627,9 +1722,10 @@
         "DWS": 3,
         "eFG%": 19,
         "G": 28,
-        "grade": 89.34,
+        "grade": 89.07,
         "name": "Andy Phillip",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Jim Pollard*": {
         "PTS": 24,
@@ -1644,9 +1740,10 @@
         "DWS": 6,
         "eFG%": 54,
         "G": 67,
-        "grade": 75.82,
+        "grade": 73.69,
         "name": "Jim Pollard",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "George Ratkovicz": {
         "PTS": 19,
@@ -1661,9 +1758,10 @@
         "DWS": 24,
         "eFG%": 8,
         "G": 27,
-        "grade": 90.16,
+        "grade": 89.99,
         "name": "George Ratkovicz",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Don Rehfeldt": {
         "PTS": 64,
@@ -1678,9 +1776,10 @@
         "DWS": 54,
         "eFG%": 25,
         "G": 62,
-        "grade": 73.48,
+        "grade": 71.03,
         "name": "Don Rehfeldt",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Jim Riffey": {
         "PTS": 95,
@@ -1695,9 +1794,10 @@
         "DWS": 91,
         "eFG%": 57,
         "G": 86,
-        "grade": 52.59,
+        "grade": 47.29,
         "name": "Jim Riffey",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Arnie Risen*": {
         "PTS": 9,
@@ -1712,9 +1812,10 @@
         "DWS": 16,
         "eFG%": 18,
         "G": 26,
-        "grade": 88.67,
+        "grade": 88.31,
         "name": "Arnie Risen",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Tex Ritter": {
         "PTS": 104,
@@ -1729,9 +1830,10 @@
         "DWS": 110,
         "eFG%": 30,
         "G": 89,
-        "grade": 60.76,
+        "grade": 56.58,
         "name": "Tex Ritter",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Red Rocha": {
         "PTS": 18,
@@ -1746,9 +1848,10 @@
         "DWS": 21,
         "eFG%": 53,
         "G": 43,
-        "grade": 80.31,
+        "grade": 78.8,
         "name": "Red Rocha",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Kenny Sailors": {
         "PTS": 37,
@@ -1763,9 +1866,10 @@
         "DWS": 64,
         "eFG%": 60,
         "G": 73,
-        "grade": 66.5,
+        "grade": 63.1,
         "name": "Kenny Sailors",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Pep Saul": {
         "PTS": 94,
@@ -1780,9 +1884,10 @@
         "DWS": 90,
         "eFG%": 71,
         "G": 38,
-        "grade": 53.55,
+        "grade": 48.38,
         "name": "Pep Saul",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Alan Sawyer": {
         "PTS": 71,
@@ -1797,9 +1902,10 @@
         "DWS": 97,
         "eFG%": 37,
         "G": 91,
-        "grade": 64.64,
+        "grade": 60.98,
         "name": "Alan Sawyer",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Fred Schaus": {
         "PTS": 13,
@@ -1814,9 +1920,10 @@
         "DWS": 10,
         "eFG%": 70,
         "G": 3,
-        "grade": 83.37,
+        "grade": 82.28,
         "name": "Fred Schaus",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Dolph Schayes*": {
         "PTS": 6,
@@ -1831,9 +1938,10 @@
         "DWS": 8,
         "eFG%": 45,
         "G": 25,
-        "grade": 87.62,
+        "grade": 87.11,
         "name": "Dolph Schayes",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Herb Scherer": {
         "PTS": 108,
@@ -1848,9 +1956,10 @@
         "DWS": 102,
         "eFG%": 110,
         "G": 109,
-        "grade": 39.16,
+        "grade": 32.03,
         "name": "Herb Scherer",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Dick Schnittker": {
         "PTS": 32,
@@ -1865,9 +1974,10 @@
         "DWS": 89,
         "eFG%": 10,
         "G": 101,
-        "grade": 79.35,
+        "grade": 77.71,
         "name": "Dick Schnittker",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Fred Scolari": {
         "PTS": 23,
@@ -1882,9 +1992,10 @@
         "DWS": 75,
         "eFG%": 94,
         "G": 96,
-        "grade": 62.15,
+        "grade": 58.16,
         "name": "Fred Scolari",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "George Senesky": {
         "PTS": 31,
@@ -1899,9 +2010,10 @@
         "DWS": 7,
         "eFG%": 52,
         "G": 37,
-        "grade": 80.5,
+        "grade": 79.02,
         "name": "George Senesky",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Paul Seymour": {
         "PTS": 67,
@@ -1916,9 +2028,10 @@
         "DWS": 51,
         "eFG%": 82,
         "G": 71,
-        "grade": 64.21,
+        "grade": 60.49,
         "name": "Paul Seymour",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Carl Shaeffer": {
         "PTS": 125,
@@ -1933,9 +2046,10 @@
         "DWS": 122,
         "eFG%": 117,
         "G": 125,
-        "grade": 39.26,
+        "grade": 32.14,
         "name": "Carl Shaeffer",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bill Sharman*": {
         "PTS": 22,
@@ -1950,9 +2064,10 @@
         "DWS": 88,
         "eFG%": 36,
         "G": 95,
-        "grade": 71.23,
+        "grade": 68.48,
         "name": "Bill Sharman",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Connie Simmons": {
         "PTS": 41,
@@ -1967,9 +2082,10 @@
         "DWS": 63,
         "eFG%": 33,
         "G": 24,
-        "grade": 75.72,
+        "grade": 73.58,
         "name": "Connie Simmons",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Belus Smawley": {
         "PTS": 16,
@@ -1984,9 +2100,10 @@
         "DWS": 62,
         "eFG%": 22,
         "G": 78,
-        "grade": 81.36,
+        "grade": 80.0,
         "name": "Belus Smawley",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ed Stanczak": {
         "PTS": 111,
@@ -2001,9 +2118,10 @@
         "DWS": 121,
         "eFG%": 121,
         "G": 110,
-        "grade": 44.66,
+        "grade": 38.27,
         "name": "Ed Stanczak",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Mike Todorovich": {
         "PTS": 33,
@@ -2018,9 +2136,10 @@
         "DWS": 17,
         "eFG%": 100,
         "G": 23,
-        "grade": 64.83,
+        "grade": 61.2,
         "name": "Mike Todorovich",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Gene Vance": {
         "PTS": 88,
@@ -2035,9 +2154,10 @@
         "DWS": 84,
         "eFG%": 13,
         "G": 100,
-        "grade": 69.46,
+        "grade": 66.47,
         "name": "Gene Vance",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Ernie Vandeweghe": {
         "PTS": 58,
@@ -2052,9 +2172,10 @@
         "DWS": 83,
         "eFG%": 15,
         "G": 77,
-        "grade": 74.72,
+        "grade": 72.44,
         "name": "Ernie Vandeweghe",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Brady Walker": {
         "PTS": 61,
@@ -2069,9 +2190,10 @@
         "DWS": 43,
         "eFG%": 20,
         "G": 74,
-        "grade": 76.15,
+        "grade": 74.07,
         "name": "Brady Walker",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Paul Walther": {
         "PTS": 42,
@@ -2086,9 +2208,10 @@
         "DWS": 36,
         "eFG%": 73,
         "G": 48,
-        "grade": 66.16,
+        "grade": 62.72,
         "name": "Paul Walther",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Bobby Wanzer*": {
         "PTS": 29,
@@ -2103,9 +2226,10 @@
         "DWS": 47,
         "eFG%": 17,
         "G": 2,
-        "grade": 86.76,
+        "grade": 86.13,
         "name": "Bobby Wanzer",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     },
     "Max Zaslofsky": {
         "PTS": 21,
@@ -2120,8 +2244,9 @@
         "DWS": 70,
         "eFG%": 51,
         "G": 22,
-        "grade": 74.43,
+        "grade": 72.12,
         "name": "Max Zaslofsky",
-        "league_grade": 5.58
+        "league_grade": 61.36,
+        "year": 1951
     }
 }

@@ -20,20 +20,19 @@ def season(name):
         year = int(name)
     except:
         if name == "all":
-            pass
+            return "coming soon"
         else:
             return "Invalid url!" 
 
     try:
-        GOAT_GRADE(year, folder="goat_grade/", file_name=f"gg_{str(year)}")
-
         # last_day = int(open("last_update.txt", "r").readlines()[0])
-        # if (current_month in NBA_SEASON) and ((current_month < 13 and current_year + 1 == year) or ((current_month < 7) and current_year == year)) and last_day != current_day:
-        #     GOAT_GRADE(year, folder="goat_grade/", file_name=f"gg_{str(year)}")
-        #     f = open("last_update.txt", "w")
-        #     f.write(current_day + "\n" + today.strftime("%b %d %Y %H:%M:%S"))
-        # elif not os.path.exists(f'goat_grade/gg_{year}.json'):
-        #     GOAT_GRADE(year, folder="goat_grade/", file_name=f"gg_{str(year)}")
+        if (current_month in NBA_SEASON) and ((current_month in [10, 11, 12] and current_year + 1 == year) or (current_month in [1, 2, 3, 4, 5, 6] and current_year == year)):
+            GOAT_GRADE(year, folder="goat_grade/", file_name=f"gg_{str(year)}")  
+            # f = open("last_update.txt", "w")
+            # f.write(current_day + "\n" + today.strftime("%b %d %Y %H:%M:%S"))
+        elif not os.path.exists(f'goat_grade/gg_{year}.json'):
+            GOAT_GRADE(year, folder="goat_grade/", file_name=f"gg_{str(year)}")  
+
     except TypeError:
         return f"{year} is not a valid season!"
 

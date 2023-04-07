@@ -15,9 +15,10 @@
         "WS/48": 16,
         "eFG%": 20,
         "G": 24,
-        "grade": 3.35,
+        "grade": 86.04,
         "name": "Paul Arizin",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jim Baechtold": {
         "PTS": 17,
@@ -35,9 +36,10 @@
         "WS/48": 24,
         "eFG%": 18,
         "G": 23,
-        "grade": 4.73,
+        "grade": 79.76,
         "name": "Jim Baechtold",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Don Barksdale*": {
         "PTS": 34,
@@ -55,9 +57,10 @@
         "WS/48": 52,
         "eFG%": 37,
         "G": 22,
-        "grade": 8.59,
+        "grade": 62.2,
         "name": "Don Barksdale",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Brannum": {
         "PTS": 57,
@@ -75,9 +78,10 @@
         "WS/48": 64,
         "eFG%": 43,
         "G": 34,
-        "grade": 10.25,
+        "grade": 54.66,
         "name": "Bob Brannum",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Carl Braun*": {
         "PTS": 13,
@@ -95,9 +99,10 @@
         "WS/48": 37,
         "eFG%": 29,
         "G": 33,
-        "grade": 5.8,
+        "grade": 74.88,
         "name": "Carl Braun",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Frankie Brian": {
         "PTS": 40,
@@ -115,9 +120,10 @@
         "WS/48": 21,
         "eFG%": 40,
         "G": 32,
-        "grade": 7.84,
+        "grade": 65.62,
         "name": "Frankie Brian",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bill Calhoun": {
         "PTS": 53,
@@ -135,9 +141,10 @@
         "WS/48": 61,
         "eFG%": 79,
         "G": 45,
-        "grade": 11.79,
+        "grade": 47.68,
         "name": "Bill Calhoun",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Carney": {
         "PTS": 76,
@@ -155,9 +162,10 @@
         "WS/48": 51,
         "eFG%": 46,
         "G": 78,
-        "grade": 13.85,
+        "grade": 38.3,
         "name": "Bob Carney",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Cal Christensen": {
         "PTS": 67,
@@ -175,9 +183,10 @@
         "WS/48": 47,
         "eFG%": 47,
         "G": 31,
-        "grade": 10.42,
+        "grade": 53.9,
         "name": "Cal Christensen",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Nat Clifton*": {
         "PTS": 21,
@@ -195,9 +204,10 @@
         "WS/48": 46,
         "eFG%": 31,
         "G": 21,
-        "grade": 6.6,
+        "grade": 71.27,
         "name": "Nat Clifton",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jack Coleman": {
         "PTS": 22,
@@ -215,9 +225,10 @@
         "WS/48": 23,
         "eFG%": 3,
         "G": 20,
-        "grade": 3.95,
+        "grade": 83.31,
         "name": "Jack Coleman",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bert Cook": {
         "PTS": 78,
@@ -235,9 +246,10 @@
         "WS/48": 77,
         "eFG%": 76,
         "G": 72,
-        "grade": 15.71,
+        "grade": 29.87,
         "name": "Bert Cook",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Chuck Cooper*": {
         "PTS": 46,
@@ -255,9 +267,10 @@
         "WS/48": 49,
         "eFG%": 69,
         "G": 41,
-        "grade": 9.96,
+        "grade": 55.99,
         "name": "Chuck Cooper",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Larry Costello*": {
         "PTS": 56,
@@ -275,9 +288,10 @@
         "WS/48": 70,
         "eFG%": 71,
         "G": 77,
-        "grade": 12.57,
+        "grade": 44.13,
         "name": "Larry Costello",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Cousy*": {
         "PTS": 2,
@@ -295,9 +309,10 @@
         "WS/48": 17,
         "eFG%": 22,
         "G": 30,
-        "grade": 3.39,
+        "grade": 85.85,
         "name": "Bob Cousy",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Davies*": {
         "PTS": 23,
@@ -315,9 +330,10 @@
         "WS/48": 18,
         "eFG%": 15,
         "G": 19,
-        "grade": 5.31,
+        "grade": 77.1,
         "name": "Bob Davies",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Walt Davis": {
         "PTS": 81,
@@ -335,9 +351,10 @@
         "WS/48": 53,
         "eFG%": 34,
         "G": 60,
-        "grade": 12.01,
+        "grade": 46.67,
         "name": "Walt Davis",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "George Dempsey": {
         "PTS": 50,
@@ -355,9 +372,10 @@
         "WS/48": 55,
         "eFG%": 60,
         "G": 69,
-        "grade": 10.56,
+        "grade": 53.26,
         "name": "George Dempsey",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Dick Farley": {
         "PTS": 60,
@@ -375,9 +393,10 @@
         "WS/48": 19,
         "eFG%": 33,
         "G": 44,
-        "grade": 9.35,
+        "grade": 58.78,
         "name": "Dick Farley",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Ray Felix": {
         "PTS": 16,
@@ -395,9 +414,10 @@
         "WS/48": 9,
         "eFG%": 7,
         "G": 18,
-        "grade": 4.55,
+        "grade": 80.59,
         "name": "Ray Felix",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Danny Finn": {
         "PTS": 69,
@@ -415,9 +435,10 @@
         "WS/48": 79,
         "eFG%": 80,
         "G": 70,
-        "grade": 14.37,
+        "grade": 35.95,
         "name": "Danny Finn",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Larry Foust": {
         "PTS": 12,
@@ -435,9 +456,10 @@
         "WS/48": 1,
         "eFG%": 1,
         "G": 40,
-        "grade": 2.69,
+        "grade": 89.02,
         "name": "Larry Foust",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Harry Gallatin*": {
         "PTS": 15,
@@ -455,9 +477,10 @@
         "WS/48": 14,
         "eFG%": 35,
         "G": 17,
-        "grade": 3.64,
+        "grade": 84.71,
         "name": "Harry Gallatin",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jack George": {
         "PTS": 27,
@@ -475,9 +498,10 @@
         "WS/48": 45,
         "eFG%": 32,
         "G": 49,
-        "grade": 7.32,
+        "grade": 67.97,
         "name": "Jack George",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Joe Graboski": {
         "PTS": 19,
@@ -495,9 +519,10 @@
         "WS/48": 75,
         "eFG%": 68,
         "G": 39,
-        "grade": 10.56,
+        "grade": 53.26,
         "name": "Joe Graboski",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Alex Hannum*": {
         "PTS": 59,
@@ -515,9 +540,10 @@
         "WS/48": 69,
         "eFG%": 62,
         "G": 67,
-        "grade": 12.92,
+        "grade": 42.55,
         "name": "Alex Hannum",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Rollen Hans": {
         "PTS": 63,
@@ -535,9 +561,10 @@
         "WS/48": 74,
         "eFG%": 4,
         "G": 82,
-        "grade": 11.73,
+        "grade": 47.94,
         "name": "Rollen Hans",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Harrison": {
         "PTS": 37,
@@ -555,9 +582,10 @@
         "WS/48": 78,
         "eFG%": 67,
         "G": 16,
-        "grade": 11.86,
+        "grade": 47.36,
         "name": "Bob Harrison",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Don Henriksen": {
         "PTS": 64,
@@ -575,9 +603,10 @@
         "WS/48": 60,
         "eFG%": 61,
         "G": 66,
-        "grade": 11.87,
+        "grade": 47.3,
         "name": "Don Henriksen",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Lew Hitch": {
         "PTS": 62,
@@ -595,9 +624,10 @@
         "WS/48": 7,
         "eFG%": 2,
         "G": 79,
-        "grade": 7.73,
+        "grade": 66.13,
         "name": "Lew Hitch",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Paul Hoffman": {
         "PTS": 84,
@@ -615,9 +645,10 @@
         "WS/48": 81,
         "eFG%": 81,
         "G": 84,
-        "grade": 15.94,
+        "grade": 28.79,
         "name": "Paul Hoffman",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jim Holstein": {
         "PTS": 70,
@@ -635,9 +666,10 @@
         "WS/48": 72,
         "eFG%": 74,
         "G": 59,
-        "grade": 14.28,
+        "grade": 36.33,
         "name": "Jim Holstein",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Houbregs*": {
         "PTS": 55,
@@ -655,9 +687,10 @@
         "WS/48": 32,
         "eFG%": 26,
         "G": 68,
-        "grade": 9.12,
+        "grade": 59.79,
         "name": "Bob Houbregs",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Mel Hutchins": {
         "PTS": 24,
@@ -675,9 +708,10 @@
         "WS/48": 50,
         "eFG%": 42,
         "G": 15,
-        "grade": 6.68,
+        "grade": 70.89,
         "name": "Mel Hutchins",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Neil Johnston*": {
         "PTS": 1,
@@ -695,9 +729,10 @@
         "WS/48": 2,
         "eFG%": 6,
         "G": 14,
-        "grade": 1.42,
+        "grade": 94.79,
         "name": "Neil Johnston",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Ed Kalafat": {
         "PTS": 68,
@@ -715,9 +750,10 @@
         "WS/48": 66,
         "eFG%": 77,
         "G": 13,
-        "grade": 13.19,
+        "grade": 41.28,
         "name": "Ed Kalafat",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Billy Kenville": {
         "PTS": 51,
@@ -735,9 +771,10 @@
         "WS/48": 33,
         "eFG%": 57,
         "G": 38,
-        "grade": 9.32,
+        "grade": 58.9,
         "name": "Billy Kenville",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Red Kerr": {
         "PTS": 33,
@@ -755,9 +792,10 @@
         "WS/48": 13,
         "eFG%": 13,
         "G": 12,
-        "grade": 5.79,
+        "grade": 74.94,
         "name": "Red Kerr",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "George King": {
         "PTS": 45,
@@ -775,9 +813,10 @@
         "WS/48": 38,
         "eFG%": 45,
         "G": 52,
-        "grade": 8.86,
+        "grade": 61.0,
         "name": "George King",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Earl Lloyd*": {
         "PTS": 36,
@@ -795,9 +834,10 @@
         "WS/48": 41,
         "eFG%": 54,
         "G": 11,
-        "grade": 8.26,
+        "grade": 63.72,
         "name": "Earl Lloyd",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Clyde Lovellette*": {
         "PTS": 6,
@@ -815,9 +855,10 @@
         "WS/48": 8,
         "eFG%": 8,
         "G": 37,
-        "grade": 3.79,
+        "grade": 84.01,
         "name": "Clyde Lovellette",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Ed Macauley*": {
         "PTS": 10,
@@ -835,9 +876,10 @@
         "WS/48": 12,
         "eFG%": 10,
         "G": 29,
-        "grade": 2.76,
+        "grade": 88.7,
         "name": "Ed Macauley",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Tom Marshall": {
         "PTS": 47,
@@ -855,9 +897,10 @@
         "WS/48": 22,
         "eFG%": 5,
         "G": 10,
-        "grade": 6.97,
+        "grade": 69.56,
         "name": "Tom Marshall",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Slater Martin*": {
         "PTS": 18,
@@ -875,9 +918,10 @@
         "WS/48": 31,
         "eFG%": 38,
         "G": 9,
-        "grade": 5.38,
+        "grade": 76.78,
         "name": "Slater Martin",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Ken McBride": {
         "PTS": 39,
@@ -895,9 +939,10 @@
         "WS/48": 82,
         "eFG%": 73,
         "G": 83,
-        "grade": 14.62,
+        "grade": 34.81,
         "name": "Ken McBride",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Dick McGuire*": {
         "PTS": 43,
@@ -915,9 +960,10 @@
         "WS/48": 28,
         "eFG%": 27,
         "G": 28,
-        "grade": 6.28,
+        "grade": 72.73,
         "name": "Dick McGuire",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jack McMahon": {
         "PTS": 44,
@@ -935,9 +981,10 @@
         "WS/48": 76,
         "eFG%": 65,
         "G": 8,
-        "grade": 12.04,
+        "grade": 46.54,
         "name": "Jack McMahon",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Monk Meineke": {
         "PTS": 61,
@@ -955,9 +1002,10 @@
         "WS/48": 39,
         "eFG%": 48,
         "G": 48,
-        "grade": 10.78,
+        "grade": 52.25,
         "name": "Monk Meineke",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Vern Mikkelsen*": {
         "PTS": 5,
@@ -975,9 +1023,10 @@
         "WS/48": 5,
         "eFG%": 12,
         "G": 27,
-        "grade": 2.86,
+        "grade": 88.26,
         "name": "Vern Mikkelsen",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jackie Moore": {
         "PTS": 66,
@@ -995,9 +1044,10 @@
         "WS/48": 57,
         "eFG%": 25,
         "G": 75,
-        "grade": 11.77,
+        "grade": 47.75,
         "name": "Jackie Moore",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Red Morrison": {
         "PTS": 73,
@@ -1015,9 +1065,10 @@
         "WS/48": 48,
         "eFG%": 11,
         "G": 26,
-        "grade": 9.02,
+        "grade": 60.24,
         "name": "Red Morrison",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Ken Murray": {
         "PTS": 52,
@@ -1035,9 +1086,10 @@
         "WS/48": 68,
         "eFG%": 66,
         "G": 63,
-        "grade": 11.93,
+        "grade": 47.05,
         "name": "Ken Murray",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jim Neal": {
         "PTS": 80,
@@ -1055,9 +1107,10 @@
         "WS/48": 73,
         "eFG%": 83,
         "G": 81,
-        "grade": 15.86,
+        "grade": 29.17,
         "name": "Jim Neal",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jack Nichols": {
         "PTS": 38,
@@ -1075,9 +1128,10 @@
         "WS/48": 58,
         "eFG%": 39,
         "G": 57,
-        "grade": 8.79,
+        "grade": 61.31,
         "name": "Jack Nichols",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Wally Osterkorn": {
         "PTS": 79,
@@ -1095,9 +1149,10 @@
         "WS/48": 84,
         "eFG%": 82,
         "G": 76,
-        "grade": 16.36,
+        "grade": 26.89,
         "name": "Wally Osterkorn",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Peterson": {
         "PTS": 75,
@@ -1115,9 +1170,10 @@
         "WS/48": 59,
         "eFG%": 53,
         "G": 71,
-        "grade": 13.35,
+        "grade": 40.58,
         "name": "Bob Peterson",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bob Pettit*": {
         "PTS": 4,
@@ -1135,9 +1191,10 @@
         "WS/48": 6,
         "eFG%": 17,
         "G": 7,
-        "grade": 2.3,
+        "grade": 90.79,
         "name": "Bob Pettit",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Andy Phillip*": {
         "PTS": 41,
@@ -1155,9 +1212,10 @@
         "WS/48": 25,
         "eFG%": 50,
         "G": 56,
-        "grade": 7.09,
+        "grade": 69.05,
         "name": "Andy Phillip",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jim Pollard*": {
         "PTS": 32,
@@ -1175,9 +1233,10 @@
         "WS/48": 56,
         "eFG%": 59,
         "G": 58,
-        "grade": 9.11,
+        "grade": 59.85,
         "name": "Jim Pollard",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Frank Ramsey*": {
         "PTS": 30,
@@ -1195,9 +1254,10 @@
         "WS/48": 27,
         "eFG%": 19,
         "G": 55,
-        "grade": 6.23,
+        "grade": 72.92,
         "name": "Frank Ramsey",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Arnie Risen*": {
         "PTS": 26,
@@ -1215,9 +1275,10 @@
         "WS/48": 36,
         "eFG%": 49,
         "G": 43,
-        "grade": 7.43,
+        "grade": 67.46,
         "name": "Arnie Risen",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Red Rocha": {
         "PTS": 28,
@@ -1235,9 +1296,10 @@
         "WS/48": 35,
         "eFG%": 52,
         "G": 6,
-        "grade": 6.74,
+        "grade": 70.63,
         "name": "Red Rocha",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Dick Rosenthal": {
         "PTS": 49,
@@ -1255,9 +1317,10 @@
         "WS/48": 40,
         "eFG%": 44,
         "G": 51,
-        "grade": 9.01,
+        "grade": 60.3,
         "name": "Dick Rosenthal",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Pep Saul": {
         "PTS": 72,
@@ -1275,9 +1338,10 @@
         "WS/48": 63,
         "eFG%": 75,
         "G": 54,
-        "grade": 13.24,
+        "grade": 41.09,
         "name": "Pep Saul",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Dolph Schayes*": {
         "PTS": 7,
@@ -1295,9 +1359,10 @@
         "WS/48": 4,
         "eFG%": 36,
         "G": 5,
-        "grade": 2.79,
+        "grade": 88.58,
         "name": "Dolph Schayes",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Dick Schnittker": {
         "PTS": 35,
@@ -1315,9 +1380,10 @@
         "WS/48": 11,
         "eFG%": 28,
         "G": 4,
-        "grade": 5.13,
+        "grade": 77.92,
         "name": "Dick Schnittker",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Fred Scolari": {
         "PTS": 77,
@@ -1335,9 +1401,10 @@
         "WS/48": 80,
         "eFG%": 78,
         "G": 64,
-        "grade": 15.12,
+        "grade": 32.53,
         "name": "Fred Scolari",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Frank Selvy": {
         "PTS": 9,
@@ -1355,9 +1422,10 @@
         "WS/48": 20,
         "eFG%": 41,
         "G": 62,
-        "grade": 5.84,
+        "grade": 74.69,
         "name": "Frank Selvy",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Paul Seymour": {
         "PTS": 14,
@@ -1375,9 +1443,10 @@
         "WS/48": 30,
         "eFG%": 55,
         "G": 3,
-        "grade": 5.45,
+        "grade": 76.47,
         "name": "Paul Seymour",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Chuck Share": {
         "PTS": 25,
@@ -1395,9 +1464,10 @@
         "WS/48": 3,
         "eFG%": 16,
         "G": 42,
-        "grade": 4.6,
+        "grade": 80.33,
         "name": "Chuck Share",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bill Sharman*": {
         "PTS": 8,
@@ -1415,9 +1485,10 @@
         "WS/48": 15,
         "eFG%": 9,
         "G": 47,
-        "grade": 3.63,
+        "grade": 84.77,
         "name": "Bill Sharman",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Gene Shue": {
         "PTS": 71,
@@ -1435,9 +1506,10 @@
         "WS/48": 67,
         "eFG%": 58,
         "G": 65,
-        "grade": 13.04,
+        "grade": 41.98,
         "name": "Gene Shue",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Connie Simmons": {
         "PTS": 48,
@@ -1455,9 +1527,10 @@
         "WS/48": 65,
         "eFG%": 64,
         "G": 73,
-        "grade": 12.71,
+        "grade": 43.5,
         "name": "Connie Simmons",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Whitey Skoog": {
         "PTS": 31,
@@ -1475,9 +1548,10 @@
         "WS/48": 44,
         "eFG%": 24,
         "G": 2,
-        "grade": 6.25,
+        "grade": 72.85,
         "name": "Whitey Skoog",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Odie Spears": {
         "PTS": 42,
@@ -1495,9 +1569,10 @@
         "WS/48": 34,
         "eFG%": 30,
         "G": 25,
-        "grade": 7.03,
+        "grade": 69.3,
         "name": "Odie Spears",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Art Spoelstra": {
         "PTS": 58,
@@ -1515,9 +1590,10 @@
         "WS/48": 43,
         "eFG%": 21,
         "G": 36,
-        "grade": 9.51,
+        "grade": 58.02,
         "name": "Art Spoelstra",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jim Tucker": {
         "PTS": 65,
@@ -1535,9 +1611,10 @@
         "WS/48": 54,
         "eFG%": 70,
         "G": 74,
-        "grade": 13.47,
+        "grade": 40.01,
         "name": "Jim Tucker",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Jack Turner": {
         "PTS": 74,
@@ -1555,9 +1632,10 @@
         "WS/48": 62,
         "eFG%": 56,
         "G": 53,
-        "grade": 12.54,
+        "grade": 44.26,
         "name": "Jack Turner",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Paul Walther": {
         "PTS": 82,
@@ -1575,9 +1653,10 @@
         "WS/48": 42,
         "eFG%": 63,
         "G": 46,
-        "grade": 12.73,
+        "grade": 43.37,
         "name": "Paul Walther",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bobby Wanzer*": {
         "PTS": 20,
@@ -1595,9 +1674,10 @@
         "WS/48": 29,
         "eFG%": 23,
         "G": 1,
-        "grade": 4.7,
+        "grade": 79.89,
         "name": "Bobby Wanzer",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Bobby Watson": {
         "PTS": 83,
@@ -1615,9 +1695,10 @@
         "WS/48": 83,
         "eFG%": 84,
         "G": 80,
-        "grade": 15.59,
+        "grade": 30.37,
         "name": "Bobby Watson",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "George Yardley*": {
         "PTS": 11,
@@ -1635,9 +1716,10 @@
         "WS/48": 10,
         "eFG%": 14,
         "G": 61,
-        "grade": 4.04,
+        "grade": 82.87,
         "name": "George Yardley",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Max Zaslofsky": {
         "PTS": 29,
@@ -1655,9 +1737,10 @@
         "WS/48": 71,
         "eFG%": 72,
         "G": 35,
-        "grade": 11.55,
+        "grade": 48.76,
         "name": "Max Zaslofsky",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     },
     "Zeke Zawoluk": {
         "PTS": 54,
@@ -1675,8 +1758,9 @@
         "WS/48": 26,
         "eFG%": 51,
         "G": 50,
-        "grade": 9.36,
+        "grade": 58.71,
         "name": "Zeke Zawoluk",
-        "league_grade": 5.69
+        "league_grade": 62.59,
+        "year": 1955
     }
 }

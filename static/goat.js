@@ -12,7 +12,7 @@ $(document).ready(function(){
 
         $.each(players, function(title, values){
             if (title == 0) {
-                $("#goat_grade").append(`<div><b><p>Season ${values.year}: ${values.league_grade}</p></b></div>`)
+                $("#goat_grade").append(`<div><b><p>Season ${values.year - 1}-${values.year}: ${values.league_grade}</p></b></div>`)
             }
 
 

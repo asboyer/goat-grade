@@ -14,11 +14,12 @@
         "DWS": 90,
         "WS/48": 62,
         "eFG%": 22,
-        "G": 61,
-        "grade": 63.6,
+        "grade": 64.55,
         "name": "Jim Baechtold",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 64,
+        "team": "BLB"
     },
     "Don Barksdale*": {
         "PTS": 14,
@@ -35,11 +36,12 @@
         "DWS": 81,
         "WS/48": 65,
         "eFG%": 25,
-        "G": 58,
-        "grade": 68.87,
+        "grade": 70.01,
         "name": "Don Barksdale",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 65,
+        "team": "BLB"
     },
     "Leo Barnhorst": {
         "PTS": 15,
@@ -56,11 +58,12 @@
         "DWS": 12,
         "WS/48": 57,
         "eFG%": 23,
-        "G": 9,
-        "grade": 75.63,
+        "grade": 74.35,
         "name": "Leo Barnhorst",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "INO"
     },
     "Nelson Bobb": {
         "PTS": 68,
@@ -77,11 +80,12 @@
         "DWS": 71,
         "WS/48": 59,
         "eFG%": 42,
-        "G": 73,
-        "grade": 54.95,
+        "grade": 56.0,
         "name": "Nelson Bobb",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 55,
+        "team": "PHW"
     },
     "Vince Boryla": {
         "PTS": 44,
@@ -98,11 +102,12 @@
         "DWS": 39,
         "WS/48": 54,
         "eFG%": 43,
-        "G": 55,
-        "grade": 64.16,
+        "grade": 64.79,
         "name": "Vince Boryla",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 66,
+        "team": "NYK"
     },
     "Don Boven": {
         "PTS": 70,
@@ -119,11 +124,12 @@
         "DWS": 92,
         "WS/48": 83,
         "eFG%": 88,
-        "G": 95,
-        "grade": 34.83,
+        "grade": 35.74,
         "name": "Don Boven",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 17,
+        "team": "FTW"
     },
     "Bob Brannum": {
         "PTS": 63,
@@ -140,11 +146,12 @@
         "DWS": 47,
         "WS/48": 85,
         "eFG%": 67,
-        "G": 8,
-        "grade": 49.08,
+        "grade": 45.84,
         "name": "Bob Brannum",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "BOS"
     },
     "Jim Brasco": {
         "PTS": 87,
@@ -161,11 +168,12 @@
         "DWS": 99,
         "WS/48": 82,
         "eFG%": 96,
-        "G": 101,
-        "grade": 29.57,
+        "grade": 30.46,
         "name": "Jim Brasco",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 10,
+        "team": "MLH"
     },
     "Carl Braun*": {
         "PTS": 13,
@@ -182,11 +190,12 @@
         "DWS": 27,
         "WS/48": 11,
         "eFG%": 17,
-        "G": 28,
-        "grade": 84.61,
+        "grade": 85.1,
         "name": "Carl Braun",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "NYK"
     },
     "Frankie Brian": {
         "PTS": 35,
@@ -203,11 +212,12 @@
         "DWS": 59,
         "WS/48": 56,
         "eFG%": 64,
-        "G": 45,
-        "grade": 57.06,
+        "grade": 56.59,
         "name": "Frankie Brian",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "FTW"
     },
     "Dick Bunt": {
         "PTS": 88,
@@ -224,11 +234,12 @@
         "DWS": 101,
         "WS/48": 90,
         "eFG%": 84,
-        "G": 100,
-        "grade": 29.51,
+        "grade": 30.34,
         "name": "Dick Bunt",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 12,
+        "team": "BLB"
     },
     "Bill Calhoun": {
         "PTS": 40,
@@ -245,11 +256,12 @@
         "DWS": 32,
         "WS/48": 47,
         "eFG%": 72,
-        "G": 76,
-        "grade": 60.44,
+        "grade": 62.05,
         "name": "Bill Calhoun",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 49,
+        "team": "MLH"
     },
     "Cal Christensen": {
         "PTS": 97,
@@ -266,11 +278,12 @@
         "DWS": 69,
         "WS/48": 84,
         "eFG%": 94,
-        "G": 70,
-        "grade": 29.46,
+        "grade": 28.5,
         "name": "Cal Christensen",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 59,
+        "team": "ROC"
     },
     "Nat Clifton*": {
         "PTS": 37,
@@ -287,11 +300,12 @@
         "DWS": 6,
         "WS/48": 66,
         "eFG%": 71,
-        "G": 27,
-        "grade": 59.39,
+        "grade": 58.01,
         "name": "Nat Clifton",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "NYK"
     },
     "Jack Coleman": {
         "PTS": 32,
@@ -308,11 +322,12 @@
         "DWS": 9,
         "WS/48": 32,
         "eFG%": 9,
-        "G": 26,
-        "grade": 82.23,
+        "grade": 82.42,
         "name": "Jack Coleman",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "ROC"
     },
     "Gene Conley": {
         "PTS": 101,
@@ -329,11 +344,12 @@
         "DWS": 89,
         "WS/48": 91,
         "eFG%": 87,
-        "G": 84,
-        "grade": 28.02,
+        "grade": 27.79,
         "name": "Gene Conley",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 39,
+        "team": "BOS"
     },
     "Chuck Cooper*": {
         "PTS": 64,
@@ -350,11 +366,12 @@
         "DWS": 58,
         "WS/48": 75,
         "eFG%": 74,
-        "G": 25,
-        "grade": 51.74,
+        "grade": 49.7,
         "name": "Chuck Cooper",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "BOS"
     },
     "Bob Cousy*": {
         "PTS": 4,
@@ -371,11 +388,12 @@
         "DWS": 26,
         "WS/48": 34,
         "eFG%": 62,
-        "G": 7,
-        "grade": 80.12,
+        "grade": 79.04,
         "name": "Bob Cousy",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "BOS"
     },
     "Dillard Crocker": {
         "PTS": 79,
@@ -392,11 +410,12 @@
         "DWS": 68,
         "WS/48": 22,
         "eFG%": 61,
-        "G": 67,
-        "grade": 48.19,
+        "grade": 48.39,
         "name": "Dillard Crocker",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 61,
+        "team": "MLH"
     },
     "Bob Davies*": {
         "PTS": 8,
@@ -413,11 +432,12 @@
         "DWS": 38,
         "WS/48": 14,
         "eFG%": 27,
-        "G": 54,
-        "grade": 79.45,
+        "grade": 81.12,
         "name": "Bob Davies",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 66,
+        "team": "ROC"
     },
     "Bob Donham": {
         "PTS": 66,
@@ -434,11 +454,12 @@
         "DWS": 67,
         "WS/48": 26,
         "eFG%": 1,
-        "G": 6,
-        "grade": 69.31,
+        "grade": 67.4,
         "name": "Bob Donham",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "BOS"
     },
     "Dike Eddleman": {
         "PTS": 49,
@@ -455,11 +476,12 @@
         "DWS": 54,
         "WS/48": 92,
         "eFG%": 63,
-        "G": 38,
-        "grade": 41.26,
+        "grade": 39.25,
         "name": "Dike Eddleman",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "FTW"
     },
     "Danny Finn": {
         "PTS": 24,
@@ -476,11 +498,12 @@
         "DWS": 75,
         "WS/48": 94,
         "eFG%": 83,
-        "G": 87,
-        "grade": 43.7,
+        "grade": 44.77,
         "name": "Danny Finn",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 31,
+        "team": "PHW"
     },
     "Jerry Fleishman": {
         "PTS": 48,
@@ -497,11 +520,12 @@
         "DWS": 80,
         "WS/48": 81,
         "eFG%": 82,
-        "G": 85,
-        "grade": 45.97,
+        "grade": 47.09,
         "name": "Jerry Fleishman",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 33,
+        "team": "PHW"
     },
     "Larry Foust": {
         "PTS": 11,
@@ -518,11 +542,12 @@
         "DWS": 14,
         "WS/48": 23,
         "eFG%": 53,
-        "G": 50,
-        "grade": 75.08,
+        "grade": 76.19,
         "name": "Larry Foust",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 67,
+        "team": "FTW"
     },
     "Joe Fulks*": {
         "PTS": 23,
@@ -539,11 +564,12 @@
         "DWS": 63,
         "WS/48": 93,
         "eFG%": 68,
-        "G": 24,
-        "grade": 49.24,
+        "grade": 46.97,
         "name": "Joe Fulks",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "PHW"
     },
     "Bill Gabor": {
         "PTS": 47,
@@ -560,11 +586,12 @@
         "DWS": 60,
         "WS/48": 42,
         "eFG%": 65,
-        "G": 37,
-        "grade": 55.34,
+        "grade": 54.27,
         "name": "Bill Gabor",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "SYR"
     },
     "Harry Gallatin*": {
         "PTS": 19,
@@ -581,11 +608,12 @@
         "DWS": 5,
         "WS/48": 6,
         "eFG%": 4,
-        "G": 23,
-        "grade": 87.71,
+        "grade": 88.13,
         "name": "Harry Gallatin",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "NYK"
     },
     "Joe Graboski": {
         "PTS": 18,
@@ -602,11 +630,12 @@
         "DWS": 11,
         "WS/48": 41,
         "eFG%": 73,
-        "G": 36,
-        "grade": 68.87,
+        "grade": 68.7,
         "name": "Joe Graboski",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "INO"
     },
     "Dick Groat": {
         "PTS": 22,
@@ -623,11 +652,12 @@
         "DWS": 74,
         "WS/48": 19,
         "eFG%": 46,
-        "G": 89,
-        "grade": 64.1,
+        "grade": 66.75,
         "name": "Dick Groat",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 26,
+        "team": "FTW"
     },
     "Alex Hannum*": {
         "PTS": 84,
@@ -644,11 +674,12 @@
         "DWS": 53,
         "WS/48": 69,
         "eFG%": 56,
-        "G": 44,
-        "grade": 46.2,
+        "grade": 44.89,
         "name": "Alex Hannum",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "ROC"
     },
     "Bob Harris": {
         "PTS": 58,
@@ -665,11 +696,12 @@
         "DWS": 52,
         "WS/48": 51,
         "eFG%": 11,
-        "G": 22,
-        "grade": 66.43,
+        "grade": 65.26,
         "name": "Bob Harris",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "BOS"
     },
     "Bob Harrison": {
         "PTS": 62,
@@ -686,11 +718,12 @@
         "DWS": 37,
         "WS/48": 50,
         "eFG%": 39,
-        "G": 21,
-        "grade": 56.67,
+        "grade": 54.75,
         "name": "Bob Harrison",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "MNL"
     },
     "Don Henriksen": {
         "PTS": 51,
@@ -707,11 +740,12 @@
         "DWS": 85,
         "WS/48": 60,
         "eFG%": 10,
-        "G": 43,
-        "grade": 67.43,
+        "grade": 67.58,
         "name": "Don Henriksen",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "BLB"
     },
     "Lew Hitch": {
         "PTS": 96,
@@ -728,11 +762,12 @@
         "DWS": 40,
         "WS/48": 40,
         "eFG%": 66,
-        "G": 20,
-        "grade": 48.08,
+        "grade": 45.48,
         "name": "Lew Hitch",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "MNL"
     },
     "Paul Hoffman": {
         "PTS": 43,
@@ -749,11 +784,12 @@
         "DWS": 84,
         "WS/48": 73,
         "eFG%": 49,
-        "G": 35,
-        "grade": 59.83,
+        "grade": 58.97,
         "name": "Paul Hoffman",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "BLB"
     },
     "Jim Holstein": {
         "PTS": 91,
@@ -770,11 +806,12 @@
         "DWS": 51,
         "WS/48": 49,
         "eFG%": 55,
-        "G": 53,
-        "grade": 45.97,
+        "grade": 45.19,
         "name": "Jim Holstein",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 66,
+        "team": "MNL"
     },
     "Mel Hutchins": {
         "PTS": 25,
@@ -791,11 +828,12 @@
         "DWS": 2,
         "WS/48": 37,
         "eFG%": 34,
-        "G": 5,
-        "grade": 78.07,
+        "grade": 76.72,
         "name": "Mel Hutchins",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "MLH"
     },
     "Arnie Johnson": {
         "PTS": 52,
@@ -812,11 +850,12 @@
         "DWS": 31,
         "WS/48": 12,
         "eFG%": 33,
-        "G": 19,
-        "grade": 77.4,
+        "grade": 76.84,
         "name": "Arnie Johnson",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "ROC"
     },
     "Neil Johnston*": {
         "PTS": 1,
@@ -833,11 +872,12 @@
         "DWS": 35,
         "WS/48": 5,
         "eFG%": 3,
-        "G": 18,
-        "grade": 92.2,
+        "grade": 92.64,
         "name": "Neil Johnston",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "PHW"
     },
     "Noble Jorgensen": {
         "PTS": 67,
@@ -854,11 +894,12 @@
         "DWS": 50,
         "WS/48": 67,
         "eFG%": 78,
-        "G": 17,
-        "grade": 47.19,
+        "grade": 44.36,
         "name": "Noble Jorgensen",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "SYR"
     },
     "George Kaftan": {
         "PTS": 73,
@@ -875,11 +916,12 @@
         "DWS": 98,
         "WS/48": 95,
         "eFG%": 93,
-        "G": 91,
-        "grade": 30.79,
+        "grade": 31.17,
         "name": "George Kaftan",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 23,
+        "team": "BLB"
     },
     "Jack Kerris": {
         "PTS": 76,
@@ -896,11 +938,12 @@
         "DWS": 97,
         "WS/48": 48,
         "eFG%": 5,
-        "G": 94,
-        "grade": 62.16,
+        "grade": 64.96,
         "name": "Jack Kerris",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 17,
+        "team": "BLB"
     },
     "George King": {
         "PTS": 30,
@@ -917,11 +960,12 @@
         "DWS": 17,
         "WS/48": 17,
         "eFG%": 14,
-        "G": 4,
-        "grade": 82.61,
+        "grade": 81.53,
         "name": "George King",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "SYR"
     },
     "Frank Kudelka": {
         "PTS": 89,
@@ -938,11 +982,12 @@
         "DWS": 94,
         "WS/48": 99,
         "eFG%": 98,
-        "G": 92,
-        "grade": 26.68,
+        "grade": 26.84,
         "name": "Frank Kudelka",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 20,
+        "team": "PHW"
     },
     "Bob Lavoy": {
         "PTS": 50,
@@ -959,11 +1004,12 @@
         "DWS": 19,
         "WS/48": 33,
         "eFG%": 13,
-        "G": 16,
-        "grade": 76.85,
+        "grade": 76.07,
         "name": "Bob Lavoy",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "INO"
     },
     "Earl Lloyd*": {
         "PTS": 57,
@@ -980,11 +1026,12 @@
         "DWS": 25,
         "WS/48": 53,
         "eFG%": 69,
-        "G": 60,
-        "grade": 53.68,
+        "grade": 53.86,
         "name": "Earl Lloyd",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 64,
+        "team": "SYR"
     },
     "Bob Lochmueller": {
         "PTS": 95,
@@ -1001,11 +1048,12 @@
         "DWS": 66,
         "WS/48": 80,
         "eFG%": 90,
-        "G": 63,
-        "grade": 29.73,
+        "grade": 28.38,
         "name": "Bob Lochmueller",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 62,
+        "team": "SYR"
     },
     "Don Lofgran": {
         "PTS": 56,
@@ -1022,11 +1070,12 @@
         "DWS": 65,
         "WS/48": 89,
         "eFG%": 81,
-        "G": 59,
-        "grade": 42.65,
+        "grade": 41.98,
         "name": "Don Lofgran",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 64,
+        "team": "PHW"
     },
     "Ray Lumpp": {
         "PTS": 42,
@@ -1043,11 +1092,12 @@
         "DWS": 91,
         "WS/48": 64,
         "eFG%": 35,
-        "G": 75,
-        "grade": 58.28,
+        "grade": 59.68,
         "name": "Ray Lumpp",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 49,
+        "team": "BLB"
     },
     "Ed Macauley*": {
         "PTS": 3,
@@ -1064,11 +1114,12 @@
         "DWS": 34,
         "WS/48": 2,
         "eFG%": 2,
-        "G": 34,
-        "grade": 93.26,
+        "grade": 94.72,
         "name": "Ed Macauley",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "BOS"
     },
     "John Mahnken": {
         "PTS": 99,
@@ -1085,11 +1136,12 @@
         "DWS": 79,
         "WS/48": 97,
         "eFG%": 97,
-        "G": 33,
-        "grade": 29.07,
+        "grade": 25.88,
         "name": "John Mahnken",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "BOS"
     },
     "Slater Martin*": {
         "PTS": 36,
@@ -1106,11 +1158,12 @@
         "DWS": 16,
         "WS/48": 18,
         "eFG%": 12,
-        "G": 15,
-        "grade": 82.45,
+        "grade": 82.01,
         "name": "Slater Martin",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "MNL"
     },
     "Al Masino": {
         "PTS": 78,
@@ -1127,11 +1180,12 @@
         "DWS": 36,
         "WS/48": 70,
         "eFG%": 75,
-        "G": 1,
-        "grade": 46.25,
+        "grade": 42.4,
         "name": "Al Masino",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 72,
+        "team": "MLH"
     },
     "Bucky McConnell": {
         "PTS": 85,
@@ -1148,11 +1202,12 @@
         "DWS": 88,
         "WS/48": 52,
         "eFG%": 32,
-        "G": 99,
-        "grade": 45.86,
+        "grade": 47.8,
         "name": "Bucky McConnell",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 14,
+        "team": "MLH"
     },
     "Alfred McGuire*": {
         "PTS": 69,
@@ -1169,11 +1224,12 @@
         "DWS": 49,
         "WS/48": 21,
         "eFG%": 21,
-        "G": 71,
-        "grade": 62.6,
+        "grade": 64.07,
         "name": "Alfred McGuire",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 58,
+        "team": "NYK"
     },
     "Dick McGuire*": {
         "PTS": 60,
@@ -1190,11 +1246,12 @@
         "DWS": 23,
         "WS/48": 29,
         "eFG%": 31,
-        "G": 66,
-        "grade": 67.87,
+        "grade": 69.42,
         "name": "Dick McGuire",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 61,
+        "team": "NYK"
     },
     "Jack McMahon": {
         "PTS": 59,
@@ -1211,11 +1268,12 @@
         "DWS": 46,
         "WS/48": 77,
         "eFG%": 80,
-        "G": 14,
-        "grade": 45.53,
+        "grade": 42.4,
         "name": "Jack McMahon",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "ROC"
     },
     "Monk Meineke": {
         "PTS": 34,
@@ -1232,11 +1290,12 @@
         "DWS": 24,
         "WS/48": 24,
         "eFG%": 30,
-        "G": 42,
-        "grade": 77.07,
+        "grade": 77.85,
         "name": "Monk Meineke",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "FTW"
     },
     "Stan Miasek": {
         "PTS": 74,
@@ -1253,11 +1312,12 @@
         "DWS": 62,
         "WS/48": 79,
         "eFG%": 85,
-        "G": 83,
-        "grade": 35.0,
+        "grade": 35.21,
         "name": "Stan Miasek",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 40,
+        "team": "MLH"
     },
     "Ed Mikan": {
         "PTS": 98,
@@ -1274,11 +1334,12 @@
         "DWS": 78,
         "WS/48": 96,
         "eFG%": 101,
-        "G": 79,
-        "grade": 27.96,
+        "grade": 27.43,
         "name": "Ed Mikan",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 43,
+        "team": "INO"
     },
     "George Mikan*": {
         "PTS": 2,
@@ -1295,11 +1356,12 @@
         "DWS": 1,
         "WS/48": 1,
         "eFG%": 18,
-        "G": 13,
-        "grade": 92.65,
+        "grade": 92.82,
         "name": "George Mikan",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "MNL"
     },
     "Vern Mikkelsen*": {
         "PTS": 9,
@@ -1316,11 +1378,12 @@
         "DWS": 4,
         "WS/48": 4,
         "eFG%": 8,
-        "G": 12,
-        "grade": 90.43,
+        "grade": 90.38,
         "name": "Vern Mikkelsen",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "MNL"
     },
     "Eddie Miller": {
         "PTS": 26,
@@ -1337,11 +1400,12 @@
         "DWS": 77,
         "WS/48": 87,
         "eFG%": 59,
-        "G": 69,
-        "grade": 51.91,
+        "grade": 52.49,
         "name": "Eddie Miller",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 60,
+        "team": "BLB"
     },
     "Dave Minor": {
         "PTS": 53,
@@ -1358,11 +1422,12 @@
         "DWS": 42,
         "WS/48": 46,
         "eFG%": 44,
-        "G": 82,
-        "grade": 60.55,
+        "grade": 62.53,
         "name": "Dave Minor",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 40,
+        "team": "MLH"
     },
     "Bill Mlkvy": {
         "PTS": 72,
@@ -1379,11 +1444,12 @@
         "DWS": 87,
         "WS/48": 100,
         "eFG%": 95,
-        "G": 86,
-        "grade": 29.23,
+        "grade": 29.21,
         "name": "Bill Mlkvy",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 31,
+        "team": "PHW"
     },
     "Jim Mooney": {
         "PTS": 54,
@@ -1400,11 +1466,12 @@
         "DWS": 93,
         "WS/48": 86,
         "eFG%": 51,
-        "G": 93,
-        "grade": 44.26,
+        "grade": 45.72,
         "name": "Jim Mooney",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 18,
+        "team": "PHW"
     },
     "Jack Nichols": {
         "PTS": 7,
@@ -1421,11 +1488,12 @@
         "DWS": 8,
         "WS/48": 58,
         "eFG%": 52,
-        "G": 32,
-        "grade": 69.59,
+        "grade": 69.24,
         "name": "Jack Nichols",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "MLH"
     },
     "Ralph O'Brien": {
         "PTS": 83,
@@ -1442,11 +1510,12 @@
         "DWS": 100,
         "WS/48": 72,
         "eFG%": 40,
-        "G": 98,
-        "grade": 45.14,
+        "grade": 46.97,
         "name": "Ralph O'Brien",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 14,
+        "team": "BLB"
     },
     "Kevin O'Shea": {
         "PTS": 90,
@@ -1463,11 +1532,12 @@
         "DWS": 96,
         "WS/48": 78,
         "eFG%": 38,
-        "G": 78,
-        "grade": 42.48,
+        "grade": 42.93,
         "name": "Kevin O'Shea",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 46,
+        "team": "BLB"
     },
     "Wally Osterkorn": {
         "PTS": 75,
@@ -1484,11 +1554,12 @@
         "DWS": 57,
         "WS/48": 63,
         "eFG%": 86,
-        "G": 74,
-        "grade": 40.6,
+        "grade": 40.67,
         "name": "Wally Osterkorn",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 49,
+        "team": "SYR"
     },
     "Don Otten": {
         "PTS": 77,
@@ -1505,11 +1576,12 @@
         "DWS": 76,
         "WS/48": 7,
         "eFG%": 20,
-        "G": 90,
-        "grade": 60.55,
+        "grade": 63.0,
         "name": "Don Otten",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 24,
+        "team": "MLH"
     },
     "Claude Overton": {
         "PTS": 93,
@@ -1526,11 +1598,12 @@
         "DWS": 95,
         "WS/48": 101,
         "eFG%": 100,
-        "G": 97,
-        "grade": 22.92,
+        "grade": 23.09,
         "name": "Claude Overton",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 15,
+        "team": "PHW"
     },
     "Johnny Payak": {
         "PTS": 65,
@@ -1547,11 +1620,12 @@
         "DWS": 45,
         "WS/48": 36,
         "eFG%": 70,
-        "G": 41,
-        "grade": 55.23,
+        "grade": 54.39,
         "name": "Johnny Payak",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "MLH"
     },
     "Mel Payton": {
         "PTS": 61,
@@ -1568,11 +1642,12 @@
         "DWS": 43,
         "WS/48": 61,
         "eFG%": 58,
-        "G": 52,
-        "grade": 55.34,
+        "grade": 55.16,
         "name": "Mel Payton",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 66,
+        "team": "INO"
     },
     "Andy Phillip*": {
         "PTS": 45,
@@ -1589,11 +1664,12 @@
         "DWS": 30,
         "WS/48": 28,
         "eFG%": 16,
-        "G": 72,
-        "grade": 77.68,
+        "grade": 80.29,
         "name": "Andy Phillip",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 57,
+        "team": "FTW"
     },
     "Jim Pollard*": {
         "PTS": 17,
@@ -1610,11 +1686,12 @@
         "DWS": 7,
         "WS/48": 45,
         "eFG%": 57,
-        "G": 51,
-        "grade": 69.7,
+        "grade": 70.49,
         "name": "Jim Pollard",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 66,
+        "team": "MNL"
     },
     "Ralph Polson": {
         "PTS": 92,
@@ -1631,11 +1708,12 @@
         "DWS": 83,
         "WS/48": 74,
         "eFG%": 50,
-        "G": 77,
-        "grade": 43.04,
+        "grade": 43.46,
         "name": "Ralph Polson",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 46,
+        "team": "PHW"
     },
     "George Ratkovicz": {
         "PTS": 39,
@@ -1652,11 +1730,12 @@
         "DWS": 10,
         "WS/48": 30,
         "eFG%": 77,
-        "G": 65,
-        "grade": 66.43,
+        "grade": 67.81,
         "name": "George Ratkovicz",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 61,
+        "team": "MLH"
     },
     "Gene Rhodes": {
         "PTS": 82,
@@ -1673,11 +1752,12 @@
         "DWS": 64,
         "WS/48": 76,
         "eFG%": 92,
-        "G": 57,
-        "grade": 37.22,
+        "grade": 36.04,
         "name": "Gene Rhodes",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 65,
+        "team": "INO"
     },
     "Arnie Risen*": {
         "PTS": 16,
@@ -1694,11 +1774,12 @@
         "DWS": 13,
         "WS/48": 31,
         "eFG%": 45,
-        "G": 40,
-        "grade": 73.75,
+        "grade": 74.17,
         "name": "Arnie Risen",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "ROC"
     },
     "Red Rocha": {
         "PTS": 29,
@@ -1715,11 +1796,12 @@
         "DWS": 15,
         "WS/48": 27,
         "eFG%": 24,
-        "G": 31,
-        "grade": 79.01,
+        "grade": 79.28,
         "name": "Red Rocha",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "SYR"
     },
     "Pep Saul": {
         "PTS": 55,
@@ -1736,11 +1818,12 @@
         "DWS": 41,
         "WS/48": 39,
         "eFG%": 19,
-        "G": 11,
-        "grade": 65.54,
+        "grade": 63.66,
         "name": "Pep Saul",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "MNL"
     },
     "Fred Schaus": {
         "PTS": 38,
@@ -1757,11 +1840,12 @@
         "DWS": 22,
         "WS/48": 55,
         "eFG%": 76,
-        "G": 30,
-        "grade": 66.21,
+        "grade": 65.5,
         "name": "Fred Schaus",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "FTW"
     },
     "Dolph Schayes*": {
         "PTS": 5,
@@ -1778,11 +1862,12 @@
         "DWS": 3,
         "WS/48": 3,
         "eFG%": 41,
-        "G": 3,
-        "grade": 89.88,
+        "grade": 89.25,
         "name": "Dolph Schayes",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "SYR"
     },
     "Howie Schultz": {
         "PTS": 100,
@@ -1799,11 +1884,12 @@
         "DWS": 73,
         "WS/48": 68,
         "eFG%": 99,
-        "G": 81,
-        "grade": 29.23,
+        "grade": 28.91,
         "name": "Howie Schultz",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 40,
+        "team": "MNL"
     },
     "Fred Scolari": {
         "PTS": 31,
@@ -1820,11 +1906,12 @@
         "DWS": 86,
         "WS/48": 38,
         "eFG%": 37,
-        "G": 96,
-        "grade": 60.89,
+        "grade": 63.72,
         "name": "Fred Scolari",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 16,
+        "team": "FTW"
     },
     "George Senesky": {
         "PTS": 71,
@@ -1841,11 +1928,12 @@
         "DWS": 61,
         "WS/48": 88,
         "eFG%": 79,
-        "G": 29,
-        "grade": 44.37,
+        "grade": 42.04,
         "name": "George Senesky",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 69,
+        "team": "PHW"
     },
     "Paul Seymour": {
         "PTS": 12,
@@ -1862,11 +1950,12 @@
         "DWS": 18,
         "WS/48": 16,
         "eFG%": 29,
-        "G": 49,
-        "grade": 83.33,
+        "grade": 84.98,
         "name": "Paul Seymour",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 67,
+        "team": "SYR"
     },
     "Chuck Share": {
         "PTS": 81,
@@ -1883,11 +1972,12 @@
         "DWS": 44,
         "WS/48": 10,
         "eFG%": 54,
-        "G": 48,
-        "grade": 64.16,
+        "grade": 64.37,
         "name": "Chuck Share",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 67,
+        "team": "FTW"
     },
     "Bill Sharman*": {
         "PTS": 6,
@@ -1904,11 +1994,12 @@
         "DWS": 56,
         "WS/48": 8,
         "eFG%": 6,
-        "G": 2,
-        "grade": 88.16,
+        "grade": 87.35,
         "name": "Bill Sharman",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 71,
+        "team": "BOS"
     },
     "Connie Simmons": {
         "PTS": 28,
@@ -1925,11 +2016,12 @@
         "DWS": 21,
         "WS/48": 15,
         "eFG%": 36,
-        "G": 56,
-        "grade": 74.19,
+        "grade": 75.59,
         "name": "Connie Simmons",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 65,
+        "team": "NYK"
     },
     "Whitey Skoog": {
         "PTS": 94,
@@ -1946,11 +2038,12 @@
         "DWS": 55,
         "WS/48": 44,
         "eFG%": 26,
-        "G": 39,
-        "grade": 54.12,
+        "grade": 53.09,
         "name": "Whitey Skoog",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 68,
+        "team": "MNL"
     },
     "Odie Spears": {
         "PTS": 46,
@@ -1967,11 +2060,12 @@
         "DWS": 48,
         "WS/48": 13,
         "eFG%": 15,
-        "G": 62,
-        "grade": 74.52,
+        "grade": 76.31,
         "name": "Odie Spears",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 62,
+        "team": "ROC"
     },
     "Bill Tosheff": {
         "PTS": 27,
@@ -1988,11 +2082,12 @@
         "DWS": 29,
         "WS/48": 71,
         "eFG%": 89,
-        "G": 47,
-        "grade": 57.61,
+        "grade": 57.3,
         "name": "Bill Tosheff",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 67,
+        "team": "INO"
     },
     "Ernie Vandeweghe": {
         "PTS": 20,
@@ -2009,11 +2104,12 @@
         "DWS": 33,
         "WS/48": 9,
         "eFG%": 7,
-        "G": 64,
-        "grade": 82.45,
+        "grade": 84.92,
         "name": "Ernie Vandeweghe",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 61,
+        "team": "NYK"
     },
     "Paul Walther": {
         "PTS": 33,
@@ -2030,11 +2126,12 @@
         "DWS": 28,
         "WS/48": 43,
         "eFG%": 60,
-        "G": 46,
-        "grade": 68.26,
+        "grade": 68.65,
         "name": "Paul Walther",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 67,
+        "team": "INO"
     },
     "Bobby Wanzer*": {
         "PTS": 10,
@@ -2051,11 +2148,12 @@
         "DWS": 20,
         "WS/48": 20,
         "eFG%": 48,
-        "G": 10,
-        "grade": 82.28,
+        "grade": 81.53,
         "name": "Bobby Wanzer",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 70,
+        "team": "ROC"
     },
     "Mark Workman": {
         "PTS": 80,
@@ -2072,11 +2170,12 @@
         "DWS": 82,
         "WS/48": 98,
         "eFG%": 91,
-        "G": 68,
-        "grade": 27.18,
+        "grade": 25.94,
         "name": "Mark Workman",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 60,
+        "team": "PHW"
     },
     "Max Zaslofsky": {
         "PTS": 21,
@@ -2093,11 +2192,12 @@
         "DWS": 72,
         "WS/48": 35,
         "eFG%": 28,
-        "G": 88,
-        "grade": 60.05,
+        "grade": 62.35,
         "name": "Max Zaslofsky",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 29,
+        "team": "NYK"
     },
     "Zeke Zawoluk": {
         "PTS": 86,
@@ -2114,10 +2214,11 @@
         "DWS": 70,
         "WS/48": 25,
         "eFG%": 47,
-        "G": 80,
-        "grade": 52.02,
+        "grade": 53.26,
         "name": "Zeke Zawoluk",
         "league_grade": 59.54,
-        "year": 1953
+        "year": 1953,
+        "games_played": 41,
+        "team": "INO"
     }
 }

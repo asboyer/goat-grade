@@ -78,10 +78,10 @@ def get_stats(year, categories, folder):
             if float(reg_stats[player]["G"]) < 10:
                 del reg_stats[player]
 
-    with open(f"stats/stats_{year}.json", "w+", encoding="utf8") as file:
+    with open(f"stats/raw_stats{year}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
 
-    return reg_stats
+    return reg_stats, categories
 
 
 def GOAT_GRADE(year,
@@ -99,11 +99,22 @@ def GOAT_GRADE(year,
     categories = list(categories + extra_categories)
 
     if update:
-        stats = get_stats(year, categories, folder)
+        stats, categories = get_stats(year, categories, folder)
     else:
-        f = open(f"stats/stats_{year}.json", "r", encoding="utf8")
+        f = open(f"stats/raw_stats{year}.json", "r", encoding="utf8")
+        
         stats = json.load(f)
         f.close()
+
+        old_categories = []
+
+        for i in range(len(categories)):
+            category = categories[i]
+            if category not in list(stats[list(stats)[0]]):
+                old_categories.append(category)
+
+        for category in old_categories:
+            categories.remove(category)
 
     ranks = {}
     for player in stats:
@@ -156,7 +167,7 @@ def GOAT_GRADE(year,
         player_grade = score / len(categories)
 
         # divide by all players then multiply by 100
-        player_grade = (player_grade / len(list(reg_stats))) * 100
+        player_grade = (player_grade / len(list(stats))) * 100
 
         # divide score by league grade times 2
         player_grade = player_grade / (league_grade * 2)
@@ -165,20 +176,18 @@ def GOAT_GRADE(year,
         player_grade = 100 - (player_grade * 100)
         player_grade += (5 * (league_grade/100))
         player_grade -= (2.5 - (league_grade/100))
+        
         # player_grade = 100 - ((player_grade / league_grade) * )
 
         ranks[player]["grade"] = round(player_grade, 2)
         ranks[player]["name"] = player.replace("*", "")
         ranks[player]["league_grade"] = league_grade
         ranks[player]["year"] = year
-        ranks[player]["games_played"] = int(reg_stats[player]["G"])
-        ranks[player]["team"] = reg_stats[player]["Tm"] 
+        ranks[player]["games_played"] = int(stats[player]["G"])
+        ranks[player]["team"] = stats[player]["Tm"] 
 
     with open(f"{folder}{file_name}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent =4))
-
-    with open(f"{folder}/stats/raw_stats{year}.json", "w+", encoding="utf8") as file:
-        file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
 
 
 if __name__ == "__main__":

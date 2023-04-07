@@ -22,11 +22,12 @@
         "DBPM": 236,
         "VORP": 236,
         "eFG%": 130,
-        "G": 184,
-        "grade": 65.47,
+        "grade": 65.1,
         "name": "Álex Abrines",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "OKC"
     },
     "Quincy Acy": {
         "PTS": 252,
@@ -51,11 +52,12 @@
         "DBPM": 214,
         "VORP": 235,
         "eFG%": 97,
-        "G": 319,
-        "grade": 67.74,
+        "grade": 68.44,
         "name": "Quincy Acy",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 32,
+        "team": "BRK"
     },
     "Steven Adams": {
         "PTS": 117,
@@ -80,11 +82,12 @@
         "DBPM": 180,
         "VORP": 94,
         "eFG%": 51,
-        "G": 44,
-        "grade": 84.1,
+        "grade": 83.58,
         "name": "Steven Adams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "OKC"
     },
     "Arron Afflalo": {
         "PTS": 189,
@@ -109,11 +112,12 @@
         "DBPM": 345,
         "VORP": 368,
         "eFG%": 175,
-        "G": 237,
-        "grade": 63.29,
+        "grade": 63.19,
         "name": "Arron Afflalo",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "SAC"
     },
     "Alexis Ajinça": {
         "PTS": 304,
@@ -138,11 +142,12 @@
         "DBPM": 95,
         "VORP": 323,
         "eFG%": 216,
-        "G": 301,
-        "grade": 63.38,
+        "grade": 63.74,
         "name": "Alexis Ajinça",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 39,
+        "team": "NOP"
     },
     "LaMarcus Aldridge": {
         "PTS": 46,
@@ -167,11 +172,12 @@
         "DBPM": 171,
         "VORP": 62,
         "eFG%": 252,
-        "G": 152,
-        "grade": 86.06,
+        "grade": 86.39,
         "name": "LaMarcus Aldridge",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "SAS"
     },
     "Lavoy Allen": {
         "PTS": 368,
@@ -196,11 +202,12 @@
         "DBPM": 213,
         "VORP": 234,
         "eFG%": 318,
-        "G": 236,
-        "grade": 60.86,
+        "grade": 60.65,
         "name": "Lavoy Allen",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "IND"
     },
     "Tony Allen": {
         "PTS": 172,
@@ -225,11 +232,12 @@
         "DBPM": 64,
         "VORP": 163,
         "eFG%": 296,
-        "G": 159,
-        "grade": 72.57,
+        "grade": 72.35,
         "name": "Tony Allen",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "MEM"
     },
     "Al-Farouq Aminu": {
         "PTS": 181,
@@ -254,11 +262,12 @@
         "DBPM": 124,
         "VORP": 190,
         "eFG%": 304,
-        "G": 235,
-        "grade": 69.05,
+        "grade": 69.21,
         "name": "Al-Farouq Aminu",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "POR"
     },
     "Alan Anderson": {
         "PTS": 367,
@@ -283,11 +292,12 @@
         "DBPM": 365,
         "VORP": 338,
         "eFG%": 311,
-        "G": 326,
-        "grade": 49.02,
+        "grade": 48.91,
         "name": "Alan Anderson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 30,
+        "team": "LAC"
     },
     "Justin Anderson": {
         "PTS": 186,
@@ -312,11 +322,12 @@
         "DBPM": 300,
         "VORP": 261,
         "eFG%": 138,
-        "G": 341,
-        "grade": 68.21,
+        "grade": 69.08,
         "name": "Justin Anderson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 24,
+        "team": "PHI"
     },
     "Kyle Anderson": {
         "PTS": 359,
@@ -341,11 +352,12 @@
         "DBPM": 3,
         "VORP": 106,
         "eFG%": 276,
-        "G": 151,
-        "grade": 71.86,
+        "grade": 71.54,
         "name": "Kyle Anderson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "SAS"
     },
     "Ryan Anderson": {
         "PTS": 88,
@@ -370,11 +382,12 @@
         "DBPM": 369,
         "VORP": 113,
         "eFG%": 81,
-        "G": 150,
-        "grade": 77.11,
+        "grade": 77.03,
         "name": "Ryan Anderson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "HOU"
     },
     "Giannis Antetokounmpo": {
         "PTS": 21,
@@ -399,11 +412,12 @@
         "DBPM": 10,
         "VORP": 5,
         "eFG%": 99,
-        "G": 43,
         "grade": 95.7,
         "name": "Giannis Antetokounmpo",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "MIL"
     },
     "Carmelo Anthony": {
         "PTS": 23,
@@ -428,11 +442,12 @@
         "DBPM": 353,
         "VORP": 61,
         "eFG%": 251,
-        "G": 129,
         "grade": 82.46,
         "name": "Carmelo Anthony",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "NYK"
     },
     "Trevor Ariza": {
         "PTS": 114,
@@ -457,11 +472,12 @@
         "DBPM": 63,
         "VORP": 44,
         "eFG%": 137,
-        "G": 42,
-        "grade": 82.91,
+        "grade": 82.32,
         "name": "Trevor Ariza",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "HOU"
     },
     "Darrell Arthur": {
         "PTS": 256,
@@ -486,11 +502,12 @@
         "DBPM": 212,
         "VORP": 206,
         "eFG%": 61,
-        "G": 297,
-        "grade": 70.13,
+        "grade": 70.77,
         "name": "Darrell Arthur",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 41,
+        "team": "DEN"
     },
     "Ömer Aşık": {
         "PTS": 374,
@@ -515,11 +532,12 @@
         "DBPM": 200,
         "VORP": 322,
         "eFG%": 287,
-        "G": 323,
-        "grade": 57.57,
+        "grade": 57.84,
         "name": "Ömer Aşık",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 31,
+        "team": "NOP"
     },
     "D.J. Augustin": {
         "PTS": 202,
@@ -544,11 +562,12 @@
         "DBPM": 360,
         "VORP": 351,
         "eFG%": 301,
-        "G": 73,
-        "grade": 61.7,
+        "grade": 60.36,
         "name": "D.J. Augustin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "ORL"
     },
     "Luke Babbitt": {
         "PTS": 324,
@@ -573,11 +592,12 @@
         "DBPM": 199,
         "VORP": 260,
         "eFG%": 71,
-        "G": 183,
-        "grade": 62.73,
+        "grade": 62.23,
         "name": "Luke Babbitt",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "MIA"
     },
     "Ron Baker": {
         "PTS": 344,
@@ -602,11 +622,12 @@
         "DBPM": 224,
         "VORP": 365,
         "eFG%": 352,
-        "G": 271,
-        "grade": 53.37,
+        "grade": 53.07,
         "name": "Ron Baker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 52,
+        "team": "NYK"
     },
     "Wade Baldwin": {
         "PTS": 361,
@@ -631,11 +652,12 @@
         "DBPM": 133,
         "VORP": 337,
         "eFG%": 374,
-        "G": 315,
-        "grade": 53.15,
+        "grade": 53.16,
         "name": "Wade Baldwin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 33,
+        "team": "MEM"
     },
     "Leandro Barbosa": {
         "PTS": 261,
@@ -660,11 +682,12 @@
         "DBPM": 293,
         "VORP": 297,
         "eFG%": 266,
-        "G": 193,
-        "grade": 61.61,
+        "grade": 61.12,
         "name": "Leandro Barbosa",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "PHO"
     },
     "J.J. Barea": {
         "PTS": 125,
@@ -689,11 +712,12 @@
         "DBPM": 344,
         "VORP": 140,
         "eFG%": 244,
-        "G": 310,
-        "grade": 71.16,
+        "grade": 71.95,
         "name": "J.J. Barea",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 35,
+        "team": "DAL"
     },
     "Harrison Barnes": {
         "PTS": 35,
@@ -718,11 +742,12 @@
         "DBPM": 319,
         "VORP": 125,
         "eFG%": 223,
-        "G": 58,
-        "grade": 80.62,
+        "grade": 80.04,
         "name": "Harrison Barnes",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "DAL"
     },
     "Matt Barnes": {
         "PTS": 288,
@@ -747,11 +772,12 @@
         "DBPM": 47,
         "VORP": 233,
         "eFG%": 153,
-        "G": 357,
-        "grade": 70.83,
+        "grade": 71.94,
         "name": "Matt Barnes",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 20,
+        "team": "GSW"
     },
     "Will Barton": {
         "PTS": 86,
@@ -776,11 +802,12 @@
         "DBPM": 299,
         "VORP": 105,
         "eFG%": 196,
-        "G": 243,
-        "grade": 78.37,
+        "grade": 79.01,
         "name": "Will Barton",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 60,
+        "team": "DEN"
     },
     "Brandon Bass": {
         "PTS": 294,
@@ -805,11 +832,12 @@
         "DBPM": 279,
         "VORP": 189,
         "eFG%": 43,
-        "G": 270,
-        "grade": 74.74,
+        "grade": 75.4,
         "name": "Brandon Bass",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 52,
+        "team": "LAC"
     },
     "Nicolas Batum": {
         "PTS": 62,
@@ -834,11 +862,12 @@
         "DBPM": 148,
         "VORP": 51,
         "eFG%": 298,
-        "G": 84,
-        "grade": 82.22,
+        "grade": 81.9,
         "name": "Nicolas Batum",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "CHO"
     },
     "Aron Baynes": {
         "PTS": 322,
@@ -863,11 +892,12 @@
         "DBPM": 112,
         "VORP": 321,
         "eFG%": 179,
-        "G": 112,
-        "grade": 69.42,
+        "grade": 68.71,
         "name": "Aron Baynes",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "DET"
     },
     "Kent Bazemore": {
         "PTS": 123,
@@ -892,11 +922,12 @@
         "DBPM": 62,
         "VORP": 162,
         "eFG%": 295,
-        "G": 142,
-        "grade": 72.06,
+        "grade": 71.69,
         "name": "Kent Bazemore",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "ATL"
     },
     "Bradley Beal": {
         "PTS": 19,
@@ -921,11 +952,12 @@
         "DBPM": 298,
         "VORP": 26,
         "eFG%": 56,
-        "G": 83,
-        "grade": 89.81,
+        "grade": 89.82,
         "name": "Bradley Beal",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "WAS"
     },
     "Michael Beasley": {
         "PTS": 159,
@@ -950,11 +982,12 @@
         "DBPM": 278,
         "VORP": 205,
         "eFG%": 76,
-        "G": 258,
-        "grade": 75.92,
+        "grade": 76.55,
         "name": "Michael Beasley",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 56,
+        "team": "MIL"
     },
     "Marco Belinelli": {
         "PTS": 134,
@@ -979,11 +1012,12 @@
         "DBPM": 242,
         "VORP": 188,
         "eFG%": 182,
-        "G": 128,
-        "grade": 73.93,
+        "grade": 73.55,
         "name": "Marco Belinelli",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "CHO"
     },
     "Dragan Bender": {
         "PTS": 358,
@@ -1008,11 +1042,12 @@
         "DBPM": 268,
         "VORP": 350,
         "eFG%": 346,
-        "G": 291,
-        "grade": 51.0,
+        "grade": 50.73,
         "name": "Dragan Bender",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 43,
+        "team": "PHO"
     },
     "Anthony Bennett": {
         "PTS": 316,
@@ -1037,11 +1072,12 @@
         "DBPM": 364,
         "VORP": 259,
         "eFG%": 262,
-        "G": 347,
-        "grade": 61.08,
+        "grade": 61.67,
         "name": "Anthony Bennett",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 23,
+        "team": "BRK"
     },
     "Dāvis Bertāns": {
         "PTS": 333,
@@ -1066,11 +1102,12 @@
         "DBPM": 86,
         "VORP": 139,
         "eFG%": 28,
-        "G": 192,
-        "grade": 74.38,
+        "grade": 74.47,
         "name": "Dāvis Bertāns",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "SAS"
     },
     "Patrick Beverley": {
         "PTS": 156,
@@ -1095,11 +1132,12 @@
         "DBPM": 39,
         "VORP": 64,
         "eFG%": 156,
-        "G": 191,
-        "grade": 81.72,
+        "grade": 82.13,
         "name": "Patrick Beverley",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "HOU"
     },
     "Bismack Biyombo": {
         "PTS": 277,
@@ -1124,11 +1162,12 @@
         "DBPM": 147,
         "VORP": 364,
         "eFG%": 136,
-        "G": 29,
-        "grade": 69.22,
+        "grade": 67.91,
         "name": "Bismack Biyombo",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "ORL"
     },
     "Nemanja Bjelica": {
         "PTS": 270,
@@ -1153,11 +1192,12 @@
         "DBPM": 146,
         "VORP": 232,
         "eFG%": 207,
-        "G": 210,
-        "grade": 66.5,
+        "grade": 66.36,
         "name": "Nemanja Bjelica",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "MIN"
     },
     "Tarik Black": {
         "PTS": 287,
@@ -1182,11 +1222,12 @@
         "DBPM": 292,
         "VORP": 336,
         "eFG%": 181,
-        "G": 190,
-        "grade": 70.22,
+        "grade": 70.1,
         "name": "Tarik Black",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "LAL"
     },
     "Eric Bledsoe": {
         "PTS": 28,
@@ -1211,11 +1252,12 @@
         "DBPM": 198,
         "VORP": 30,
         "eFG%": 258,
-        "G": 200,
-        "grade": 86.06,
+        "grade": 86.74,
         "name": "Eric Bledsoe",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "PHO"
     },
     "Bojan Bogdanović": {
         "PTS": 104,
@@ -1240,11 +1282,12 @@
         "DBPM": 368,
         "VORP": 231,
         "eFG%": 77,
-        "G": 332,
-        "grade": 73.18,
+        "grade": 74.22,
         "name": "Bojan Bogdanović",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 26,
+        "team": "WAS"
     },
     "Devin Booker": {
         "PTS": 25,
@@ -1269,11 +1312,12 @@
         "DBPM": 374,
         "VORP": 230,
         "eFG%": 291,
-        "G": 72,
-        "grade": 74.07,
+        "grade": 73.29,
         "name": "Devin Booker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "PHO"
     },
     "Trevor Booker": {
         "PTS": 145,
@@ -1298,11 +1342,12 @@
         "DBPM": 132,
         "VORP": 153,
         "eFG%": 106,
-        "G": 158,
-        "grade": 79.19,
+        "grade": 79.26,
         "name": "Trevor Booker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "BRK"
     },
     "Avery Bradley": {
         "PTS": 51,
@@ -1327,11 +1372,12 @@
         "DBPM": 241,
         "VORP": 138,
         "eFG%": 120,
-        "G": 262,
-        "grade": 79.46,
+        "grade": 80.28,
         "name": "Avery Bradley",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 55,
+        "team": "BOS"
     },
     "Corey Brewer": {
         "PTS": 300,
@@ -1356,11 +1402,12 @@
         "DBPM": 46,
         "VORP": 229,
         "eFG%": 314,
-        "G": 340,
-        "grade": 62.62,
+        "grade": 63.23,
         "name": "Corey Brewer",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 24,
+        "team": "LAL"
     },
     "Malcolm Brogdon": {
         "PTS": 141,
@@ -1385,11 +1432,12 @@
         "DBPM": 235,
         "VORP": 124,
         "eFG%": 164,
-        "G": 111,
-        "grade": 79.84,
+        "grade": 79.6,
         "name": "Malcolm Brogdon",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "MIL"
     },
     "Aaron Brooks": {
         "PTS": 315,
@@ -1414,11 +1462,12 @@
         "DBPM": 318,
         "VORP": 349,
         "eFG%": 265,
-        "G": 209,
-        "grade": 57.33,
+        "grade": 56.76,
         "name": "Aaron Brooks",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "IND"
     },
     "Jaylen Brown": {
         "PTS": 249,
@@ -1443,11 +1492,12 @@
         "DBPM": 277,
         "VORP": 363,
         "eFG%": 195,
-        "G": 71,
-        "grade": 63.11,
+        "grade": 61.82,
         "name": "Jaylen Brown",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "BOS"
     },
     "Reggie Bullock": {
         "PTS": 332,
@@ -1472,11 +1522,12 @@
         "DBPM": 45,
         "VORP": 204,
         "eFG%": 129,
-        "G": 322,
-        "grade": 64.83,
+        "grade": 65.42,
         "name": "Reggie Bullock",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 31,
+        "team": "DET"
     },
     "Trey Burke": {
         "PTS": 314,
@@ -1501,11 +1552,12 @@
         "DBPM": 359,
         "VORP": 320,
         "eFG%": 170,
-        "G": 255,
-        "grade": 60.41,
+        "grade": 60.31,
         "name": "Trey Burke",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "WAS"
     },
     "Alec Burks": {
         "PTS": 242,
@@ -1530,11 +1582,12 @@
         "DBPM": 179,
         "VORP": 258,
         "eFG%": 330,
-        "G": 293,
-        "grade": 59.89,
+        "grade": 60.04,
         "name": "Alec Burks",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 42,
+        "team": "UTA"
     },
     "Jimmy Butler": {
         "PTS": 14,
@@ -1559,11 +1612,12 @@
         "DBPM": 28,
         "VORP": 6,
         "eFG%": 242,
-        "G": 98,
-        "grade": 92.91,
+        "grade": 93.17,
         "name": "Jimmy Butler",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "CHI"
     },
     "José Calderón": {
         "PTS": 350,
@@ -1588,11 +1642,12 @@
         "DBPM": 170,
         "VORP": 257,
         "eFG%": 293,
-        "G": 367,
-        "grade": 57.84,
+        "grade": 58.43,
         "name": "José Calderón",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 17,
+        "team": "ATL"
     },
     "Kentavious Caldwell-Pope": {
         "PTS": 84,
@@ -1617,11 +1672,12 @@
         "DBPM": 123,
         "VORP": 93,
         "eFG%": 275,
-        "G": 97,
-        "grade": 77.39,
+        "grade": 76.94,
         "name": "Kentavious Caldwell-Pope",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "DET"
     },
     "Isaiah Canaan": {
         "PTS": 329,
@@ -1646,11 +1702,12 @@
         "DBPM": 122,
         "VORP": 319,
         "eFG%": 350,
-        "G": 300,
-        "grade": 56.38,
+        "grade": 56.43,
         "name": "Isaiah Canaan",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 39,
+        "team": "CHI"
     },
     "Clint Capela": {
         "PTS": 105,
@@ -1675,11 +1732,12 @@
         "DBPM": 197,
         "VORP": 80,
         "eFG%": 8,
-        "G": 208,
-        "grade": 84.37,
+        "grade": 85.03,
         "name": "Clint Capela",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "HOU"
     },
     "DeMarre Carroll": {
         "PTS": 177,
@@ -1704,11 +1762,12 @@
         "DBPM": 121,
         "VORP": 104,
         "eFG%": 221,
-        "G": 149,
-        "grade": 74.68,
+        "grade": 74.48,
         "name": "DeMarre Carroll",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "TOR"
     },
     "Vince Carter": {
         "PTS": 200,
@@ -1733,11 +1792,12 @@
         "DBPM": 61,
         "VORP": 75,
         "eFG%": 194,
-        "G": 141,
-        "grade": 76.03,
+        "grade": 75.83,
         "name": "Vince Carter",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "MEM"
     },
     "Michael Carter-Williams": {
         "PTS": 248,
@@ -1762,11 +1822,12 @@
         "DBPM": 44,
         "VORP": 335,
         "eFG%": 369,
-        "G": 289,
-        "grade": 61.23,
+        "grade": 61.41,
         "name": "Michael Carter-Williams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 45,
+        "team": "CHI"
     },
     "Omri Casspi": {
         "PTS": 356,
@@ -1791,11 +1852,12 @@
         "DBPM": 120,
         "VORP": 296,
         "eFG%": 145,
-        "G": 371,
-        "grade": 59.12,
+        "grade": 59.8,
         "name": "Omri Casspi",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 13,
+        "team": "MIN"
     },
     "Willie Cauley-Stein": {
         "PTS": 198,
@@ -1820,11 +1882,12 @@
         "DBPM": 145,
         "VORP": 203,
         "eFG%": 132,
-        "G": 110,
-        "grade": 75.57,
+        "grade": 75.13,
         "name": "Willie Cauley-Stein",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "SAC"
     },
     "Tyson Chandler": {
         "PTS": 188,
@@ -1849,11 +1912,12 @@
         "DBPM": 223,
         "VORP": 123,
         "eFG%": 2,
-        "G": 284,
-        "grade": 79.95,
+        "grade": 80.95,
         "name": "Tyson Chandler",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 47,
+        "team": "PHO"
     },
     "Wilson Chandler": {
         "PTS": 56,
@@ -1878,11 +1942,12 @@
         "DBPM": 343,
         "VORP": 161,
         "eFG%": 157,
-        "G": 157,
         "grade": 77.75,
         "name": "Wilson Chandler",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "DEN"
     },
     "Marquese Chriss": {
         "PTS": 166,
@@ -1907,11 +1972,12 @@
         "DBPM": 196,
         "VORP": 295,
         "eFG%": 203,
-        "G": 14,
-        "grade": 70.13,
+        "grade": 68.75,
         "name": "Marquese Chriss",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "PHO"
     },
     "Semaj Christon": {
         "PTS": 366,
@@ -1936,11 +2002,12 @@
         "DBPM": 222,
         "VORP": 371,
         "eFG%": 371,
-        "G": 217,
-        "grade": 50.67,
+        "grade": 49.86,
         "name": "Semaj Christon",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "OKC"
     },
     "Ian Clark": {
         "PTS": 237,
@@ -1965,11 +2032,12 @@
         "DBPM": 240,
         "VORP": 228,
         "eFG%": 69,
-        "G": 82,
-        "grade": 71.95,
+        "grade": 71.15,
         "name": "Ian Clark",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "GSW"
     },
     "Jordan Clarkson": {
         "PTS": 67,
@@ -1994,11 +2062,12 @@
         "DBPM": 352,
         "VORP": 334,
         "eFG%": 215,
-        "G": 13,
-        "grade": 70.44,
+        "grade": 69.07,
         "name": "Jordan Clarkson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "LAL"
     },
     "Darren Collison": {
         "PTS": 94,
@@ -2023,11 +2092,12 @@
         "DBPM": 317,
         "VORP": 152,
         "eFG%": 143,
-        "G": 182,
-        "grade": 79.15,
+        "grade": 79.38,
         "name": "Darren Collison",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "SAC"
     },
     "Mike Conley": {
         "PTS": 30,
@@ -2052,11 +2122,12 @@
         "DBPM": 85,
         "VORP": 13,
         "eFG%": 89,
-        "G": 174,
-        "grade": 91.87,
+        "grade": 92.63,
         "name": "Mike Conley",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "MEM"
     },
     "DeMarcus Cousins": {
         "PTS": 13,
@@ -2081,11 +2152,12 @@
         "DBPM": 8,
         "VORP": 92,
         "eFG%": 190,
-        "G": 366,
-        "grade": 85.73,
+        "grade": 87.58,
         "name": "DeMarcus Cousins",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 17,
+        "team": "NOP"
     },
     "Robert Covington": {
         "PTS": 96,
@@ -2110,11 +2182,12 @@
         "DBPM": 38,
         "VORP": 91,
         "eFG%": 241,
-        "G": 189,
-        "grade": 78.47,
+        "grade": 78.73,
         "name": "Robert Covington",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "PHI"
     },
     "Allen Crabbe": {
         "PTS": 130,
@@ -2139,11 +2212,12 @@
         "DBPM": 255,
         "VORP": 187,
         "eFG%": 49,
-        "G": 57,
-        "grade": 77.64,
+        "grade": 76.91,
         "name": "Allen Crabbe",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "POR"
     },
     "Jamal Crawford": {
         "PTS": 108,
@@ -2168,11 +2242,12 @@
         "DBPM": 325,
         "VORP": 256,
         "eFG%": 279,
-        "G": 12,
-        "grade": 69.91,
+        "grade": 68.51,
         "name": "Jamal Crawford",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "LAC"
     },
     "Jordan Crawford": {
         "PTS": 78,
@@ -2197,11 +2272,12 @@
         "DBPM": 291,
         "VORP": 186,
         "eFG%": 55,
-        "G": 359,
-        "grade": 75.81,
+        "grade": 77.16,
         "name": "Jordan Crawford",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 19,
+        "team": "NOP"
     },
     "Jae Crowder": {
         "PTS": 83,
@@ -2226,11 +2302,12 @@
         "DBPM": 195,
         "VORP": 60,
         "eFG%": 48,
-        "G": 148,
-        "grade": 86.75,
+        "grade": 87.09,
         "name": "Jae Crowder",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "BOS"
     },
     "Dante Cunningham": {
         "PTS": 247,
@@ -2255,11 +2332,12 @@
         "DBPM": 131,
         "VORP": 217,
         "eFG%": 33,
-        "G": 199,
-        "grade": 73.21,
+        "grade": 73.3,
         "name": "Dante Cunningham",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "NOP"
     },
     "Seth Curry": {
         "PTS": 100,
@@ -2284,11 +2362,12 @@
         "DBPM": 119,
         "VORP": 59,
         "eFG%": 42,
-        "G": 165,
-        "grade": 84.95,
+        "grade": 85.33,
         "name": "Seth Curry",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 70,
+        "team": "DAL"
     },
     "Stephen Curry": {
         "PTS": 9,
@@ -2313,11 +2392,12 @@
         "DBPM": 130,
         "VORP": 7,
         "eFG%": 37,
-        "G": 56,
-        "grade": 95.17,
+        "grade": 95.24,
         "name": "Stephen Curry",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "GSW"
     },
     "Troy Daniels": {
         "PTS": 194,
@@ -2342,11 +2422,12 @@
         "DBPM": 363,
         "VORP": 255,
         "eFG%": 178,
-        "G": 188,
-        "grade": 63.0,
+        "grade": 62.54,
         "name": "Troy Daniels",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "MEM"
     },
     "Anthony Davis": {
         "PTS": 4,
@@ -2371,11 +2452,12 @@
         "DBPM": 37,
         "VORP": 10,
         "eFG%": 163,
-        "G": 109,
-        "grade": 93.55,
+        "grade": 93.92,
         "name": "Anthony Davis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "NOP"
     },
     "Ed Davis": {
         "PTS": 340,
@@ -2400,11 +2482,12 @@
         "DBPM": 276,
         "VORP": 348,
         "eFG%": 135,
-        "G": 288,
-        "grade": 63.73,
+        "grade": 64.02,
         "name": "Ed Davis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 46,
+        "team": "POR"
     },
     "Dewayne Dedmon": {
         "PTS": 310,
@@ -2429,11 +2512,12 @@
         "DBPM": 18,
         "VORP": 112,
         "eFG%": 10,
-        "G": 96,
-        "grade": 80.45,
+        "grade": 80.13,
         "name": "Dewayne Dedmon",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "SAS"
     },
     "Sam Dekker": {
         "PTS": 251,
@@ -2458,11 +2542,12 @@
         "DBPM": 254,
         "VORP": 151,
         "eFG%": 94,
-        "G": 81,
-        "grade": 73.17,
+        "grade": 72.41,
         "name": "Sam Dekker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "HOU"
     },
     "Malcolm Delaney": {
         "PTS": 299,
@@ -2487,11 +2572,12 @@
         "DBPM": 221,
         "VORP": 374,
         "eFG%": 365,
-        "G": 140,
-        "grade": 56.08,
+        "grade": 54.96,
         "name": "Malcolm Delaney",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "ATL"
     },
     "Matthew Dellavedova": {
         "PTS": 211,
@@ -2516,11 +2602,12 @@
         "DBPM": 358,
         "VORP": 373,
         "eFG%": 310,
-        "G": 95,
-        "grade": 61.97,
+        "grade": 60.8,
         "name": "Matthew Dellavedova",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "MIL"
     },
     "Luol Deng": {
         "PTS": 210,
@@ -2545,11 +2632,12 @@
         "DBPM": 253,
         "VORP": 254,
         "eFG%": 338,
-        "G": 257,
-        "grade": 62.75,
+        "grade": 62.78,
         "name": "Luol Deng",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 56,
+        "team": "LAL"
     },
     "DeMar DeRozan": {
         "PTS": 5,
@@ -2574,11 +2662,12 @@
         "DBPM": 297,
         "VORP": 29,
         "eFG%": 286,
-        "G": 127,
-        "grade": 86.3,
+        "grade": 86.46,
         "name": "DeMar DeRozan",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "TOR"
     },
     "Cheick Diallo": {
         "PTS": 309,
@@ -2603,11 +2692,12 @@
         "DBPM": 362,
         "VORP": 294,
         "eFG%": 292,
-        "G": 365,
-        "grade": 60.25,
+        "grade": 60.94,
         "name": "Cheick Diallo",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 17,
+        "team": "NOP"
     },
     "Boris Diaw": {
         "PTS": 328,
@@ -2632,11 +2722,12 @@
         "DBPM": 211,
         "VORP": 293,
         "eFG%": 285,
-        "G": 139,
-        "grade": 60.53,
+        "grade": 59.61,
         "name": "Boris Diaw",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "UTA"
     },
     "Gorgui Dieng": {
         "PTS": 144,
@@ -2661,11 +2752,12 @@
         "DBPM": 102,
         "VORP": 74,
         "eFG%": 174,
-        "G": 11,
-        "grade": 84.9,
+        "grade": 84.18,
         "name": "Gorgui Dieng",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "MIN"
     },
     "Spencer Dinwiddie": {
         "PTS": 222,
@@ -2690,11 +2782,12 @@
         "DBPM": 118,
         "VORP": 185,
         "eFG%": 202,
-        "G": 246,
-        "grade": 73.54,
+        "grade": 73.98,
         "name": "Spencer Dinwiddie",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 59,
+        "team": "BRK"
     },
     "Toney Douglas": {
         "PTS": 321,
@@ -2719,11 +2812,12 @@
         "DBPM": 22,
         "VORP": 227,
         "eFG%": 367,
-        "G": 339,
-        "grade": 61.29,
+        "grade": 61.84,
         "name": "Toney Douglas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 24,
+        "team": "MEM"
     },
     "Goran Dragić": {
         "PTS": 31,
@@ -2748,11 +2842,12 @@
         "DBPM": 194,
         "VORP": 32,
         "eFG%": 142,
-        "G": 138,
-        "grade": 88.78,
+        "grade": 89.14,
         "name": "Goran Dragić",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "MIA"
     },
     "Andre Drummond": {
         "PTS": 87,
@@ -2777,11 +2872,12 @@
         "DBPM": 84,
         "VORP": 56,
         "eFG%": 128,
-        "G": 28,
-        "grade": 85.88,
+        "grade": 85.32,
         "name": "Andre Drummond",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "DET"
     },
     "Jared Dudley": {
         "PTS": 236,
@@ -2806,11 +2902,12 @@
         "DBPM": 169,
         "VORP": 202,
         "eFG%": 60,
-        "G": 216,
-        "grade": 71.7,
+        "grade": 71.84,
         "name": "Jared Dudley",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "PHO"
     },
     "Mike Dunleavy": {
         "PTS": 293,
@@ -2835,11 +2932,12 @@
         "DBPM": 144,
         "VORP": 216,
         "eFG%": 59,
-        "G": 325,
-        "grade": 68.85,
+        "grade": 69.64,
         "name": "Mike Dunleavy",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 30,
+        "team": "ATL"
     },
     "Kris Dunn": {
         "PTS": 349,
@@ -2864,11 +2962,12 @@
         "DBPM": 21,
         "VORP": 333,
         "eFG%": 364,
-        "G": 70,
-        "grade": 59.32,
+        "grade": 57.85,
         "name": "Kris Dunn",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "MIN"
     },
     "Kevin Durant": {
         "PTS": 12,
@@ -2893,11 +2992,12 @@
         "DBPM": 15,
         "VORP": 8,
         "eFG%": 20,
-        "G": 229,
-        "grade": 97.55,
+        "grade": 98.95,
         "name": "Kevin Durant",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "GSW"
     },
     "Wayne Ellington": {
         "PTS": 133,
@@ -2922,11 +3022,12 @@
         "DBPM": 290,
         "VORP": 137,
         "eFG%": 80,
-        "G": 228,
-        "grade": 74.56,
+        "grade": 74.91,
         "name": "Wayne Ellington",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "MIA"
     },
     "Monta Ellis": {
         "PTS": 185,
@@ -2951,11 +3052,12 @@
         "DBPM": 143,
         "VORP": 359,
         "eFG%": 270,
-        "G": 126,
-        "grade": 66.79,
+        "grade": 66.06,
         "name": "Monta Ellis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "IND"
     },
     "Joel Embiid": {
         "PTS": 32,
@@ -2980,11 +3082,12 @@
         "DBPM": 5,
         "VORP": 73,
         "eFG%": 193,
-        "G": 321,
-        "grade": 84.99,
+        "grade": 86.49,
         "name": "Joel Embiid",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 31,
+        "team": "PHI"
     },
     "James Ennis III": {
         "PTS": 241,
@@ -3009,11 +3112,12 @@
         "DBPM": 94,
         "VORP": 201,
         "eFG%": 116,
-        "G": 215,
-        "grade": 73.84,
+        "grade": 74.07,
         "name": "James Ennis III",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "MEM"
     },
     "Tyler Ennis": {
         "PTS": 208,
@@ -3038,11 +3142,12 @@
         "DBPM": 234,
         "VORP": 226,
         "eFG%": 147,
-        "G": 352,
-        "grade": 69.19,
+        "grade": 70.19,
         "name": "Tyler Ennis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 22,
+        "team": "LAL"
     },
     "Tyreke Evans": {
         "PTS": 115,
@@ -3067,11 +3172,12 @@
         "DBPM": 193,
         "VORP": 215,
         "eFG%": 257,
-        "G": 368,
-        "grade": 69.77,
+        "grade": 70.91,
         "name": "Tyreke Evans",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 14,
+        "team": "SAC"
     },
     "Dante Exum": {
         "PTS": 269,
@@ -3096,11 +3202,12 @@
         "DBPM": 192,
         "VORP": 347,
         "eFG%": 250,
-        "G": 198,
-        "grade": 61.91,
+        "grade": 61.48,
         "name": "Dante Exum",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "UTA"
     },
     "Kenneth Faried": {
         "PTS": 152,
@@ -3125,11 +3232,12 @@
         "DBPM": 316,
         "VORP": 136,
         "eFG%": 86,
-        "G": 234,
-        "grade": 79.78,
+        "grade": 80.42,
         "name": "Kenneth Faried",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "DEN"
     },
     "Derrick Favors": {
         "PTS": 155,
@@ -3154,11 +3262,12 @@
         "DBPM": 52,
         "VORP": 150,
         "eFG%": 247,
-        "G": 276,
-        "grade": 75.72,
+        "grade": 76.47,
         "name": "Derrick Favors",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 50,
+        "team": "UTA"
     },
     "Cristiano Felício": {
         "PTS": 323,
@@ -3183,11 +3292,12 @@
         "DBPM": 191,
         "VORP": 200,
         "eFG%": 41,
-        "G": 197,
-        "grade": 73.11,
+        "grade": 73.18,
         "name": "Cristiano Felício",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "CHI"
     },
     "Raymond Felton": {
         "PTS": 240,
@@ -3212,11 +3322,12 @@
         "DBPM": 93,
         "VORP": 199,
         "eFG%": 290,
-        "G": 41,
-        "grade": 68.92,
+        "grade": 67.69,
         "name": "Raymond Felton",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "LAC"
     },
     "Yogi Ferrell": {
         "PTS": 116,
@@ -3241,11 +3352,12 @@
         "DBPM": 142,
         "VORP": 160,
         "eFG%": 220,
-        "G": 307,
-        "grade": 75.1,
+        "grade": 76.04,
         "name": "Yogi Ferrell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 36,
+        "team": "DAL"
     },
     "Dorian Finney-Smith": {
         "PTS": 339,
@@ -3270,11 +3382,12 @@
         "DBPM": 101,
         "VORP": 332,
         "eFG%": 321,
-        "G": 27,
-        "grade": 60.62,
+        "grade": 58.91,
         "name": "Dorian Finney-Smith",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "DAL"
     },
     "Evan Fournier": {
         "PTS": 47,
@@ -3299,11 +3412,12 @@
         "DBPM": 308,
         "VORP": 184,
         "eFG%": 192,
-        "G": 181,
-        "grade": 75.79,
+        "grade": 75.87,
         "name": "Evan Fournier",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "ORL"
     },
     "Randy Foye": {
         "PTS": 305,
@@ -3328,11 +3442,12 @@
         "DBPM": 267,
         "VORP": 370,
         "eFG%": 308,
-        "G": 173,
-        "grade": 56.69,
+        "grade": 55.84,
         "name": "Randy Foye",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "BRK"
     },
     "Tim Frazier": {
         "PTS": 228,
@@ -3357,11 +3472,12 @@
         "DBPM": 210,
         "VORP": 331,
         "eFG%": 325,
-        "G": 207,
-        "grade": 65.39,
+        "grade": 65.18,
         "name": "Tim Frazier",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "NOP"
     },
     "Enes Freedom": {
         "PTS": 74,
@@ -3386,11 +3502,12 @@
         "DBPM": 324,
         "VORP": 69,
         "eFG%": 84,
-        "G": 147,
-        "grade": 84.24,
+        "grade": 84.46,
         "name": "Enes Freedom",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "OKC"
     },
     "Channing Frye": {
         "PTS": 171,
@@ -3415,11 +3532,12 @@
         "DBPM": 233,
         "VORP": 90,
         "eFG%": 26,
-        "G": 125,
-        "grade": 81.44,
+        "grade": 81.38,
         "name": "Channing Frye",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "CLE"
     },
     "Danilo Gallinari": {
         "PTS": 40,
@@ -3444,11 +3562,12 @@
         "DBPM": 337,
         "VORP": 50,
         "eFG%": 127,
-        "G": 222,
-        "grade": 83.88,
+        "grade": 84.61,
         "name": "Danilo Gallinari",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 63,
+        "team": "DEN"
     },
     "Langston Galloway": {
         "PTS": 276,
@@ -3473,11 +3592,12 @@
         "DBPM": 372,
         "VORP": 330,
         "eFG%": 229,
-        "G": 358,
-        "grade": 57.16,
+        "grade": 57.65,
         "name": "Langston Galloway",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 19,
+        "team": "SAC"
     },
     "Marc Gasol": {
         "PTS": 34,
@@ -3502,11 +3622,12 @@
         "DBPM": 36,
         "VORP": 18,
         "eFG%": 206,
-        "G": 124,
-        "grade": 91.23,
+        "grade": 91.6,
         "name": "Marc Gasol",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "MEM"
     },
     "Pau Gasol": {
         "PTS": 107,
@@ -3531,11 +3652,12 @@
         "DBPM": 31,
         "VORP": 36,
         "eFG%": 85,
-        "G": 214,
-        "grade": 88.11,
+        "grade": 88.99,
         "name": "Pau Gasol",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "SAS"
     },
     "Rudy Gay": {
         "PTS": 38,
@@ -3560,11 +3682,12 @@
         "DBPM": 111,
         "VORP": 103,
         "eFG%": 209,
-        "G": 324,
-        "grade": 83.36,
+        "grade": 84.8,
         "name": "Rudy Gay",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 30,
+        "team": "SAC"
     },
     "Paul George": {
         "PTS": 15,
@@ -3589,11 +3712,12 @@
         "DBPM": 168,
         "VORP": 28,
         "eFG%": 115,
-        "G": 108,
-        "grade": 92.07,
+        "grade": 92.36,
         "name": "Paul George",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "IND"
     },
     "Jonathan Gibson": {
         "PTS": 268,
@@ -3618,11 +3742,12 @@
         "DBPM": 266,
         "VORP": 292,
         "eFG%": 337,
-        "G": 364,
-        "grade": 54.54,
+        "grade": 54.96,
         "name": "Jonathan Gibson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 17,
+        "team": "DAL"
     },
     "Taj Gibson": {
         "PTS": 175,
@@ -3647,11 +3772,12 @@
         "DBPM": 289,
         "VORP": 291,
         "eFG%": 214,
-        "G": 346,
-        "grade": 68.1,
+        "grade": 69.0,
         "name": "Taj Gibson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 23,
+        "team": "OKC"
     },
     "Manu Ginóbili*": {
         "PTS": 215,
@@ -3676,11 +3802,12 @@
         "DBPM": 17,
         "VORP": 89,
         "eFG%": 243,
-        "G": 172,
-        "grade": 75.73,
+        "grade": 75.74,
         "name": "Manu Ginóbili",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "SAS"
     },
     "Rudy Gobert": {
         "PTS": 82,
@@ -3705,11 +3832,12 @@
         "DBPM": 14,
         "VORP": 20,
         "eFG%": 5,
-        "G": 26,
-        "grade": 91.09,
+        "grade": 90.75,
         "name": "Rudy Gobert",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "UTA"
     },
     "Archie Goodwin": {
         "PTS": 201,
@@ -3734,11 +3862,12 @@
         "DBPM": 232,
         "VORP": 214,
         "eFG%": 24,
-        "G": 372,
-        "grade": 73.41,
+        "grade": 74.75,
         "name": "Archie Goodwin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 12,
+        "team": "BRK"
     },
     "Aaron Gordon": {
         "PTS": 103,
@@ -3763,11 +3892,12 @@
         "DBPM": 265,
         "VORP": 149,
         "eFG%": 219,
-        "G": 40,
-        "grade": 77.46,
+        "grade": 76.6,
         "name": "Aaron Gordon",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "ORL"
     },
     "Eric Gordon": {
         "PTS": 52,
@@ -3792,11 +3922,12 @@
         "DBPM": 336,
         "VORP": 88,
         "eFG%": 141,
-        "G": 107,
-        "grade": 78.76,
+        "grade": 78.44,
         "name": "Eric Gordon",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "HOU"
     },
     "Marcin Gortat": {
         "PTS": 127,
@@ -3821,11 +3952,12 @@
         "DBPM": 239,
         "VORP": 122,
         "eFG%": 40,
-        "G": 10,
-        "grade": 82.59,
+        "grade": 81.75,
         "name": "Marcin Gortat",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "WAS"
     },
     "Jerami Grant": {
         "PTS": 298,
@@ -3850,11 +3982,12 @@
         "DBPM": 75,
         "VORP": 183,
         "eFG%": 103,
-        "G": 69,
-        "grade": 72.23,
+        "grade": 71.35,
         "name": "Jerami Grant",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "OKC"
     },
     "Jerian Grant": {
         "PTS": 281,
@@ -3879,11 +4012,12 @@
         "DBPM": 35,
         "VORP": 148,
         "eFG%": 201,
-        "G": 221,
-        "grade": 72.38,
+        "grade": 72.59,
         "name": "Jerian Grant",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 63,
+        "team": "CHI"
     },
     "Danny Green": {
         "PTS": 221,
@@ -3908,11 +4042,12 @@
         "DBPM": 20,
         "VORP": 72,
         "eFG%": 152,
-        "G": 180,
-        "grade": 76.08,
+        "grade": 76.16,
         "name": "Danny Green",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "SAS"
     },
     "Draymond Green": {
         "PTS": 140,
@@ -3937,11 +4072,12 @@
         "DBPM": 1,
         "VORP": 21,
         "eFG%": 274,
-        "G": 94,
-        "grade": 85.72,
+        "grade": 85.62,
         "name": "Draymond Green",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "GSW"
     },
     "Gerald Green": {
         "PTS": 292,
@@ -3966,11 +4102,12 @@
         "DBPM": 367,
         "VORP": 290,
         "eFG%": 233,
-        "G": 283,
-        "grade": 59.1,
+        "grade": 59.14,
         "name": "Gerald Green",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 47,
+        "team": "BOS"
     },
     "JaMychal Green": {
         "PTS": 176,
@@ -3995,11 +4132,12 @@
         "DBPM": 141,
         "VORP": 147,
         "eFG%": 73,
-        "G": 80,
-        "grade": 82.35,
+        "grade": 82.01,
         "name": "JaMychal Green",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "MEM"
     },
     "Jeff Green": {
         "PTS": 165,
@@ -4024,11 +4162,12 @@
         "DBPM": 315,
         "VORP": 362,
         "eFG%": 344,
-        "G": 171,
-        "grade": 61.11,
+        "grade": 60.45,
         "name": "Jeff Green",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "ORL"
     },
     "Blake Griffin": {
         "PTS": 27,
@@ -4053,11 +4192,12 @@
         "DBPM": 110,
         "VORP": 25,
         "eFG%": 177,
-        "G": 233,
-        "grade": 89.22,
+        "grade": 90.28,
         "name": "Blake Griffin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "LAC"
     },
     "Justin Hamilton": {
         "PTS": 231,
@@ -4082,11 +4222,12 @@
         "DBPM": 220,
         "VORP": 182,
         "eFG%": 123,
-        "G": 213,
-        "grade": 72.27,
+        "grade": 72.42,
         "name": "Justin Hamilton",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "BRK"
     },
     "Tim Hardaway Jr.": {
         "PTS": 72,
@@ -4111,11 +4252,12 @@
         "DBPM": 231,
         "VORP": 68,
         "eFG%": 105,
-        "G": 55,
-        "grade": 82.29,
+        "grade": 81.76,
         "name": "Tim Hardaway Jr.",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "ATL"
     },
     "James Harden": {
         "PTS": 2,
@@ -4140,11 +4282,12 @@
         "DBPM": 51,
         "VORP": 2,
         "eFG%": 146,
-        "G": 25,
-        "grade": 95.52,
+        "grade": 95.37,
         "name": "James Harden",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "HOU"
     },
     "Maurice Harkless": {
         "PTS": 143,
@@ -4169,11 +4312,12 @@
         "DBPM": 167,
         "VORP": 121,
         "eFG%": 68,
-        "G": 79,
-        "grade": 80.56,
+        "grade": 80.12,
         "name": "Maurice Harkless",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "POR"
     },
     "Montrezl Harrell": {
         "PTS": 170,
@@ -4198,11 +4342,12 @@
         "DBPM": 166,
         "VORP": 120,
         "eFG%": 6,
-        "G": 248,
-        "grade": 79.89,
+        "grade": 80.63,
         "name": "Montrezl Harrell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 58,
+        "team": "HOU"
     },
     "Devin Harris": {
         "PTS": 239,
@@ -4227,11 +4372,12 @@
         "DBPM": 92,
         "VORP": 181,
         "eFG%": 261,
-        "G": 206,
-        "grade": 70.38,
+        "grade": 70.39,
         "name": "Devin Harris",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "DAL"
     },
     "Gary Harris": {
         "PTS": 65,
@@ -4256,11 +4402,12 @@
         "DBPM": 288,
         "VORP": 79,
         "eFG%": 31,
-        "G": 254,
-        "grade": 83.63,
+        "grade": 84.59,
         "name": "Gary Harris",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "DEN"
     },
     "Joe Harris": {
         "PTS": 193,
@@ -4285,11 +4432,12 @@
         "DBPM": 287,
         "VORP": 346,
         "eFG%": 93,
-        "G": 269,
-        "grade": 63.17,
+        "grade": 63.3,
         "name": "Joe Harris",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 52,
+        "team": "BRK"
     },
     "Tobias Harris": {
         "PTS": 53,
@@ -4314,11 +4462,12 @@
         "DBPM": 129,
         "VORP": 41,
         "eFG%": 122,
-        "G": 9,
-        "grade": 88.35,
+        "grade": 87.77,
         "name": "Tobias Harris",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "DET"
     },
     "Andrew Harrison": {
         "PTS": 280,
@@ -4343,11 +4492,12 @@
         "DBPM": 100,
         "VORP": 358,
         "eFG%": 370,
-        "G": 146,
-        "grade": 60.82,
+        "grade": 59.96,
         "name": "Andrew Harrison",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "MEM"
     },
     "Gordon Hayward": {
         "PTS": 26,
@@ -4372,11 +4522,12 @@
         "DBPM": 109,
         "VORP": 19,
         "eFG%": 110,
-        "G": 137,
-        "grade": 92.11,
+        "grade": 92.61,
         "name": "Gordon Hayward",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "UTA"
     },
     "Gerald Henderson": {
         "PTS": 164,
@@ -4401,11 +4552,12 @@
         "DBPM": 286,
         "VORP": 357,
         "eFG%": 282,
-        "G": 145,
-        "grade": 65.66,
+        "grade": 65.02,
         "name": "Gerald Henderson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "PHI"
     },
     "John Henson": {
         "PTS": 235,
@@ -4430,11 +4582,12 @@
         "DBPM": 91,
         "VORP": 225,
         "eFG%": 172,
-        "G": 247,
-        "grade": 72.72,
+        "grade": 73.13,
         "name": "John Henson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 58,
+        "team": "MIL"
     },
     "Juancho Hernangómez": {
         "PTS": 320,
@@ -4459,11 +4612,12 @@
         "DBPM": 209,
         "VORP": 180,
         "eFG%": 75,
-        "G": 227,
-        "grade": 70.34,
+        "grade": 70.5,
         "name": "Juancho Hernangómez",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "DEN"
     },
     "Willy Hernangómez": {
         "PTS": 192,
@@ -4488,11 +4642,12 @@
         "DBPM": 238,
         "VORP": 146,
         "eFG%": 119,
-        "G": 144,
-        "grade": 79.17,
+        "grade": 79.13,
         "name": "Willy Hernangómez",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "NYK"
     },
     "Mario Hezonja": {
         "PTS": 319,
@@ -4517,11 +4672,12 @@
         "DBPM": 285,
         "VORP": 367,
         "eFG%": 359,
-        "G": 205,
-        "grade": 54.09,
+        "grade": 53.36,
         "name": "Mario Hezonja",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "ORL"
     },
     "Buddy Hield": {
         "PTS": 61,
@@ -4546,11 +4702,12 @@
         "DBPM": 361,
         "VORP": 213,
         "eFG%": 39,
-        "G": 335,
-        "grade": 75.52,
+        "grade": 76.68,
         "name": "Buddy Hield",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 25,
+        "team": "SAC"
     },
     "Nenê": {
         "PTS": 169,
@@ -4575,11 +4732,12 @@
         "DBPM": 83,
         "VORP": 119,
         "eFG%": 11,
-        "G": 187,
-        "grade": 83.08,
+        "grade": 83.53,
         "name": "Nenê",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "HOU"
     },
     "George Hill": {
         "PTS": 49,
@@ -4604,11 +4762,12 @@
         "DBPM": 82,
         "VORP": 40,
         "eFG%": 74,
-        "G": 278,
-        "grade": 88.35,
+        "grade": 89.69,
         "name": "George Hill",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 49,
+        "team": "UTA"
     },
     "Solomon Hill": {
         "PTS": 229,
@@ -4633,11 +4792,12 @@
         "DBPM": 81,
         "VORP": 345,
         "eFG%": 273,
-        "G": 39,
-        "grade": 68.21,
+        "grade": 66.93,
         "name": "Solomon Hill",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "NOP"
     },
     "Jrue Holiday": {
         "PTS": 58,
@@ -4662,11 +4822,12 @@
         "DBPM": 140,
         "VORP": 55,
         "eFG%": 189,
-        "G": 186,
-        "grade": 83.72,
+        "grade": 84.19,
         "name": "Jrue Holiday",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "NOP"
     },
     "Justin Holiday": {
         "PTS": 207,
@@ -4691,11 +4852,12 @@
         "DBPM": 139,
         "VORP": 135,
         "eFG%": 151,
-        "G": 8,
-        "grade": 75.14,
+        "grade": 73.95,
         "name": "Justin Holiday",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "NYK"
     },
     "Rondae Hollis-Jefferson": {
         "PTS": 180,
@@ -4720,11 +4882,12 @@
         "DBPM": 74,
         "VORP": 198,
         "eFG%": 336,
-        "G": 68,
-        "grade": 72.86,
+        "grade": 72.0,
         "name": "Rondae Hollis-Jefferson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "BRK"
     },
     "Richaun Holmes": {
         "PTS": 149,
@@ -4749,11 +4912,12 @@
         "DBPM": 108,
         "VORP": 111,
         "eFG%": 22,
-        "G": 253,
-        "grade": 83.5,
+        "grade": 84.44,
         "name": "Richaun Holmes",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "PHI"
     },
     "Rodney Hood": {
         "PTS": 102,
@@ -4778,11 +4942,12 @@
         "DBPM": 219,
         "VORP": 179,
         "eFG%": 232,
-        "G": 245,
-        "grade": 71.84,
+        "grade": 72.19,
         "name": "Rodney Hood",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 59,
+        "team": "UTA"
     },
     "Al Horford": {
         "PTS": 81,
@@ -4807,11 +4972,12 @@
         "DBPM": 60,
         "VORP": 31,
         "eFG%": 140,
-        "G": 179,
-        "grade": 89.04,
+        "grade": 89.7,
         "name": "Al Horford",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "BOS"
     },
     "Dwight Howard": {
         "PTS": 90,
@@ -4836,11 +5002,12 @@
         "DBPM": 80,
         "VORP": 49,
         "eFG%": 9,
-        "G": 123,
-        "grade": 88.68,
+        "grade": 88.93,
         "name": "Dwight Howard",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "ATL"
     },
     "Marcelo Huertas": {
         "PTS": 373,
@@ -4865,11 +5032,12 @@
         "DBPM": 323,
         "VORP": 318,
         "eFG%": 366,
-        "G": 345,
-        "grade": 50.31,
+        "grade": 50.4,
         "name": "Marcelo Huertas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 23,
+        "team": "LAL"
     },
     "Kris Humphries": {
         "PTS": 327,
@@ -4894,11 +5062,12 @@
         "DBPM": 190,
         "VORP": 253,
         "eFG%": 329,
-        "G": 256,
-        "grade": 63.85,
+        "grade": 63.92,
         "name": "Kris Humphries",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 56,
+        "team": "ATL"
     },
     "Serge Ibaka": {
         "PTS": 76,
@@ -4923,11 +5092,12 @@
         "DBPM": 252,
         "VORP": 224,
         "eFG%": 121,
-        "G": 344,
-        "grade": 74.95,
+        "grade": 76.15,
         "name": "Serge Ibaka",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 23,
+        "team": "TOR"
     },
     "Andre Iguodala": {
         "PTS": 209,
@@ -4952,11 +5122,12 @@
         "DBPM": 27,
         "VORP": 39,
         "eFG%": 16,
-        "G": 93,
-        "grade": 87.23,
+        "grade": 87.19,
         "name": "Andre Iguodala",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "GSW"
     },
     "Ersan İlyasova": {
         "PTS": 136,
@@ -4981,11 +5152,12 @@
         "DBPM": 99,
         "VORP": 197,
         "eFG%": 269,
-        "G": 331,
-        "grade": 72.14,
+        "grade": 73.12,
         "name": "Ersan İlyasova",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 26,
+        "team": "ATL"
     },
     "Joe Ingles": {
         "PTS": 227,
@@ -5010,11 +5182,12 @@
         "DBPM": 12,
         "VORP": 54,
         "eFG%": 25,
-        "G": 7,
-        "grade": 82.14,
+        "grade": 81.26,
         "name": "Joe Ingles",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "UTA"
     },
     "Brandon Ingram": {
         "PTS": 158,
@@ -5039,11 +5212,12 @@
         "DBPM": 335,
         "VORP": 376,
         "eFG%": 343,
-        "G": 54,
-        "grade": 60.33,
+        "grade": 58.79,
         "name": "Brandon Ingram",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "LAL"
     },
     "Kyrie Irving": {
         "PTS": 10,
@@ -5068,11 +5242,12 @@
         "DBPM": 322,
         "VORP": 27,
         "eFG%": 112,
-        "G": 143,
-        "grade": 89.78,
+        "grade": 90.22,
         "name": "Kyrie Irving",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 72,
+        "team": "CLE"
     },
     "Reggie Jackson": {
         "PTS": 71,
@@ -5097,11 +5272,12 @@
         "DBPM": 334,
         "VORP": 178,
         "eFG%": 303,
-        "G": 268,
-        "grade": 71.78,
+        "grade": 72.3,
         "name": "Reggie Jackson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 52,
+        "team": "DET"
     },
     "LeBron James": {
         "PTS": 7,
@@ -5126,11 +5302,12 @@
         "DBPM": 50,
         "VORP": 4,
         "eFG%": 19,
-        "G": 122,
-        "grade": 96.02,
+        "grade": 96.59,
         "name": "LeBron James",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "CLE"
     },
     "Al Jefferson": {
         "PTS": 197,
@@ -5155,11 +5332,12 @@
         "DBPM": 307,
         "VORP": 223,
         "eFG%": 218,
-        "G": 196,
-        "grade": 70.43,
+        "grade": 70.37,
         "name": "Al Jefferson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "IND"
     },
     "Richard Jefferson": {
         "PTS": 286,
@@ -5184,11 +5362,12 @@
         "DBPM": 251,
         "VORP": 344,
         "eFG%": 109,
-        "G": 53,
-        "grade": 65.56,
+        "grade": 64.25,
         "name": "Richard Jefferson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "CLE"
     },
     "Brandon Jennings": {
         "PTS": 355,
@@ -5213,11 +5392,12 @@
         "DBPM": 314,
         "VORP": 317,
         "eFG%": 375,
-        "G": 343,
-        "grade": 53.25,
+        "grade": 53.46,
         "name": "Brandon Jennings",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 23,
+        "team": "WAS"
     },
     "Jonas Jerebko": {
         "PTS": 348,
@@ -5242,11 +5422,12 @@
         "DBPM": 178,
         "VORP": 289,
         "eFG%": 155,
-        "G": 67,
-        "grade": 65.08,
+        "grade": 63.85,
         "name": "Jonas Jerebko",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "BOS"
     },
     "Amir Johnson": {
         "PTS": 250,
@@ -5271,11 +5452,12 @@
         "DBPM": 43,
         "VORP": 87,
         "eFG%": 13,
-        "G": 38,
-        "grade": 84.47,
+        "grade": 83.91,
         "name": "Amir Johnson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "BOS"
     },
     "James Johnson": {
         "PTS": 99,
@@ -5300,11 +5482,12 @@
         "DBPM": 26,
         "VORP": 35,
         "eFG%": 111,
-        "G": 92,
-        "grade": 87.9,
+        "grade": 87.89,
         "name": "James Johnson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "MIA"
     },
     "Joe Johnson": {
         "PTS": 163,
@@ -5329,11 +5512,12 @@
         "DBPM": 165,
         "VORP": 86,
         "eFG%": 154,
-        "G": 66,
-        "grade": 77.32,
+        "grade": 76.65,
         "name": "Joe Johnson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "UTA"
     },
     "Stanley Johnson": {
         "PTS": 338,
@@ -5358,11 +5542,12 @@
         "DBPM": 34,
         "VORP": 329,
         "eFG%": 360,
-        "G": 78,
-        "grade": 58.62,
+        "grade": 57.18,
         "name": "Stanley Johnson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "DET"
     },
     "Tyler Johnson": {
         "PTS": 85,
@@ -5387,11 +5572,12 @@
         "DBPM": 68,
         "VORP": 53,
         "eFG%": 246,
-        "G": 136,
-        "grade": 84.08,
+        "grade": 84.21,
         "name": "Tyler Johnson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "MIA"
     },
     "Wesley Johnson": {
         "PTS": 372,
@@ -5416,11 +5602,12 @@
         "DBPM": 59,
         "VORP": 252,
         "eFG%": 347,
-        "G": 178,
-        "grade": 58.22,
+        "grade": 57.48,
         "name": "Wesley Johnson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "LAC"
     },
     "Nikola Jokić": {
         "PTS": 50,
@@ -5445,11 +5632,12 @@
         "DBPM": 33,
         "VORP": 16,
         "eFG%": 15,
-        "G": 135,
-        "grade": 94.27,
+        "grade": 94.86,
         "name": "Nikola Jokić",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "DEN"
     },
     "Derrick Jones Jr.": {
         "PTS": 303,
@@ -5474,11 +5662,12 @@
         "DBPM": 264,
         "VORP": 251,
         "eFG%": 46,
-        "G": 318,
-        "grade": 66.15,
+        "grade": 66.77,
         "name": "Derrick Jones Jr.",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 32,
+        "team": "PHO"
     },
     "Tyus Jones": {
         "PTS": 354,
@@ -5503,11 +5692,12 @@
         "DBPM": 90,
         "VORP": 177,
         "eFG%": 256,
-        "G": 242,
-        "grade": 66.96,
+        "grade": 67.07,
         "name": "Tyus Jones",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 60,
+        "team": "MIN"
     },
     "DeAndre Jordan": {
         "PTS": 101,
@@ -5532,11 +5722,12 @@
         "DBPM": 73,
         "VORP": 24,
         "eFG%": 1,
-        "G": 24,
-        "grade": 89.56,
+        "grade": 89.14,
         "name": "DeAndre Jordan",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "LAC"
     },
     "Cory Joseph": {
         "PTS": 160,
@@ -5561,11 +5752,12 @@
         "DBPM": 230,
         "VORP": 176,
         "eFG%": 248,
-        "G": 37,
-        "grade": 74.4,
+        "grade": 73.38,
         "name": "Cory Joseph",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "TOR"
     },
     "Frank Kaminsky": {
         "PTS": 113,
@@ -5590,11 +5782,12 @@
         "DBPM": 250,
         "VORP": 175,
         "eFG%": 300,
-        "G": 106,
-        "grade": 71.77,
+        "grade": 71.12,
         "name": "Frank Kaminsky",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "CHO"
     },
     "Michael Kidd-Gilchrist": {
         "PTS": 162,
@@ -5619,11 +5812,12 @@
         "DBPM": 72,
         "VORP": 134,
         "eFG%": 281,
-        "G": 23,
-        "grade": 79.74,
+        "grade": 78.87,
         "name": "Michael Kidd-Gilchrist",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "CHO"
     },
     "Sean Kilpatrick": {
         "PTS": 95,
@@ -5648,11 +5842,12 @@
         "DBPM": 333,
         "VORP": 288,
         "eFG%": 255,
-        "G": 164,
-        "grade": 69.4,
+        "grade": 69.06,
         "name": "Sean Kilpatrick",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 70,
+        "team": "BRK"
     },
     "Brandon Knight": {
         "PTS": 122,
@@ -5677,11 +5872,12 @@
         "DBPM": 371,
         "VORP": 316,
         "eFG%": 345,
-        "G": 266,
-        "grade": 61.61,
+        "grade": 61.65,
         "name": "Brandon Knight",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 54,
+        "team": "PHO"
     },
     "Kyle Korver": {
         "PTS": 129,
@@ -5706,11 +5902,12 @@
         "DBPM": 351,
         "VORP": 159,
         "eFG%": 4,
-        "G": 309,
-        "grade": 75.72,
+        "grade": 76.71,
         "name": "Kyle Korver",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 35,
+        "team": "CLE"
     },
     "Kosta Koufos": {
         "PTS": 246,
@@ -5735,11 +5932,12 @@
         "DBPM": 229,
         "VORP": 315,
         "eFG%": 79,
-        "G": 156,
-        "grade": 70.94,
+        "grade": 70.62,
         "name": "Kosta Koufos",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "SAC"
     },
     "Mindaugas Kuzminskas": {
         "PTS": 260,
@@ -5764,11 +5962,12 @@
         "DBPM": 332,
         "VORP": 250,
         "eFG%": 210,
-        "G": 177,
-        "grade": 64.65,
+        "grade": 64.19,
         "name": "Mindaugas Kuzminskas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "NYK"
     },
     "Skal Labissière": {
         "PTS": 178,
@@ -5793,11 +5992,12 @@
         "DBPM": 331,
         "VORP": 249,
         "eFG%": 92,
-        "G": 314,
-        "grade": 72.27,
+        "grade": 73.13,
         "name": "Skal Labissière",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 33,
+        "team": "SAC"
     },
     "Jeremy Lamb": {
         "PTS": 150,
@@ -5822,11 +6022,12 @@
         "DBPM": 164,
         "VORP": 133,
         "eFG%": 208,
-        "G": 226,
-        "grade": 77.27,
+        "grade": 77.73,
         "name": "Jeremy Lamb",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "CHO"
     },
     "Joffrey Lauvergne": {
         "PTS": 331,
@@ -5851,11 +6052,12 @@
         "DBPM": 313,
         "VORP": 287,
         "eFG%": 351,
-        "G": 356,
-        "grade": 54.03,
+        "grade": 54.36,
         "name": "Joffrey Lauvergne",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 20,
+        "team": "CHI"
     },
     "Zach LaVine": {
         "PTS": 37,
@@ -5880,11 +6082,12 @@
         "DBPM": 330,
         "VORP": 110,
         "eFG%": 91,
-        "G": 282,
-        "grade": 80.29,
+        "grade": 81.29,
         "name": "Zach LaVine",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 47,
+        "team": "MIN"
     },
     "Ty Lawson": {
         "PTS": 148,
@@ -5909,11 +6112,12 @@
         "DBPM": 275,
         "VORP": 174,
         "eFG%": 253,
-        "G": 170,
-        "grade": 74.92,
+        "grade": 74.88,
         "name": "Ty Lawson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "SAC"
     },
     "Courtney Lee": {
         "PTS": 126,
@@ -5938,11 +6142,12 @@
         "DBPM": 208,
         "VORP": 132,
         "eFG%": 118,
-        "G": 77,
-        "grade": 79.44,
+        "grade": 78.93,
         "name": "Courtney Lee",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "NYK"
     },
     "David Lee": {
         "PTS": 220,
@@ -5967,11 +6172,12 @@
         "DBPM": 58,
         "VORP": 67,
         "eFG%": 23,
-        "G": 52,
-        "grade": 84.21,
+        "grade": 83.74,
         "name": "David Lee",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "SAS"
     },
     "Alex Len": {
         "PTS": 199,
@@ -5996,11 +6202,12 @@
         "DBPM": 163,
         "VORP": 286,
         "eFG%": 213,
-        "G": 76,
-        "grade": 73.14,
+        "grade": 72.35,
         "name": "Alex Len",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "PHO"
     },
     "Kawhi Leonard": {
         "PTS": 8,
@@ -6025,11 +6232,12 @@
         "DBPM": 13,
         "VORP": 3,
         "eFG%": 98,
-        "G": 121,
-        "grade": 96.53,
+        "grade": 97.12,
         "name": "Kawhi Leonard",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "SAS"
     },
     "Meyers Leonard": {
         "PTS": 297,
@@ -6054,11 +6262,12 @@
         "DBPM": 249,
         "VORP": 343,
         "eFG%": 260,
-        "G": 120,
-        "grade": 61.75,
+        "grade": 60.75,
         "name": "Meyers Leonard",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "POR"
     },
     "Jon Leuer": {
         "PTS": 139,
@@ -6083,11 +6292,12 @@
         "DBPM": 128,
         "VORP": 102,
         "eFG%": 162,
-        "G": 105,
-        "grade": 80.01,
+        "grade": 79.73,
         "name": "Jon Leuer",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "DET"
     },
     "Caris LeVert": {
         "PTS": 191,
@@ -6112,11 +6322,12 @@
         "DBPM": 127,
         "VORP": 196,
         "eFG%": 134,
-        "G": 252,
-        "grade": 71.37,
+        "grade": 71.75,
         "name": "Caris LeVert",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "BRK"
     },
     "Damian Lillard": {
         "PTS": 6,
@@ -6141,11 +6352,12 @@
         "DBPM": 306,
         "VORP": 15,
         "eFG%": 169,
-        "G": 104,
-        "grade": 89.59,
+        "grade": 89.74,
         "name": "Damian Lillard",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "POR"
     },
     "Jeremy Lin": {
         "PTS": 70,
@@ -6170,11 +6382,12 @@
         "DBPM": 162,
         "VORP": 109,
         "eFG%": 188,
-        "G": 306,
-        "grade": 81.46,
+        "grade": 82.68,
         "name": "Jeremy Lin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 36,
+        "team": "BRK"
     },
     "Shaun Livingston": {
         "PTS": 308,
@@ -6199,11 +6412,12 @@
         "DBPM": 107,
         "VORP": 314,
         "eFG%": 83,
-        "G": 91,
-        "grade": 70.2,
+        "grade": 69.38,
         "name": "Shaun Livingston",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "GSW"
     },
     "Shawn Long": {
         "PTS": 190,
@@ -6228,11 +6442,12 @@
         "DBPM": 305,
         "VORP": 212,
         "eFG%": 21,
-        "G": 363,
-        "grade": 76.03,
+        "grade": 77.41,
         "name": "Shawn Long",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 18,
+        "team": "PHI"
     },
     "Brook Lopez": {
         "PTS": 29,
@@ -6257,11 +6472,12 @@
         "DBPM": 248,
         "VORP": 38,
         "eFG%": 126,
-        "G": 103,
-        "grade": 87.29,
+        "grade": 87.33,
         "name": "Brook Lopez",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "BRK"
     },
     "Robin Lopez": {
         "PTS": 135,
@@ -6286,11 +6502,12 @@
         "DBPM": 274,
         "VORP": 285,
         "eFG%": 236,
-        "G": 22,
-        "grade": 73.55,
+        "grade": 72.39,
         "name": "Robin Lopez",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "CHI"
     },
     "Kevin Love": {
         "PTS": 36,
@@ -6315,11 +6532,12 @@
         "DBPM": 312,
         "VORP": 48,
         "eFG%": 187,
-        "G": 241,
-        "grade": 86.11,
+        "grade": 87.09,
         "name": "Kevin Love",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 60,
+        "team": "CLE"
     },
     "Kyle Lowry": {
         "PTS": 22,
@@ -6344,11 +6562,12 @@
         "DBPM": 117,
         "VORP": 17,
         "eFG%": 54,
-        "G": 240,
-        "grade": 92.56,
+        "grade": 93.82,
         "name": "Kyle Lowry",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 60,
+        "team": "TOR"
     },
     "Timothé Luwawu-Cabarrot": {
         "PTS": 255,
@@ -6373,11 +6592,12 @@
         "DBPM": 263,
         "VORP": 369,
         "eFG%": 299,
-        "G": 169,
-        "grade": 59.7,
+        "grade": 58.96,
         "name": "Timothé Luwawu-Cabarrot",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "PHI"
     },
     "Trey Lyles": {
         "PTS": 267,
@@ -6402,11 +6622,12 @@
         "DBPM": 177,
         "VORP": 284,
         "eFG%": 349,
-        "G": 155,
-        "grade": 60.79,
+        "grade": 59.99,
         "name": "Trey Lyles",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "UTA"
     },
     "Shelvin Mack": {
         "PTS": 206,
@@ -6431,11 +6652,12 @@
         "DBPM": 138,
         "VORP": 283,
         "eFG%": 228,
-        "G": 261,
-        "grade": 66.28,
+        "grade": 66.49,
         "name": "Shelvin Mack",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 55,
+        "team": "UTA"
     },
     "Ian Mahinmi": {
         "PTS": 291,
@@ -6460,11 +6682,12 @@
         "DBPM": 30,
         "VORP": 222,
         "eFG%": 30,
-        "G": 320,
-        "grade": 72.85,
+        "grade": 73.78,
         "name": "Ian Mahinmi",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 31,
+        "team": "WAS"
     },
     "Jarell Martin": {
         "PTS": 346,
@@ -6489,11 +6712,12 @@
         "DBPM": 247,
         "VORP": 356,
         "eFG%": 361,
-        "G": 292,
-        "grade": 55.63,
+        "grade": 55.58,
         "name": "Jarell Martin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 42,
+        "team": "MEM"
     },
     "Wesley Matthews": {
         "PTS": 89,
@@ -6518,11 +6742,12 @@
         "DBPM": 176,
         "VORP": 118,
         "eFG%": 225,
-        "G": 134,
-        "grade": 75.91,
+        "grade": 75.65,
         "name": "Wesley Matthews",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "DAL"
     },
     "Luc Mbah a Moute": {
         "PTS": 273,
@@ -6547,11 +6772,12 @@
         "DBPM": 42,
         "VORP": 117,
         "eFG%": 63,
-        "G": 36,
-        "grade": 76.01,
+        "grade": 75.06,
         "name": "Luc Mbah a Moute",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "LAC"
     },
     "Patrick McCaw": {
         "PTS": 345,
@@ -6576,11 +6802,12 @@
         "DBPM": 161,
         "VORP": 282,
         "eFG%": 168,
-        "G": 154,
-        "grade": 64.26,
+        "grade": 63.62,
         "name": "Patrick McCaw",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "GSW"
     },
     "CJ McCollum": {
         "PTS": 20,
@@ -6605,11 +6832,12 @@
         "DBPM": 329,
         "VORP": 34,
         "eFG%": 90,
-        "G": 35,
-        "grade": 90.25,
+        "grade": 89.94,
         "name": "CJ McCollum",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "POR"
     },
     "T.J. McConnell": {
         "PTS": 230,
@@ -6634,11 +6862,12 @@
         "DBPM": 67,
         "VORP": 158,
         "eFG%": 297,
-        "G": 21,
-        "grade": 75.18,
+        "grade": 74.09,
         "name": "T.J. McConnell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "PHI"
     },
     "K.J. McDaniels": {
         "PTS": 259,
@@ -6663,11 +6892,12 @@
         "DBPM": 126,
         "VORP": 248,
         "eFG%": 186,
-        "G": 355,
-        "grade": 65.77,
+        "grade": 66.63,
         "name": "K.J. McDaniels",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 20,
+        "team": "BRK"
     },
     "Doug McDermott": {
         "PTS": 245,
@@ -6692,11 +6922,12 @@
         "DBPM": 355,
         "VORP": 281,
         "eFG%": 108,
-        "G": 351,
-        "grade": 61.08,
+        "grade": 61.7,
         "name": "Doug McDermott",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 22,
+        "team": "OKC"
     },
     "Rodney McGruder": {
         "PTS": 254,
@@ -6721,11 +6952,12 @@
         "DBPM": 189,
         "VORP": 247,
         "eFG%": 240,
-        "G": 65,
-        "grade": 67.17,
+        "grade": 66.02,
         "name": "Rodney McGruder",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "MIA"
     },
     "Ben McLemore": {
         "PTS": 196,
@@ -6750,11 +6982,12 @@
         "DBPM": 354,
         "VORP": 361,
         "eFG%": 200,
-        "G": 232,
-        "grade": 60.29,
+        "grade": 60.02,
         "name": "Ben McLemore",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "SAC"
     },
     "Jordan McRae": {
         "PTS": 337,
@@ -6779,11 +7012,12 @@
         "DBPM": 304,
         "VORP": 313,
         "eFG%": 335,
-        "G": 303,
-        "grade": 54.45,
+        "grade": 54.43,
         "name": "Jordan McRae",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 37,
+        "team": "CLE"
     },
     "Josh McRoberts": {
         "PTS": 318,
@@ -6808,11 +7042,12 @@
         "DBPM": 137,
         "VORP": 246,
         "eFG%": 355,
-        "G": 350,
-        "grade": 59.92,
+        "grade": 60.48,
         "name": "Josh McRoberts",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 22,
+        "team": "MIA"
     },
     "Jodie Meeks": {
         "PTS": 168,
@@ -6837,11 +7072,12 @@
         "DBPM": 228,
         "VORP": 221,
         "eFG%": 180,
-        "G": 305,
-        "grade": 68.53,
+        "grade": 69.16,
         "name": "Jodie Meeks",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 36,
+        "team": "ORL"
     },
     "Salah Mejri": {
         "PTS": 365,
@@ -6866,11 +7102,12 @@
         "DBPM": 11,
         "VORP": 195,
         "eFG%": 7,
-        "G": 133,
-        "grade": 75.38,
+        "grade": 75.1,
         "name": "Salah Mejri",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "DAL"
     },
     "Khris Middleton": {
         "PTS": 66,
@@ -6895,11 +7132,12 @@
         "DBPM": 160,
         "VORP": 173,
         "eFG%": 161,
-        "G": 327,
-        "grade": 78.84,
+        "grade": 80.1,
         "name": "Khris Middleton",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 29,
+        "team": "MIL"
     },
     "C.J. Miles": {
         "PTS": 128,
@@ -6924,11 +7162,12 @@
         "DBPM": 262,
         "VORP": 85,
         "eFG%": 58,
-        "G": 90,
-        "grade": 79.52,
+        "grade": 79.11,
         "name": "C.J. Miles",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "IND"
     },
     "Patty Mills": {
         "PTS": 154,
@@ -6953,11 +7192,12 @@
         "DBPM": 136,
         "VORP": 63,
         "eFG%": 67,
-        "G": 34,
-        "grade": 82.61,
+        "grade": 81.95,
         "name": "Patty Mills",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "SAS"
     },
     "Paul Millsap": {
         "PTS": 43,
@@ -6982,11 +7222,12 @@
         "DBPM": 41,
         "VORP": 37,
         "eFG%": 272,
-        "G": 168,
-        "grade": 86.93,
+        "grade": 87.41,
         "name": "Paul Millsap",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "ATL"
     },
     "Nikola Mirotić": {
         "PTS": 132,
@@ -7011,11 +7252,12 @@
         "DBPM": 106,
         "VORP": 84,
         "eFG%": 167,
-        "G": 163,
-        "grade": 80.41,
+        "grade": 80.56,
         "name": "Nikola Mirotić",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 70,
+        "team": "CHI"
     },
     "Greg Monroe": {
         "PTS": 112,
@@ -7040,11 +7282,12 @@
         "DBPM": 105,
         "VORP": 58,
         "eFG%": 117,
-        "G": 20,
-        "grade": 87.4,
+        "grade": 86.85,
         "name": "Greg Monroe",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "MIL"
     },
     "E'Twaun Moore": {
         "PTS": 151,
@@ -7069,11 +7312,12 @@
         "DBPM": 159,
         "VORP": 211,
         "eFG%": 159,
-        "G": 132,
-        "grade": 73.55,
+        "grade": 73.18,
         "name": "E'Twaun Moore",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "NOP"
     },
     "Marcus Morris": {
         "PTS": 80,
@@ -7098,11 +7342,12 @@
         "DBPM": 218,
         "VORP": 145,
         "eFG%": 284,
-        "G": 51,
-        "grade": 75.51,
+        "grade": 74.65,
         "name": "Marcus Morris",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "DET"
     },
     "Markieff Morris": {
         "PTS": 79,
@@ -7127,11 +7372,12 @@
         "DBPM": 188,
         "VORP": 194,
         "eFG%": 224,
-        "G": 89,
-        "grade": 80.25,
+        "grade": 79.87,
         "name": "Markieff Morris",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "WAS"
     },
     "Donatas Motiejūnas": {
         "PTS": 336,
@@ -7156,11 +7402,12 @@
         "DBPM": 125,
         "VORP": 328,
         "eFG%": 324,
-        "G": 312,
-        "grade": 56.33,
+        "grade": 56.46,
         "name": "Donatas Motiejūnas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 34,
+        "team": "NOP"
     },
     "Timofey Mozgov": {
         "PTS": 218,
@@ -7185,11 +7432,12 @@
         "DBPM": 342,
         "VORP": 366,
         "eFG%": 171,
-        "G": 265,
-        "grade": 65.09,
+        "grade": 65.28,
         "name": "Timofey Mozgov",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 54,
+        "team": "LAL"
     },
     "Emmanuel Mudiay": {
         "PTS": 121,
@@ -7214,11 +7462,12 @@
         "DBPM": 350,
         "VORP": 342,
         "eFG%": 354,
-        "G": 260,
-        "grade": 61.87,
+        "grade": 61.88,
         "name": "Emmanuel Mudiay",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 55,
+        "team": "DEN"
     },
     "Shabazz Muhammad": {
         "PTS": 147,
@@ -7243,11 +7492,12 @@
         "DBPM": 376,
         "VORP": 280,
         "eFG%": 150,
-        "G": 64,
-        "grade": 70.88,
+        "grade": 69.9,
         "name": "Shabazz Muhammad",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "MIN"
     },
     "Jamal Murray": {
         "PTS": 146,
@@ -7272,11 +7522,12 @@
         "DBPM": 328,
         "VORP": 245,
         "eFG%": 264,
-        "G": 6,
-        "grade": 69.2,
+        "grade": 67.73,
         "name": "Jamal Murray",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "DEN"
     },
     "Mike Muscala": {
         "PTS": 266,
@@ -7301,11 +7552,12 @@
         "DBPM": 49,
         "VORP": 101,
         "eFG%": 47,
-        "G": 162,
-        "grade": 80.55,
+        "grade": 80.71,
         "name": "Mike Muscala",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 70,
+        "team": "ATL"
     },
     "Larry Nance Jr.": {
         "PTS": 226,
@@ -7330,11 +7582,12 @@
         "DBPM": 48,
         "VORP": 100,
         "eFG%": 101,
-        "G": 220,
-        "grade": 80.62,
+        "grade": 81.2,
         "name": "Larry Nance Jr.",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 63,
+        "team": "LAL"
     },
     "Maurice Ndour": {
         "PTS": 363,
@@ -7359,11 +7612,12 @@
         "DBPM": 158,
         "VORP": 279,
         "eFG%": 313,
-        "G": 317,
-        "grade": 57.15,
+        "grade": 57.35,
         "name": "Maurice Ndour",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 32,
+        "team": "NYK"
     },
     "Jameer Nelson": {
         "PTS": 161,
@@ -7388,11 +7642,12 @@
         "DBPM": 311,
         "VORP": 244,
         "eFG%": 125,
-        "G": 102,
-        "grade": 71.47,
+        "grade": 70.78,
         "name": "Jameer Nelson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "DEN"
     },
     "Andrew Nicholson": {
         "PTS": 364,
@@ -7417,11 +7672,12 @@
         "DBPM": 187,
         "VORP": 278,
         "eFG%": 363,
-        "G": 376,
-        "grade": 52.86,
+        "grade": 53.29,
         "name": "Andrew Nicholson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 10,
+        "team": "BRK"
     },
     "Joakim Noah": {
         "PTS": 313,
@@ -7446,11 +7702,12 @@
         "DBPM": 116,
         "VORP": 172,
         "eFG%": 245,
-        "G": 287,
-        "grade": 71.58,
+        "grade": 72.22,
         "name": "Joakim Noah",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 46,
+        "team": "NYK"
     },
     "Nerlens Noel": {
         "PTS": 184,
@@ -7475,11 +7732,12 @@
         "DBPM": 25,
         "VORP": 171,
         "eFG%": 45,
-        "G": 349,
-        "grade": 80.13,
+        "grade": 81.61,
         "name": "Nerlens Noel",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 22,
+        "team": "DAL"
     },
     "Lucas Nogueira": {
         "PTS": 335,
@@ -7504,11 +7762,12 @@
         "DBPM": 4,
         "VORP": 83,
         "eFG%": 3,
-        "G": 251,
-        "grade": 80.49,
+        "grade": 81.28,
         "name": "Lucas Nogueira",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "TOR"
     },
     "Dirk Nowitzki": {
         "PTS": 75,
@@ -7533,11 +7792,12 @@
         "DBPM": 157,
         "VORP": 99,
         "eFG%": 227,
-        "G": 264,
-        "grade": 79.61,
+        "grade": 80.45,
         "name": "Dirk Nowitzki",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 54,
+        "team": "DAL"
     },
     "Jusuf Nurkić": {
         "PTS": 60,
@@ -7562,11 +7822,12 @@
         "DBPM": 40,
         "VORP": 170,
         "eFG%": 191,
-        "G": 354,
-        "grade": 80.25,
+        "grade": 81.76,
         "name": "Jusuf Nurkić",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 20,
+        "team": "POR"
     },
     "David Nwaba": {
         "PTS": 275,
@@ -7591,11 +7852,12 @@
         "DBPM": 186,
         "VORP": 243,
         "eFG%": 29,
-        "G": 353,
-        "grade": 68.03,
+        "grade": 68.98,
         "name": "David Nwaba",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 20,
+        "team": "LAL"
     },
     "Kyle O'Quinn": {
         "PTS": 258,
@@ -7620,11 +7882,12 @@
         "DBPM": 24,
         "VORP": 78,
         "eFG%": 149,
-        "G": 50,
-        "grade": 81.96,
+        "grade": 81.38,
         "name": "Kyle O'Quinn",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "NYK"
     },
     "Jahlil Okafor": {
         "PTS": 111,
@@ -7649,11 +7912,12 @@
         "DBPM": 246,
         "VORP": 277,
         "eFG%": 173,
-        "G": 275,
-        "grade": 69.76,
+        "grade": 70.23,
         "name": "Jahlil Okafor",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 50,
+        "team": "PHI"
     },
     "Victor Oladipo": {
         "PTS": 54,
@@ -7678,11 +7942,12 @@
         "DBPM": 185,
         "VORP": 116,
         "eFG%": 185,
-        "G": 185,
-        "grade": 79.91,
+        "grade": 80.2,
         "name": "Victor Oladipo",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 67,
+        "team": "OKC"
     },
     "Kelly Olynyk": {
         "PTS": 174,
@@ -7707,11 +7972,12 @@
         "DBPM": 98,
         "VORP": 108,
         "eFG%": 38,
-        "G": 101,
-        "grade": 83.25,
+        "grade": 83.09,
         "name": "Kelly Olynyk",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "BOS"
     },
     "Kelly Oubre Jr.": {
         "PTS": 257,
@@ -7736,11 +8002,12 @@
         "DBPM": 175,
         "VORP": 355,
         "eFG%": 268,
-        "G": 49,
-        "grade": 64.83,
+        "grade": 63.47,
         "name": "Kelly Oubre Jr.",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "WAS"
     },
     "Zaza Pachulia": {
         "PTS": 272,
@@ -7765,11 +8032,12 @@
         "DBPM": 29,
         "VORP": 115,
         "eFG%": 114,
-        "G": 161,
-        "grade": 81.43,
+        "grade": 81.62,
         "name": "Zaza Pachulia",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 70,
+        "team": "GSW"
     },
     "Georgios Papagiannis": {
         "PTS": 290,
@@ -7794,11 +8062,12 @@
         "DBPM": 245,
         "VORP": 312,
         "eFG%": 82,
-        "G": 348,
-        "grade": 65.69,
+        "grade": 66.5,
         "name": "Georgios Papagiannis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 22,
+        "team": "SAC"
     },
     "Jabari Parker": {
         "PTS": 33,
@@ -7823,11 +8092,12 @@
         "DBPM": 327,
         "VORP": 77,
         "eFG%": 131,
-        "G": 273,
-        "grade": 84.53,
+        "grade": 85.66,
         "name": "Jabari Parker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 51,
+        "team": "MIL"
     },
     "Tony Parker": {
         "PTS": 142,
@@ -7852,11 +8122,12 @@
         "DBPM": 284,
         "VORP": 311,
         "eFG%": 254,
-        "G": 219,
-        "grade": 69.18,
+        "grade": 69.22,
         "name": "Tony Parker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 63,
+        "team": "SAS"
     },
     "Chandler Parsons": {
         "PTS": 265,
@@ -7881,11 +8152,12 @@
         "DBPM": 207,
         "VORP": 327,
         "eFG%": 368,
-        "G": 311,
-        "grade": 56.4,
+        "grade": 56.53,
         "name": "Chandler Parsons",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 34,
+        "team": "MEM"
     },
     "Patrick Patterson": {
         "PTS": 234,
@@ -7910,11 +8182,12 @@
         "DBPM": 156,
         "VORP": 114,
         "eFG%": 148,
-        "G": 204,
-        "grade": 73.26,
+        "grade": 73.39,
         "name": "Patrick Patterson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "TOR"
     },
     "Chris Paul": {
         "PTS": 42,
@@ -7939,11 +8212,12 @@
         "DBPM": 7,
         "VORP": 12,
         "eFG%": 72,
-        "G": 231,
-        "grade": 93.44,
+        "grade": 94.67,
         "name": "Chris Paul",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "LAC"
     },
     "Cameron Payne": {
         "PTS": 317,
@@ -7968,11 +8242,12 @@
         "DBPM": 341,
         "VORP": 310,
         "eFG%": 357,
-        "G": 375,
-        "grade": 50.37,
+        "grade": 50.68,
         "name": "Cameron Payne",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 11,
+        "team": "CHI"
     },
     "Elfrid Payton": {
         "PTS": 98,
@@ -7997,11 +8272,12 @@
         "DBPM": 174,
         "VORP": 57,
         "eFG%": 235,
-        "G": 5,
-        "grade": 82.82,
+        "grade": 81.96,
         "name": "Elfrid Payton",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "ORL"
     },
     "Paul Pierce*": {
         "PTS": 360,
@@ -8026,11 +8302,12 @@
         "DBPM": 155,
         "VORP": 309,
         "eFG%": 199,
-        "G": 334,
-        "grade": 55.5,
+        "grade": 55.74,
         "name": "Paul Pierce",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 25,
+        "team": "LAC"
     },
     "Mason Plumlee": {
         "PTS": 167,
@@ -8055,11 +8332,12 @@
         "DBPM": 66,
         "VORP": 193,
         "eFG%": 87,
-        "G": 330,
-        "grade": 76.7,
+        "grade": 77.88,
         "name": "Mason Plumlee",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 27,
+        "team": "DEN"
     },
     "Miles Plumlee": {
         "PTS": 376,
@@ -8084,11 +8362,12 @@
         "DBPM": 115,
         "VORP": 276,
         "eFG%": 35,
-        "G": 370,
-        "grade": 62.86,
+        "grade": 63.69,
         "name": "Miles Plumlee",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 13,
+        "team": "CHO"
     },
     "Jakob Poeltl": {
         "PTS": 362,
@@ -8113,11 +8392,12 @@
         "DBPM": 184,
         "VORP": 308,
         "eFG%": 34,
-        "G": 263,
-        "grade": 65.62,
+        "grade": 65.82,
         "name": "Jakob Poeltl",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 54,
+        "team": "TOR"
     },
     "Otto Porter Jr.": {
         "PTS": 91,
@@ -8142,11 +8422,12 @@
         "DBPM": 71,
         "VORP": 23,
         "eFG%": 14,
-        "G": 33,
-        "grade": 92.8,
+        "grade": 92.59,
         "name": "Otto Porter Jr.",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "WAS"
     },
     "Bobby Portis": {
         "PTS": 233,
@@ -8171,11 +8452,12 @@
         "DBPM": 283,
         "VORP": 220,
         "eFG%": 124,
-        "G": 212,
-        "grade": 70.65,
+        "grade": 70.72,
         "name": "Bobby Portis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "CHI"
     },
     "Kristaps Porziņģis": {
         "PTS": 41,
@@ -8200,11 +8482,12 @@
         "DBPM": 217,
         "VORP": 71,
         "eFG%": 198,
-        "G": 195,
-        "grade": 83.54,
+        "grade": 84.06,
         "name": "Kristaps Porziņģis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "NYK"
     },
     "Dwight Powell": {
         "PTS": 238,
@@ -8229,11 +8512,12 @@
         "DBPM": 57,
         "VORP": 98,
         "eFG%": 96,
-        "G": 75,
-        "grade": 81.83,
+        "grade": 81.42,
         "name": "Dwight Powell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "DAL"
     },
     "Norman Powell": {
         "PTS": 187,
@@ -8258,11 +8542,12 @@
         "DBPM": 154,
         "VORP": 157,
         "eFG%": 205,
-        "G": 88,
-        "grade": 74.61,
+        "grade": 73.97,
         "name": "Norman Powell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "TOR"
     },
     "Taurean Prince": {
         "PTS": 285,
@@ -8287,11 +8572,12 @@
         "DBPM": 23,
         "VORP": 242,
         "eFG%": 317,
-        "G": 244,
         "grade": 64.07,
         "name": "Taurean Prince",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 59,
+        "team": "ATL"
     },
     "Chasson Randle": {
         "PTS": 302,
@@ -8316,11 +8602,12 @@
         "DBPM": 321,
         "VORP": 275,
         "eFG%": 316,
-        "G": 362,
-        "grade": 59.55,
+        "grade": 60.18,
         "name": "Chasson Randle",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 18,
+        "team": "NYK"
     },
     "Julius Randle": {
         "PTS": 93,
@@ -8345,11 +8632,12 @@
         "DBPM": 216,
         "VORP": 144,
         "eFG%": 217,
-        "G": 119,
-        "grade": 79.56,
+        "grade": 79.36,
         "name": "Julius Randle",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "LAL"
     },
     "Zach Randolph": {
         "PTS": 77,
@@ -8374,11 +8662,12 @@
         "DBPM": 349,
         "VORP": 131,
         "eFG%": 312,
-        "G": 131,
-        "grade": 74.21,
+        "grade": 73.86,
         "name": "Zach Randolph",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "MEM"
     },
     "J.J. Redick": {
         "PTS": 63,
@@ -8403,11 +8692,12 @@
         "DBPM": 310,
         "VORP": 66,
         "eFG%": 66,
-        "G": 63,
-        "grade": 82.39,
+        "grade": 81.92,
         "name": "J.J. Redick",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "LAC"
     },
     "Willie Reed": {
         "PTS": 301,
@@ -8432,11 +8722,12 @@
         "DBPM": 173,
         "VORP": 192,
         "eFG%": 53,
-        "G": 153,
-        "grade": 74.99,
+        "grade": 74.83,
         "name": "Willie Reed",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 71,
+        "team": "MIA"
     },
     "Josh Richardson": {
         "PTS": 138,
@@ -8461,11 +8752,12 @@
         "DBPM": 70,
         "VORP": 169,
         "eFG%": 306,
-        "G": 267,
-        "grade": 71.11,
+        "grade": 71.59,
         "name": "Josh Richardson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 53,
+        "team": "MIA"
     },
     "Austin Rivers": {
         "PTS": 110,
@@ -8490,11 +8782,12 @@
         "DBPM": 296,
         "VORP": 274,
         "eFG%": 160,
-        "G": 118,
-        "grade": 71.04,
+        "grade": 70.45,
         "name": "Austin Rivers",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "LAC"
     },
     "Andre Roberson": {
         "PTS": 244,
@@ -8519,11 +8812,12 @@
         "DBPM": 32,
         "VORP": 143,
         "eFG%": 176,
-        "G": 48,
-        "grade": 75.64,
+        "grade": 74.76,
         "name": "Andre Roberson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "OKC"
     },
     "Brian Roberts": {
         "PTS": 353,
@@ -8548,11 +8842,12 @@
         "DBPM": 320,
         "VORP": 307,
         "eFG%": 334,
-        "G": 296,
-        "grade": 55.21,
+        "grade": 55.17,
         "name": "Brian Roberts",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 41,
+        "team": "CHO"
     },
     "Glenn Robinson III": {
         "PTS": 271,
@@ -8577,11 +8872,12 @@
         "DBPM": 135,
         "VORP": 142,
         "eFG%": 100,
-        "G": 167,
-        "grade": 73.31,
+        "grade": 73.18,
         "name": "Glenn Robinson III",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "IND"
     },
     "Thomas Robinson": {
         "PTS": 312,
@@ -8606,11 +8902,12 @@
         "DBPM": 295,
         "VORP": 241,
         "eFG%": 107,
-        "G": 279,
-        "grade": 66.24,
+        "grade": 66.58,
         "name": "Thomas Robinson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 48,
+        "team": "LAL"
     },
     "Sergio Rodríguez": {
         "PTS": 205,
@@ -8635,11 +8932,12 @@
         "DBPM": 348,
         "VORP": 326,
         "eFG%": 280,
-        "G": 176,
-        "grade": 62.19,
+        "grade": 61.61,
         "name": "Sergio Rodríguez",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "PHI"
     },
     "Rajon Rondo": {
         "PTS": 204,
@@ -8664,11 +8962,12 @@
         "DBPM": 65,
         "VORP": 130,
         "eFG%": 323,
-        "G": 166,
-        "grade": 72.2,
+        "grade": 72.0,
         "name": "Rajon Rondo",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 69,
+        "team": "CHI"
     },
     "Derrick Rose": {
         "PTS": 44,
@@ -8693,11 +8992,12 @@
         "DBPM": 366,
         "VORP": 156,
         "eFG%": 283,
-        "G": 211,
-        "grade": 76.79,
+        "grade": 77.13,
         "name": "Derrick Rose",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 64,
+        "team": "NYK"
     },
     "Terrence Ross": {
         "PTS": 106,
@@ -8722,11 +9022,12 @@
         "DBPM": 172,
         "VORP": 273,
         "eFG%": 166,
-        "G": 338,
-        "grade": 70.07,
+        "grade": 71.01,
         "name": "Terrence Ross",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 24,
+        "team": "ORL"
     },
     "Terry Rozier": {
         "PTS": 296,
@@ -8751,11 +9052,12 @@
         "DBPM": 153,
         "VORP": 210,
         "eFG%": 348,
-        "G": 117,
-        "grade": 63.43,
+        "grade": 62.49,
         "name": "Terry Rozier",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "BOS"
     },
     "Ricky Rubio": {
         "PTS": 119,
@@ -8780,11 +9082,12 @@
         "DBPM": 206,
         "VORP": 52,
         "eFG%": 333,
-        "G": 100,
-        "grade": 80.93,
+        "grade": 80.66,
         "name": "Ricky Rubio",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "MIN"
     },
     "Brandon Rush": {
         "PTS": 342,
@@ -8809,11 +9112,12 @@
         "DBPM": 237,
         "VORP": 272,
         "eFG%": 239,
-        "G": 281,
-        "grade": 58.7,
+        "grade": 58.71,
         "name": "Brandon Rush",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 47,
+        "team": "MIN"
     },
     "D'Angelo Russell": {
         "PTS": 57,
@@ -8838,11 +9142,12 @@
         "DBPM": 340,
         "VORP": 141,
         "eFG%": 263,
-        "G": 218,
-        "grade": 73.59,
+        "grade": 73.83,
         "name": "D'Angelo Russell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 63,
+        "team": "LAL"
     },
     "Domantas Sabonis": {
         "PTS": 279,
@@ -8867,11 +9172,12 @@
         "DBPM": 183,
         "VORP": 372,
         "eFG%": 328,
-        "G": 19,
-        "grade": 59.92,
+        "grade": 58.11,
         "name": "Domantas Sabonis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "OKC"
     },
     "Dario Šarić": {
         "PTS": 97,
@@ -8896,11 +9202,12 @@
         "DBPM": 282,
         "VORP": 306,
         "eFG%": 302,
-        "G": 18,
-        "grade": 70.42,
+        "grade": 69.09,
         "name": "Dario Šarić",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "PHI"
     },
     "Tomáš Satoranský": {
         "PTS": 371,
@@ -8925,11 +9232,12 @@
         "DBPM": 89,
         "VORP": 271,
         "eFG%": 340,
-        "G": 250,
-        "grade": 56.73,
+        "grade": 56.43,
         "name": "Tomáš Satoranský",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "WAS"
     },
     "Dennis Schröder": {
         "PTS": 45,
@@ -8954,11 +9262,12 @@
         "DBPM": 294,
         "VORP": 70,
         "eFG%": 234,
-        "G": 47,
-        "grade": 81.31,
+        "grade": 80.68,
         "name": "Dennis Schröder",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "ATL"
     },
     "Luis Scola": {
         "PTS": 307,
@@ -8983,11 +9292,12 @@
         "DBPM": 303,
         "VORP": 270,
         "eFG%": 144,
-        "G": 304,
-        "grade": 64.47,
+        "grade": 64.91,
         "name": "Luis Scola",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 36,
+        "team": "BRK"
     },
     "Mike Scott": {
         "PTS": 375,
@@ -9012,11 +9322,12 @@
         "DBPM": 261,
         "VORP": 305,
         "eFG%": 376,
-        "G": 361,
-        "grade": 51.4,
+        "grade": 51.66,
         "name": "Mike Scott",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 18,
+        "team": "ATL"
     },
     "Thabo Sefolosha": {
         "PTS": 224,
@@ -9041,11 +9352,12 @@
         "DBPM": 6,
         "VORP": 97,
         "eFG%": 238,
-        "G": 225,
-        "grade": 75.36,
+        "grade": 75.73,
         "name": "Thabo Sefolosha",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "ATL"
     },
     "Wayne Selden": {
         "PTS": 311,
@@ -9070,11 +9382,12 @@
         "DBPM": 347,
         "VORP": 304,
         "eFG%": 353,
-        "G": 374,
-        "grade": 52.84,
+        "grade": 53.25,
         "name": "Wayne Selden",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 11,
+        "team": "MEM"
     },
     "Kevin Séraphin": {
         "PTS": 325,
@@ -9099,11 +9412,12 @@
         "DBPM": 281,
         "VORP": 303,
         "eFG%": 78,
-        "G": 277,
-        "grade": 64.13,
+        "grade": 64.37,
         "name": "Kevin Séraphin",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 49,
+        "team": "IND"
     },
     "Ramon Sessions": {
         "PTS": 264,
@@ -9128,11 +9442,12 @@
         "DBPM": 227,
         "VORP": 269,
         "eFG%": 358,
-        "G": 274,
-        "grade": 61.02,
+        "grade": 61.09,
         "name": "Ramon Sessions",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 50,
+        "team": "CHO"
     },
     "Iman Shumpert": {
         "PTS": 214,
@@ -9157,11 +9472,12 @@
         "DBPM": 152,
         "VORP": 268,
         "eFG%": 197,
-        "G": 87,
-        "grade": 69.11,
+        "grade": 68.21,
         "name": "Iman Shumpert",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "CLE"
     },
     "Pascal Siakam": {
         "PTS": 341,
@@ -9186,11 +9502,12 @@
         "DBPM": 88,
         "VORP": 267,
         "eFG%": 204,
-        "G": 259,
-        "grade": 65.3,
+        "grade": 65.45,
         "name": "Pascal Siakam",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 55,
+        "team": "TOR"
     },
     "Jonathon Simmons": {
         "PTS": 263,
@@ -9215,11 +9532,12 @@
         "DBPM": 56,
         "VORP": 302,
         "eFG%": 320,
-        "G": 62,
-        "grade": 65.12,
+        "grade": 63.86,
         "name": "Jonathon Simmons",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "SAS"
     },
     "Kyle Singler": {
         "PTS": 370,
@@ -9244,11 +9562,12 @@
         "DBPM": 205,
         "VORP": 301,
         "eFG%": 327,
-        "G": 316,
-        "grade": 54.19,
+        "grade": 54.25,
         "name": "Kyle Singler",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 32,
+        "team": "OKC"
     },
     "Marcus Smart": {
         "PTS": 131,
@@ -9273,11 +9592,12 @@
         "DBPM": 97,
         "VORP": 168,
         "eFG%": 356,
-        "G": 46,
-        "grade": 73.67,
+        "grade": 72.69,
         "name": "Marcus Smart",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "BOS"
     },
     "Ish Smith": {
         "PTS": 157,
@@ -9302,11 +9622,12 @@
         "DBPM": 79,
         "VORP": 82,
         "eFG%": 315,
-        "G": 17,
-        "grade": 75.75,
+        "grade": 74.65,
         "name": "Ish Smith",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "DET"
     },
     "J.R. Smith": {
         "PTS": 182,
@@ -9331,11 +9652,12 @@
         "DBPM": 204,
         "VORP": 240,
         "eFG%": 278,
-        "G": 295,
-        "grade": 62.43,
+        "grade": 62.72,
         "name": "J.R. Smith",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 41,
+        "team": "CLE"
     },
     "Jason Smith": {
         "PTS": 284,
@@ -9360,11 +9682,12 @@
         "DBPM": 114,
         "VORP": 219,
         "eFG%": 32,
-        "G": 116,
-        "grade": 74.41,
+        "grade": 73.96,
         "name": "Jason Smith",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "WAS"
     },
     "Tony Snell": {
         "PTS": 183,
@@ -9389,11 +9712,12 @@
         "DBPM": 260,
         "VORP": 209,
         "eFG%": 27,
-        "G": 32,
-        "grade": 76.31,
+        "grade": 75.34,
         "name": "Tony Snell",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "MIL"
     },
     "Marreese Speights": {
         "PTS": 179,
@@ -9418,11 +9742,12 @@
         "DBPM": 215,
         "VORP": 107,
         "eFG%": 102,
-        "G": 4,
-        "grade": 82.28,
+        "grade": 81.38,
         "name": "Marreese Speights",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "LAC"
     },
     "Nik Stauskas": {
         "PTS": 153,
@@ -9447,11 +9772,12 @@
         "DBPM": 273,
         "VORP": 354,
         "eFG%": 212,
-        "G": 31,
-        "grade": 67.8,
+        "grade": 66.44,
         "name": "Nik Stauskas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "PHI"
     },
     "Rodney Stuckey": {
         "PTS": 223,
@@ -9476,11 +9802,12 @@
         "DBPM": 309,
         "VORP": 341,
         "eFG%": 362,
-        "G": 299,
         "grade": 55.6,
         "name": "Rodney Stuckey",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 39,
+        "team": "IND"
     },
     "Jared Sullinger": {
         "PTS": 357,
@@ -9505,11 +9832,12 @@
         "DBPM": 373,
         "VORP": 300,
         "eFG%": 373,
-        "G": 373,
-        "grade": 49.13,
+        "grade": 49.36,
         "name": "Jared Sullinger",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 11,
+        "team": "TOR"
     },
     "Jeff Teague": {
         "PTS": 59,
@@ -9534,11 +9862,12 @@
         "DBPM": 182,
         "VORP": 33,
         "eFG%": 237,
-        "G": 3,
-        "grade": 88.53,
+        "grade": 87.91,
         "name": "Jeff Teague",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "IND"
     },
     "Mirza Teletović": {
         "PTS": 253,
@@ -9563,11 +9892,12 @@
         "DBPM": 370,
         "VORP": 353,
         "eFG%": 222,
-        "G": 160,
-        "grade": 58.56,
+        "grade": 57.7,
         "name": "Mirza Teletović",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 70,
+        "team": "MIL"
     },
     "Garrett Temple": {
         "PTS": 203,
@@ -9592,11 +9922,12 @@
         "DBPM": 78,
         "VORP": 155,
         "eFG%": 158,
-        "G": 203,
-        "grade": 73.91,
+        "grade": 74.05,
         "name": "Garrett Temple",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "SAC"
     },
     "Jason Terry": {
         "PTS": 343,
@@ -9621,11 +9952,12 @@
         "DBPM": 104,
         "VORP": 167,
         "eFG%": 36,
-        "G": 115,
-        "grade": 70.95,
+        "grade": 70.33,
         "name": "Jason Terry",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "MIL"
     },
     "Isaiah Thomas": {
         "PTS": 3,
@@ -9650,11 +9982,12 @@
         "DBPM": 302,
         "VORP": 9,
         "eFG%": 88,
-        "G": 86,
-        "grade": 91.09,
+        "grade": 91.19,
         "name": "Isaiah Thomas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "BOS"
     },
     "Lance Thomas": {
         "PTS": 274,
@@ -9679,11 +10012,12 @@
         "DBPM": 301,
         "VORP": 340,
         "eFG%": 289,
-        "G": 286,
-        "grade": 59.98,
+        "grade": 60.09,
         "name": "Lance Thomas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 46,
+        "team": "NYK"
     },
     "Klay Thompson": {
         "PTS": 24,
@@ -9708,11 +10042,12 @@
         "DBPM": 346,
         "VORP": 47,
         "eFG%": 57,
-        "G": 61,
-        "grade": 89.19,
+        "grade": 89.02,
         "name": "Klay Thompson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "GSW"
     },
     "Tristan Thompson": {
         "PTS": 195,
@@ -9737,11 +10072,12 @@
         "DBPM": 259,
         "VORP": 129,
         "eFG%": 18,
-        "G": 60,
-        "grade": 81.62,
+        "grade": 81.09,
         "name": "Tristan Thompson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "CLE"
     },
     "Marcus Thornton": {
         "PTS": 243,
@@ -9766,11 +10102,12 @@
         "DBPM": 258,
         "VORP": 266,
         "eFG%": 305,
-        "G": 313,
-        "grade": 61.07,
+        "grade": 61.42,
         "name": "Marcus Thornton",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 33,
+        "team": "WAS"
     },
     "Anthony Tolliver": {
         "PTS": 225,
@@ -9795,11 +10132,12 @@
         "DBPM": 272,
         "VORP": 166,
         "eFG%": 52,
-        "G": 202,
-        "grade": 73.11,
+        "grade": 73.22,
         "name": "Anthony Tolliver",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "SAC"
     },
     "Karl-Anthony Towns": {
         "PTS": 11,
@@ -9824,11 +10162,12 @@
         "DBPM": 257,
         "VORP": 11,
         "eFG%": 44,
-        "G": 2,
-        "grade": 95.35,
+        "grade": 95.04,
         "name": "Karl-Anthony Towns",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "MIN"
     },
     "P.J. Tucker": {
         "PTS": 283,
@@ -9853,11 +10192,12 @@
         "DBPM": 19,
         "VORP": 165,
         "eFG%": 211,
-        "G": 337,
-        "grade": 69.08,
+        "grade": 69.97,
         "name": "P.J. Tucker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 24,
+        "team": "TOR"
     },
     "Evan Turner": {
         "PTS": 173,
@@ -9882,11 +10222,12 @@
         "DBPM": 181,
         "VORP": 299,
         "eFG%": 322,
-        "G": 201,
-        "grade": 67.41,
+        "grade": 67.25,
         "name": "Evan Turner",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 65,
+        "team": "POR"
     },
     "Myles Turner": {
         "PTS": 69,
@@ -9911,11 +10252,12 @@
         "DBPM": 55,
         "VORP": 45,
         "eFG%": 113,
-        "G": 16,
-        "grade": 90.14,
+        "grade": 89.69,
         "name": "Myles Turner",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "IND"
     },
     "Beno Udrih": {
         "PTS": 282,
@@ -9940,11 +10282,12 @@
         "DBPM": 203,
         "VORP": 191,
         "eFG%": 226,
-        "G": 298,
-        "grade": 70.55,
+        "grade": 71.22,
         "name": "Beno Udrih",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 39,
+        "team": "DET"
     },
     "Tyler Ulis": {
         "PTS": 219,
@@ -9969,11 +10312,12 @@
         "DBPM": 326,
         "VORP": 265,
         "eFG%": 342,
-        "G": 230,
-        "grade": 62.74,
+        "grade": 62.57,
         "name": "Tyler Ulis",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 61,
+        "team": "PHO"
     },
     "Jonas Valančiūnas": {
         "PTS": 109,
@@ -9998,11 +10342,12 @@
         "DBPM": 271,
         "VORP": 76,
         "eFG%": 65,
-        "G": 30,
-        "grade": 88.46,
+        "grade": 88.03,
         "name": "Jonas Valančiūnas",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 80,
+        "team": "TOR"
     },
     "Denzel Valentine": {
         "PTS": 306,
@@ -10027,11 +10372,12 @@
         "DBPM": 151,
         "VORP": 325,
         "eFG%": 271,
-        "G": 249,
-        "grade": 58.11,
+        "grade": 57.87,
         "name": "Denzel Valentine",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 57,
+        "team": "CHI"
     },
     "Rashad Vaughn": {
         "PTS": 352,
@@ -10056,11 +10402,12 @@
         "DBPM": 226,
         "VORP": 298,
         "eFG%": 331,
-        "G": 294,
-        "grade": 52.62,
+        "grade": 52.45,
         "name": "Rashad Vaughn",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 41,
+        "team": "MIL"
     },
     "Noah Vonleh": {
         "PTS": 334,
@@ -10085,11 +10432,12 @@
         "DBPM": 280,
         "VORP": 360,
         "eFG%": 231,
-        "G": 114,
-        "grade": 63.86,
+        "grade": 62.92,
         "name": "Noah Vonleh",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "POR"
     },
     "Nikola Vučević": {
         "PTS": 68,
@@ -10114,11 +10462,12 @@
         "DBPM": 96,
         "VORP": 46,
         "eFG%": 277,
-        "G": 99,
-        "grade": 82.75,
+        "grade": 82.56,
         "name": "Nikola Vučević",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 75,
+        "team": "ORL"
     },
     "Dwyane Wade": {
         "PTS": 39,
@@ -10143,11 +10492,12 @@
         "DBPM": 69,
         "VORP": 43,
         "eFG%": 319,
-        "G": 239,
-        "grade": 82.22,
+        "grade": 83.0,
         "name": "Dwyane Wade",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 60,
+        "team": "CHI"
     },
     "Dion Waiters": {
         "PTS": 55,
@@ -10172,11 +10522,12 @@
         "DBPM": 225,
         "VORP": 128,
         "eFG%": 249,
-        "G": 285,
-        "grade": 74.36,
+        "grade": 75.11,
         "name": "Dion Waiters",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 46,
+        "team": "MIA"
     },
     "Kemba Walker": {
         "PTS": 17,
@@ -10201,11 +10552,12 @@
         "DBPM": 270,
         "VORP": 22,
         "eFG%": 139,
-        "G": 45,
-        "grade": 89.52,
+        "grade": 89.25,
         "name": "Kemba Walker",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 79,
+        "team": "CHO"
     },
     "John Wall": {
         "PTS": 18,
@@ -10230,11 +10582,12 @@
         "DBPM": 150,
         "VORP": 14,
         "eFG%": 267,
-        "G": 59,
-        "grade": 89.51,
+        "grade": 89.34,
         "name": "John Wall",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 78,
+        "team": "WAS"
     },
     "T.J. Warren": {
         "PTS": 73,
@@ -10259,11 +10612,12 @@
         "DBPM": 256,
         "VORP": 127,
         "eFG%": 183,
-        "G": 194,
-        "grade": 79.71,
+        "grade": 80.06,
         "name": "T.J. Warren",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 66,
+        "team": "PHO"
     },
     "C.J. Watson": {
         "PTS": 330,
@@ -10288,11 +10642,12 @@
         "DBPM": 134,
         "VORP": 339,
         "eFG%": 326,
-        "G": 224,
-        "grade": 59.06,
+        "grade": 58.69,
         "name": "C.J. Watson",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "ORL"
     },
     "Briante Weber": {
         "PTS": 347,
@@ -10317,11 +10672,12 @@
         "DBPM": 54,
         "VORP": 239,
         "eFG%": 339,
-        "G": 369,
-        "grade": 58.61,
+        "grade": 59.25,
         "name": "Briante Weber",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 13,
+        "team": "CHO"
     },
     "David West": {
         "PTS": 326,
@@ -10346,11 +10702,12 @@
         "DBPM": 2,
         "VORP": 96,
         "eFG%": 95,
-        "G": 175,
-        "grade": 80.47,
+        "grade": 80.71,
         "name": "David West",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 68,
+        "team": "GSW"
     },
     "Russell Westbrook": {
         "PTS": 1,
@@ -10375,11 +10732,12 @@
         "DBPM": 9,
         "VORP": 1,
         "eFG%": 288,
-        "G": 15,
-        "grade": 92.51,
+        "grade": 92.16,
         "name": "Russell Westbrook",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 81,
+        "team": "OKC"
     },
     "Okaro White": {
         "PTS": 369,
@@ -10404,11 +10762,12 @@
         "DBPM": 113,
         "VORP": 264,
         "eFG%": 332,
-        "G": 308,
-        "grade": 57.91,
+        "grade": 58.09,
         "name": "Okaro White",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 35,
+        "team": "MIA"
     },
     "Isaiah Whitehead": {
         "PTS": 217,
@@ -10433,11 +10792,12 @@
         "DBPM": 269,
         "VORP": 375,
         "eFG%": 341,
-        "G": 130,
-        "grade": 60.73,
+        "grade": 59.76,
         "name": "Isaiah Whitehead",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 73,
+        "team": "BRK"
     },
     "Hassan Whiteside": {
         "PTS": 48,
@@ -10462,11 +10822,12 @@
         "DBPM": 103,
         "VORP": 42,
         "eFG%": 70,
-        "G": 74,
-        "grade": 88.68,
+        "grade": 88.57,
         "name": "Hassan Whiteside",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 77,
+        "team": "MIA"
     },
     "Andrew Wiggins": {
         "PTS": 16,
@@ -10491,11 +10852,12 @@
         "DBPM": 375,
         "VORP": 208,
         "eFG%": 259,
-        "G": 1,
-        "grade": 79.22,
+        "grade": 78.17,
         "name": "Andrew Wiggins",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 82,
+        "team": "MIN"
     },
     "Alan Williams": {
         "PTS": 216,
@@ -10520,11 +10882,12 @@
         "DBPM": 244,
         "VORP": 218,
         "eFG%": 165,
-        "G": 280,
-        "grade": 72.76,
+        "grade": 73.4,
         "name": "Alan Williams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 47,
+        "team": "PHO"
     },
     "Deron Williams": {
         "PTS": 213,
@@ -10549,11 +10912,12 @@
         "DBPM": 357,
         "VORP": 263,
         "eFG%": 104,
-        "G": 336,
-        "grade": 67.5,
+        "grade": 68.31,
         "name": "Deron Williams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 24,
+        "team": "CLE"
     },
     "Derrick Williams": {
         "PTS": 262,
@@ -10578,11 +10942,12 @@
         "DBPM": 339,
         "VORP": 262,
         "eFG%": 17,
-        "G": 333,
-        "grade": 66.29,
+        "grade": 67.02,
         "name": "Derrick Williams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 25,
+        "team": "CLE"
     },
     "Lou Williams": {
         "PTS": 64,
@@ -10607,11 +10972,12 @@
         "DBPM": 338,
         "VORP": 207,
         "eFG%": 309,
-        "G": 342,
-        "grade": 72.12,
+        "grade": 73.18,
         "name": "Lou Williams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 23,
+        "team": "HOU"
     },
     "Marvin Williams": {
         "PTS": 118,
@@ -10636,11 +11002,12 @@
         "DBPM": 149,
         "VORP": 81,
         "eFG%": 184,
-        "G": 85,
-        "grade": 82.29,
+        "grade": 81.98,
         "name": "Marvin Williams",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 76,
+        "team": "CHO"
     },
     "Justise Winslow": {
         "PTS": 124,
@@ -10665,11 +11032,12 @@
         "DBPM": 77,
         "VORP": 324,
         "eFG%": 372,
-        "G": 360,
-        "grade": 62.12,
+        "grade": 62.85,
         "name": "Justise Winslow",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 18,
+        "team": "MIA"
     },
     "Brandan Wright": {
         "PTS": 232,
@@ -10694,11 +11062,12 @@
         "DBPM": 87,
         "VORP": 164,
         "eFG%": 12,
-        "G": 328,
-        "grade": 75.73,
+        "grade": 76.85,
         "name": "Brandan Wright",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 28,
+        "team": "MEM"
     },
     "Delon Wright": {
         "PTS": 289,
@@ -10723,11 +11092,12 @@
         "DBPM": 16,
         "VORP": 154,
         "eFG%": 307,
-        "G": 329,
-        "grade": 70.64,
+        "grade": 71.54,
         "name": "Delon Wright",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 27,
+        "team": "TOR"
     },
     "Nick Young": {
         "PTS": 92,
@@ -10752,11 +11122,12 @@
         "DBPM": 356,
         "VORP": 126,
         "eFG%": 62,
-        "G": 238,
-        "grade": 76.4,
+        "grade": 76.91,
         "name": "Nick Young",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 60,
+        "team": "LAL"
     },
     "Thaddeus Young": {
         "PTS": 120,
@@ -10781,11 +11152,12 @@
         "DBPM": 76,
         "VORP": 65,
         "eFG%": 64,
-        "G": 113,
-        "grade": 84.6,
+        "grade": 84.59,
         "name": "Thaddeus Young",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 74,
+        "team": "IND"
     },
     "Cody Zeller": {
         "PTS": 137,
@@ -10810,11 +11182,12 @@
         "DBPM": 53,
         "VORP": 95,
         "eFG%": 50,
-        "G": 223,
-        "grade": 84.16,
+        "grade": 84.92,
         "name": "Cody Zeller",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 62,
+        "team": "CHO"
     },
     "Tyler Zeller": {
         "PTS": 351,
@@ -10839,11 +11212,12 @@
         "DBPM": 202,
         "VORP": 238,
         "eFG%": 230,
-        "G": 272,
-        "grade": 61.89,
+        "grade": 61.99,
         "name": "Tyler Zeller",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 51,
+        "team": "BOS"
     },
     "Paul Zipser": {
         "PTS": 295,
@@ -10868,11 +11242,12 @@
         "DBPM": 201,
         "VORP": 352,
         "eFG%": 294,
-        "G": 290,
-        "grade": 57.65,
+        "grade": 57.68,
         "name": "Paul Zipser",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 44,
+        "team": "CHI"
     },
     "Ivica Zubac": {
         "PTS": 212,
@@ -10897,10 +11272,11 @@
         "DBPM": 243,
         "VORP": 237,
         "eFG%": 133,
-        "G": 302,
-        "grade": 69.72,
+        "grade": 70.39,
         "name": "Ivica Zubac",
         "league_grade": 84.6,
-        "year": 2017
+        "year": 2017,
+        "games_played": 38,
+        "team": "LAL"
     }
 }

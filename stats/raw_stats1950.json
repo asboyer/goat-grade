@@ -126,7 +126,10 @@
         "Player": "Ed Bartels",
         "Pos": "F",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "DNN",
+            "NYK"
+        ],
         "G": "15",
         "GS": "",
         "FG": "1.5",
@@ -208,7 +211,10 @@
         "Player": "Charlie Black",
         "Pos": "F-C",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "FTW",
+            "AND"
+        ],
         "G": "65",
         "GS": "",
         "FG": "3.5",
@@ -946,7 +952,10 @@
         "Player": "Jake Carter",
         "Pos": "F-C",
         "Age": "25",
-        "Tm": [],
+        "Tm": [
+            "DNN",
+            "AND"
+        ],
         "G": "24",
         "GS": "",
         "FG": "1.0",
@@ -1028,7 +1037,10 @@
         "Player": "John Chaney",
         "Pos": "F-C",
         "Age": "29",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "SHE"
+        ],
         "G": "16",
         "GS": "",
         "FG": "1.6",
@@ -1766,7 +1778,10 @@
         "Player": "Gene Englund",
         "Pos": "F-C",
         "Age": "32",
-        "Tm": [],
+        "Tm": [
+            "BOS",
+            "TRI"
+        ],
         "G": "46",
         "GS": "",
         "FG": "2.3",
@@ -1848,7 +1863,10 @@
         "Player": "Johnny Ezersky",
         "Pos": "F-G",
         "Age": "27",
-        "Tm": [],
+        "Tm": [
+            "BLB",
+            "BOS"
+        ],
         "G": "54",
         "GS": "",
         "FG": "2.6",
@@ -2340,7 +2358,10 @@
         "Player": "Hoot Gibson",
         "Pos": "F-C",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "BOS",
+            "WAT"
+        ],
         "G": "32",
         "GS": "",
         "FG": "2.1",
@@ -2545,7 +2566,10 @@
         "Player": "Al Guokas",
         "Pos": "F-G",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "DNN",
+            "PHW"
+        ],
         "G": "57",
         "GS": "",
         "FG": "1.6",
@@ -2914,7 +2938,10 @@
         "Player": "Billy Hassett",
         "Pos": "G",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "MNL"
+        ],
         "G": "60",
         "GS": "",
         "FG": "1.4",
@@ -2996,7 +3023,10 @@
         "Player": "Bill Henry",
         "Pos": "C",
         "Age": "25",
-        "Tm": [],
+        "Tm": [
+            "FTW",
+            "TRI"
+        ],
         "G": "63",
         "GS": "",
         "FG": "1.4",
@@ -3447,7 +3477,10 @@
         "Player": "Ralph Johnson",
         "Pos": "PG",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "AND",
+            "FTW"
+        ],
         "G": "67",
         "GS": "",
         "FG": "3.6",
@@ -3652,7 +3685,10 @@
         "Player": "Jack Kerris",
         "Pos": "PF",
         "Age": "25",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "FTW"
+        ],
         "G": "68",
         "GS": "",
         "FG": "2.3",
@@ -3734,7 +3770,10 @@
         "Player": "Walt Kirk",
         "Pos": "PG",
         "Age": "25",
-        "Tm": [],
+        "Tm": [
+            "AND",
+            "TRI"
+        ],
         "G": "58",
         "GS": "",
         "FG": "1.7",
@@ -3816,7 +3855,10 @@
         "Player": "Duane Klueh",
         "Pos": "G",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "DNN",
+            "FTW"
+        ],
         "G": "52",
         "GS": "",
         "FG": "3.1",
@@ -4144,7 +4186,10 @@
         "Player": "Freddie Lewis",
         "Pos": "F-G",
         "Age": "29",
-        "Tm": [],
+        "Tm": [
+            "BLB",
+            "PHW"
+        ],
         "G": "34",
         "GS": "",
         "FG": "1.4",
@@ -4185,7 +4230,10 @@
         "Player": "Ron Livingstone",
         "Pos": "C",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "BLB",
+            "PHW"
+        ],
         "G": "54",
         "GS": "",
         "FG": "3.0",
@@ -4390,7 +4438,11 @@
         "Player": "John Mahnken",
         "Pos": "C",
         "Age": "27",
-        "Tm": [],
+        "Tm": [
+            "FTW",
+            "TRI",
+            "BOS"
+        ],
         "G": "62",
         "GS": "",
         "FG": "2.1",
@@ -4431,7 +4483,10 @@
         "Player": "John Mandic",
         "Pos": "F-C",
         "Age": "30",
-        "Tm": [],
+        "Tm": [
+            "WSC",
+            "BLB"
+        ],
         "G": "25",
         "GS": "",
         "FG": "0.9",
@@ -4800,7 +4855,10 @@
         "Player": "Ed Mikan",
         "Pos": "C",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "CHS",
+            "ROC"
+        ],
         "G": "65",
         "GS": "",
         "FG": "1.4",
@@ -5087,7 +5145,10 @@
         "Player": "Jack Nichols",
         "Pos": "PF",
         "Age": "23",
-        "Tm": [],
+        "Tm": [
+            "WSC",
+            "TRI"
+        ],
         "G": "67",
         "GS": "",
         "FG": "4.6",
@@ -5128,7 +5189,10 @@
         "Player": "Richie Niemiera",
         "Pos": "G-F",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "FTW",
+            "AND"
+        ],
         "G": "60",
         "GS": "",
         "FG": "1.8",
@@ -5251,7 +5315,11 @@
         "Player": "George Nostrand",
         "Pos": "C-F",
         "Age": "26",
-        "Tm": [],
+        "Tm": [
+            "BOS",
+            "TRI",
+            "CHS"
+        ],
         "G": "55",
         "GS": "",
         "FG": "1.4",
@@ -5292,7 +5360,10 @@
         "Player": "Mike Novak",
         "Pos": "C-F",
         "Age": "34",
-        "Tm": [],
+        "Tm": [
+            "ROC",
+            "PHW"
+        ],
         "G": "60",
         "GS": "",
         "FG": "0.6",
@@ -5333,7 +5404,10 @@
         "Player": "Dermie O'Connell",
         "Pos": "G",
         "Age": "21",
-        "Tm": [],
+        "Tm": [
+            "BOS",
+            "STB"
+        ],
         "G": "61",
         "GS": "",
         "FG": "1.8",
@@ -5538,7 +5612,10 @@
         "Player": "Johnny Orr",
         "Pos": "F",
         "Age": "22",
-        "Tm": [],
+        "Tm": [
+            "STB",
+            "WAT"
+        ],
         "G": "34",
         "GS": "",
         "FG": "1.2",
@@ -5579,7 +5656,10 @@
         "Player": "Don Otten",
         "Pos": "C",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "WSC"
+        ],
         "G": "64",
         "GS": "",
         "FG": "3.8",
@@ -5620,7 +5700,10 @@
         "Player": "Mac Otten",
         "Pos": "F-C",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "STB"
+        ],
         "G": "59",
         "GS": "",
         "FG": "0.9",
@@ -5661,7 +5744,10 @@
         "Player": "Red Owens",
         "Pos": "SG",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "AND"
+        ],
         "G": "61",
         "GS": "",
         "FG": "1.4",
@@ -5743,7 +5829,10 @@
         "Player": "Stan Patrick",
         "Pos": "F-G",
         "Age": "27",
-        "Tm": [],
+        "Tm": [
+            "WAT",
+            "SHE"
+        ],
         "G": "53",
         "GS": "",
         "FG": "2.2",
@@ -5784,7 +5873,10 @@
         "Player": "Johnny Payak",
         "Pos": "SG",
         "Age": "23",
-        "Tm": [],
+        "Tm": [
+            "PHW",
+            "WAT"
+        ],
         "G": "52",
         "GS": "",
         "FG": "1.9",
@@ -5907,7 +5999,10 @@
         "Player": "Jack Phelan",
         "Pos": "F",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "WAT",
+            "SHE"
+        ],
         "G": "55",
         "GS": "",
         "FG": "1.6",
@@ -6480,8 +6575,11 @@
     "Ed Sadowski": {
         "Player": "Ed Sadowski",
         "Pos": "C",
-        "Age": "32",
-        "Tm": [],
+        "Age": "34",
+        "Tm": [
+            "PHW",
+            "BLB"
+        ],
         "G": "69",
         "GS": "",
         "FG": "4.3",
@@ -6809,7 +6907,10 @@
         "Player": "Howie Schultz",
         "Pos": "PF",
         "Age": "27",
-        "Tm": [],
+        "Tm": [
+            "AND",
+            "FTW"
+        ],
         "G": "67",
         "GS": "",
         "FG": "2.7",
@@ -6850,7 +6951,11 @@
         "Player": "Dick Schulz",
         "Pos": "F-G",
         "Age": "33",
-        "Tm": [],
+        "Tm": [
+            "WSC",
+            "TRI",
+            "SHE"
+        ],
         "G": "50",
         "GS": "",
         "FG": "1.3",
@@ -7383,7 +7488,10 @@
         "Player": "Jack Smiley",
         "Pos": "F-G",
         "Age": "27",
-        "Tm": [],
+        "Tm": [
+            "AND",
+            "WAT"
+        ],
         "G": "59",
         "GS": "",
         "FG": "1.7",
@@ -7547,7 +7655,10 @@
         "Player": "Gene Stump",
         "Pos": "F-G",
         "Age": "24",
-        "Tm": [],
+        "Tm": [
+            "MNL",
+            "WAT"
+        ],
         "G": "49",
         "GS": "",
         "FG": "1.3",
@@ -7588,7 +7699,10 @@
         "Player": "Mike Todorovich",
         "Pos": "F-C",
         "Age": "26",
-        "Tm": [],
+        "Tm": [
+            "STB",
+            "TRI"
+        ],
         "G": "65",
         "GS": "",
         "FG": "4.0",
@@ -7670,7 +7784,10 @@
         "Player": "Bob Tough",
         "Pos": "G-F",
         "Age": "29",
-        "Tm": [],
+        "Tm": [
+            "BLB",
+            "WAT"
+        ],
         "G": "29",
         "GS": "",
         "FG": "1.5",
@@ -7875,7 +7992,10 @@
         "Player": "Floyd Volker",
         "Pos": "F-C",
         "Age": "28",
-        "Tm": [],
+        "Tm": [
+            "INO",
+            "DNN"
+        ],
         "G": "54",
         "GS": "",
         "FG": "3.0",
@@ -7916,7 +8036,10 @@
         "Player": "Whitey Von Nieda",
         "Pos": "G-F",
         "Age": "27",
-        "Tm": [],
+        "Tm": [
+            "TRI",
+            "BLB"
+        ],
         "G": "59",
         "GS": "",
         "FG": "2.0",
@@ -8080,7 +8203,10 @@
         "Player": "Paul Walther",
         "Pos": "SG",
         "Age": "22",
-        "Tm": [],
+        "Tm": [
+            "MNL",
+            "INO"
+        ],
         "G": "53",
         "GS": "",
         "FG": "2.2",

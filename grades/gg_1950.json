@@ -69,7 +69,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 15,
-        "team": []
+        "team": [
+            "DNN",
+            "NYK"
+        ]
     },
     "Ralph Beard": {
         "PTS": 9,
@@ -105,7 +108,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 65,
-        "team": []
+        "team": [
+            "FTW",
+            "AND"
+        ]
     },
     "Nelson Bobb": {
         "PTS": 159,
@@ -429,7 +435,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 24,
-        "team": []
+        "team": [
+            "DNN",
+            "AND"
+        ]
     },
     "Al Cervi*": {
         "PTS": 49,
@@ -465,7 +474,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 16,
-        "team": []
+        "team": [
+            "TRI",
+            "SHE"
+        ]
     },
     "Leroy Chollet": {
         "PTS": 181,
@@ -789,7 +801,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 46,
-        "team": []
+        "team": [
+            "BOS",
+            "TRI"
+        ]
     },
     "Bob Evans": {
         "PTS": 184,
@@ -825,7 +840,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 54,
-        "team": []
+        "team": [
+            "BLB",
+            "BOS"
+        ]
     },
     "Bob Feerick": {
         "PTS": 79,
@@ -1041,7 +1059,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 32,
-        "team": []
+        "team": [
+            "BOS",
+            "WAT"
+        ]
     },
     "Chuck Gilmur": {
         "PTS": 114,
@@ -1131,7 +1152,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 57,
-        "team": []
+        "team": [
+            "DNN",
+            "PHW"
+        ]
     },
     "Robert Hahn": {
         "PTS": 200,
@@ -1293,7 +1317,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 60,
-        "team": []
+        "team": [
+            "TRI",
+            "MNL"
+        ]
     },
     "Marshall Hawkins": {
         "PTS": 167,
@@ -1329,7 +1356,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 63,
-        "team": []
+        "team": [
+            "FTW",
+            "TRI"
+        ]
     },
     "Bill Herman": {
         "PTS": 155,
@@ -1527,7 +1557,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 67,
-        "team": []
+        "team": [
+            "AND",
+            "FTW"
+        ]
     },
     "Wah Wah Jones": {
         "PTS": 27,
@@ -1617,7 +1650,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 68,
-        "team": []
+        "team": [
+            "TRI",
+            "FTW"
+        ]
     },
     "Bob Kinney": {
         "PTS": 41,
@@ -1653,7 +1689,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 58,
-        "team": []
+        "team": [
+            "AND",
+            "TRI"
+        ]
     },
     "Leo Klier": {
         "PTS": 100,
@@ -1689,7 +1728,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 52,
-        "team": []
+        "team": [
+            "DNN",
+            "FTW"
+        ]
     },
     "Milo Komenich": {
         "PTS": 53,
@@ -1833,7 +1875,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 34,
-        "team": []
+        "team": [
+            "BLB",
+            "PHW"
+        ]
     },
     "Ron Livingstone": {
         "PTS": 76,
@@ -1851,7 +1896,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 54,
-        "team": []
+        "team": [
+            "BLB",
+            "PHW"
+        ]
     },
     "John Logan": {
         "PTS": 29,
@@ -1941,7 +1989,11 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 62,
-        "team": []
+        "team": [
+            "FTW",
+            "TRI",
+            "BOS"
+        ]
     },
     "John Mandic": {
         "PTS": 187,
@@ -1959,7 +2011,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 25,
-        "team": []
+        "team": [
+            "WSC",
+            "BLB"
+        ]
     },
     "Slater Martin*": {
         "PTS": 162,
@@ -2121,7 +2176,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 65,
-        "team": []
+        "team": [
+            "CHS",
+            "ROC"
+        ]
     },
     "George Mikan*": {
         "PTS": 1,
@@ -2247,7 +2305,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 67,
-        "team": []
+        "team": [
+            "WSC",
+            "TRI"
+        ]
     },
     "Richie Niemiera": {
         "PTS": 129,
@@ -2265,7 +2326,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 60,
-        "team": []
+        "team": [
+            "FTW",
+            "AND"
+        ]
     },
     "Paul Noel": {
         "PTS": 168,
@@ -2319,7 +2383,11 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 55,
-        "team": []
+        "team": [
+            "BOS",
+            "TRI",
+            "CHS"
+        ]
     },
     "Mike Novak": {
         "PTS": 196,
@@ -2337,7 +2405,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 60,
-        "team": []
+        "team": [
+            "ROC",
+            "PHW"
+        ]
     },
     "Dermie O'Connell": {
         "PTS": 151,
@@ -2355,7 +2426,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 61,
-        "team": []
+        "team": [
+            "BOS",
+            "STB"
+        ]
     },
     "Andy O'Donnell": {
         "PTS": 173,
@@ -2445,7 +2519,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 34,
-        "team": []
+        "team": [
+            "STB",
+            "WAT"
+        ]
     },
     "Don Otten": {
         "PTS": 22,
@@ -2463,7 +2540,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 64,
-        "team": []
+        "team": [
+            "TRI",
+            "WSC"
+        ]
     },
     "Mac Otten": {
         "PTS": 190,
@@ -2481,7 +2561,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 59,
-        "team": []
+        "team": [
+            "TRI",
+            "STB"
+        ]
     },
     "Red Owens": {
         "PTS": 164,
@@ -2499,7 +2582,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 61,
-        "team": []
+        "team": [
+            "TRI",
+            "AND"
+        ]
     },
     "Easy Parham": {
         "PTS": 124,
@@ -2535,7 +2621,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 53,
-        "team": []
+        "team": [
+            "WAT",
+            "SHE"
+        ]
     },
     "Johnny Payak": {
         "PTS": 110,
@@ -2553,7 +2642,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 52,
-        "team": []
+        "team": [
+            "PHW",
+            "WAT"
+        ]
     },
     "Warren Perkins": {
         "PTS": 108,
@@ -2607,7 +2699,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 55,
-        "team": []
+        "team": [
+            "WAT",
+            "SHE"
+        ]
     },
     "Andy Phillip*": {
         "PTS": 35,
@@ -2859,7 +2954,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 69,
-        "team": []
+        "team": [
+            "PHW",
+            "BLB"
+        ]
     },
     "Kenny Sailors": {
         "PTS": 4,
@@ -3003,7 +3101,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 67,
-        "team": []
+        "team": [
+            "AND",
+            "FTW"
+        ]
     },
     "Dick Schulz": {
         "PTS": 156,
@@ -3021,7 +3122,11 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 50,
-        "team": []
+        "team": [
+            "WSC",
+            "TRI",
+            "SHE"
+        ]
     },
     "Fred Scolari": {
         "PTS": 20,
@@ -3255,7 +3360,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 59,
-        "team": []
+        "team": [
+            "AND",
+            "WAT"
+        ]
     },
     "Chips Sobek": {
         "PTS": 118,
@@ -3327,7 +3435,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 49,
-        "team": []
+        "team": [
+            "MNL",
+            "WAT"
+        ]
     },
     "Mike Todorovich": {
         "PTS": 28,
@@ -3345,7 +3456,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 65,
-        "team": []
+        "team": [
+            "STB",
+            "TRI"
+        ]
     },
     "Jack Toomay": {
         "PTS": 56,
@@ -3381,7 +3495,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 29,
-        "team": []
+        "team": [
+            "BLB",
+            "WAT"
+        ]
     },
     "Blackie Towery": {
         "PTS": 66,
@@ -3471,7 +3588,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 54,
-        "team": []
+        "team": [
+            "INO",
+            "DNN"
+        ]
     },
     "Whitey Von Nieda": {
         "PTS": 131,
@@ -3489,7 +3609,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 59,
-        "team": []
+        "team": [
+            "TRI",
+            "BLB"
+        ]
     },
     "Clint Wager": {
         "PTS": 191,
@@ -3561,7 +3684,10 @@
         "league_grade": 58.81,
         "year": 1950,
         "games_played": 53,
-        "team": []
+        "team": [
+            "MNL",
+            "INO"
+        ]
     },
     "Bobby Wanzer*": {
         "PTS": 31,

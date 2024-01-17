@@ -10,17 +10,45 @@ current_year = today.year
 current_month = today.month
 current_day = today.day
 
+
+# MAP OUT THIS WHOLE APP
+# PERFECT ALGORITHM / RANKING
+# MAKE ALL TIME RANKING
+# ADD TEAM STATS
+# WORK ON DISPLAY
+
 @app.route("/")
 def index():
-
     text = """
-        Welcome to Goat Grade
+        <span style="font-family: monospace">
+        Welcome to Goat Grade!
+        <br>
+        <br>
         enter year in url
+        <br>
         Example: /season/2023
+        <br>
+        <br>
+        """
+    curr = f'<a href="/season/{str(current_year)}">current season</a>'    
+    text_2 = """
+        <br>
+        <br>
+        <a href="/all_time">all time</a> rankings (work in progress)
+        <br>
+        <br>
         an <a href="https://asboyer.com" target="_blank">@asboyer</a> production
+        </span>
         """
 
+    text = text + curr + text_2
+
     return text.strip()
+
+# all time seasons
+@app.route("/all_time")
+def all():
+    return open('r.txt', 'r').read()
 
 @app.route("/season/<name>")
 def season(name):
@@ -34,22 +62,23 @@ def season(name):
 
     try:
         update = False
-        # last_day = int(open("last_update.txt", "r").readlines()[0])
+        last_day = int(open("last_update.txt", "r").readlines()[0])
         
         in_season = current_month in NBA_SEASON
         current_year_og = current_month in [10, 11, 12] and current_year + 1 == year
         current_year_alt = current_month in [1, 2, 3, 4, 5, 6] and current_year == year
 
-        if in_season and (current_year_og or current_year_alt): 
+        if in_season and (current_year_og or current_year_alt) and last_day != current_day: 
+            print("Update stats!")
+            f = open("last_update.txt", "w")
+            f.write(str(current_day) + "\n" + today.strftime("%b %d %Y %H:%M:%S"))
             update = True
-            # f = open("last_update.txt", "w")
-            # f.write(current_day + "\n" + today.strftime("%b %d %Y %H:%M:%S"))
 
         elif not os.path.exists(f'stats/raw_stats{year}.json'):
+            print("Update stats!!")
             update = True
         
         GOAT_GRADE(year, update=update, folder="grades/", file_name=f"gg_{str(year)}")  
-
 
     except TypeError:
         return f"{year} is not a valid season!"
@@ -62,4 +91,3 @@ def data(name):
         f = open(f'grades/{name}')
         data = json.load(f)
         return data
-        

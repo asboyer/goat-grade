@@ -43,7 +43,6 @@ def scrape(url):
 def get_stats(year, categories, folder):
     reg_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_per_game.html"
     adv_stats_url = f"https://www.basketball-reference.com/leagues/NBA_{year}_advanced.html"
-
     try:
         reg_stats = scrape(reg_stats_url)
         adv_stats = scrape(adv_stats_url)
@@ -101,8 +100,10 @@ def GOAT_GRADE(year,
     if update:
         stats, categories = get_stats(year, categories, folder)
     else:
+        # # offline mode
+        # if not os.path.exists(f"stats/raw_stats{year}.json", "r", encoding="utf8")
+
         f = open(f"stats/raw_stats{year}.json", "r", encoding="utf8")
-        
         stats = json.load(f)
         f.close()
 

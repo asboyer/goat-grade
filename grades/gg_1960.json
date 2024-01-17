@@ -16,7 +16,8 @@
         "TRB": 49,
         "2P%": 83,
         "grade": 77.47,
-        "name": "Gary Alcorn"
+        "name": "Gary Alcorn",
+        "year": "1960"
     },
     "Bob Anderegg": {
         "AST": 67,
@@ -35,7 +36,8 @@
         "TRB": 82,
         "2P%": 53,
         "grade": 70.67,
-        "name": "Bob Anderegg"
+        "name": "Bob Anderegg",
+        "year": "1960"
     },
     "Paul Arizin*": {
         "AST": 34,
@@ -54,7 +56,8 @@
         "TRB": 19,
         "2P%": 27,
         "grade": 19.07,
-        "name": "Paul Arizin"
+        "name": "Paul Arizin",
+        "year": "1960"
     },
     "Dick Barnett": {
         "AST": 27,
@@ -73,7 +76,8 @@
         "TRB": 77,
         "2P%": 35,
         "grade": 42.6,
-        "name": "Dick Barnett"
+        "name": "Dick Barnett",
+        "year": "1960"
     },
     "Elgin Baylor*": {
         "AST": 20,
@@ -92,7 +96,8 @@
         "TRB": 4,
         "2P%": 26,
         "grade": 16.73,
-        "name": "Elgin Baylor"
+        "name": "Elgin Baylor",
+        "year": "1960"
     },
     "Ernie Beck": {
         "AST": 61,
@@ -111,7 +116,8 @@
         "TRB": 83,
         "2P%": 50,
         "grade": 59.13,
-        "name": "Ernie Beck"
+        "name": "Ernie Beck",
+        "year": "1960"
     },
     "Whitey Bell": {
         "AST": 47,
@@ -130,7 +136,8 @@
         "TRB": 75,
         "2P%": 59,
         "grade": 67.13,
-        "name": "Whitey Bell"
+        "name": "Whitey Bell",
+        "year": "1960"
     },
     "Al Bianchi": {
         "AST": 31,
@@ -149,7 +156,8 @@
         "TRB": 78,
         "2P%": 67,
         "grade": 60.73,
-        "name": "Al Bianchi"
+        "name": "Al Bianchi",
+        "year": "1960"
     },
     "Bucky Bockhorn": {
         "AST": 22,
@@ -168,7 +176,8 @@
         "TRB": 43,
         "2P%": 40,
         "grade": 42.6,
-        "name": "Bucky Bockhorn"
+        "name": "Bucky Bockhorn",
+        "year": "1960"
     },
     "Carl Braun*": {
         "AST": 8,
@@ -187,7 +196,8 @@
         "TRB": 70,
         "2P%": 20,
         "grade": 32.4,
-        "name": "Carl Braun"
+        "name": "Carl Braun",
+        "year": "1960"
     },
     "Barney Cable": {
         "AST": 74,
@@ -206,7 +216,8 @@
         "TRB": 66,
         "2P%": 58,
         "grade": 65.07,
-        "name": "Barney Cable"
+        "name": "Barney Cable",
+        "year": "1960"
     },
     "Wilt Chamberlain*": {
         "AST": 33,
@@ -225,7 +236,8 @@
         "TRB": 1,
         "2P%": 7,
         "grade": 12.8,
-        "name": "Wilt Chamberlain"
+        "name": "Wilt Chamberlain",
+        "year": "1960"
     },
     "Gene Conley": {
         "AST": 81,
@@ -244,7 +256,8 @@
         "TRB": 22,
         "2P%": 62,
         "grade": 54.93,
-        "name": "Gene Conley"
+        "name": "Gene Conley",
+        "year": "1960"
     },
     "Ed Conlin": {
         "AST": 46,
@@ -263,7 +276,8 @@
         "TRB": 46,
         "2P%": 70,
         "grade": 54.07,
-        "name": "Ed Conlin"
+        "name": "Ed Conlin",
+        "year": "1960"
     },
     "Larry Costello*": {
         "AST": 4,
@@ -282,7 +296,8 @@
         "TRB": 37,
         "2P%": 12,
         "grade": 16.53,
-        "name": "Larry Costello"
+        "name": "Larry Costello",
+        "year": "1960"
     },
     "Bob Cousy*": {
         "AST": 1,
@@ -301,7 +316,8 @@
         "TRB": 52,
         "2P%": 54,
         "grade": 27.13,
-        "name": "Bob Cousy"
+        "name": "Bob Cousy",
+        "year": "1960"
     },
     "Archie Dees": {
         "AST": 77,
@@ -320,7 +336,8 @@
         "TRB": 38,
         "2P%": 17,
         "grade": 31.53,
-        "name": "Archie Dees"
+        "name": "Archie Dees",
+        "year": "1960"
     },
     "Connie Dierking": {
         "AST": 71,
@@ -339,7 +356,8 @@
         "TRB": 29,
         "2P%": 68,
         "grade": 61.47,
-        "name": "Connie Dierking"
+        "name": "Connie Dierking",
+        "year": "1960"
     },
     "Walter Dukes": {
         "AST": 58,
@@ -358,7 +376,8 @@
         "TRB": 7,
         "2P%": 69,
         "grade": 39.13,
-        "name": "Walter Dukes"
+        "name": "Walter Dukes",
+        "year": "1960"
     },
     "Boo Ellis": {
         "AST": 76,
@@ -377,7 +396,8 @@
         "TRB": 42,
         "2P%": 77,
         "grade": 67.33,
-        "name": "Boo Ellis"
+        "name": "Boo Ellis",
+        "year": "1960"
     },
     "Wayne Embry*": {
         "AST": 60,
@@ -396,7 +416,8 @@
         "TRB": 16,
         "2P%": 16,
         "grade": 37.4,
-        "name": "Wayne Embry"
+        "name": "Wayne Embry",
+        "year": "1960"
     },
     "Mike Farmer": {
         "AST": 66,
@@ -415,7 +436,8 @@
         "TRB": 35,
         "2P%": 61,
         "grade": 59.6,
-        "name": "Mike Farmer"
+        "name": "Mike Farmer",
+        "year": "1960"
     },
     "Ray Felix": {
         "AST": 65,
@@ -434,7 +456,8 @@
         "TRB": 21,
         "2P%": 38,
         "grade": 49.33,
-        "name": "Ray Felix"
+        "name": "Ray Felix",
+        "year": "1960"
     },
     "Al Ferrari": {
         "AST": 30,
@@ -453,7 +476,8 @@
         "TRB": 81,
         "2P%": 34,
         "grade": 39.4,
-        "name": "Al Ferrari"
+        "name": "Al Ferrari",
+        "year": "1960"
     },
     "Bob Ferry": {
         "AST": 75,
@@ -472,7 +496,8 @@
         "TRB": 62,
         "2P%": 25,
         "grade": 50.93,
-        "name": "Bob Ferry"
+        "name": "Bob Ferry",
+        "year": "1960"
     },
     "Ed Fleming": {
         "AST": 54,
@@ -491,7 +516,8 @@
         "TRB": 69,
         "2P%": 32,
         "grade": 47.33,
-        "name": "Ed Fleming"
+        "name": "Ed Fleming",
+        "year": "1960"
     },
     "Larry Foust": {
         "AST": 64,
@@ -510,7 +536,8 @@
         "TRB": 26,
         "2P%": 3,
         "grade": 30.53,
-        "name": "Larry Foust"
+        "name": "Larry Foust",
+        "year": "1960"
     },
     "Dave Gambee": {
         "AST": 80,
@@ -529,7 +556,8 @@
         "TRB": 60,
         "2P%": 51,
         "grade": 64.53,
-        "name": "Dave Gambee"
+        "name": "Dave Gambee",
+        "year": "1960"
     },
     "Dick Garmaker": {
         "AST": 26,
@@ -548,7 +576,8 @@
         "TRB": 48,
         "2P%": 21,
         "grade": 34.13,
-        "name": "Dick Garmaker"
+        "name": "Dick Garmaker",
+        "year": "1960"
     },
     "Jack George": {
         "AST": 19,
@@ -567,7 +596,8 @@
         "TRB": 73,
         "2P%": 52,
         "grade": 47.73,
-        "name": "Jack George"
+        "name": "Jack George",
+        "year": "1960"
     },
     "Tom Gola*": {
         "AST": 5,
@@ -586,7 +616,8 @@
         "TRB": 14,
         "2P%": 19,
         "grade": 14.87,
-        "name": "Tom Gola"
+        "name": "Tom Gola",
+        "year": "1960"
     },
     "Joe Graboski": {
         "AST": 51,
@@ -605,7 +636,8 @@
         "TRB": 45,
         "2P%": 64,
         "grade": 48.13,
-        "name": "Joe Graboski"
+        "name": "Joe Graboski",
+        "year": "1960"
     },
     "Johnny Green": {
         "AST": 70,
@@ -624,7 +656,8 @@
         "TRB": 25,
         "2P%": 14,
         "grade": 46.07,
-        "name": "Johnny Green"
+        "name": "Johnny Green",
+        "year": "1960"
     },
     "Si Green": {
         "AST": 44,
@@ -643,7 +676,8 @@
         "TRB": 64,
         "2P%": 63,
         "grade": 58.8,
-        "name": "Si Green"
+        "name": "Si Green",
+        "year": "1960"
     },
     "Hal Greer*": {
         "AST": 28,
@@ -662,7 +696,8 @@
         "TRB": 54,
         "2P%": 2,
         "grade": 22.93,
-        "name": "Hal Greer"
+        "name": "Hal Greer",
+        "year": "1960"
     },
     "Richie Guerin*": {
         "AST": 3,
@@ -681,7 +716,8 @@
         "TRB": 28,
         "2P%": 30,
         "grade": 20.67,
-        "name": "Richie Guerin"
+        "name": "Richie Guerin",
+        "year": "1960"
     },
     "Cliff Hagan*": {
         "AST": 12,
@@ -700,7 +736,8 @@
         "TRB": 10,
         "2P%": 6,
         "grade": 7.93,
-        "name": "Cliff Hagan"
+        "name": "Cliff Hagan",
+        "year": "1960"
     },
     "Steve Hamilton": {
         "AST": 79,
@@ -719,7 +756,8 @@
         "TRB": 59,
         "2P%": 60,
         "grade": 63.73,
-        "name": "Steve Hamilton"
+        "name": "Steve Hamilton",
+        "year": "1960"
     },
     "Vern Hatton": {
         "AST": 57,
@@ -738,7 +776,8 @@
         "TRB": 80,
         "2P%": 74,
         "grade": 68.73,
-        "name": "Vern Hatton"
+        "name": "Vern Hatton",
+        "year": "1960"
     },
     "Tom Hawkins": {
         "AST": 69,
@@ -757,7 +796,8 @@
         "TRB": 32,
         "2P%": 56,
         "grade": 55.27,
-        "name": "Tom Hawkins"
+        "name": "Tom Hawkins",
+        "year": "1960"
     },
     "Tom Heinsohn*": {
         "AST": 32,
@@ -776,7 +816,8 @@
         "TRB": 12,
         "2P%": 28,
         "grade": 21.27,
-        "name": "Tom Heinsohn"
+        "name": "Tom Heinsohn",
+        "year": "1960"
     },
     "Bob Hopkins": {
         "AST": 73,
@@ -795,7 +836,8 @@
         "TRB": 31,
         "2P%": 48,
         "grade": 44.27,
-        "name": "Bob Hopkins"
+        "name": "Bob Hopkins",
+        "year": "1960"
     },
     "Bailey Howell*": {
         "AST": 68,
@@ -814,7 +856,8 @@
         "TRB": 13,
         "2P%": 9,
         "grade": 19.93,
-        "name": "Bailey Howell"
+        "name": "Bailey Howell",
+        "year": "1960"
     },
     "Hot Rod Hundley": {
         "AST": 10,
@@ -833,7 +876,8 @@
         "TRB": 39,
         "2P%": 72,
         "grade": 45.53,
-        "name": "Hot Rod Hundley"
+        "name": "Hot Rod Hundley",
+        "year": "1960"
     },
     "Andy Johnson": {
         "AST": 40,
@@ -852,7 +896,8 @@
         "TRB": 61,
         "2P%": 57,
         "grade": 51.8,
-        "name": "Andy Johnson"
+        "name": "Andy Johnson",
+        "year": "1960"
     },
     "K.C. Jones*": {
         "AST": 29,
@@ -871,7 +916,8 @@
         "TRB": 76,
         "2P%": 37,
         "grade": 38.73,
-        "name": "K.C. Jones"
+        "name": "K.C. Jones",
+        "year": "1960"
     },
     "Sam Jones*": {
         "AST": 49,
@@ -890,7 +936,8 @@
         "TRB": 41,
         "2P%": 10,
         "grade": 23.47,
-        "name": "Sam Jones"
+        "name": "Sam Jones",
+        "year": "1960"
     },
     "Phil Jordon": {
         "AST": 25,
@@ -909,7 +956,8 @@
         "TRB": 20,
         "2P%": 43,
         "grade": 37.47,
-        "name": "Phil Jordon"
+        "name": "Phil Jordon",
+        "year": "1960"
     },
     "Billy Kenville": {
         "AST": 45,
@@ -928,7 +976,8 @@
         "TRB": 74,
         "2P%": 71,
         "grade": 62.27,
-        "name": "Billy Kenville"
+        "name": "Billy Kenville",
+        "year": "1960"
     },
     "Red Kerr": {
         "AST": 35,
@@ -947,7 +996,8 @@
         "TRB": 9,
         "2P%": 45,
         "grade": 30.27,
-        "name": "Red Kerr"
+        "name": "Red Kerr",
+        "year": "1960"
     },
     "Jim Krebs": {
         "AST": 78,
@@ -966,7 +1016,8 @@
         "TRB": 53,
         "2P%": 44,
         "grade": 50.93,
-        "name": "Jim Krebs"
+        "name": "Jim Krebs",
+        "year": "1960"
     },
     "Rudy LaRusso": {
         "AST": 56,
@@ -985,7 +1036,8 @@
         "TRB": 15,
         "2P%": 47,
         "grade": 34.33,
-        "name": "Rudy LaRusso"
+        "name": "Rudy LaRusso",
+        "year": "1960"
     },
     "Slick Leonard*": {
         "AST": 18,
@@ -1004,7 +1056,8 @@
         "TRB": 67,
         "2P%": 82,
         "grade": 60.8,
-        "name": "Slick Leonard"
+        "name": "Slick Leonard",
+        "year": "1960"
     },
     "Earl Lloyd*": {
         "AST": 55,
@@ -1023,7 +1076,8 @@
         "TRB": 51,
         "2P%": 75,
         "grade": 59.53,
-        "name": "Earl Lloyd"
+        "name": "Earl Lloyd",
+        "year": "1960"
     },
     "Jim Loscutoff": {
         "AST": 83,
@@ -1042,7 +1096,8 @@
         "TRB": 58,
         "2P%": 81,
         "grade": 74.8,
-        "name": "Jim Loscutoff"
+        "name": "Jim Loscutoff",
+        "year": "1960"
     },
     "Clyde Lovellette*": {
         "AST": 43,
@@ -1061,7 +1116,8 @@
         "TRB": 11,
         "2P%": 4,
         "grade": 14.8,
-        "name": "Clyde Lovellette"
+        "name": "Clyde Lovellette",
+        "year": "1960"
     },
     "Slater Martin*": {
         "AST": 7,
@@ -1080,7 +1136,8 @@
         "TRB": 72,
         "2P%": 65,
         "grade": 51.0,
-        "name": "Slater Martin"
+        "name": "Slater Martin",
+        "year": "1960"
     },
     "Johnny McCarthy": {
         "AST": 11,
@@ -1099,7 +1156,8 @@
         "TRB": 56,
         "2P%": 80,
         "grade": 57.73,
-        "name": "Johnny McCarthy"
+        "name": "Johnny McCarthy",
+        "year": "1960"
     },
     "Dick McGuire*": {
         "AST": 6,
@@ -1118,7 +1176,8 @@
         "TRB": 57,
         "2P%": 15,
         "grade": 32.53,
-        "name": "Dick McGuire"
+        "name": "Dick McGuire",
+        "year": "1960"
     },
     "Jack McMahon": {
         "AST": 39,
@@ -1137,7 +1196,8 @@
         "TRB": 84,
         "2P%": 76,
         "grade": 75.0,
-        "name": "Jack McMahon"
+        "name": "Jack McMahon",
+        "year": "1960"
     },
     "Shellie McMillon": {
         "AST": 72,
@@ -1156,7 +1216,8 @@
         "TRB": 34,
         "2P%": 24,
         "grade": 37.4,
-        "name": "Shellie McMillon"
+        "name": "Shellie McMillon",
+        "year": "1960"
     },
     "Willie Naulls": {
         "AST": 36,
@@ -1175,7 +1236,8 @@
         "TRB": 5,
         "2P%": 22,
         "grade": 23.4,
-        "name": "Willie Naulls"
+        "name": "Willie Naulls",
+        "year": "1960"
     },
     "Chuck Noble": {
         "AST": 9,
@@ -1194,7 +1256,8 @@
         "TRB": 65,
         "2P%": 73,
         "grade": 57.93,
-        "name": "Chuck Noble"
+        "name": "Chuck Noble",
+        "year": "1960"
     },
     "Jim Palmer": {
         "AST": 63,
@@ -1213,7 +1276,8 @@
         "TRB": 40,
         "2P%": 31,
         "grade": 50.53,
-        "name": "Jim Palmer"
+        "name": "Jim Palmer",
+        "year": "1960"
     },
     "Med Park": {
         "AST": 24,
@@ -1232,7 +1296,8 @@
         "TRB": 55,
         "2P%": 49,
         "grade": 44.73,
-        "name": "Med Park"
+        "name": "Med Park",
+        "year": "1960"
     },
     "Bob Pettit*": {
         "AST": 16,
@@ -1251,7 +1316,8 @@
         "TRB": 3,
         "2P%": 18,
         "grade": 12.4,
-        "name": "Bob Pettit"
+        "name": "Bob Pettit",
+        "year": "1960"
     },
     "Dave Piontek": {
         "AST": 53,
@@ -1270,7 +1336,8 @@
         "TRB": 47,
         "2P%": 55,
         "grade": 61.13,
-        "name": "Dave Piontek"
+        "name": "Dave Piontek",
+        "year": "1960"
     },
     "Frank Ramsey*": {
         "AST": 42,
@@ -1289,7 +1356,8 @@
         "TRB": 27,
         "2P%": 41,
         "grade": 29.47,
-        "name": "Frank Ramsey"
+        "name": "Frank Ramsey",
+        "year": "1960"
     },
     "Hub Reed": {
         "AST": 62,
@@ -1308,7 +1376,8 @@
         "TRB": 18,
         "2P%": 13,
         "grade": 34.27,
-        "name": "Hub Reed"
+        "name": "Hub Reed",
+        "year": "1960"
     },
     "John Richter": {
         "AST": 82,
@@ -1327,7 +1396,8 @@
         "TRB": 50,
         "2P%": 78,
         "grade": 70.87,
-        "name": "John Richter"
+        "name": "John Richter",
+        "year": "1960"
     },
     "Guy Rodgers*": {
         "AST": 2,
@@ -1346,7 +1416,8 @@
         "TRB": 33,
         "2P%": 46,
         "grade": 38.0,
-        "name": "Guy Rodgers"
+        "name": "Guy Rodgers",
+        "year": "1960"
     },
     "Phil Rollins": {
         "AST": 23,
@@ -1365,7 +1436,8 @@
         "TRB": 79,
         "2P%": 36,
         "grade": 52.0,
-        "name": "Phil Rollins"
+        "name": "Phil Rollins",
+        "year": "1960"
     },
     "Bill Russell*": {
         "AST": 15,
@@ -1384,7 +1456,8 @@
         "TRB": 2,
         "2P%": 5,
         "grade": 12.53,
-        "name": "Bill Russell"
+        "name": "Bill Russell",
+        "year": "1960"
     },
     "Woody Sauldsberry": {
         "AST": 50,
@@ -1403,7 +1476,8 @@
         "TRB": 30,
         "2P%": 79,
         "grade": 62.87,
-        "name": "Woody Sauldsberry"
+        "name": "Woody Sauldsberry",
+        "year": "1960"
     },
     "Dolph Schayes*": {
         "AST": 21,
@@ -1422,7 +1496,8 @@
         "TRB": 8,
         "2P%": 39,
         "grade": 15.33,
-        "name": "Dolph Schayes"
+        "name": "Dolph Schayes",
+        "year": "1960"
     },
     "Kenny Sears": {
         "AST": 38,
@@ -1441,7 +1516,8 @@
         "TRB": 6,
         "2P%": 1,
         "grade": 14.13,
-        "name": "Kenny Sears"
+        "name": "Kenny Sears",
+        "year": "1960"
     },
     "Frank Selvy": {
         "AST": 41,
@@ -1460,7 +1536,8 @@
         "TRB": 71,
         "2P%": 42,
         "grade": 44.73,
-        "name": "Frank Selvy"
+        "name": "Frank Selvy",
+        "year": "1960"
     },
     "Bill Sharman*": {
         "AST": 37,
@@ -1479,7 +1556,8 @@
         "TRB": 63,
         "2P%": 8,
         "grade": 19.47,
-        "name": "Bill Sharman"
+        "name": "Bill Sharman",
+        "year": "1960"
     },
     "Gene Shue": {
         "AST": 13,
@@ -1498,7 +1576,8 @@
         "TRB": 36,
         "2P%": 33,
         "grade": 18.4,
-        "name": "Gene Shue"
+        "name": "Gene Shue",
+        "year": "1960"
     },
     "Bobby Smith": {
         "AST": 52,
@@ -1517,7 +1596,8 @@
         "TRB": 68,
         "2P%": 84,
         "grade": 76.6,
-        "name": "Bobby Smith"
+        "name": "Bobby Smith",
+        "year": "1960"
     },
     "Jack Twyman*": {
         "AST": 17,
@@ -1536,7 +1616,8 @@
         "TRB": 17,
         "2P%": 29,
         "grade": 18.87,
-        "name": "Jack Twyman"
+        "name": "Jack Twyman",
+        "year": "1960"
     },
     "Charlie Tyra": {
         "AST": 59,
@@ -1555,7 +1636,8 @@
         "TRB": 23,
         "2P%": 23,
         "grade": 35.8,
-        "name": "Charlie Tyra"
+        "name": "Charlie Tyra",
+        "year": "1960"
     },
     "Win Wilfong": {
         "AST": 14,
@@ -1574,7 +1656,8 @@
         "TRB": 44,
         "2P%": 66,
         "grade": 50.27,
-        "name": "Win Wilfong"
+        "name": "Win Wilfong",
+        "year": "1960"
     },
     "George Yardley*": {
         "AST": 48,
@@ -1593,6 +1676,7 @@
         "TRB": 24,
         "2P%": 11,
         "grade": 15.8,
-        "name": "George Yardley"
+        "name": "George Yardley",
+        "year": "1960"
     }
 }

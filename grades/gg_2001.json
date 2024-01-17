@@ -25,7 +25,7 @@
         "grade": 66.05,
         "name": "Mahmoud Abdul-Rauf",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 41,
         "team": "VAN"
     },
@@ -55,7 +55,7 @@
         "grade": 50.56,
         "name": "Tariq Abdul-Wahad",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 29,
         "team": "DEN"
     },
@@ -85,7 +85,7 @@
         "grade": 89.41,
         "name": "Shareef Abdur-Rahim",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "VAN"
     },
@@ -115,7 +115,7 @@
         "grade": 59.23,
         "name": "Courtney Alexander",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": [
             "DAL",
@@ -148,7 +148,7 @@
         "grade": 93.89,
         "name": "Ray Allen",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIL"
     },
@@ -178,7 +178,7 @@
         "grade": 52.18,
         "name": "John Amaechi",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "ORL"
     },
@@ -208,7 +208,7 @@
         "grade": 86.6,
         "name": "Derek Anderson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "SAS"
     },
@@ -238,7 +238,7 @@
         "grade": 63.38,
         "name": "Kenny Anderson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 33,
         "team": "BOS"
     },
@@ -268,7 +268,7 @@
         "grade": 76.42,
         "name": "Shandon Anderson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "HOU"
     },
@@ -298,7 +298,7 @@
         "grade": 64.54,
         "name": "Greg Anthony",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 58,
         "team": "POR"
     },
@@ -328,7 +328,7 @@
         "grade": 87.29,
         "name": "Darrell Armstrong",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "ORL"
     },
@@ -358,7 +358,7 @@
         "grade": 67.34,
         "name": "Chucky Atkins",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "DET"
     },
@@ -388,7 +388,7 @@
         "grade": 68.2,
         "name": "Stacey Augmon",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 66,
         "team": "POR"
     },
@@ -418,7 +418,7 @@
         "grade": 52.36,
         "name": "Isaac Austin",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 52,
         "team": "VAN"
     },
@@ -448,7 +448,7 @@
         "grade": 63.52,
         "name": "Vin Baker",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "SEA"
     },
@@ -478,7 +478,7 @@
         "grade": 71.91,
         "name": "Dana Barros",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 60,
         "team": "DET"
     },
@@ -508,7 +508,7 @@
         "grade": 85.76,
         "name": "Brent Barry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 67,
         "team": "SEA"
     },
@@ -538,7 +538,7 @@
         "grade": 69.57,
         "name": "Jon Barry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 62,
         "team": "SAC"
     },
@@ -568,7 +568,7 @@
         "grade": 74.22,
         "name": "Tony Battie",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 40,
         "team": "BOS"
     },
@@ -598,7 +598,7 @@
         "grade": 49.68,
         "name": "Corey Benjamin",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": "CHI"
     },
@@ -628,7 +628,7 @@
         "grade": 82.3,
         "name": "Travis Best",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "IND"
     },
@@ -658,7 +658,7 @@
         "grade": 81.74,
         "name": "Mike Bibby",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "VAN"
     },
@@ -688,7 +688,7 @@
         "grade": 73.56,
         "name": "Chauncey Billups",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "MIN"
     },
@@ -718,7 +718,7 @@
         "grade": 74.9,
         "name": "Mookie Blaylock",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 69,
         "team": "GSW"
     },
@@ -748,7 +748,7 @@
         "grade": 59.16,
         "name": "Corie Blount",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": [
             "PHO",
@@ -781,7 +781,7 @@
         "grade": 65.52,
         "name": "Mark Blount",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 64,
         "team": "BOS"
     },
@@ -811,7 +811,7 @@
         "grade": 70.68,
         "name": "Calvin Booth",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": [
             "WAS",
@@ -844,7 +844,7 @@
         "grade": 66.91,
         "name": "Bruce Bowen",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIA"
     },
@@ -874,7 +874,7 @@
         "grade": 69.44,
         "name": "Ryan Bowen",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "DEN"
     },
@@ -904,7 +904,7 @@
         "grade": 62.45,
         "name": "Earl Boykins",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 10,
         "team": "LAC"
     },
@@ -934,7 +934,7 @@
         "grade": 80.83,
         "name": "Shawn Bradley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "DAL"
     },
@@ -964,7 +964,7 @@
         "grade": 83.51,
         "name": "Elton Brand",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "CHI"
     },
@@ -994,7 +994,7 @@
         "grade": 87.58,
         "name": "Terrell Brandon",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "MIN"
     },
@@ -1024,7 +1024,7 @@
         "grade": 51.05,
         "name": "Chucky Brown",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 26,
         "team": [
             "GSW",
@@ -1057,7 +1057,7 @@
         "grade": 78.3,
         "name": "P.J. Brown",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "CHH"
     },
@@ -1087,7 +1087,7 @@
         "grade": 55.88,
         "name": "Randy Brown",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 54,
         "team": "BOS"
     },
@@ -1117,7 +1117,7 @@
         "grade": 92.43,
         "name": "Kobe Bryant",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": "LAL"
     },
@@ -1147,7 +1147,7 @@
         "grade": 67.45,
         "name": "Greg Buckner",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 37,
         "team": "DAL"
     },
@@ -1177,7 +1177,7 @@
         "grade": 66.72,
         "name": "Jud Buechler",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "DET"
     },
@@ -1207,7 +1207,7 @@
         "grade": 59.98,
         "name": "Rodney Buford",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 47,
         "team": "PHI"
     },
@@ -1237,7 +1237,7 @@
         "grade": 69.19,
         "name": "Matt Bullard",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 61,
         "team": "HOU"
     },
@@ -1267,7 +1267,7 @@
         "grade": 69.24,
         "name": "Jason Caffey",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "MIL"
     },
@@ -1297,7 +1297,7 @@
         "grade": 89.09,
         "name": "Marcus Camby",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 63,
         "team": "NYK"
     },
@@ -1327,7 +1327,7 @@
         "grade": 78.02,
         "name": "Elden Campbell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "CHH"
     },
@@ -1357,7 +1357,7 @@
         "grade": 61.81,
         "name": "Anthony Carter",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 72,
         "team": "MIA"
     },
@@ -1387,7 +1387,7 @@
         "grade": 93.84,
         "name": "Vince Carter",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "TOR"
     },
@@ -1417,7 +1417,7 @@
         "grade": 85.8,
         "name": "Sam Cassell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "MIL"
     },
@@ -1447,7 +1447,7 @@
         "grade": 69.39,
         "name": "Kelvin Cato",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 35,
         "team": "HOU"
     },
@@ -1477,7 +1477,7 @@
         "grade": 47.72,
         "name": "Duane Causwell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 31,
         "team": "MIA"
     },
@@ -1507,7 +1507,7 @@
         "grade": 69.88,
         "name": "Cedric Ceballos",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 40,
         "team": [
             "DET",
@@ -1540,7 +1540,7 @@
         "grade": 63.85,
         "name": "Chris Childs",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": [
             "NYK",
@@ -1573,7 +1573,7 @@
         "grade": 84.78,
         "name": "Doug Christie",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "SAC"
     },
@@ -1603,7 +1603,7 @@
         "grade": 72.68,
         "name": "Keon Clark",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": [
             "DEN",
@@ -1636,7 +1636,7 @@
         "grade": 53.16,
         "name": "Mateen Cleaves",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "DET"
     },
@@ -1666,7 +1666,7 @@
         "grade": 64.8,
         "name": "Derrick Coleman",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 34,
         "team": "CHH"
     },
@@ -1696,7 +1696,7 @@
         "grade": 52.16,
         "name": "Bimbo Coles",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 47,
         "team": "CLE"
     },
@@ -1726,7 +1726,7 @@
         "grade": 59.49,
         "name": "Chris Crawford",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 47,
         "team": "ATL"
     },
@@ -1756,7 +1756,7 @@
         "grade": 52.84,
         "name": "Jamal Crawford",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 61,
         "team": "CHI"
     },
@@ -1786,7 +1786,7 @@
         "grade": 71.46,
         "name": "Austin Croshere",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "IND"
     },
@@ -1816,7 +1816,7 @@
         "grade": 56.18,
         "name": "Vonteego Cummings",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 66,
         "team": "GSW"
     },
@@ -1846,7 +1846,7 @@
         "grade": 69.05,
         "name": "Dell Curry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 71,
         "team": "TOR"
     },
@@ -1876,7 +1876,7 @@
         "grade": 61.05,
         "name": "Michael Curry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": "DET"
     },
@@ -1906,7 +1906,7 @@
         "grade": 54.36,
         "name": "Erick Dampier",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 43,
         "team": "GSW"
     },
@@ -1936,7 +1936,7 @@
         "grade": 83.39,
         "name": "Antonio Daniels",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "SAS"
     },
@@ -1966,7 +1966,7 @@
         "grade": 75.59,
         "name": "Antonio Davis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "TOR"
     },
@@ -1996,7 +1996,7 @@
         "grade": 85.6,
         "name": "Baron Davis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "CHH"
     },
@@ -2026,7 +2026,7 @@
         "grade": 77.97,
         "name": "Dale Davis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "POR"
     },
@@ -2056,7 +2056,7 @@
         "grade": 69.87,
         "name": "Emanual Davis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 62,
         "team": "SEA"
     },
@@ -2086,7 +2086,7 @@
         "grade": 69.07,
         "name": "Hubert Davis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 66,
         "team": [
             "DAL",
@@ -2119,7 +2119,7 @@
         "grade": 50.65,
         "name": "Terry Davis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 19,
         "team": "DEN"
     },
@@ -2149,7 +2149,7 @@
         "grade": 57.22,
         "name": "Todd Day",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 31,
         "team": "MIN"
     },
@@ -2179,7 +2179,7 @@
         "grade": 68.79,
         "name": "Andrew DeClercq",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 67,
         "team": "ORL"
     },
@@ -2209,7 +2209,7 @@
         "grade": 62.1,
         "name": "Vinny Del Negro",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": [
             "GSW",
@@ -2242,7 +2242,7 @@
         "grade": 73.66,
         "name": "Tony Delk",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "PHO"
     },
@@ -2272,7 +2272,7 @@
         "grade": 69.27,
         "name": "Michael Dickerson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "VAN"
     },
@@ -2302,7 +2302,7 @@
         "grade": 87.01,
         "name": "Vlade Divac",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "SAC"
     },
@@ -2332,7 +2332,7 @@
         "grade": 58.72,
         "name": "Michael Doleac",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "ORL"
     },
@@ -2362,7 +2362,7 @@
         "grade": 60.41,
         "name": "Keyon Dooling",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "LAC"
     },
@@ -2392,7 +2392,7 @@
         "grade": 54.15,
         "name": "Sherman Douglas",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": "NJN"
     },
@@ -2422,7 +2422,7 @@
         "grade": 53.46,
         "name": "Bryce Drew",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 48,
         "team": "CHI"
     },
@@ -2452,7 +2452,7 @@
         "grade": 51.31,
         "name": "Chris Dudley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 53,
         "team": "PHO"
     },
@@ -2482,7 +2482,7 @@
         "grade": 92.79,
         "name": "Tim Duncan",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "SAS"
     },
@@ -2512,7 +2512,7 @@
         "grade": 62.13,
         "name": "Tyus Edney",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 24,
         "team": "IND"
     },
@@ -2542,7 +2542,7 @@
         "grade": 52.28,
         "name": "Kevin Edwards",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 46,
         "team": "VAN"
     },
@@ -2572,7 +2572,7 @@
         "grade": 73.49,
         "name": "Howard Eisley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "DAL"
     },
@@ -2602,7 +2602,7 @@
         "grade": 58.78,
         "name": "Khalid El-Amin",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 50,
         "team": "CHI"
     },
@@ -2632,7 +2632,7 @@
         "grade": 71.26,
         "name": "Mario Elie",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": "PHO"
     },
@@ -2662,7 +2662,7 @@
         "grade": 75.97,
         "name": "Sean Elliott",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 52,
         "team": "SAS"
     },
@@ -2692,7 +2692,7 @@
         "grade": 77.94,
         "name": "LaPhonso Ellis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIN"
     },
@@ -2722,7 +2722,7 @@
         "grade": 63.16,
         "name": "Evan Eschmeyer",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "NJN"
     },
@@ -2752,7 +2752,7 @@
         "grade": 64.6,
         "name": "Patrick Ewing",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "SEA"
     },
@@ -2782,7 +2782,7 @@
         "grade": 74.63,
         "name": "Danny Ferry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "SAS"
     },
@@ -2812,7 +2812,7 @@
         "grade": 87.92,
         "name": "Michael Finley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "DAL"
     },
@@ -2842,7 +2842,7 @@
         "grade": 74.68,
         "name": "Derek Fisher",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 20,
         "team": "LAL"
     },
@@ -2872,7 +2872,7 @@
         "grade": 57.2,
         "name": "Marcus Fizer",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 72,
         "team": "CHI"
     },
@@ -2902,7 +2902,7 @@
         "grade": 65.0,
         "name": "Jeff Foster",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 71,
         "team": "IND"
     },
@@ -2932,7 +2932,7 @@
         "grade": 80.92,
         "name": "Rick Fox",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "LAL"
     },
@@ -2962,7 +2962,7 @@
         "grade": 58.69,
         "name": "Adonal Foyle",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 58,
         "team": "GSW"
     },
@@ -2992,7 +2992,7 @@
         "grade": 93.54,
         "name": "Steve Francis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "HOU"
     },
@@ -3022,7 +3022,7 @@
         "grade": 65.37,
         "name": "Lawrence Funderburke",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": "SAC"
     },
@@ -3052,7 +3052,7 @@
         "grade": 93.97,
         "name": "Kevin Garnett",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "MIN"
     },
@@ -3082,7 +3082,7 @@
         "grade": 64.93,
         "name": "Dean Garrett",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "MIN"
     },
@@ -3112,7 +3112,7 @@
         "grade": 63.86,
         "name": "Pat Garrity",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "ORL"
     },
@@ -3142,7 +3142,7 @@
         "grade": 70.47,
         "name": "Chris Gatling",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "CLE"
     },
@@ -3172,7 +3172,7 @@
         "grade": 53.65,
         "name": "Matt Geiger",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 35,
         "team": "PHI"
     },
@@ -3202,7 +3202,7 @@
         "grade": 46.33,
         "name": "Devean George",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": "LAL"
     },
@@ -3232,7 +3232,7 @@
         "grade": 60.02,
         "name": "Kendall Gill",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 31,
         "team": "NJN"
     },
@@ -3262,7 +3262,7 @@
         "grade": 60.77,
         "name": "Dion Glover",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "ATL"
     },
@@ -3292,7 +3292,7 @@
         "grade": 55.97,
         "name": "Anthony Goldwire",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 20,
         "team": "DEN"
     },
@@ -3322,7 +3322,7 @@
         "grade": 45.52,
         "name": "Steve Goodrich",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 12,
         "team": "CHI"
     },
@@ -3352,7 +3352,7 @@
         "grade": 84.02,
         "name": "Brian Grant",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIA"
     },
@@ -3382,7 +3382,7 @@
         "grade": 76.37,
         "name": "Horace Grant",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "LAL"
     },
@@ -3412,7 +3412,7 @@
         "grade": 61.62,
         "name": "A.C. Green",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIA"
     },
@@ -3442,7 +3442,7 @@
         "grade": 62.95,
         "name": "Tom Gugliotta",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "PHO"
     },
@@ -3472,7 +3472,7 @@
         "grade": 58.38,
         "name": "A.J. Guyton",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 33,
         "team": "CHI"
     },
@@ -3502,7 +3502,7 @@
         "grade": 66.23,
         "name": "Darvin Ham",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 29,
         "team": "MIL"
     },
@@ -3532,7 +3532,7 @@
         "grade": 71.58,
         "name": "Richard Hamilton",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "WAS"
     },
@@ -3562,7 +3562,7 @@
         "grade": 81.12,
         "name": "Tim Hardaway",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "MIA"
     },
@@ -3592,7 +3592,7 @@
         "grade": 73.24,
         "name": "Ron Harper",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 47,
         "team": "LAL"
     },
@@ -3622,7 +3622,7 @@
         "grade": 72.99,
         "name": "Matt Harpring",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 56,
         "team": "CLE"
     },
@@ -3652,7 +3652,7 @@
         "grade": 62.05,
         "name": "Al Harrington",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "IND"
     },
@@ -3682,7 +3682,7 @@
         "grade": 69.24,
         "name": "Othella Harrington",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": [
             "VAN",
@@ -3715,7 +3715,7 @@
         "grade": 71.55,
         "name": "Lucious Harris",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 73,
         "team": "NJN"
     },
@@ -3745,7 +3745,7 @@
         "grade": 70.91,
         "name": "Hersey Hawkins",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": "CHH"
     },
@@ -3775,7 +3775,7 @@
         "grade": 64.25,
         "name": "Alan Henderson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 73,
         "team": "ATL"
     },
@@ -3805,7 +3805,7 @@
         "grade": 50.41,
         "name": "Cedric Henderson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": "CLE"
     },
@@ -3835,7 +3835,7 @@
         "grade": 48.73,
         "name": "Chris Herren",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 25,
         "team": "BOS"
     },
@@ -3865,7 +3865,7 @@
         "grade": 70.27,
         "name": "Tyrone Hill",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "PHI"
     },
@@ -3895,7 +3895,7 @@
         "grade": 83.35,
         "name": "Fred Hoiberg",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "CHI"
     },
@@ -3925,7 +3925,7 @@
         "grade": 67.29,
         "name": "Robert Horry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "LAL"
     },
@@ -3955,7 +3955,7 @@
         "grade": 56.08,
         "name": "Eddie House",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 50,
         "team": "MIA"
     },
@@ -3985,7 +3985,7 @@
         "grade": 84.97,
         "name": "Allan Houston",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "NYK"
     },
@@ -4015,7 +4015,7 @@
         "grade": 79.08,
         "name": "Juwan Howard",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": [
             "WAS",
@@ -4048,7 +4048,7 @@
         "grade": 52.73,
         "name": "Troy Hudson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "ORL"
     },
@@ -4078,7 +4078,7 @@
         "grade": 69.05,
         "name": "Larry Hughes",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 50,
         "team": "GSW"
     },
@@ -4108,7 +4108,7 @@
         "grade": 74.85,
         "name": "Lindsey Hunter",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIL"
     },
@@ -4138,7 +4138,7 @@
         "grade": 70.93,
         "name": "Zydrunas Ilgauskas",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 24,
         "team": "CLE"
     },
@@ -4168,7 +4168,7 @@
         "grade": 88.86,
         "name": "Allen Iverson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 71,
         "team": "PHI"
     },
@@ -4198,7 +4198,7 @@
         "grade": 73.25,
         "name": "Bobby Jackson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "SAC"
     },
@@ -4228,7 +4228,7 @@
         "grade": 61.39,
         "name": "Jim Jackson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 56,
         "team": [
             "ATL",
@@ -4261,7 +4261,7 @@
         "grade": 75.42,
         "name": "Marc Jackson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 48,
         "team": "GSW"
     },
@@ -4291,7 +4291,7 @@
         "grade": 77.52,
         "name": "Mark Jackson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 83,
         "team": [
             "TOR",
@@ -4324,7 +4324,7 @@
         "grade": 66.68,
         "name": "Stephen Jackson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "NJN"
     },
@@ -4354,7 +4354,7 @@
         "grade": 81.21,
         "name": "Antawn Jamison",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "GSW"
     },
@@ -4384,7 +4384,7 @@
         "grade": 65.11,
         "name": "Avery Johnson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": "SAS"
     },
@@ -4414,7 +4414,7 @@
         "grade": 54.54,
         "name": "DerMarr Johnson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "ATL"
     },
@@ -4444,7 +4444,7 @@
         "grade": 74.15,
         "name": "Ervin Johnson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIL"
     },
@@ -4474,7 +4474,7 @@
         "grade": 74.3,
         "name": "Larry Johnson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": "NYK"
     },
@@ -4504,7 +4504,7 @@
         "grade": 67.29,
         "name": "Damon Jones",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 71,
         "team": "VAN"
     },
@@ -4534,7 +4534,7 @@
         "grade": 91.91,
         "name": "Eddie Jones",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 63,
         "team": "MIA"
     },
@@ -4564,7 +4564,7 @@
         "grade": 69.64,
         "name": "Jumaine Jones",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": "PHI"
     },
@@ -4594,7 +4594,7 @@
         "grade": 56.48,
         "name": "Popeye Jones",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 45,
         "team": "WAS"
     },
@@ -4624,7 +4624,7 @@
         "grade": 51.34,
         "name": "Adam Keefe",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 67,
         "team": "GSW"
     },
@@ -4654,7 +4654,7 @@
         "grade": 60.67,
         "name": "Shawn Kemp",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": "POR"
     },
@@ -4684,7 +4684,7 @@
         "grade": 65.33,
         "name": "Steve Kerr",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": "SAS"
     },
@@ -4714,7 +4714,7 @@
         "grade": 61.03,
         "name": "Jerome Kersey",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 22,
         "team": "MIL"
     },
@@ -4744,7 +4744,7 @@
         "grade": 87.16,
         "name": "Jason Kidd",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "PHO"
     },
@@ -4774,7 +4774,7 @@
         "grade": 61.78,
         "name": "Gerard King",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 45,
         "team": "WAS"
     },
@@ -4804,7 +4804,7 @@
         "grade": 64.32,
         "name": "Brevin Knight",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 53,
         "team": [
             "CLE",
@@ -4837,7 +4837,7 @@
         "grade": 83.77,
         "name": "Toni Kukoč",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": [
             "PHI",
@@ -4870,7 +4870,7 @@
         "grade": 83.97,
         "name": "Christian Laettner",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": [
             "DAL",
@@ -4903,7 +4903,7 @@
         "grade": 85.38,
         "name": "Raef LaFrentz",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "DEN"
     },
@@ -4933,7 +4933,7 @@
         "grade": 69.18,
         "name": "Trajan Langdon",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": "CLE"
     },
@@ -4963,7 +4963,7 @@
         "grade": 72.65,
         "name": "Voshon Lenard",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "DEN"
     },
@@ -4993,7 +4993,7 @@
         "grade": 52.72,
         "name": "Quincy Lewis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 35,
         "team": "UTA"
     },
@@ -5023,7 +5023,7 @@
         "grade": 89.7,
         "name": "Rashard Lewis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "SEA"
     },
@@ -5053,7 +5053,7 @@
         "grade": 67.85,
         "name": "Grant Long",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 66,
         "team": "VAN"
     },
@@ -5083,7 +5083,7 @@
         "grade": 48.19,
         "name": "Luc Longley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 25,
         "team": "NYK"
     },
@@ -5113,7 +5113,7 @@
         "grade": 69.26,
         "name": "Felipe López",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": [
             "WAS",
@@ -5146,7 +5146,7 @@
         "grade": 56.57,
         "name": "Tyronn Lue",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 38,
         "team": "LAL"
     },
@@ -5176,7 +5176,7 @@
         "grade": 77.63,
         "name": "George Lynch",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "PHI"
     },
@@ -5206,7 +5206,7 @@
         "grade": 77.03,
         "name": "Corey Maggette",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 69,
         "team": "LAC"
     },
@@ -5236,7 +5236,7 @@
         "grade": 64.35,
         "name": "Jamaal Magloire",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "CHH"
     },
@@ -5266,7 +5266,7 @@
         "grade": 67.51,
         "name": "Dan Majerle",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 53,
         "team": "MIA"
     },
@@ -5296,7 +5296,7 @@
         "grade": 96.1,
         "name": "Karl Malone",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "UTA"
     },
@@ -5326,7 +5326,7 @@
         "grade": 67.63,
         "name": "Matt Maloney",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": "ATL"
     },
@@ -5356,7 +5356,7 @@
         "grade": 73.74,
         "name": "Danny Manning",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "UTA"
     },
@@ -5386,7 +5386,7 @@
         "grade": 85.02,
         "name": "Stephon Marbury",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 67,
         "team": "NJN"
     },
@@ -5416,7 +5416,7 @@
         "grade": 92.48,
         "name": "Shawn Marion",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "PHO"
     },
@@ -5446,7 +5446,7 @@
         "grade": 90.6,
         "name": "Donyell Marshall",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "UTA"
     },
@@ -5476,7 +5476,7 @@
         "grade": 71.27,
         "name": "Kenyon Martin",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": "NJN"
     },
@@ -5506,7 +5506,7 @@
         "grade": 83.63,
         "name": "Jamal Mashburn",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "CHH"
     },
@@ -5536,7 +5536,7 @@
         "grade": 88.27,
         "name": "Anthony Mason",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "MIA"
     },
@@ -5566,7 +5566,7 @@
         "grade": 60.79,
         "name": "Desmond Mason",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "SEA"
     },
@@ -5596,7 +5596,7 @@
         "grade": 55.41,
         "name": "Tony Massenburg",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 52,
         "team": "VAN"
     },
@@ -5626,7 +5626,7 @@
         "grade": 52.18,
         "name": "Vernon Maxwell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 43,
         "team": [
             "PHI",
@@ -5659,7 +5659,7 @@
         "grade": 69.64,
         "name": "George McCloud",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "DEN"
     },
@@ -5689,7 +5689,7 @@
         "grade": 62.53,
         "name": "Jelani McCoy",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "SEA"
     },
@@ -5719,7 +5719,7 @@
         "grade": 86.63,
         "name": "Antonio McDyess",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "DEN"
     },
@@ -5749,7 +5749,7 @@
         "grade": 92.31,
         "name": "Tracy McGrady",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "ORL"
     },
@@ -5779,7 +5779,7 @@
         "grade": 48.97,
         "name": "Jim McIlvaine",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 18,
         "team": "NJN"
     },
@@ -5809,7 +5809,7 @@
         "grade": 80.02,
         "name": "Jeff McInnis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "LAC"
     },
@@ -5839,7 +5839,7 @@
         "grade": 62.84,
         "name": "Derrick McKey",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 66,
         "team": "IND"
     },
@@ -5869,7 +5869,7 @@
         "grade": 85.12,
         "name": "Aaron McKie",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "PHI"
     },
@@ -5899,7 +5899,7 @@
         "grade": 62.71,
         "name": "Roshown McLeod",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 35,
         "team": [
             "ATL",
@@ -5932,7 +5932,7 @@
         "grade": 65.55,
         "name": "Paul McPherson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": [
             "PHO",
@@ -5965,7 +5965,7 @@
         "grade": 73.79,
         "name": "Ron Mercer",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 61,
         "team": "CHI"
     },
@@ -5995,7 +5995,7 @@
         "grade": 61.24,
         "name": "Chris Mihm",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": "CLE"
     },
@@ -6025,7 +6025,7 @@
         "grade": 76.55,
         "name": "Darius Miles",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "LAC"
     },
@@ -6055,7 +6055,7 @@
         "grade": 86.72,
         "name": "Andre Miller",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "CLE"
     },
@@ -6085,7 +6085,7 @@
         "grade": 72.57,
         "name": "Brad Miller",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "CHI"
     },
@@ -6115,7 +6115,7 @@
         "grade": 77.51,
         "name": "Mike Miller",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "ORL"
     },
@@ -6145,7 +6145,7 @@
         "grade": 88.4,
         "name": "Reggie Miller",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "IND"
     },
@@ -6175,7 +6175,7 @@
         "grade": 59.26,
         "name": "Chris Mills",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 15,
         "team": "GSW"
     },
@@ -6205,7 +6205,7 @@
         "grade": 51.05,
         "name": "Sam Mitchell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIN"
     },
@@ -6235,7 +6235,7 @@
         "grade": 85.07,
         "name": "Cuttino Mobley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "HOU"
     },
@@ -6265,7 +6265,7 @@
         "grade": 71.41,
         "name": "Nazr Mohammed",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 58,
         "team": [
             "PHI",
@@ -6298,7 +6298,7 @@
         "grade": 48.3,
         "name": "Eric Montross",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 54,
         "team": [
             "DET",
@@ -6331,7 +6331,7 @@
         "grade": 68.19,
         "name": "Mikki Moore",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "DET"
     },
@@ -6361,7 +6361,7 @@
         "grade": 52.43,
         "name": "Hanno Möttölä",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 73,
         "team": "ATL"
     },
@@ -6391,7 +6391,7 @@
         "grade": 79.57,
         "name": "Alonzo Mourning",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 13,
         "team": "MIA"
     },
@@ -6421,7 +6421,7 @@
         "grade": 59.82,
         "name": "Chris Mullin",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 20,
         "team": "GSW"
     },
@@ -6451,7 +6451,7 @@
         "grade": 72.07,
         "name": "Lamond Murray",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "CLE"
     },
@@ -6481,7 +6481,7 @@
         "grade": 56.01,
         "name": "Tracy Murray",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 51,
         "team": [
             "DEN",
@@ -6514,7 +6514,7 @@
         "grade": 83.41,
         "name": "Dikembe Mutombo",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": [
             "ATL",
@@ -6547,7 +6547,7 @@
         "grade": 61.62,
         "name": "Lee Nailon",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 42,
         "team": "CHH"
     },
@@ -6577,7 +6577,7 @@
         "grade": 66.77,
         "name": "Eduardo Nájera",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 40,
         "team": "DAL"
     },
@@ -6607,7 +6607,7 @@
         "grade": 89.1,
         "name": "Steve Nash",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "DAL"
     },
@@ -6637,7 +6637,7 @@
         "grade": 57.34,
         "name": "Tyrone Nesby",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 62,
         "team": [
             "LAC",
@@ -6670,7 +6670,7 @@
         "grade": 58.91,
         "name": "Rasho Nesterović",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 73,
         "team": "MIN"
     },
@@ -6700,7 +6700,7 @@
         "grade": 70.3,
         "name": "Johnny Newman",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "NJN"
     },
@@ -6730,7 +6730,7 @@
         "grade": 76.42,
         "name": "Moochie Norris",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "HOU"
     },
@@ -6760,7 +6760,7 @@
         "grade": 95.51,
         "name": "Dirk Nowitzki",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "DAL"
     },
@@ -6790,7 +6790,7 @@
         "grade": 79.86,
         "name": "Jermaine O'Neal",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "IND"
     },
@@ -6820,7 +6820,7 @@
         "grade": 93.38,
         "name": "Shaquille O'Neal",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "LAL"
     },
@@ -6850,7 +6850,7 @@
         "grade": 71.19,
         "name": "Charles Oakley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "TOR"
     },
@@ -6880,7 +6880,7 @@
         "grade": 89.82,
         "name": "Lamar Odom",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "LAC"
     },
@@ -6910,7 +6910,7 @@
         "grade": 85.41,
         "name": "Hakeem Olajuwon",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 58,
         "team": "HOU"
     },
@@ -6940,7 +6940,7 @@
         "grade": 56.43,
         "name": "Kevin Ollie",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": [
             "NJN",
@@ -6973,7 +6973,7 @@
         "grade": 58.1,
         "name": "Michael Olowokandi",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "LAC"
     },
@@ -7003,7 +7003,7 @@
         "grade": 73.74,
         "name": "Greg Ostertag",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "UTA"
     },
@@ -7033,7 +7033,7 @@
         "grade": 89.25,
         "name": "Bo Outlaw",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "ORL"
     },
@@ -7063,7 +7063,7 @@
         "grade": 50.89,
         "name": "Doug Overton",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 21,
         "team": [
             "BOS",
@@ -7097,7 +7097,7 @@
         "grade": 57.71,
         "name": "Billy Owens",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 45,
         "team": "DET"
     },
@@ -7127,7 +7127,7 @@
         "grade": 65.47,
         "name": "Robert Pack",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "DEN"
     },
@@ -7157,7 +7157,7 @@
         "grade": 69.08,
         "name": "Milt Palacio",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 58,
         "team": "BOS"
     },
@@ -7187,7 +7187,7 @@
         "grade": 67.01,
         "name": "Cherokee Parks",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": [
             "WAS",
@@ -7220,7 +7220,7 @@
         "grade": 85.04,
         "name": "Ruben Patterson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "SEA"
     },
@@ -7250,7 +7250,7 @@
         "grade": 89.37,
         "name": "Gary Payton",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "SEA"
     },
@@ -7280,7 +7280,7 @@
         "grade": 75.12,
         "name": "Anthony Peeler",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "MIN"
     },
@@ -7310,7 +7310,7 @@
         "grade": 65.42,
         "name": "Mike Penberthy",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 53,
         "team": "LAL"
     },
@@ -7340,7 +7340,7 @@
         "grade": 66.02,
         "name": "Sam Perkins",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 64,
         "team": "IND"
     },
@@ -7370,7 +7370,7 @@
         "grade": 60.49,
         "name": "Elliot Perry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 49,
         "team": [
             "ORL",
@@ -7403,7 +7403,7 @@
         "grade": 68.79,
         "name": "Wesley Person",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 44,
         "team": "CLE"
     },
@@ -7433,7 +7433,7 @@
         "grade": 73.08,
         "name": "Morris Peterson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "TOR"
     },
@@ -7463,7 +7463,7 @@
         "grade": 79.1,
         "name": "Eric Piatkowski",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "LAC"
     },
@@ -7493,7 +7493,7 @@
         "grade": 92.51,
         "name": "Paul Pierce",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "BOS"
     },
@@ -7523,7 +7523,7 @@
         "grade": 86.14,
         "name": "Scottie Pippen",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 64,
         "team": "POR"
     },
@@ -7553,7 +7553,7 @@
         "grade": 76.18,
         "name": "Scot Pollard",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "SAC"
     },
@@ -7583,7 +7583,7 @@
         "grade": 62.22,
         "name": "Olden Polynice",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "UTA"
     },
@@ -7613,7 +7613,7 @@
         "grade": 57.08,
         "name": "Mark Pope",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 63,
         "team": "MIL"
     },
@@ -7643,7 +7643,7 @@
         "grade": 54.8,
         "name": "Chris Porter",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 51,
         "team": "GSW"
     },
@@ -7673,7 +7673,7 @@
         "grade": 82.04,
         "name": "Terry Porter",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "SAS"
     },
@@ -7703,7 +7703,7 @@
         "grade": 75.67,
         "name": "James Posey",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "DEN"
     },
@@ -7733,7 +7733,7 @@
         "grade": 67.62,
         "name": "Vitaly Potapenko",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "BOS"
     },
@@ -7763,7 +7763,7 @@
         "grade": 60.2,
         "name": "Laron Profit",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 35,
         "team": "WAS"
     },
@@ -7793,7 +7793,7 @@
         "grade": 84.64,
         "name": "Theo Ratliff",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 50,
         "team": "PHI"
     },
@@ -7823,7 +7823,7 @@
         "grade": 70.06,
         "name": "Bryant Reeves",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "VAN"
     },
@@ -7853,7 +7853,7 @@
         "grade": 68.84,
         "name": "Don Reid",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 65,
         "team": "ORL"
     },
@@ -7883,7 +7883,7 @@
         "grade": 80.98,
         "name": "Glen Rice",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "NYK"
     },
@@ -7913,7 +7913,7 @@
         "grade": 72.85,
         "name": "Quentin Richardson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "LAC"
     },
@@ -7943,7 +7943,7 @@
         "grade": 73.59,
         "name": "Mitch Richmond",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 37,
         "team": "WAS"
     },
@@ -7973,7 +7973,7 @@
         "grade": 62.3,
         "name": "Isaiah Rider",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 67,
         "team": "LAL"
     },
@@ -8003,7 +8003,7 @@
         "grade": 80.85,
         "name": "Clifford Robinson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "PHO"
     },
@@ -8033,7 +8033,7 @@
         "grade": 90.65,
         "name": "David Robinson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "SAS"
     },
@@ -8063,7 +8063,7 @@
         "grade": 83.45,
         "name": "Eddie Robinson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 67,
         "team": "CHH"
     },
@@ -8093,7 +8093,7 @@
         "grade": 87.9,
         "name": "Glenn Robinson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "MIL"
     },
@@ -8123,7 +8123,7 @@
         "grade": 67.36,
         "name": "Larry Robinson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 34,
         "team": [
             "CLE",
@@ -8156,7 +8156,7 @@
         "grade": 72.91,
         "name": "Carlos Rogers",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 39,
         "team": "HOU"
     },
@@ -8186,7 +8186,7 @@
         "grade": 79.9,
         "name": "Rodney Rogers",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "PHO"
     },
@@ -8216,7 +8216,7 @@
         "grade": 66.11,
         "name": "Sean Rooks",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "LAC"
     },
@@ -8246,7 +8246,7 @@
         "grade": 88.02,
         "name": "Jalen Rose",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 72,
         "team": "IND"
     },
@@ -8276,7 +8276,7 @@
         "grade": 74.23,
         "name": "Malik Rose",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "SAS"
     },
@@ -8306,7 +8306,7 @@
         "grade": 59.36,
         "name": "Michael Ruffin",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 45,
         "team": "CHI"
     },
@@ -8336,7 +8336,7 @@
         "grade": 84.11,
         "name": "Bryon Russell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "UTA"
     },
@@ -8366,7 +8366,7 @@
         "grade": 82.37,
         "name": "Arvydas Sabonis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 61,
         "team": "POR"
     },
@@ -8396,7 +8396,7 @@
         "grade": 57.99,
         "name": "Daniel Santiago",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 54,
         "team": "PHO"
     },
@@ -8426,7 +8426,7 @@
         "grade": 58.27,
         "name": "Detlef Schrempf",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 26,
         "team": "POR"
     },
@@ -8456,7 +8456,7 @@
         "grade": 67.56,
         "name": "Brian Shaw",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "LAL"
     },
@@ -8486,7 +8486,7 @@
         "grade": 52.13,
         "name": "Brian Skinner",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 39,
         "team": "LAC"
     },
@@ -8516,7 +8516,7 @@
         "grade": 65.84,
         "name": "Reggie Slater",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": "MIN"
     },
@@ -8546,7 +8546,7 @@
         "grade": 71.96,
         "name": "Joe Smith",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 69,
         "team": "DET"
     },
@@ -8576,7 +8576,7 @@
         "grade": 73.69,
         "name": "Michael Smith",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 79,
         "team": "WAS"
     },
@@ -8606,7 +8606,7 @@
         "grade": 47.98,
         "name": "Mike Smith",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 17,
         "team": "WAS"
     },
@@ -8636,7 +8636,7 @@
         "grade": 84.62,
         "name": "Steve Smith",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "POR"
     },
@@ -8666,7 +8666,7 @@
         "grade": 74.81,
         "name": "Eric Snow",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 50,
         "team": "PHI"
     },
@@ -8696,7 +8696,7 @@
         "grade": 80.97,
         "name": "Latrell Sprewell",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "NYK"
     },
@@ -8726,7 +8726,7 @@
         "grade": 86.7,
         "name": "Jerry Stackhouse",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "DET"
     },
@@ -8756,7 +8756,7 @@
         "grade": 64.55,
         "name": "John Starks",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "UTA"
     },
@@ -8786,7 +8786,7 @@
         "grade": 74.87,
         "name": "Bryant Stith",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": "BOS"
     },
@@ -8816,7 +8816,7 @@
         "grade": 93.03,
         "name": "John Stockton",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "UTA"
     },
@@ -8846,7 +8846,7 @@
         "grade": 91.65,
         "name": "Peja Stojaković",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "SAC"
     },
@@ -8876,7 +8876,7 @@
         "grade": 83.21,
         "name": "Damon Stoudamire",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "POR"
     },
@@ -8906,7 +8906,7 @@
         "grade": 60.83,
         "name": "Erick Strickland",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 50,
         "team": [
             "NYK",
@@ -8939,7 +8939,7 @@
         "grade": 57.75,
         "name": "Mark Strickland",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": [
             "DEN",
@@ -8972,7 +8972,7 @@
         "grade": 70.83,
         "name": "Rod Strickland",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 54,
         "team": [
             "WAS",
@@ -9005,7 +9005,7 @@
         "grade": 52.93,
         "name": "Derek Strong",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 28,
         "team": "LAC"
     },
@@ -9035,7 +9035,7 @@
         "grade": 58.53,
         "name": "Bruno Šundov",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 11,
         "team": "IND"
     },
@@ -9065,7 +9065,7 @@
         "grade": 62.43,
         "name": "Bob Sura",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 53,
         "team": "GSW"
     },
@@ -9095,7 +9095,7 @@
         "grade": 64.54,
         "name": "Stromile Swift",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "VAN"
     },
@@ -9125,7 +9125,7 @@
         "grade": 86.75,
         "name": "Wally Szczerbiak",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "MIN"
     },
@@ -9155,7 +9155,7 @@
         "grade": 61.95,
         "name": "Žan Tabak",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 55,
         "team": "IND"
     },
@@ -9185,7 +9185,7 @@
         "grade": 48.17,
         "name": "Dragan Tarlać",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 43,
         "team": "CHI"
     },
@@ -9215,7 +9215,7 @@
         "grade": 74.96,
         "name": "Maurice Taylor",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 69,
         "team": "HOU"
     },
@@ -9245,7 +9245,7 @@
         "grade": 83.87,
         "name": "Jason Terry",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "ATL"
     },
@@ -9275,7 +9275,7 @@
         "grade": 67.93,
         "name": "Kenny Thomas",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "HOU"
     },
@@ -9305,7 +9305,7 @@
         "grade": 87.61,
         "name": "Kurt Thomas",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "NYK"
     },
@@ -9335,7 +9335,7 @@
         "grade": 83.15,
         "name": "Tim Thomas",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "MIL"
     },
@@ -9365,7 +9365,7 @@
         "grade": 56.11,
         "name": "Otis Thorpe",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 49,
         "team": "CHH"
     },
@@ -9395,7 +9395,7 @@
         "grade": 70.96,
         "name": "Robert Traylor",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "CLE"
     },
@@ -9425,7 +9425,7 @@
         "grade": 60.47,
         "name": "Jake Tsakalidis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 57,
         "team": "PHO"
     },
@@ -9455,7 +9455,7 @@
         "grade": 68.22,
         "name": "Hedo Türkoğlu",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 74,
         "team": "SAC"
     },
@@ -9485,7 +9485,7 @@
         "grade": 80.94,
         "name": "Nick Van Exel",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 71,
         "team": "DEN"
     },
@@ -9515,7 +9515,7 @@
         "grade": 78.25,
         "name": "Keith Van Horn",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 49,
         "team": "NJN"
     },
@@ -9545,7 +9545,7 @@
         "grade": 56.0,
         "name": "David Vanterpool",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 22,
         "team": "WAS"
     },
@@ -9575,7 +9575,7 @@
         "grade": 70.05,
         "name": "Jacque Vaughn",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "UTA"
     },
@@ -9605,7 +9605,7 @@
         "grade": 62.55,
         "name": "Loy Vaught",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 51,
         "team": [
             "DAL",
@@ -9638,7 +9638,7 @@
         "grade": 85.95,
         "name": "Antoine Walker",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "BOS"
     },
@@ -9668,7 +9668,7 @@
         "grade": 67.39,
         "name": "Samaki Walker",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 61,
         "team": "SAS"
     },
@@ -9698,7 +9698,7 @@
         "grade": 80.93,
         "name": "Ben Wallace",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 80,
         "team": "DET"
     },
@@ -9728,7 +9728,7 @@
         "grade": 57.59,
         "name": "John Wallace",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 40,
         "team": "DET"
     },
@@ -9758,7 +9758,7 @@
         "grade": 94.6,
         "name": "Rasheed Wallace",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "POR"
     },
@@ -9788,7 +9788,7 @@
         "grade": 80.21,
         "name": "Charlie Ward",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 61,
         "team": "NYK"
     },
@@ -9818,7 +9818,7 @@
         "grade": 87.07,
         "name": "Clarence Weatherspoon",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "CLE"
     },
@@ -9848,7 +9848,7 @@
         "grade": 92.41,
         "name": "Chris Webber",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 70,
         "team": "SAC"
     },
@@ -9878,7 +9878,7 @@
         "grade": 88.47,
         "name": "Bonzi Wells",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 75,
         "team": "POR"
     },
@@ -9908,7 +9908,7 @@
         "grade": 81.94,
         "name": "David Wesley",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "CHH"
     },
@@ -9938,7 +9938,7 @@
         "grade": 49.29,
         "name": "Doug West",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 15,
         "team": "VAN"
     },
@@ -9968,7 +9968,7 @@
         "grade": 69.84,
         "name": "Jahidi White",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 68,
         "team": "WAS"
     },
@@ -9998,7 +9998,7 @@
         "grade": 70.96,
         "name": "Chris Whitney",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": "WAS"
     },
@@ -10028,7 +10028,7 @@
         "grade": 76.38,
         "name": "Aaron Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "NJN"
     },
@@ -10058,7 +10058,7 @@
         "grade": 77.91,
         "name": "Alvin Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "TOR"
     },
@@ -10088,7 +10088,7 @@
         "grade": 60.51,
         "name": "Eric Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 81,
         "team": "BOS"
     },
@@ -10118,7 +10118,7 @@
         "grade": 74.62,
         "name": "Jason Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 77,
         "team": "SAC"
     },
@@ -10148,7 +10148,7 @@
         "grade": 75.06,
         "name": "Jerome Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 59,
         "team": [
             "DET",
@@ -10181,7 +10181,7 @@
         "grade": 58.6,
         "name": "Monty Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 82,
         "team": "ORL"
     },
@@ -10211,7 +10211,7 @@
         "grade": 73.2,
         "name": "Scott Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 66,
         "team": "MIL"
     },
@@ -10241,7 +10241,7 @@
         "grade": 74.35,
         "name": "Shammond Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 69,
         "team": "SEA"
     },
@@ -10271,7 +10271,7 @@
         "grade": 72.16,
         "name": "Walt Williams",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 72,
         "team": "HOU"
     },
@@ -10301,7 +10301,7 @@
         "grade": 76.17,
         "name": "Corliss Williamson",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 69,
         "team": [
             "TOR",
@@ -10334,7 +10334,7 @@
         "grade": 68.79,
         "name": "Kevin Willis",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 78,
         "team": [
             "TOR",
@@ -10367,7 +10367,7 @@
         "grade": 71.3,
         "name": "Metta World Peace",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 76,
         "team": "CHI"
     },
@@ -10397,7 +10397,7 @@
         "grade": 72.95,
         "name": "Lorenzen Wright",
         "league_grade": 79.35,
-        "year": 2001,
+        "year": "2001",
         "games_played": 71,
         "team": "ATL"
     }

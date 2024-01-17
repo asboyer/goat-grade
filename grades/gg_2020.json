@@ -25,7 +25,7 @@
         "grade": 89.58,
         "name": "Steven Adams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "OKC"
     },
@@ -55,7 +55,7 @@
         "grade": 92.43,
         "name": "Bam Adebayo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "MIA"
     },
@@ -85,7 +85,7 @@
         "grade": 88.45,
         "name": "LaMarcus Aldridge",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 53,
         "team": "SAS"
     },
@@ -115,7 +115,7 @@
         "grade": 56.17,
         "name": "Nickeil Alexander-Walker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": "NOP"
     },
@@ -145,7 +145,7 @@
         "grade": 72.04,
         "name": "Grayson Allen",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 38,
         "team": "MEM"
     },
@@ -175,7 +175,7 @@
         "grade": 88.33,
         "name": "Jarrett Allen",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "BRK"
     },
@@ -205,7 +205,7 @@
         "grade": 62.88,
         "name": "Kadeem Allen",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 10,
         "team": "NYK"
     },
@@ -235,7 +235,7 @@
         "grade": 59.49,
         "name": "Al-Farouq Aminu",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 18,
         "team": "ORL"
     },
@@ -265,7 +265,7 @@
         "grade": 52.28,
         "name": "Justin Anderson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 10,
         "team": "BRK"
     },
@@ -295,7 +295,7 @@
         "grade": 75.1,
         "name": "Kyle Anderson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "MEM"
     },
@@ -325,7 +325,7 @@
         "grade": 95.73,
         "name": "Giannis Antetokounmpo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "MIL"
     },
@@ -355,7 +355,7 @@
         "grade": 71.22,
         "name": "Carmelo Anthony",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "POR"
     },
@@ -385,7 +385,7 @@
         "grade": 87.12,
         "name": "OG Anunoby",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "TOR"
     },
@@ -415,7 +415,7 @@
         "grade": 62.92,
         "name": "Ryan Arcidiacono",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "CHI"
     },
@@ -445,7 +445,7 @@
         "grade": 78.24,
         "name": "Trevor Ariza",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 53,
         "team": [
             "SAC",
@@ -478,7 +478,7 @@
         "grade": 71.91,
         "name": "D.J. Augustin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "ORL"
     },
@@ -508,7 +508,7 @@
         "grade": 84.68,
         "name": "Deandre Ayton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 38,
         "team": "PHO"
     },
@@ -538,7 +538,7 @@
         "grade": 54.71,
         "name": "Dwayne Bacon",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 39,
         "team": "CHO"
     },
@@ -568,7 +568,7 @@
         "grade": 68.67,
         "name": "Marvin Bagley III",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 13,
         "team": "SAC"
     },
@@ -598,7 +598,7 @@
         "grade": 78.41,
         "name": "Lonzo Ball",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "NOP"
     },
@@ -628,7 +628,7 @@
         "grade": 75.39,
         "name": "Mo Bamba",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "ORL"
     },
@@ -658,7 +658,7 @@
         "grade": 67.18,
         "name": "J.J. Barea",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": "DAL"
     },
@@ -688,7 +688,7 @@
         "grade": 78.51,
         "name": "Harrison Barnes",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "SAC"
     },
@@ -718,7 +718,7 @@
         "grade": 64.36,
         "name": "RJ Barrett",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "NYK"
     },
@@ -748,7 +748,7 @@
         "grade": 84.64,
         "name": "Will Barton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "DEN"
     },
@@ -778,7 +778,7 @@
         "grade": 66.04,
         "name": "Keita Bates-Diop",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 44,
         "team": [
             "MIN",
@@ -811,7 +811,7 @@
         "grade": 64.48,
         "name": "Nicolas Batum",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 22,
         "team": "CHO"
     },
@@ -841,7 +841,7 @@
         "grade": 77.5,
         "name": "Aron Baynes",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 42,
         "team": "PHO"
     },
@@ -871,7 +871,7 @@
         "grade": 65.57,
         "name": "Kent Bazemore",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": [
             "POR",
@@ -904,7 +904,7 @@
         "grade": 63.48,
         "name": "Darius Bazley",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "OKC"
     },
@@ -934,7 +934,7 @@
         "grade": 87.41,
         "name": "Bradley Beal",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "WAS"
     },
@@ -964,7 +964,7 @@
         "grade": 69.15,
         "name": "Malik Beasley",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": [
             "DEN",
@@ -997,7 +997,7 @@
         "grade": 60.96,
         "name": "Marco Belinelli",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "SAS"
     },
@@ -1027,7 +1027,7 @@
         "grade": 65.36,
         "name": "DeAndre' Bembry",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 43,
         "team": "ATL"
     },
@@ -1057,7 +1057,7 @@
         "grade": 66.96,
         "name": "Dragan Bender",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 16,
         "team": [
             "MIL",
@@ -1090,7 +1090,7 @@
         "grade": 82.88,
         "name": "Dāvis Bertāns",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": "WAS"
     },
@@ -1120,7 +1120,7 @@
         "grade": 81.6,
         "name": "Patrick Beverley",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "LAC"
     },
@@ -1150,7 +1150,7 @@
         "grade": 68.05,
         "name": "Khem Birch",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "ORL"
     },
@@ -1180,7 +1180,7 @@
         "grade": 71.99,
         "name": "Bismack Biyombo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 53,
         "team": "CHO"
     },
@@ -1210,7 +1210,7 @@
         "grade": 89.08,
         "name": "Nemanja Bjelica",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "SAC"
     },
@@ -1240,7 +1240,7 @@
         "grade": 87.42,
         "name": "Eric Bledsoe",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "MIL"
     },
@@ -1270,7 +1270,7 @@
         "grade": 80.84,
         "name": "Bogdan Bogdanović",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "SAC"
     },
@@ -1300,7 +1300,7 @@
         "grade": 82.65,
         "name": "Bojan Bogdanović",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "UTA"
     },
@@ -1330,7 +1330,7 @@
         "grade": 70.48,
         "name": "Isaac Bonga",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "WAS"
     },
@@ -1360,7 +1360,7 @@
         "grade": 90.04,
         "name": "Devin Booker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "PHO"
     },
@@ -1390,7 +1390,7 @@
         "grade": 81.17,
         "name": "Chris Boucher",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "TOR"
     },
@@ -1420,7 +1420,7 @@
         "grade": 62.6,
         "name": "Ky Bowman",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 45,
         "team": "GSW"
     },
@@ -1450,7 +1450,7 @@
         "grade": 68.78,
         "name": "Avery Bradley",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 49,
         "team": "LAL"
     },
@@ -1480,7 +1480,7 @@
         "grade": 81.4,
         "name": "Tony Bradley",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "UTA"
     },
@@ -1510,7 +1510,7 @@
         "grade": 86.06,
         "name": "Mikal Bridges",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "PHO"
     },
@@ -1540,7 +1540,7 @@
         "grade": 71.08,
         "name": "Miles Bridges",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "CHO"
     },
@@ -1570,7 +1570,7 @@
         "grade": 67.17,
         "name": "Ryan Broekhoff",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 17,
         "team": "DAL"
     },
@@ -1600,7 +1600,7 @@
         "grade": 82.75,
         "name": "Malcolm Brogdon",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": "IND"
     },
@@ -1630,7 +1630,7 @@
         "grade": 68.27,
         "name": "Dillon Brooks",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "MEM"
     },
@@ -1660,7 +1660,7 @@
         "grade": 73.79,
         "name": "Bruce Brown",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "DET"
     },
@@ -1690,7 +1690,7 @@
         "grade": 87.99,
         "name": "Jaylen Brown",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "BOS"
     },
@@ -1720,7 +1720,7 @@
         "grade": 62.43,
         "name": "Sterling Brown",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 52,
         "team": "MIL"
     },
@@ -1750,7 +1750,7 @@
         "grade": 73.91,
         "name": "Troy Brown Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "WAS"
     },
@@ -1780,7 +1780,7 @@
         "grade": 73.15,
         "name": "Jalen Brunson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "DAL"
     },
@@ -1810,7 +1810,7 @@
         "grade": 87.95,
         "name": "Thomas Bryant",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 46,
         "team": "WAS"
     },
@@ -1840,7 +1840,7 @@
         "grade": 62.37,
         "name": "Reggie Bullock",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": "NYK"
     },
@@ -1870,7 +1870,7 @@
         "grade": 71.84,
         "name": "Trey Burke",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 33,
         "team": [
             "PHI",
@@ -1903,7 +1903,7 @@
         "grade": 81.27,
         "name": "Alec Burks",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": [
             "GSW",
@@ -1936,7 +1936,7 @@
         "grade": 91.49,
         "name": "Jimmy Butler",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "MIA"
     },
@@ -1966,7 +1966,7 @@
         "grade": 77.09,
         "name": "Kentavious Caldwell-Pope",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "LAL"
     },
@@ -1996,7 +1996,7 @@
         "grade": 87.15,
         "name": "Clint Capela",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 39,
         "team": "HOU"
     },
@@ -2026,7 +2026,7 @@
         "grade": 56.2,
         "name": "DeMarre Carroll",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 24,
         "team": [
             "SAS",
@@ -2059,7 +2059,7 @@
         "grade": 72.36,
         "name": "Jevon Carter",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "PHO"
     },
@@ -2089,7 +2089,7 @@
         "grade": 55.78,
         "name": "Vince Carter",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "ATL"
     },
@@ -2119,7 +2119,7 @@
         "grade": 78.44,
         "name": "Wendell Carter Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 43,
         "team": "CHI"
     },
@@ -2149,7 +2149,7 @@
         "grade": 74.82,
         "name": "Michael Carter-Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 45,
         "team": "ORL"
     },
@@ -2179,7 +2179,7 @@
         "grade": 69.63,
         "name": "Alex Caruso",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "LAL"
     },
@@ -2209,7 +2209,7 @@
         "grade": 80.19,
         "name": "Willie Cauley-Stein",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": [
             "GSW",
@@ -2242,7 +2242,7 @@
         "grade": 65.76,
         "name": "Wilson Chandler",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 35,
         "team": "BRK"
     },
@@ -2272,7 +2272,7 @@
         "grade": 65.98,
         "name": "Chris Chiozza",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 28,
         "team": [
             "WAS",
@@ -2305,7 +2305,7 @@
         "grade": 83.71,
         "name": "Marquese Chriss",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "GSW"
     },
@@ -2335,7 +2335,7 @@
         "grade": 67.65,
         "name": "Gary Clark",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 42,
         "team": [
             "HOU",
@@ -2368,7 +2368,7 @@
         "grade": 89.23,
         "name": "Brandon Clarke",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "MEM"
     },
@@ -2398,7 +2398,7 @@
         "grade": 80.74,
         "name": "Jordan Clarkson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": [
             "CLE",
@@ -2431,7 +2431,7 @@
         "grade": 68.99,
         "name": "Nic Claxton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 15,
         "team": "BRK"
     },
@@ -2461,7 +2461,7 @@
         "grade": 92.8,
         "name": "John Collins",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 41,
         "team": "ATL"
     },
@@ -2491,7 +2491,7 @@
         "grade": 66.97,
         "name": "Zach Collins",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 11,
         "team": "POR"
     },
@@ -2521,7 +2521,7 @@
         "grade": 76.58,
         "name": "Mike Conley",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": "UTA"
     },
@@ -2551,7 +2551,7 @@
         "grade": 77.11,
         "name": "Pat Connaughton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "MIL"
     },
@@ -2581,7 +2581,7 @@
         "grade": 59.17,
         "name": "Quinn Cook",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 44,
         "team": "LAL"
     },
@@ -2611,7 +2611,7 @@
         "grade": 82.12,
         "name": "Robert Covington",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": [
             "MIN",
@@ -2644,7 +2644,7 @@
         "grade": 53.1,
         "name": "Allen Crabbe",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 37,
         "team": [
             "ATL",
@@ -2677,7 +2677,7 @@
         "grade": 68.54,
         "name": "Torrey Craig",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "DEN"
     },
@@ -2707,7 +2707,7 @@
         "grade": 79.52,
         "name": "Jae Crowder",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": [
             "MEM",
@@ -2740,7 +2740,7 @@
         "grade": 62.62,
         "name": "Jarrett Culver",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "MIN"
     },
@@ -2770,7 +2770,7 @@
         "grade": 82.93,
         "name": "Seth Curry",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "DAL"
     },
@@ -2800,7 +2800,7 @@
         "grade": 57.29,
         "name": "Troy Daniels",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": [
             "LAL",
@@ -2833,7 +2833,7 @@
         "grade": 96.42,
         "name": "Anthony Davis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "LAL"
     },
@@ -2863,7 +2863,7 @@
         "grade": 59.78,
         "name": "Ed Davis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 28,
         "team": "UTA"
     },
@@ -2893,7 +2893,7 @@
         "grade": 79.96,
         "name": "Terence Davis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "TOR"
     },
@@ -2923,7 +2923,7 @@
         "grade": 62.76,
         "name": "Dewayne Dedmon",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 44,
         "team": [
             "SAC",
@@ -2956,7 +2956,7 @@
         "grade": 55.42,
         "name": "Matthew Dellavedova",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "CLE"
     },
@@ -2986,7 +2986,7 @@
         "grade": 89.66,
         "name": "DeMar DeRozan",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "SAS"
     },
@@ -3016,7 +3016,7 @@
         "grade": 74.05,
         "name": "Cheick Diallo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": "PHO"
     },
@@ -3046,7 +3046,7 @@
         "grade": 61.62,
         "name": "Hamidou Diallo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 46,
         "team": "OKC"
     },
@@ -3076,7 +3076,7 @@
         "grade": 81.14,
         "name": "Gorgui Dieng",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": [
             "MIN",
@@ -3109,7 +3109,7 @@
         "grade": 81.45,
         "name": "Spencer Dinwiddie",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "BRK"
     },
@@ -3139,7 +3139,7 @@
         "grade": 82.3,
         "name": "Donte DiVincenzo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "MIL"
     },
@@ -3169,7 +3169,7 @@
         "grade": 92.06,
         "name": "Luka Dončić",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "DAL"
     },
@@ -3199,7 +3199,7 @@
         "grade": 61.12,
         "name": "Luguentz Dort",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 36,
         "team": "OKC"
     },
@@ -3229,7 +3229,7 @@
         "grade": 63.83,
         "name": "Damyean Dotson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "NYK"
     },
@@ -3259,7 +3259,7 @@
         "grade": 55.29,
         "name": "Sekou Doumbouya",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 38,
         "team": "DET"
     },
@@ -3289,7 +3289,7 @@
         "grade": 60.61,
         "name": "PJ Dozier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": "DEN"
     },
@@ -3319,7 +3319,7 @@
         "grade": 80.05,
         "name": "Goran Dragić",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "MIA"
     },
@@ -3349,7 +3349,7 @@
         "grade": 86.94,
         "name": "Andre Drummond",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": [
             "DET",
@@ -3382,7 +3382,7 @@
         "grade": 73.36,
         "name": "Kris Dunn",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "CHI"
     },
@@ -3412,7 +3412,7 @@
         "grade": 58.82,
         "name": "Wayne Ellington",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 36,
         "team": "NYK"
     },
@@ -3442,7 +3442,7 @@
         "grade": 91.9,
         "name": "Joel Embiid",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "PHI"
     },
@@ -3472,7 +3472,7 @@
         "grade": 69.78,
         "name": "James Ennis III",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": [
             "PHI",
@@ -3505,7 +3505,7 @@
         "grade": 74.8,
         "name": "Drew Eubanks",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 22,
         "team": "SAS"
     },
@@ -3535,7 +3535,7 @@
         "grade": 55.38,
         "name": "Jacob Evans",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": [
             "GSW",
@@ -3568,7 +3568,7 @@
         "grade": 63.56,
         "name": "Dante Exum",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 35,
         "team": [
             "UTA",
@@ -3601,7 +3601,7 @@
         "grade": 83.71,
         "name": "Derrick Favors",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "NOP"
     },
@@ -3631,7 +3631,7 @@
         "grade": 68.83,
         "name": "Cristiano Felício",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 22,
         "team": "CHI"
     },
@@ -3661,7 +3661,7 @@
         "grade": 58.75,
         "name": "Terrance Ferguson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "OKC"
     },
@@ -3691,7 +3691,7 @@
         "grade": 62.6,
         "name": "Bruno Fernando",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "ATL"
     },
@@ -3721,7 +3721,7 @@
         "grade": 63.26,
         "name": "Yogi Ferrell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 50,
         "team": "SAC"
     },
@@ -3751,7 +3751,7 @@
         "grade": 81.5,
         "name": "Dorian Finney-Smith",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "DAL"
     },
@@ -3781,7 +3781,7 @@
         "grade": 68.34,
         "name": "Bryn Forbes",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "SAS"
     },
@@ -3811,7 +3811,7 @@
         "grade": 86.31,
         "name": "Evan Fournier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "ORL"
     },
@@ -3841,7 +3841,7 @@
         "grade": 85.81,
         "name": "De'Aaron Fox",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "SAC"
     },
@@ -3871,7 +3871,7 @@
         "grade": 49.26,
         "name": "Michael Frazier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 13,
         "team": "HOU"
     },
@@ -3901,7 +3901,7 @@
         "grade": 56.74,
         "name": "Tim Frazier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 27,
         "team": "DET"
     },
@@ -3931,7 +3931,7 @@
         "grade": 82.87,
         "name": "Enes Freedom",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "BOS"
     },
@@ -3961,7 +3961,7 @@
         "grade": 74.39,
         "name": "Markelle Fultz",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "ORL"
     },
@@ -3991,7 +3991,7 @@
         "grade": 73.52,
         "name": "Daniel Gafford",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 43,
         "team": "CHI"
     },
@@ -4021,7 +4021,7 @@
         "grade": 87.5,
         "name": "Danilo Gallinari",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "OKC"
     },
@@ -4051,7 +4051,7 @@
         "grade": 75.68,
         "name": "Langston Galloway",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "DET"
     },
@@ -4081,7 +4081,7 @@
         "grade": 62.4,
         "name": "Darius Garland",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "CLE"
     },
@@ -4111,7 +4111,7 @@
         "grade": 79.66,
         "name": "Marc Gasol",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 44,
         "team": "TOR"
     },
@@ -4141,7 +4141,7 @@
         "grade": 76.43,
         "name": "Rudy Gay",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "SAS"
     },
@@ -4171,7 +4171,7 @@
         "grade": 91.48,
         "name": "Paul George",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "LAC"
     },
@@ -4201,7 +4201,7 @@
         "grade": 75.37,
         "name": "Taj Gibson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "NYK"
     },
@@ -4231,7 +4231,7 @@
         "grade": 74.47,
         "name": "Harry Giles",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 46,
         "team": "SAC"
     },
@@ -4261,7 +4261,7 @@
         "grade": 89.2,
         "name": "Shai Gilgeous-Alexander",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "OKC"
     },
@@ -4291,7 +4291,7 @@
         "grade": 91.93,
         "name": "Rudy Gobert",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "UTA"
     },
@@ -4321,7 +4321,7 @@
         "grade": 61.12,
         "name": "Brandon Goodwin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 34,
         "team": "ATL"
     },
@@ -4351,7 +4351,7 @@
         "grade": 79.81,
         "name": "Aaron Gordon",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "ORL"
     },
@@ -4381,7 +4381,7 @@
         "grade": 63.57,
         "name": "Eric Gordon",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 36,
         "team": "HOU"
     },
@@ -4411,7 +4411,7 @@
         "grade": 79.07,
         "name": "Devonte' Graham",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "CHO"
     },
@@ -4441,7 +4441,7 @@
         "grade": 53.19,
         "name": "Treveon Graham",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": [
             "MIN",
@@ -4474,7 +4474,7 @@
         "grade": 81.55,
         "name": "Jerami Grant",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "DEN"
     },
@@ -4504,7 +4504,7 @@
         "grade": 77.1,
         "name": "Danny Green",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "LAL"
     },
@@ -4534,7 +4534,7 @@
         "grade": 72.43,
         "name": "Draymond Green",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 43,
         "team": "GSW"
     },
@@ -4564,7 +4564,7 @@
         "grade": 75.78,
         "name": "JaMychal Green",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "LAC"
     },
@@ -4594,7 +4594,7 @@
         "grade": 76.88,
         "name": "Jeff Green",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": [
             "UTA",
@@ -4627,7 +4627,7 @@
         "grade": 63.89,
         "name": "Blake Griffin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 18,
         "team": "DET"
     },
@@ -4657,7 +4657,7 @@
         "grade": 58.83,
         "name": "Marko Guduric",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 44,
         "team": "MEM"
     },
@@ -4687,7 +4687,7 @@
         "grade": 71.4,
         "name": "Rui Hachimura",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "WAS"
     },
@@ -4717,7 +4717,7 @@
         "grade": 79.89,
         "name": "Tim Hardaway Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "DAL"
     },
@@ -4747,7 +4747,7 @@
         "grade": 97.08,
         "name": "James Harden",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "HOU"
     },
@@ -4777,7 +4777,7 @@
         "grade": 75.42,
         "name": "Maurice Harkless",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": [
             "LAC",
@@ -4810,7 +4810,7 @@
         "grade": 89.76,
         "name": "Montrezl Harrell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "LAC"
     },
@@ -4840,7 +4840,7 @@
         "grade": 70.31,
         "name": "Gary Harris",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "DEN"
     },
@@ -4870,7 +4870,7 @@
         "grade": 82.73,
         "name": "Joe Harris",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "BRK"
     },
@@ -4900,7 +4900,7 @@
         "grade": 87.9,
         "name": "Tobias Harris",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "PHI"
     },
@@ -4930,7 +4930,7 @@
         "grade": 76.18,
         "name": "Shaquille Harrison",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 43,
         "team": "CHI"
     },
@@ -4960,7 +4960,7 @@
         "grade": 78.18,
         "name": "Josh Hart",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "NOP"
     },
@@ -4990,7 +4990,7 @@
         "grade": 75.02,
         "name": "Isaiah Hartenstein",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 23,
         "team": "HOU"
     },
@@ -5020,7 +5020,7 @@
         "grade": 79.87,
         "name": "Jaxson Hayes",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "NOP"
     },
@@ -5050,7 +5050,7 @@
         "grade": 91.51,
         "name": "Gordon Hayward",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 52,
         "team": "BOS"
     },
@@ -5080,7 +5080,7 @@
         "grade": 76.43,
         "name": "John Henson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 40,
         "team": [
             "CLE",
@@ -5113,7 +5113,7 @@
         "grade": 60.91,
         "name": "Juancho Hernangómez",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": [
             "DEN",
@@ -5146,7 +5146,7 @@
         "grade": 71.89,
         "name": "Willy Hernangómez",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 31,
         "team": "CHO"
     },
@@ -5176,7 +5176,7 @@
         "grade": 73.66,
         "name": "Tyler Herro",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "MIA"
     },
@@ -5206,7 +5206,7 @@
         "grade": 62.37,
         "name": "Mario Hezonja",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 53,
         "team": "POR"
     },
@@ -5236,7 +5236,7 @@
         "grade": 82.58,
         "name": "Buddy Hield",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "SAC"
     },
@@ -5266,7 +5266,7 @@
         "grade": 87.87,
         "name": "George Hill",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "MIL"
     },
@@ -5296,7 +5296,7 @@
         "grade": 66.33,
         "name": "Solomon Hill",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": [
             "MEM",
@@ -5329,7 +5329,7 @@
         "grade": 72.21,
         "name": "Aaron Holiday",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "IND"
     },
@@ -5359,7 +5359,7 @@
         "grade": 86.26,
         "name": "Jrue Holiday",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "NOP"
     },
@@ -5389,7 +5389,7 @@
         "grade": 81.37,
         "name": "Justin Holiday",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "IND"
     },
@@ -5419,7 +5419,7 @@
         "grade": 76.35,
         "name": "Rondae Hollis-Jefferson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "TOR"
     },
@@ -5449,7 +5449,7 @@
         "grade": 87.52,
         "name": "Richaun Holmes",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 44,
         "team": "SAC"
     },
@@ -5479,7 +5479,7 @@
         "grade": 75.96,
         "name": "Rodney Hood",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 21,
         "team": "POR"
     },
@@ -5509,7 +5509,7 @@
         "grade": 86.13,
         "name": "Al Horford",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "PHI"
     },
@@ -5539,7 +5539,7 @@
         "grade": 79.13,
         "name": "Danuel House Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "HOU"
     },
@@ -5569,7 +5569,7 @@
         "grade": 85.16,
         "name": "Dwight Howard",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "LAL"
     },
@@ -5599,7 +5599,7 @@
         "grade": 73.99,
         "name": "Kevin Huerter",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "ATL"
     },
@@ -5629,7 +5629,7 @@
         "grade": 64.34,
         "name": "De'Andre Hunter",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "ATL"
     },
@@ -5659,7 +5659,7 @@
         "grade": 66.88,
         "name": "Chandler Hutchison",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 28,
         "team": "CHI"
     },
@@ -5689,7 +5689,7 @@
         "grade": 85.38,
         "name": "Serge Ibaka",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "TOR"
     },
@@ -5719,7 +5719,7 @@
         "grade": 68.69,
         "name": "Andre Iguodala",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 21,
         "team": "MIA"
     },
@@ -5749,7 +5749,7 @@
         "grade": 79.13,
         "name": "Ersan İlyasova",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "MIL"
     },
@@ -5779,7 +5779,7 @@
         "grade": 83.81,
         "name": "Joe Ingles",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "UTA"
     },
@@ -5809,7 +5809,7 @@
         "grade": 90.6,
         "name": "Brandon Ingram",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "NOP"
     },
@@ -5839,7 +5839,7 @@
         "grade": 92.58,
         "name": "Kyrie Irving",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 20,
         "team": "BRK"
     },
@@ -5869,7 +5869,7 @@
         "grade": 84.05,
         "name": "Jonathan Isaac",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 34,
         "team": "ORL"
     },
@@ -5899,7 +5899,7 @@
         "grade": 65.11,
         "name": "Wes Iwundu",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 52,
         "team": "ORL"
     },
@@ -5929,7 +5929,7 @@
         "grade": 56.52,
         "name": "Frank Jackson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "NOP"
     },
@@ -5959,7 +5959,7 @@
         "grade": 85.2,
         "name": "Jaren Jackson Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "MEM"
     },
@@ -5989,7 +5989,7 @@
         "grade": 72.08,
         "name": "Josh Jackson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 22,
         "team": "MEM"
     },
@@ -6019,7 +6019,7 @@
         "grade": 59.98,
         "name": "Justin Jackson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "DAL"
     },
@@ -6049,7 +6049,7 @@
         "grade": 72.12,
         "name": "Reggie Jackson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 31,
         "team": [
             "DET",
@@ -6082,7 +6082,7 @@
         "grade": 94.53,
         "name": "LeBron James",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "LAL"
     },
@@ -6112,7 +6112,7 @@
         "grade": 63.87,
         "name": "DaQuan Jeffries",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 13,
         "team": "SAC"
     },
@@ -6142,7 +6142,7 @@
         "grade": 55.67,
         "name": "Ty Jerome",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 31,
         "team": "PHO"
     },
@@ -6172,7 +6172,7 @@
         "grade": 77.67,
         "name": "Cameron Johnson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "PHO"
     },
@@ -6202,7 +6202,7 @@
         "grade": 77.9,
         "name": "James Johnson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 32,
         "team": [
             "MIA",
@@ -6235,7 +6235,7 @@
         "grade": 80.37,
         "name": "Keldon Johnson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 17,
         "team": "SAS"
     },
@@ -6265,7 +6265,7 @@
         "grade": 62.28,
         "name": "Tyler Johnson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 39,
         "team": [
             "PHO",
@@ -6298,7 +6298,7 @@
         "grade": 95.86,
         "name": "Nikola Jokić",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "DEN"
     },
@@ -6328,7 +6328,7 @@
         "grade": 75.82,
         "name": "Damian Jones",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "ATL"
     },
@@ -6358,7 +6358,7 @@
         "grade": 83.56,
         "name": "Derrick Jones Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "MIA"
     },
@@ -6388,7 +6388,7 @@
         "grade": 76.37,
         "name": "Tyus Jones",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "MEM"
     },
@@ -6418,7 +6418,7 @@
         "grade": 86.64,
         "name": "DeAndre Jordan",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "BRK"
     },
@@ -6448,7 +6448,7 @@
         "grade": 69.33,
         "name": "Cory Joseph",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "SAC"
     },
@@ -6478,7 +6478,7 @@
         "grade": 72.99,
         "name": "Frank Kaminsky",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 39,
         "team": "PHO"
     },
@@ -6508,7 +6508,7 @@
         "grade": 78.61,
         "name": "Luke Kennard",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 28,
         "team": "DET"
     },
@@ -6538,7 +6538,7 @@
         "grade": 52.03,
         "name": "Michael Kidd-Gilchrist",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 25,
         "team": [
             "CHO",
@@ -6571,7 +6571,7 @@
         "grade": 83.4,
         "name": "Maxi Kleber",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 74,
         "team": "DAL"
     },
@@ -6601,7 +6601,7 @@
         "grade": 57.78,
         "name": "Brandon Knight",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 25,
         "team": [
             "CLE",
@@ -6634,7 +6634,7 @@
         "grade": 57.5,
         "name": "Kevin Knox",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "NYK"
     },
@@ -6664,7 +6664,7 @@
         "grade": 73.36,
         "name": "Furkan Korkmaz",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "PHI"
     },
@@ -6694,7 +6694,7 @@
         "grade": 68.6,
         "name": "Luke Kornet",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 36,
         "team": "CHI"
     },
@@ -6724,7 +6724,7 @@
         "grade": 75.48,
         "name": "Kyle Korver",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "MIL"
     },
@@ -6754,7 +6754,7 @@
         "grade": 64.64,
         "name": "Rodions Kurucs",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": "BRK"
     },
@@ -6784,7 +6784,7 @@
         "grade": 70.72,
         "name": "Kyle Kuzma",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "LAL"
     },
@@ -6814,7 +6814,7 @@
         "grade": 73.88,
         "name": "Skal Labissière",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 33,
         "team": "POR"
     },
@@ -6844,7 +6844,7 @@
         "grade": 80.11,
         "name": "Jeremy Lamb",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 46,
         "team": "IND"
     },
@@ -6874,7 +6874,7 @@
         "grade": 53.03,
         "name": "Romeo Langford",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 32,
         "team": "BOS"
     },
@@ -6904,7 +6904,7 @@
         "grade": 88.06,
         "name": "Zach LaVine",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "CHI"
     },
@@ -6934,7 +6934,7 @@
         "grade": 65.41,
         "name": "Jake Layman",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 23,
         "team": "MIN"
     },
@@ -6964,7 +6964,7 @@
         "grade": 72.27,
         "name": "Courtney Lee",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 24,
         "team": "DAL"
     },
@@ -6994,7 +6994,7 @@
         "grade": 73.3,
         "name": "Damion Lee",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 49,
         "team": "GSW"
     },
@@ -7024,7 +7024,7 @@
         "grade": 78.11,
         "name": "Alex Len",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": [
             "ATL",
@@ -7057,7 +7057,7 @@
         "grade": 95.7,
         "name": "Kawhi Leonard",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "LAC"
     },
@@ -7087,7 +7087,7 @@
         "grade": 75.53,
         "name": "Meyers Leonard",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "MIA"
     },
@@ -7117,7 +7117,7 @@
         "grade": 75.72,
         "name": "Caris LeVert",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 45,
         "team": "BRK"
     },
@@ -7147,7 +7147,7 @@
         "grade": 92.85,
         "name": "Damian Lillard",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "POR"
     },
@@ -7177,7 +7177,7 @@
         "grade": 58.53,
         "name": "Nassir Little",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "POR"
     },
@@ -7207,7 +7207,7 @@
         "grade": 55.88,
         "name": "Kevon Looney",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 20,
         "team": "GSW"
     },
@@ -7237,7 +7237,7 @@
         "grade": 84.41,
         "name": "Brook Lopez",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "MIL"
     },
@@ -7267,7 +7267,7 @@
         "grade": 67.69,
         "name": "Robin Lopez",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "MIL"
     },
@@ -7297,7 +7297,7 @@
         "grade": 87.2,
         "name": "Kevin Love",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "CLE"
     },
@@ -7327,7 +7327,7 @@
         "grade": 90.94,
         "name": "Kyle Lowry",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "TOR"
     },
@@ -7357,7 +7357,7 @@
         "grade": 70.13,
         "name": "Timothé Luwawu-Cabarrot",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": "BRK"
     },
@@ -7387,7 +7387,7 @@
         "grade": 72.65,
         "name": "Trey Lyles",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "SAS"
     },
@@ -7417,7 +7417,7 @@
         "grade": 71.04,
         "name": "Ian Mahinmi",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 38,
         "team": "WAS"
     },
@@ -7447,7 +7447,7 @@
         "grade": 71.04,
         "name": "Thon Maker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "DET"
     },
@@ -7477,7 +7477,7 @@
         "grade": 79.24,
         "name": "Lauri Markkanen",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 50,
         "team": "CHI"
     },
@@ -7507,7 +7507,7 @@
         "grade": 70.62,
         "name": "Caleb Martin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 18,
         "team": "CHO"
     },
@@ -7537,7 +7537,7 @@
         "grade": 65.26,
         "name": "Cody Martin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "CHO"
     },
@@ -7567,7 +7567,7 @@
         "grade": 60.43,
         "name": "Kelan Martin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 31,
         "team": "MIN"
     },
@@ -7597,7 +7597,7 @@
         "grade": 70.07,
         "name": "Garrison Mathews",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 18,
         "team": "WAS"
     },
@@ -7627,7 +7627,7 @@
         "grade": 69.5,
         "name": "Wesley Matthews",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "MIL"
     },
@@ -7657,7 +7657,7 @@
         "grade": 65.66,
         "name": "Patrick McCaw",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 37,
         "team": "TOR"
     },
@@ -7687,7 +7687,7 @@
         "grade": 83.16,
         "name": "CJ McCollum",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "POR"
     },
@@ -7717,7 +7717,7 @@
         "grade": 79.2,
         "name": "T.J. McConnell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "IND"
     },
@@ -7747,7 +7747,7 @@
         "grade": 67.58,
         "name": "Jalen McDaniels",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 16,
         "team": "CHO"
     },
@@ -7777,7 +7777,7 @@
         "grade": 79.06,
         "name": "Doug McDermott",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "IND"
     },
@@ -7807,7 +7807,7 @@
         "grade": 85.34,
         "name": "JaVale McGee",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "LAL"
     },
@@ -7837,7 +7837,7 @@
         "grade": 58.7,
         "name": "Rodney McGruder",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "LAC"
     },
@@ -7867,7 +7867,7 @@
         "grade": 57.76,
         "name": "Alfonzo McKinnie",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 40,
         "team": "CLE"
     },
@@ -7897,7 +7897,7 @@
         "grade": 77.47,
         "name": "Jordan McLaughlin",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 30,
         "team": "MIN"
     },
@@ -7927,7 +7927,7 @@
         "grade": 77.32,
         "name": "Ben McLemore",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "HOU"
     },
@@ -7957,7 +7957,7 @@
         "grade": 69.09,
         "name": "Jordan McRae",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 37,
         "team": [
             "WAS",
@@ -7991,7 +7991,7 @@
         "grade": 71.23,
         "name": "Nicolò Melli",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "NOP"
     },
@@ -8021,7 +8021,7 @@
         "grade": 71.99,
         "name": "De'Anthony Melton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "MEM"
     },
@@ -8051,7 +8051,7 @@
         "grade": 94.14,
         "name": "Khris Middleton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "MIL"
     },
@@ -8081,7 +8081,7 @@
         "grade": 61.81,
         "name": "C.J. Miles",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 10,
         "team": "WAS"
     },
@@ -8111,7 +8111,7 @@
         "grade": 78.28,
         "name": "Patty Mills",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "SAS"
     },
@@ -8141,7 +8141,7 @@
         "grade": 84.69,
         "name": "Paul Millsap",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 51,
         "team": "DEN"
     },
@@ -8171,7 +8171,7 @@
         "grade": 77.9,
         "name": "Shake Milton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 40,
         "team": "PHI"
     },
@@ -8201,7 +8201,7 @@
         "grade": 87.34,
         "name": "Donovan Mitchell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "UTA"
     },
@@ -8231,7 +8231,7 @@
         "grade": 57.55,
         "name": "Adam Mokoka",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 11,
         "team": "CHI"
     },
@@ -8261,7 +8261,7 @@
         "grade": 68.77,
         "name": "Malik Monk",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "CHO"
     },
@@ -8291,7 +8291,7 @@
         "grade": 65.09,
         "name": "E'Twaun Moore",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "NOP"
     },
@@ -8321,7 +8321,7 @@
         "grade": 82.77,
         "name": "Ja Morant",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "MEM"
     },
@@ -8351,7 +8351,7 @@
         "grade": 81.82,
         "name": "Marcus Morris",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": [
             "NYK",
@@ -8384,7 +8384,7 @@
         "grade": 72.11,
         "name": "Markieff Morris",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": [
             "DET",
@@ -8417,7 +8417,7 @@
         "grade": 78.26,
         "name": "Monte Morris",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "DEN"
     },
@@ -8447,7 +8447,7 @@
         "grade": 68.84,
         "name": "Emmanuel Mudiay",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": "UTA"
     },
@@ -8477,7 +8477,7 @@
         "grade": 81.0,
         "name": "Dejounte Murray",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "SAS"
     },
@@ -8507,7 +8507,7 @@
         "grade": 86.06,
         "name": "Jamal Murray",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "DEN"
     },
@@ -8537,7 +8537,7 @@
         "grade": 56.71,
         "name": "Džanan Musa",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 40,
         "team": "BRK"
     },
@@ -8567,7 +8567,7 @@
         "grade": 70.35,
         "name": "Mike Muscala",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 47,
         "team": "OKC"
     },
@@ -8597,7 +8597,7 @@
         "grade": 70.13,
         "name": "Svi Mykhailiuk",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "DET"
     },
@@ -8627,7 +8627,7 @@
         "grade": 71.9,
         "name": "Abdel Nader",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "OKC"
     },
@@ -8657,7 +8657,7 @@
         "grade": 86.27,
         "name": "Larry Nance Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "CLE"
     },
@@ -8687,7 +8687,7 @@
         "grade": 74.41,
         "name": "Shabazz Napier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": [
             "MIN",
@@ -8720,7 +8720,7 @@
         "grade": 69.03,
         "name": "Raul Neto",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": "PHI"
     },
@@ -8750,7 +8750,7 @@
         "grade": 72.27,
         "name": "Georges Niang",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "UTA"
     },
@@ -8780,7 +8780,7 @@
         "grade": 88.0,
         "name": "Nerlens Noel",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "OKC"
     },
@@ -8810,7 +8810,7 @@
         "grade": 58.9,
         "name": "Jaylen Nowell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 15,
         "team": "MIN"
     },
@@ -8840,7 +8840,7 @@
         "grade": 64.93,
         "name": "Frank Ntilikina",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "NYK"
     },
@@ -8870,7 +8870,7 @@
         "grade": 74.21,
         "name": "Kendrick Nunn",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "MIA"
     },
@@ -8900,7 +8900,7 @@
         "grade": 75.7,
         "name": "David Nwaba",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 20,
         "team": "BRK"
     },
@@ -8930,7 +8930,7 @@
         "grade": 81.39,
         "name": "Royce O'Neale",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "UTA"
     },
@@ -8960,7 +8960,7 @@
         "grade": 74.9,
         "name": "Kyle O'Quinn",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": "PHI"
     },
@@ -8990,7 +8990,7 @@
         "grade": 65.98,
         "name": "Semi Ojeleye",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "BOS"
     },
@@ -9020,7 +9020,7 @@
         "grade": 77.99,
         "name": "Jahlil Okafor",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 30,
         "team": "NOP"
     },
@@ -9050,7 +9050,7 @@
         "grade": 61.78,
         "name": "Elie Okobo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "PHO"
     },
@@ -9080,7 +9080,7 @@
         "grade": 71.7,
         "name": "Josh Okogie",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "MIN"
     },
@@ -9110,7 +9110,7 @@
         "grade": 66.62,
         "name": "Victor Oladipo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 19,
         "team": "IND"
     },
@@ -9140,7 +9140,7 @@
         "grade": 84.47,
         "name": "Kelly Olynyk",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "MIA"
     },
@@ -9170,7 +9170,7 @@
         "grade": 57.74,
         "name": "Miye Oni",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 10,
         "team": "UTA"
     },
@@ -9200,7 +9200,7 @@
         "grade": 70.71,
         "name": "Cedi Osman",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "CLE"
     },
@@ -9230,7 +9230,7 @@
         "grade": 83.33,
         "name": "Kelly Oubre Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "PHO"
     },
@@ -9260,7 +9260,7 @@
         "grade": 81.25,
         "name": "Jabari Parker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 38,
         "team": [
             "ATL",
@@ -9293,7 +9293,7 @@
         "grade": 74.04,
         "name": "Eric Paschall",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "GSW"
     },
@@ -9323,7 +9323,7 @@
         "grade": 62.35,
         "name": "Anžejs Pasečņiks",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 27,
         "team": "WAS"
     },
@@ -9353,7 +9353,7 @@
         "grade": 70.08,
         "name": "Patrick Patterson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "LAC"
     },
@@ -9383,7 +9383,7 @@
         "grade": 94.19,
         "name": "Chris Paul",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "OKC"
     },
@@ -9413,7 +9413,7 @@
         "grade": 74.91,
         "name": "Elfrid Payton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 45,
         "team": "NYK"
     },
@@ -9443,7 +9443,7 @@
         "grade": 62.99,
         "name": "Gary Payton II",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": "WAS"
     },
@@ -9473,7 +9473,7 @@
         "grade": 56.57,
         "name": "Theo Pinson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 33,
         "team": "BRK"
     },
@@ -9503,7 +9503,7 @@
         "grade": 83.36,
         "name": "Mason Plumlee",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "DEN"
     },
@@ -9533,7 +9533,7 @@
         "grade": 83.45,
         "name": "Jakob Poeltl",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "SAS"
     },
@@ -9563,7 +9563,7 @@
         "grade": 58.45,
         "name": "Jordan Poole",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "GSW"
     },
@@ -9593,7 +9593,7 @@
         "grade": 66.93,
         "name": "Kevin Porter Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 50,
         "team": "CLE"
     },
@@ -9623,7 +9623,7 @@
         "grade": 84.18,
         "name": "Michael Porter Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "DEN"
     },
@@ -9653,7 +9653,7 @@
         "grade": 77.33,
         "name": "Otto Porter Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 14,
         "team": "CHI"
     },
@@ -9683,7 +9683,7 @@
         "grade": 73.63,
         "name": "Bobby Portis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "NYK"
     },
@@ -9713,7 +9713,7 @@
         "grade": 87.03,
         "name": "Kristaps Porziņģis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "DAL"
     },
@@ -9743,7 +9743,7 @@
         "grade": 84.56,
         "name": "Dwight Powell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 40,
         "team": "DAL"
     },
@@ -9773,7 +9773,7 @@
         "grade": 90.4,
         "name": "Norman Powell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 52,
         "team": "TOR"
     },
@@ -9803,7 +9803,7 @@
         "grade": 68.76,
         "name": "Taurean Prince",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "BRK"
     },
@@ -9833,7 +9833,7 @@
         "grade": 80.04,
         "name": "Julius Randle",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "NYK"
     },
@@ -9863,7 +9863,7 @@
         "grade": 64.1,
         "name": "Cam Reddish",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "ATL"
     },
@@ -9893,7 +9893,7 @@
         "grade": 81.67,
         "name": "J.J. Redick",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "NOP"
     },
@@ -9923,7 +9923,7 @@
         "grade": 68.53,
         "name": "Naz Reid",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 30,
         "team": "MIN"
     },
@@ -9953,7 +9953,7 @@
         "grade": 75.32,
         "name": "Josh Richardson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": "PHI"
     },
@@ -9983,7 +9983,7 @@
         "grade": 68.73,
         "name": "Austin Rivers",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "HOU"
     },
@@ -10013,7 +10013,7 @@
         "grade": 85.6,
         "name": "Duncan Robinson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "MIA"
     },
@@ -10043,7 +10043,7 @@
         "grade": 79.08,
         "name": "Glenn Robinson III",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": [
             "GSW",
@@ -10076,7 +10076,7 @@
         "grade": 57.92,
         "name": "Jerome Robinson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": [
             "LAC",
@@ -10109,7 +10109,7 @@
         "grade": 87.94,
         "name": "Mitchell Robinson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "NYK"
     },
@@ -10139,7 +10139,7 @@
         "grade": 68.35,
         "name": "Rajon Rondo",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 48,
         "team": "LAL"
     },
@@ -10169,7 +10169,7 @@
         "grade": 82.59,
         "name": "Derrick Rose",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 50,
         "team": "DET"
     },
@@ -10199,7 +10199,7 @@
         "grade": 77.71,
         "name": "Terrence Ross",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "ORL"
     },
@@ -10229,7 +10229,7 @@
         "grade": 80.77,
         "name": "Terry Rozier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 63,
         "team": "CHO"
     },
@@ -10259,7 +10259,7 @@
         "grade": 83.6,
         "name": "Ricky Rubio",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "PHO"
     },
@@ -10289,7 +10289,7 @@
         "grade": 81.65,
         "name": "D'Angelo Russell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 45,
         "team": [
             "GSW",
@@ -10322,7 +10322,7 @@
         "grade": 91.84,
         "name": "Domantas Sabonis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "IND"
     },
@@ -10352,7 +10352,7 @@
         "grade": 71.58,
         "name": "JaKarr Sampson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 34,
         "team": "IND"
     },
@@ -10382,7 +10382,7 @@
         "grade": 81.95,
         "name": "Dario Šarić",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "PHO"
     },
@@ -10412,7 +10412,7 @@
         "grade": 76.93,
         "name": "Tomáš Satoranský",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "CHI"
     },
@@ -10442,7 +10442,7 @@
         "grade": 53.89,
         "name": "Admiral Schofield",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 33,
         "team": "WAS"
     },
@@ -10472,7 +10472,7 @@
         "grade": 83.61,
         "name": "Dennis Schröder",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "OKC"
     },
@@ -10502,7 +10502,7 @@
         "grade": 69.87,
         "name": "Mike Scott",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "PHI"
     },
@@ -10532,7 +10532,7 @@
         "grade": 62.32,
         "name": "Thabo Sefolosha",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 41,
         "team": "HOU"
     },
@@ -10562,7 +10562,7 @@
         "grade": 78.56,
         "name": "Collin Sexton",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "CLE"
     },
@@ -10592,7 +10592,7 @@
         "grade": 71.81,
         "name": "Landry Shamet",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 53,
         "team": "LAC"
     },
@@ -10622,7 +10622,7 @@
         "grade": 56.42,
         "name": "Iman Shumpert",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 13,
         "team": "BRK"
     },
@@ -10652,7 +10652,7 @@
         "grade": 89.2,
         "name": "Pascal Siakam",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "TOR"
     },
@@ -10682,7 +10682,7 @@
         "grade": 93.16,
         "name": "Ben Simmons",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "PHI"
     },
@@ -10712,7 +10712,7 @@
         "grade": 59.59,
         "name": "Anfernee Simons",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "POR"
     },
@@ -10742,7 +10742,7 @@
         "grade": 82.1,
         "name": "Marcus Smart",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "BOS"
     },
@@ -10772,7 +10772,7 @@
         "grade": 57.54,
         "name": "Dennis Smith Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 34,
         "team": "NYK"
     },
@@ -10802,7 +10802,7 @@
         "grade": 73.79,
         "name": "Ish Smith",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "WAS"
     },
@@ -10832,7 +10832,7 @@
         "grade": 75.11,
         "name": "Tony Snell",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": "DET"
     },
@@ -10862,7 +10862,7 @@
         "grade": 71.45,
         "name": "Omari Spellman",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 49,
         "team": "GSW"
     },
@@ -10892,7 +10892,7 @@
         "grade": 61.95,
         "name": "Edmond Sumner",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 31,
         "team": "IND"
     },
@@ -10922,7 +10922,7 @@
         "grade": 62.45,
         "name": "Caleb Swanigan",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 27,
         "team": [
             "SAC",
@@ -10955,7 +10955,7 @@
         "grade": 92.48,
         "name": "Jayson Tatum",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 66,
         "team": "BOS"
     },
@@ -10985,7 +10985,7 @@
         "grade": 75.24,
         "name": "Jeff Teague",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 59,
         "team": [
             "MIN",
@@ -11018,7 +11018,7 @@
         "grade": 73.09,
         "name": "Garrett Temple",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "BRK"
     },
@@ -11048,7 +11048,7 @@
         "grade": 88.87,
         "name": "Daniel Theis",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "BOS"
     },
@@ -11078,7 +11078,7 @@
         "grade": 65.41,
         "name": "Isaiah Thomas",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 40,
         "team": "WAS"
     },
@@ -11108,7 +11108,7 @@
         "grade": 73.06,
         "name": "Matt Thomas",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 41,
         "team": "TOR"
     },
@@ -11138,7 +11138,7 @@
         "grade": 79.48,
         "name": "Tristan Thompson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "CLE"
     },
@@ -11168,7 +11168,7 @@
         "grade": 72.34,
         "name": "Matisse Thybulle",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "PHI"
     },
@@ -11198,7 +11198,7 @@
         "grade": 57.79,
         "name": "Anthony Tolliver",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 55,
         "team": [
             "POR",
@@ -11232,7 +11232,7 @@
         "grade": 66.44,
         "name": "Juan Toscano-Anderson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 13,
         "team": "GSW"
     },
@@ -11262,7 +11262,7 @@
         "grade": 96.1,
         "name": "Karl-Anthony Towns",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 35,
         "team": "MIN"
     },
@@ -11292,7 +11292,7 @@
         "grade": 75.61,
         "name": "Gary Trent Jr.",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "POR"
     },
@@ -11322,7 +11322,7 @@
         "grade": 71.68,
         "name": "Allonzo Trier",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 24,
         "team": "NYK"
     },
@@ -11352,7 +11352,7 @@
         "grade": 77.7,
         "name": "P.J. Tucker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "HOU"
     },
@@ -11382,7 +11382,7 @@
         "grade": 57.15,
         "name": "Evan Turner",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 19,
         "team": "ATL"
     },
@@ -11412,7 +11412,7 @@
         "grade": 82.93,
         "name": "Myles Turner",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "IND"
     },
@@ -11442,7 +11442,7 @@
         "grade": 91.23,
         "name": "Jonas Valančiūnas",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 70,
         "team": "MEM"
     },
@@ -11472,7 +11472,7 @@
         "grade": 67.79,
         "name": "Denzel Valentine",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 36,
         "team": "CHI"
     },
@@ -11502,7 +11502,7 @@
         "grade": 87.87,
         "name": "Fred VanVleet",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": "TOR"
     },
@@ -11532,7 +11532,7 @@
         "grade": 71.72,
         "name": "Noah Vonleh",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 36,
         "team": [
             "MIN",
@@ -11565,7 +11565,7 @@
         "grade": 91.22,
         "name": "Nikola Vučević",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "ORL"
     },
@@ -11595,7 +11595,7 @@
         "grade": 77.2,
         "name": "Moritz Wagner",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 45,
         "team": "WAS"
     },
@@ -11625,7 +11625,7 @@
         "grade": 68.7,
         "name": "Dion Waiters",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 10,
         "team": [
             "MIA",
@@ -11658,7 +11658,7 @@
         "grade": 89.49,
         "name": "Kemba Walker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 56,
         "team": "BOS"
     },
@@ -11688,7 +11688,7 @@
         "grade": 62.15,
         "name": "Lonnie Walker IV",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 61,
         "team": "SAS"
     },
@@ -11718,7 +11718,7 @@
         "grade": 52.2,
         "name": "Tyrone Wallace",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 14,
         "team": "ATL"
     },
@@ -11748,7 +11748,7 @@
         "grade": 77.4,
         "name": "Brad Wanamaker",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 71,
         "team": "BOS"
     },
@@ -11778,7 +11778,7 @@
         "grade": 91.73,
         "name": "T.J. Warren",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "IND"
     },
@@ -11808,7 +11808,7 @@
         "grade": 77.09,
         "name": "P.J. Washington",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "CHO"
     },
@@ -11838,7 +11838,7 @@
         "grade": 59.1,
         "name": "Tremont Waters",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 11,
         "team": "BOS"
     },
@@ -11868,7 +11868,7 @@
         "grade": 87.05,
         "name": "Russell Westbrook",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 57,
         "team": "HOU"
     },
@@ -11898,7 +11898,7 @@
         "grade": 67.61,
         "name": "Coby White",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "CHI"
     },
@@ -11928,7 +11928,7 @@
         "grade": 84.88,
         "name": "Derrick White",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 68,
         "team": "SAS"
     },
@@ -11958,7 +11958,7 @@
         "grade": 92.86,
         "name": "Hassan Whiteside",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 67,
         "team": "POR"
     },
@@ -11988,7 +11988,7 @@
         "grade": 79.56,
         "name": "Andrew Wiggins",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 54,
         "team": [
             "MIN",
@@ -12021,7 +12021,7 @@
         "grade": 63.46,
         "name": "Grant Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 69,
         "team": "BOS"
     },
@@ -12051,7 +12051,7 @@
         "grade": 66.23,
         "name": "Johnathan Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 15,
         "team": "WAS"
     },
@@ -12081,7 +12081,7 @@
         "grade": 63.14,
         "name": "Kenrich Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 39,
         "team": "NOP"
     },
@@ -12111,7 +12111,7 @@
         "grade": 81.02,
         "name": "Lou Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 65,
         "team": "LAC"
     },
@@ -12141,7 +12141,7 @@
         "grade": 76.22,
         "name": "Marvin Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": [
             "CHO",
@@ -12174,7 +12174,7 @@
         "grade": 82.28,
         "name": "Robert Williams",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 29,
         "team": "BOS"
     },
@@ -12204,7 +12204,7 @@
         "grade": 86.39,
         "name": "Zion Williamson",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 24,
         "team": "NOP"
     },
@@ -12234,7 +12234,7 @@
         "grade": 65.26,
         "name": "Justise Winslow",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 11,
         "team": "MIA"
     },
@@ -12264,7 +12264,7 @@
         "grade": 89.5,
         "name": "Christian Wood",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 62,
         "team": "DET"
     },
@@ -12294,7 +12294,7 @@
         "grade": 82.58,
         "name": "Delon Wright",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 73,
         "team": "DAL"
     },
@@ -12324,7 +12324,7 @@
         "grade": 75.22,
         "name": "Thaddeus Young",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 64,
         "team": "CHI"
     },
@@ -12354,7 +12354,7 @@
         "grade": 87.76,
         "name": "Trae Young",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 60,
         "team": "ATL"
     },
@@ -12384,7 +12384,7 @@
         "grade": 81.19,
         "name": "Cody Zeller",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 58,
         "team": "CHO"
     },
@@ -12414,7 +12414,7 @@
         "grade": 66.89,
         "name": "Ante Žižić",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 22,
         "team": "CLE"
     },
@@ -12444,7 +12444,7 @@
         "grade": 86.38,
         "name": "Ivica Zubac",
         "league_grade": 88.78,
-        "year": 2020,
+        "year": "2020",
         "games_played": 72,
         "team": "LAC"
     }

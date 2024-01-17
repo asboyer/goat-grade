@@ -25,7 +25,7 @@
         "grade": 64.63,
         "name": "Precious Achiuwa",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "MIA"
     },
@@ -55,7 +55,7 @@
         "grade": 80.91,
         "name": "Steven Adams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "NOP"
     },
@@ -85,7 +85,7 @@
         "grade": 94.53,
         "name": "Bam Adebayo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "MIA"
     },
@@ -115,7 +115,7 @@
         "grade": 76.83,
         "name": "LaMarcus Aldridge",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 26,
         "team": [
             "SAS",
@@ -148,7 +148,7 @@
         "grade": 69.88,
         "name": "Nickeil Alexander-Walker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "NOP"
     },
@@ -178,7 +178,7 @@
         "grade": 76.74,
         "name": "Grayson Allen",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "MEM"
     },
@@ -208,7 +208,7 @@
         "grade": 87.44,
         "name": "Jarrett Allen",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": [
             "BRK",
@@ -241,7 +241,7 @@
         "grade": 60.82,
         "name": "Al-Farouq Aminu",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 23,
         "team": [
             "ORL",
@@ -274,7 +274,7 @@
         "grade": 88.49,
         "name": "Kyle Anderson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "MEM"
     },
@@ -304,7 +304,7 @@
         "grade": 96.47,
         "name": "Giannis Antetokounmpo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "MIL"
     },
@@ -334,7 +334,7 @@
         "grade": 74.83,
         "name": "Carmelo Anthony",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "POR"
     },
@@ -364,7 +364,7 @@
         "grade": 65.91,
         "name": "Cole Anthony",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "ORL"
     },
@@ -394,7 +394,7 @@
         "grade": 87.04,
         "name": "OG Anunoby",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 43,
         "team": "TOR"
     },
@@ -424,7 +424,7 @@
         "grade": 60.45,
         "name": "Ryan Arcidiacono",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 44,
         "team": "CHI"
     },
@@ -454,7 +454,7 @@
         "grade": 72.84,
         "name": "Trevor Ariza",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 30,
         "team": "MIA"
     },
@@ -484,7 +484,7 @@
         "grade": 67.73,
         "name": "D.J. Augustin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": [
             "MIL",
@@ -517,7 +517,7 @@
         "grade": 63.42,
         "name": "Deni Avdija",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "WAS"
     },
@@ -547,7 +547,7 @@
         "grade": 89.12,
         "name": "Deandre Ayton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "PHO"
     },
@@ -577,7 +577,7 @@
         "grade": 60.35,
         "name": "Dwayne Bacon",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "ORL"
     },
@@ -607,7 +607,7 @@
         "grade": 72.09,
         "name": "Marvin Bagley III",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 43,
         "team": "SAC"
     },
@@ -637,7 +637,7 @@
         "grade": 83.14,
         "name": "LaMelo Ball",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "CHO"
     },
@@ -667,7 +667,7 @@
         "grade": 83.42,
         "name": "Lonzo Ball",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": "NOP"
     },
@@ -697,7 +697,7 @@
         "grade": 75.49,
         "name": "Mo Bamba",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "ORL"
     },
@@ -727,7 +727,7 @@
         "grade": 76.12,
         "name": "Desmond Bane",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "MEM"
     },
@@ -757,7 +757,7 @@
         "grade": 83.83,
         "name": "Harrison Barnes",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "SAC"
     },
@@ -787,7 +787,7 @@
         "grade": 78.06,
         "name": "RJ Barrett",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "NYK"
     },
@@ -817,7 +817,7 @@
         "grade": 73.22,
         "name": "Will Barton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "DEN"
     },
@@ -847,7 +847,7 @@
         "grade": 86.37,
         "name": "Nicolas Batum",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "LAC"
     },
@@ -877,7 +877,7 @@
         "grade": 61.34,
         "name": "Aron Baynes",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": "TOR"
     },
@@ -907,7 +907,7 @@
         "grade": 72.61,
         "name": "Kent Bazemore",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "GSW"
     },
@@ -937,7 +937,7 @@
         "grade": 63.98,
         "name": "Darius Bazley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": "OKC"
     },
@@ -967,7 +967,7 @@
         "grade": 89.87,
         "name": "Bradley Beal",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "WAS"
     },
@@ -997,7 +997,7 @@
         "grade": 77.24,
         "name": "Malik Beasley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 37,
         "team": "MIN"
     },
@@ -1027,7 +1027,7 @@
         "grade": 70.23,
         "name": "DeAndre' Bembry",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "TOR"
     },
@@ -1057,7 +1057,7 @@
         "grade": 74.26,
         "name": "Dāvis Bertāns",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": "WAS"
     },
@@ -1087,7 +1087,7 @@
         "grade": 76.63,
         "name": "Patrick Beverley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 37,
         "team": "LAC"
     },
@@ -1117,7 +1117,7 @@
         "grade": 75.54,
         "name": "Saddiq Bey",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "DET"
     },
@@ -1147,7 +1147,7 @@
         "grade": 75.7,
         "name": "Khem Birch",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": [
             "ORL",
@@ -1180,7 +1180,7 @@
         "grade": 68.55,
         "name": "Goga Bitadze",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "IND"
     },
@@ -1210,7 +1210,7 @@
         "grade": 69.98,
         "name": "Bismack Biyombo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "CHO"
     },
@@ -1240,7 +1240,7 @@
         "grade": 65.8,
         "name": "Nemanja Bjelica",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 37,
         "team": [
             "SAC",
@@ -1273,7 +1273,7 @@
         "grade": 70.79,
         "name": "Eric Bledsoe",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "NOP"
     },
@@ -1303,7 +1303,7 @@
         "grade": 88.66,
         "name": "Bogdan Bogdanović",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 44,
         "team": "ATL"
     },
@@ -1333,7 +1333,7 @@
         "grade": 80.84,
         "name": "Bojan Bogdanović",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "UTA"
     },
@@ -1363,7 +1363,7 @@
         "grade": 56.7,
         "name": "Jordan Bone",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 14,
         "team": "ORL"
     },
@@ -1393,7 +1393,7 @@
         "grade": 52.45,
         "name": "Isaac Bonga",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 40,
         "team": "WAS"
     },
@@ -1423,7 +1423,7 @@
         "grade": 85.46,
         "name": "Devin Booker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "PHO"
     },
@@ -1453,7 +1453,7 @@
         "grade": 89.92,
         "name": "Chris Boucher",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "TOR"
     },
@@ -1483,7 +1483,7 @@
         "grade": 57.7,
         "name": "Avery Bradley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 27,
         "team": [
             "MIA",
@@ -1516,7 +1516,7 @@
         "grade": 80.27,
         "name": "Tony Bradley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 42,
         "team": [
             "PHI",
@@ -1549,7 +1549,7 @@
         "grade": 58.94,
         "name": "Ignas Brazdeikis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": [
             "NYK",
@@ -1583,7 +1583,7 @@
         "grade": 92.85,
         "name": "Mikal Bridges",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "PHO"
     },
@@ -1613,7 +1613,7 @@
         "grade": 86.97,
         "name": "Miles Bridges",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "CHO"
     },
@@ -1643,7 +1643,7 @@
         "grade": 81.39,
         "name": "Oshae Brissett",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 21,
         "team": "IND"
     },
@@ -1673,7 +1673,7 @@
         "grade": 85.77,
         "name": "Malcolm Brogdon",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "IND"
     },
@@ -1703,7 +1703,7 @@
         "grade": 65.35,
         "name": "Armoni Brooks",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 20,
         "team": "HOU"
     },
@@ -1733,7 +1733,7 @@
         "grade": 69.55,
         "name": "Dillon Brooks",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "MEM"
     },
@@ -1763,7 +1763,7 @@
         "grade": 81.73,
         "name": "Bruce Brown",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "BRK"
     },
@@ -1793,7 +1793,7 @@
         "grade": 89.71,
         "name": "Jaylen Brown",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "BOS"
     },
@@ -1823,7 +1823,7 @@
         "grade": 74.12,
         "name": "Moses Brown",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 43,
         "team": "OKC"
     },
@@ -1853,7 +1853,7 @@
         "grade": 72.59,
         "name": "Sterling Brown",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "HOU"
     },
@@ -1883,7 +1883,7 @@
         "grade": 58.81,
         "name": "Troy Brown Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 34,
         "team": [
             "WAS",
@@ -1916,7 +1916,7 @@
         "grade": 83.64,
         "name": "Jalen Brunson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "DAL"
     },
@@ -1946,7 +1946,7 @@
         "grade": 82.04,
         "name": "Thomas Bryant",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 10,
         "team": "WAS"
     },
@@ -1976,7 +1976,7 @@
         "grade": 81.29,
         "name": "Reggie Bullock",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "NYK"
     },
@@ -2006,7 +2006,7 @@
         "grade": 66.71,
         "name": "Trey Burke",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "DAL"
     },
@@ -2036,7 +2036,7 @@
         "grade": 80.93,
         "name": "Alec Burks",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 49,
         "team": "NYK"
     },
@@ -2066,7 +2066,7 @@
         "grade": 93.09,
         "name": "Jimmy Butler",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "MIA"
     },
@@ -2096,7 +2096,7 @@
         "grade": 78.66,
         "name": "Kentavious Caldwell-Pope",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "LAL"
     },
@@ -2126,7 +2126,7 @@
         "grade": 73.24,
         "name": "Facundo Campazzo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "DEN"
     },
@@ -2156,7 +2156,7 @@
         "grade": 88.02,
         "name": "Clint Capela",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "ATL"
     },
@@ -2186,7 +2186,7 @@
         "grade": 68.04,
         "name": "Jevon Carter",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "PHO"
     },
@@ -2216,7 +2216,7 @@
         "grade": 78.7,
         "name": "Wendell Carter Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": [
             "CHI",
@@ -2249,7 +2249,7 @@
         "grade": 61.9,
         "name": "Michael Carter-Williams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 31,
         "team": "ORL"
     },
@@ -2279,7 +2279,7 @@
         "grade": 73.05,
         "name": "Alex Caruso",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "LAL"
     },
@@ -2309,7 +2309,7 @@
         "grade": 75.27,
         "name": "Willie Cauley-Stein",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": "DAL"
     },
@@ -2339,7 +2339,7 @@
         "grade": 61.14,
         "name": "Chris Chiozza",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 22,
         "team": "BRK"
     },
@@ -2369,7 +2369,7 @@
         "grade": 53.58,
         "name": "Gary Clark",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": [
             "ORL",
@@ -2403,7 +2403,7 @@
         "grade": 83.56,
         "name": "Brandon Clarke",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 59,
         "team": "MEM"
     },
@@ -2433,7 +2433,7 @@
         "grade": 82.75,
         "name": "Jordan Clarkson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "UTA"
     },
@@ -2463,7 +2463,7 @@
         "grade": 78.2,
         "name": "Nic Claxton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 32,
         "team": "BRK"
     },
@@ -2493,7 +2493,7 @@
         "grade": 90.86,
         "name": "John Collins",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "ATL"
     },
@@ -2523,7 +2523,7 @@
         "grade": 89.45,
         "name": "Mike Conley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "UTA"
     },
@@ -2553,7 +2553,7 @@
         "grade": 76.92,
         "name": "Pat Connaughton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "MIL"
     },
@@ -2583,7 +2583,7 @@
         "grade": 67.65,
         "name": "Tyler Cook",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 32,
         "team": [
             "BRK",
@@ -2616,7 +2616,7 @@
         "grade": 74.93,
         "name": "DeMarcus Cousins",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": [
             "HOU",
@@ -2649,7 +2649,7 @@
         "grade": 79.02,
         "name": "Robert Covington",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "POR"
     },
@@ -2679,7 +2679,7 @@
         "grade": 76.27,
         "name": "Torrey Craig",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": [
             "MIL",
@@ -2712,7 +2712,7 @@
         "grade": 79.0,
         "name": "Jae Crowder",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "PHO"
     },
@@ -2742,7 +2742,7 @@
         "grade": 55.41,
         "name": "Jarrett Culver",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 34,
         "team": "MIN"
     },
@@ -2772,7 +2772,7 @@
         "grade": 81.02,
         "name": "Seth Curry",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": "PHI"
     },
@@ -2802,7 +2802,7 @@
         "grade": 95.55,
         "name": "Stephen Curry",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "GSW"
     },
@@ -2832,7 +2832,7 @@
         "grade": 89.03,
         "name": "Anthony Davis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": "LAL"
     },
@@ -2862,7 +2862,7 @@
         "grade": 64.33,
         "name": "Ed Davis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 23,
         "team": "MIN"
     },
@@ -2892,7 +2892,7 @@
         "grade": 68.55,
         "name": "Terence Davis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": [
             "TOR",
@@ -2925,7 +2925,7 @@
         "grade": 71.29,
         "name": "Gabriel Deck",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 10,
         "team": "OKC"
     },
@@ -2955,7 +2955,7 @@
         "grade": 79.36,
         "name": "Dewayne Dedmon",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 16,
         "team": "MIA"
     },
@@ -2985,7 +2985,7 @@
         "grade": 54.57,
         "name": "Matthew Dellavedova",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": "CLE"
     },
@@ -3015,7 +3015,7 @@
         "grade": 87.8,
         "name": "DeMar DeRozan",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "SAS"
     },
@@ -3045,7 +3045,7 @@
         "grade": 59.76,
         "name": "Mamadi Diakite",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 14,
         "team": "MIL"
     },
@@ -3075,7 +3075,7 @@
         "grade": 73.04,
         "name": "Hamidou Diallo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": [
             "OKC",
@@ -3108,7 +3108,7 @@
         "grade": 83.77,
         "name": "Gorgui Dieng",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 38,
         "team": [
             "MEM",
@@ -3141,7 +3141,7 @@
         "grade": 78.24,
         "name": "Donte DiVincenzo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "MIL"
     },
@@ -3171,7 +3171,7 @@
         "grade": 92.99,
         "name": "Luka Dončić",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "DAL"
     },
@@ -3201,7 +3201,7 @@
         "grade": 65.14,
         "name": "Luguentz Dort",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "OKC"
     },
@@ -3231,7 +3231,7 @@
         "grade": 57.13,
         "name": "Damyean Dotson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "CLE"
     },
@@ -3261,7 +3261,7 @@
         "grade": 54.38,
         "name": "Sekou Doumbouya",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "DET"
     },
@@ -3291,7 +3291,7 @@
         "grade": 64.4,
         "name": "PJ Dozier",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "DEN"
     },
@@ -3321,7 +3321,7 @@
         "grade": 71.77,
         "name": "Goran Dragić",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "MIA"
     },
@@ -3351,7 +3351,7 @@
         "grade": 77.43,
         "name": "Andre Drummond",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": [
             "CLE",
@@ -3384,7 +3384,7 @@
         "grade": 95.95,
         "name": "Kevin Durant",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 35,
         "team": "BRK"
     },
@@ -3414,7 +3414,7 @@
         "grade": 72.25,
         "name": "Anthony Edwards",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "MIN"
     },
@@ -3444,7 +3444,7 @@
         "grade": 73.82,
         "name": "Wayne Ellington",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "DET"
     },
@@ -3474,7 +3474,7 @@
         "grade": 95.94,
         "name": "Joel Embiid",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "PHI"
     },
@@ -3504,7 +3504,7 @@
         "grade": 73.8,
         "name": "James Ennis III",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": "ORL"
     },
@@ -3534,7 +3534,7 @@
         "grade": 78.94,
         "name": "Drew Eubanks",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "SAS"
     },
@@ -3564,7 +3564,7 @@
         "grade": 83.31,
         "name": "Derrick Favors",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "UTA"
     },
@@ -3594,7 +3594,7 @@
         "grade": 65.57,
         "name": "Yogi Ferrell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 10,
         "team": [
             "CLE",
@@ -3627,7 +3627,7 @@
         "grade": 82.86,
         "name": "Dorian Finney-Smith",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "DAL"
     },
@@ -3657,7 +3657,7 @@
         "grade": 63.2,
         "name": "Malachi Flynn",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "TOR"
     },
@@ -3687,7 +3687,7 @@
         "grade": 72.51,
         "name": "Bryn Forbes",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "MIL"
     },
@@ -3717,7 +3717,7 @@
         "grade": 65.22,
         "name": "Trent Forrest",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 30,
         "team": "UTA"
     },
@@ -3747,7 +3747,7 @@
         "grade": 83.88,
         "name": "Evan Fournier",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 42,
         "team": [
             "ORL",
@@ -3780,7 +3780,7 @@
         "grade": 84.91,
         "name": "De'Aaron Fox",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "SAC"
     },
@@ -3810,7 +3810,7 @@
         "grade": 85.32,
         "name": "Enes Freedom",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "POR"
     },
@@ -3840,7 +3840,7 @@
         "grade": 58.99,
         "name": "Wenyen Gabriel",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 21,
         "team": "NOP"
     },
@@ -3870,7 +3870,7 @@
         "grade": 82.3,
         "name": "Daniel Gafford",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": [
             "CHI",
@@ -3903,7 +3903,7 @@
         "grade": 81.2,
         "name": "Danilo Gallinari",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "ATL"
     },
@@ -3933,7 +3933,7 @@
         "grade": 67.77,
         "name": "Langston Galloway",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 40,
         "team": "PHO"
     },
@@ -3963,7 +3963,7 @@
         "grade": 73.99,
         "name": "Darius Garland",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "CLE"
     },
@@ -3993,7 +3993,7 @@
         "grade": 79.21,
         "name": "Marc Gasol",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "LAL"
     },
@@ -4023,7 +4023,7 @@
         "grade": 74.92,
         "name": "Rudy Gay",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "SAS"
     },
@@ -4053,7 +4053,7 @@
         "grade": 92.23,
         "name": "Paul George",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "LAC"
     },
@@ -4083,7 +4083,7 @@
         "grade": 82.41,
         "name": "Taj Gibson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "NYK"
     },
@@ -4113,7 +4113,7 @@
         "grade": 90.81,
         "name": "Shai Gilgeous-Alexander",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 35,
         "team": "OKC"
     },
@@ -4143,7 +4143,7 @@
         "grade": 68.14,
         "name": "Freddie Gillespie",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 20,
         "team": "TOR"
     },
@@ -4173,7 +4173,7 @@
         "grade": 91.14,
         "name": "Rudy Gobert",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "UTA"
     },
@@ -4203,7 +4203,7 @@
         "grade": 56.51,
         "name": "Brandon Goodwin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "ATL"
     },
@@ -4233,7 +4233,7 @@
         "grade": 77.73,
         "name": "Aaron Gordon",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": [
             "ORL",
@@ -4266,7 +4266,7 @@
         "grade": 73.61,
         "name": "Eric Gordon",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 27,
         "team": "HOU"
     },
@@ -4296,7 +4296,7 @@
         "grade": 77.3,
         "name": "Devonte' Graham",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": "CHO"
     },
@@ -4326,7 +4326,7 @@
         "grade": 82.05,
         "name": "Jerami Grant",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "DET"
     },
@@ -4356,7 +4356,7 @@
         "grade": 82.34,
         "name": "Danny Green",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "PHI"
     },
@@ -4386,7 +4386,7 @@
         "grade": 81.94,
         "name": "Draymond Green",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "GSW"
     },
@@ -4416,7 +4416,7 @@
         "grade": 75.08,
         "name": "JaMychal Green",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "DEN"
     },
@@ -4446,7 +4446,7 @@
         "grade": 69.35,
         "name": "Javonte Green",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": [
             "BOS",
@@ -4479,7 +4479,7 @@
         "grade": 80.01,
         "name": "Jeff Green",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "BRK"
     },
@@ -4509,7 +4509,7 @@
         "grade": 56.78,
         "name": "Josh Green",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": "DAL"
     },
@@ -4539,7 +4539,7 @@
         "grade": 74.05,
         "name": "Blake Griffin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": [
             "DET",
@@ -4572,7 +4572,7 @@
         "grade": 70.88,
         "name": "Rui Hachimura",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": "WAS"
     },
@@ -4602,7 +4602,7 @@
         "grade": 84.55,
         "name": "Tyrese Haliburton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "SAC"
     },
@@ -4632,7 +4632,7 @@
         "grade": 76.98,
         "name": "Donta Hall",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": "ORL"
     },
@@ -4662,7 +4662,7 @@
         "grade": 51.14,
         "name": "Josh Hall",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 21,
         "team": "OKC"
     },
@@ -4692,7 +4692,7 @@
         "grade": 60.54,
         "name": "R.J. Hampton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": [
             "DEN",
@@ -4725,7 +4725,7 @@
         "grade": 80.64,
         "name": "Tim Hardaway Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "DAL"
     },
@@ -4755,7 +4755,7 @@
         "grade": 95.06,
         "name": "James Harden",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 44,
         "team": [
             "HOU",
@@ -4788,7 +4788,7 @@
         "grade": 62.43,
         "name": "Maurice Harkless",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 37,
         "team": [
             "MIA",
@@ -4821,7 +4821,7 @@
         "grade": 88.77,
         "name": "Montrezl Harrell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "LAL"
     },
@@ -4851,7 +4851,7 @@
         "grade": 62.77,
         "name": "Gary Harris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": [
             "DEN",
@@ -4884,7 +4884,7 @@
         "grade": 72.53,
         "name": "Jalen Harris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": "TOR"
     },
@@ -4914,7 +4914,7 @@
         "grade": 83.72,
         "name": "Joe Harris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "BRK"
     },
@@ -4944,7 +4944,7 @@
         "grade": 93.72,
         "name": "Tobias Harris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "PHI"
     },
@@ -4974,7 +4974,7 @@
         "grade": 76.83,
         "name": "Josh Hart",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "NOP"
     },
@@ -5004,7 +5004,7 @@
         "grade": 74.49,
         "name": "Isaiah Hartenstein",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": [
             "DEN",
@@ -5037,7 +5037,7 @@
         "grade": 82.27,
         "name": "Jaxson Hayes",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "NOP"
     },
@@ -5067,7 +5067,7 @@
         "grade": 60.84,
         "name": "Killian Hayes",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 26,
         "team": "DET"
     },
@@ -5097,7 +5097,7 @@
         "grade": 87.33,
         "name": "Gordon Hayward",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 44,
         "team": "CHO"
     },
@@ -5127,7 +5127,7 @@
         "grade": 63.98,
         "name": "Juancho Hernangómez",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "MIN"
     },
@@ -5157,7 +5157,7 @@
         "grade": 77.6,
         "name": "Willy Hernangómez",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "NOP"
     },
@@ -5187,7 +5187,7 @@
         "grade": 74.85,
         "name": "Tyler Herro",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "MIA"
     },
@@ -5217,7 +5217,7 @@
         "grade": 77.95,
         "name": "Buddy Hield",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "SAC"
     },
@@ -5247,7 +5247,7 @@
         "grade": 74.29,
         "name": "George Hill",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 30,
         "team": [
             "OKC",
@@ -5280,7 +5280,7 @@
         "grade": 61.35,
         "name": "Solomon Hill",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "ATL"
     },
@@ -5310,7 +5310,7 @@
         "grade": 65.62,
         "name": "Jaylen Hoard",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 19,
         "team": "OKC"
     },
@@ -5340,7 +5340,7 @@
         "grade": 60.59,
         "name": "Aaron Holiday",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "IND"
     },
@@ -5370,7 +5370,7 @@
         "grade": 92.3,
         "name": "Jrue Holiday",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 59,
         "team": "MIL"
     },
@@ -5400,7 +5400,7 @@
         "grade": 76.39,
         "name": "Justin Holiday",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "IND"
     },
@@ -5430,7 +5430,7 @@
         "grade": 88.03,
         "name": "Richaun Holmes",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "SAC"
     },
@@ -5460,7 +5460,7 @@
         "grade": 53.74,
         "name": "Rodney Hood",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": [
             "POR",
@@ -5493,7 +5493,7 @@
         "grade": 83.43,
         "name": "Al Horford",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 28,
         "team": "OKC"
     },
@@ -5523,7 +5523,7 @@
         "grade": 73.29,
         "name": "Talen Horton-Tucker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "LAL"
     },
@@ -5553,7 +5553,7 @@
         "grade": 63.34,
         "name": "Danuel House Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": "HOU"
     },
@@ -5583,7 +5583,7 @@
         "grade": 78.92,
         "name": "Dwight Howard",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "PHI"
     },
@@ -5613,7 +5613,7 @@
         "grade": 78.8,
         "name": "Kevin Huerter",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "ATL"
     },
@@ -5643,7 +5643,7 @@
         "grade": 82.78,
         "name": "De'Andre Hunter",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 23,
         "team": "ATL"
     },
@@ -5673,7 +5673,7 @@
         "grade": 57.18,
         "name": "Chandler Hutchison",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 25,
         "team": [
             "CHI",
@@ -5706,7 +5706,7 @@
         "grade": 83.78,
         "name": "Serge Ibaka",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": "LAC"
     },
@@ -5736,7 +5736,7 @@
         "grade": 69.48,
         "name": "Andre Iguodala",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "MIA"
     },
@@ -5766,7 +5766,7 @@
         "grade": 90.0,
         "name": "Joe Ingles",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "UTA"
     },
@@ -5796,7 +5796,7 @@
         "grade": 87.92,
         "name": "Brandon Ingram",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "NOP"
     },
@@ -5826,7 +5826,7 @@
         "grade": 95.2,
         "name": "Kyrie Irving",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "BRK"
     },
@@ -5856,7 +5856,7 @@
         "grade": 53.09,
         "name": "Wes Iwundu",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": [
             "DAL",
@@ -5889,7 +5889,7 @@
         "grade": 70.21,
         "name": "Frank Jackson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 40,
         "team": "DET"
     },
@@ -5919,7 +5919,7 @@
         "grade": 77.48,
         "name": "Jaren Jackson Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 11,
         "team": "MEM"
     },
@@ -5949,7 +5949,7 @@
         "grade": 68.64,
         "name": "Josh Jackson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "DET"
     },
@@ -5979,7 +5979,7 @@
         "grade": 60.47,
         "name": "Justin Jackson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 34,
         "team": [
             "OKC",
@@ -6012,7 +6012,7 @@
         "grade": 79.19,
         "name": "Reggie Jackson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "LAC"
     },
@@ -6042,7 +6042,7 @@
         "grade": 94.59,
         "name": "LeBron James",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "LAL"
     },
@@ -6072,7 +6072,7 @@
         "grade": 60.72,
         "name": "Mike James",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": "BRK"
     },
@@ -6102,7 +6102,7 @@
         "grade": 58.92,
         "name": "DaQuan Jeffries",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 31,
         "team": [
             "SAC",
@@ -6135,7 +6135,7 @@
         "grade": 73.99,
         "name": "Ty Jerome",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 33,
         "team": "OKC"
     },
@@ -6165,7 +6165,7 @@
         "grade": 77.74,
         "name": "Alize Johnson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 18,
         "team": "BRK"
     },
@@ -6195,7 +6195,7 @@
         "grade": 75.61,
         "name": "Cameron Johnson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "PHO"
     },
@@ -6225,7 +6225,7 @@
         "grade": 69.83,
         "name": "James Johnson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": [
             "DAL",
@@ -6258,7 +6258,7 @@
         "grade": 76.3,
         "name": "Keldon Johnson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "SAS"
     },
@@ -6288,7 +6288,7 @@
         "grade": 63.26,
         "name": "Stanley Johnson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "TOR"
     },
@@ -6318,7 +6318,7 @@
         "grade": 60.67,
         "name": "Tyler Johnson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": "BRK"
     },
@@ -6348,7 +6348,7 @@
         "grade": 99.35,
         "name": "Nikola Jokić",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "DEN"
     },
@@ -6378,7 +6378,7 @@
         "grade": 73.08,
         "name": "Damian Jones",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": [
             "PHO",
@@ -6412,7 +6412,7 @@
         "grade": 72.48,
         "name": "Derrick Jones Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "POR"
     },
@@ -6442,7 +6442,7 @@
         "grade": 60.58,
         "name": "Mason Jones",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 32,
         "team": [
             "HOU",
@@ -6475,7 +6475,7 @@
         "grade": 74.67,
         "name": "Tyus Jones",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "MEM"
     },
@@ -6505,7 +6505,7 @@
         "grade": 82.92,
         "name": "DeAndre Jordan",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": "BRK"
     },
@@ -6535,7 +6535,7 @@
         "grade": 73.15,
         "name": "Cory Joseph",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": [
             "SAC",
@@ -6568,7 +6568,7 @@
         "grade": 74.95,
         "name": "Frank Kaminsky",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "PHO"
     },
@@ -6598,7 +6598,7 @@
         "grade": 76.69,
         "name": "Luke Kennard",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "LAC"
     },
@@ -6628,7 +6628,7 @@
         "grade": 78.19,
         "name": "Maxi Kleber",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "DAL"
     },
@@ -6658,7 +6658,7 @@
         "grade": 61.17,
         "name": "Kevin Knox",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 42,
         "team": "NYK"
     },
@@ -6688,7 +6688,7 @@
         "grade": 76.6,
         "name": "John Konchar",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 43,
         "team": "MEM"
     },
@@ -6718,7 +6718,7 @@
         "grade": 72.21,
         "name": "Furkan Korkmaz",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": "PHI"
     },
@@ -6748,7 +6748,7 @@
         "grade": 66.63,
         "name": "Luke Kornet",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 31,
         "team": [
             "CHI",
@@ -6781,7 +6781,7 @@
         "grade": 77.92,
         "name": "Kyle Kuzma",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "LAL"
     },
@@ -6811,7 +6811,7 @@
         "grade": 58.07,
         "name": "Anthony Lamb",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 24,
         "team": "HOU"
     },
@@ -6841,7 +6841,7 @@
         "grade": 80.62,
         "name": "Jeremy Lamb",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": "IND"
     },
@@ -6871,7 +6871,7 @@
         "grade": 53.95,
         "name": "Romeo Langford",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 18,
         "team": "BOS"
     },
@@ -6901,7 +6901,7 @@
         "grade": 93.14,
         "name": "Zach LaVine",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "CHI"
     },
@@ -6931,7 +6931,7 @@
         "grade": 66.24,
         "name": "Jake Layman",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "MIN"
     },
@@ -6961,7 +6961,7 @@
         "grade": 78.66,
         "name": "Damion Lee",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": "GSW"
     },
@@ -6991,7 +6991,7 @@
         "grade": 68.62,
         "name": "Saben Lee",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 48,
         "team": "DET"
     },
@@ -7021,7 +7021,7 @@
         "grade": 78.42,
         "name": "Alex Len",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": [
             "TOR",
@@ -7054,7 +7054,7 @@
         "grade": 96.38,
         "name": "Kawhi Leonard",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "LAC"
     },
@@ -7084,7 +7084,7 @@
         "grade": 81.36,
         "name": "Caris LeVert",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": [
             "BRK",
@@ -7117,7 +7117,7 @@
         "grade": 61.94,
         "name": "Kira Lewis Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "NOP"
     },
@@ -7147,7 +7147,7 @@
         "grade": 90.7,
         "name": "Damian Lillard",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "POR"
     },
@@ -7177,7 +7177,7 @@
         "grade": 65.61,
         "name": "Nassir Little",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 48,
         "team": "POR"
     },
@@ -7207,7 +7207,7 @@
         "grade": 74.43,
         "name": "Kevon Looney",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "GSW"
     },
@@ -7237,7 +7237,7 @@
         "grade": 84.88,
         "name": "Brook Lopez",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "MIL"
     },
@@ -7267,7 +7267,7 @@
         "grade": 78.07,
         "name": "Robin Lopez",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "WAS"
     },
@@ -7297,7 +7297,7 @@
         "grade": 73.8,
         "name": "Kevin Love",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 25,
         "team": "CLE"
     },
@@ -7327,7 +7327,7 @@
         "grade": 86.87,
         "name": "Kyle Lowry",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "TOR"
     },
@@ -7357,7 +7357,7 @@
         "grade": 58.34,
         "name": "Timothé Luwawu-Cabarrot",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "BRK"
     },
@@ -7387,7 +7387,7 @@
         "grade": 65.0,
         "name": "Trey Lyles",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 23,
         "team": "SAS"
     },
@@ -7417,7 +7417,7 @@
         "grade": 62.18,
         "name": "Théo Maledon",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "OKC"
     },
@@ -7447,7 +7447,7 @@
         "grade": 79.08,
         "name": "Terance Mann",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "LAC"
     },
@@ -7477,7 +7477,7 @@
         "grade": 58.26,
         "name": "Nico Mannion",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 30,
         "team": "GSW"
     },
@@ -7507,7 +7507,7 @@
         "grade": 82.13,
         "name": "Lauri Markkanen",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "CHI"
     },
@@ -7537,7 +7537,7 @@
         "grade": 67.59,
         "name": "Naji Marshall",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 32,
         "team": "NOP"
     },
@@ -7567,7 +7567,7 @@
         "grade": 59.25,
         "name": "Caleb Martin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": "CHO"
     },
@@ -7597,7 +7597,7 @@
         "grade": 63.52,
         "name": "Cody Martin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "CHO"
     },
@@ -7627,7 +7627,7 @@
         "grade": 76.36,
         "name": "Kenyon Martin Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "HOU"
     },
@@ -7657,7 +7657,7 @@
         "grade": 69.11,
         "name": "Garrison Mathews",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "WAS"
     },
@@ -7687,7 +7687,7 @@
         "grade": 64.71,
         "name": "Wesley Matthews",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "LAL"
     },
@@ -7717,7 +7717,7 @@
         "grade": 70.64,
         "name": "Tyrese Maxey",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "PHI"
     },
@@ -7747,7 +7747,7 @@
         "grade": 87.2,
         "name": "CJ McCollum",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "POR"
     },
@@ -7777,7 +7777,7 @@
         "grade": 85.03,
         "name": "T.J. McConnell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "IND"
     },
@@ -7807,7 +7807,7 @@
         "grade": 67.2,
         "name": "Jaden McDaniels",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "MIN"
     },
@@ -7837,7 +7837,7 @@
         "grade": 67.52,
         "name": "Jalen McDaniels",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "CHO"
     },
@@ -7867,7 +7867,7 @@
         "grade": 80.16,
         "name": "Doug McDermott",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "IND"
     },
@@ -7897,7 +7897,7 @@
         "grade": 70.28,
         "name": "JaVale McGee",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": [
             "CLE",
@@ -7930,7 +7930,7 @@
         "grade": 73.34,
         "name": "Rodney McGruder",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 16,
         "team": "DET"
     },
@@ -7960,7 +7960,7 @@
         "grade": 65.76,
         "name": "Jordan McLaughlin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "MIN"
     },
@@ -7990,7 +7990,7 @@
         "grade": 58.88,
         "name": "Ben McLemore",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": [
             "HOU",
@@ -8023,7 +8023,7 @@
         "grade": 55.75,
         "name": "Nicolò Melli",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": [
             "NOP",
@@ -8056,7 +8056,7 @@
         "grade": 81.46,
         "name": "De'Anthony Melton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "MEM"
     },
@@ -8086,7 +8086,7 @@
         "grade": 66.98,
         "name": "Chimezie Metu",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": "SAC"
     },
@@ -8116,7 +8116,7 @@
         "grade": 89.45,
         "name": "Khris Middleton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "MIL"
     },
@@ -8146,7 +8146,7 @@
         "grade": 77.67,
         "name": "Darius Miller",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 18,
         "team": "OKC"
     },
@@ -8176,7 +8176,7 @@
         "grade": 72.42,
         "name": "Patty Mills",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "SAS"
     },
@@ -8206,7 +8206,7 @@
         "grade": 81.77,
         "name": "Paul Millsap",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "DEN"
     },
@@ -8236,7 +8236,7 @@
         "grade": 74.98,
         "name": "Shake Milton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "PHI"
     },
@@ -8266,7 +8266,7 @@
         "grade": 88.77,
         "name": "Donovan Mitchell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": "UTA"
     },
@@ -8296,7 +8296,7 @@
         "grade": 70.46,
         "name": "Malik Monk",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 42,
         "team": "CHO"
     },
@@ -8326,7 +8326,7 @@
         "grade": 63.76,
         "name": "E'Twaun Moore",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 27,
         "team": "PHO"
     },
@@ -8356,7 +8356,7 @@
         "grade": 78.51,
         "name": "Ja Morant",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "MEM"
     },
@@ -8386,7 +8386,7 @@
         "grade": 81.5,
         "name": "Marcus Morris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 57,
         "team": "LAC"
     },
@@ -8416,7 +8416,7 @@
         "grade": 65.2,
         "name": "Markieff Morris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "LAL"
     },
@@ -8446,7 +8446,7 @@
         "grade": 77.73,
         "name": "Monte Morris",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "DEN"
     },
@@ -8476,7 +8476,7 @@
         "grade": 67.17,
         "name": "Mychal Mulder",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "GSW"
     },
@@ -8506,7 +8506,7 @@
         "grade": 81.4,
         "name": "Dejounte Murray",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "SAS"
     },
@@ -8536,7 +8536,7 @@
         "grade": 89.21,
         "name": "Jamal Murray",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 48,
         "team": "DEN"
     },
@@ -8566,7 +8566,7 @@
         "grade": 75.48,
         "name": "Mike Muscala",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 35,
         "team": "OKC"
     },
@@ -8596,7 +8596,7 @@
         "grade": 65.59,
         "name": "Svi Mykhailiuk",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": [
             "DET",
@@ -8629,7 +8629,7 @@
         "grade": 73.3,
         "name": "Abdel Nader",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 24,
         "team": "PHO"
     },
@@ -8659,7 +8659,7 @@
         "grade": 79.27,
         "name": "Larry Nance Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 35,
         "team": "CLE"
     },
@@ -8689,7 +8689,7 @@
         "grade": 64.36,
         "name": "Aaron Nesmith",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "BOS"
     },
@@ -8719,7 +8719,7 @@
         "grade": 77.49,
         "name": "Raul Neto",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "WAS"
     },
@@ -8749,7 +8749,7 @@
         "grade": 74.06,
         "name": "Georges Niang",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "UTA"
     },
@@ -8779,7 +8779,7 @@
         "grade": 83.31,
         "name": "Nerlens Noel",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "NYK"
     },
@@ -8809,7 +8809,7 @@
         "grade": 65.23,
         "name": "Jaylen Nowell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 42,
         "team": "MIN"
     },
@@ -8839,7 +8839,7 @@
         "grade": 83.04,
         "name": "Kendrick Nunn",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "MIA"
     },
@@ -8869,7 +8869,7 @@
         "grade": 85.55,
         "name": "Jusuf Nurkić",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 37,
         "team": "POR"
     },
@@ -8899,7 +8899,7 @@
         "grade": 74.14,
         "name": "David Nwaba",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 30,
         "team": "HOU"
     },
@@ -8929,7 +8929,7 @@
         "grade": 84.62,
         "name": "Royce O'Neale",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "UTA"
     },
@@ -8959,7 +8959,7 @@
         "grade": 61.94,
         "name": "Semi Ojeleye",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "BOS"
     },
@@ -8989,7 +8989,7 @@
         "grade": 66.75,
         "name": "Jahlil Okafor",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 27,
         "team": "DET"
     },
@@ -9019,7 +9019,7 @@
         "grade": 70.27,
         "name": "Chuma Okeke",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "ORL"
     },
@@ -9049,7 +9049,7 @@
         "grade": 63.53,
         "name": "Josh Okogie",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 59,
         "team": "MIN"
     },
@@ -9079,7 +9079,7 @@
         "grade": 74.07,
         "name": "Onyeka Okongwu",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "ATL"
     },
@@ -9109,7 +9109,7 @@
         "grade": 64.14,
         "name": "Isaac Okoro",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 67,
         "team": "CLE"
     },
@@ -9139,7 +9139,7 @@
         "grade": 53.24,
         "name": "KZ Okpala",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 37,
         "team": "MIA"
     },
@@ -9169,7 +9169,7 @@
         "grade": 72.54,
         "name": "Victor Oladipo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 33,
         "team": [
             "IND",
@@ -9203,7 +9203,7 @@
         "grade": 89.56,
         "name": "Kelly Olynyk",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": [
             "MIA",
@@ -9236,7 +9236,7 @@
         "grade": 64.7,
         "name": "Cedi Osman",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 59,
         "team": "CLE"
     },
@@ -9266,7 +9266,7 @@
         "grade": 74.66,
         "name": "Kelly Oubre Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": "GSW"
     },
@@ -9296,7 +9296,7 @@
         "grade": 69.7,
         "name": "Jabari Parker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": [
             "SAC",
@@ -9329,7 +9329,7 @@
         "grade": 68.18,
         "name": "Eric Paschall",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 40,
         "team": "GSW"
     },
@@ -9359,7 +9359,7 @@
         "grade": 68.81,
         "name": "Patrick Patterson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 38,
         "team": "LAC"
     },
@@ -9389,7 +9389,7 @@
         "grade": 66.14,
         "name": "Justin Patton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 13,
         "team": "HOU"
     },
@@ -9419,7 +9419,7 @@
         "grade": 93.81,
         "name": "Chris Paul",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "PHO"
     },
@@ -9449,7 +9449,7 @@
         "grade": 85.07,
         "name": "Cameron Payne",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "PHO"
     },
@@ -9479,7 +9479,7 @@
         "grade": 65.79,
         "name": "Elfrid Payton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "NYK"
     },
@@ -9509,7 +9509,7 @@
         "grade": 88.47,
         "name": "Mason Plumlee",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "DET"
     },
@@ -9539,7 +9539,7 @@
         "grade": 85.43,
         "name": "Jakob Poeltl",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "SAS"
     },
@@ -9569,7 +9569,7 @@
         "grade": 60.92,
         "name": "Aleksej Pokusevski",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": "OKC"
     },
@@ -9599,7 +9599,7 @@
         "grade": 75.47,
         "name": "Jordan Poole",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "GSW"
     },
@@ -9629,7 +9629,7 @@
         "grade": 68.27,
         "name": "Kevin Porter Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 26,
         "team": "HOU"
     },
@@ -9659,7 +9659,7 @@
         "grade": 91.96,
         "name": "Michael Porter Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "DEN"
     },
@@ -9689,7 +9689,7 @@
         "grade": 74.81,
         "name": "Otto Porter Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 28,
         "team": [
             "CHI",
@@ -9722,7 +9722,7 @@
         "grade": 86.51,
         "name": "Bobby Portis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "MIL"
     },
@@ -9752,7 +9752,7 @@
         "grade": 88.06,
         "name": "Kristaps Porziņģis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 43,
         "team": "DAL"
     },
@@ -9782,7 +9782,7 @@
         "grade": 81.2,
         "name": "Dwight Powell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "DAL"
     },
@@ -9812,7 +9812,7 @@
         "grade": 86.4,
         "name": "Norman Powell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": [
             "TOR",
@@ -9845,7 +9845,7 @@
         "grade": 70.41,
         "name": "Taurean Prince",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": [
             "BRK",
@@ -9878,7 +9878,7 @@
         "grade": 74.43,
         "name": "Payton Pritchard",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "BOS"
     },
@@ -9908,7 +9908,7 @@
         "grade": 77.0,
         "name": "Immanuel Quickley",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "NYK"
     },
@@ -9938,7 +9938,7 @@
         "grade": 57.86,
         "name": "Chasson Randle",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": "ORL"
     },
@@ -9968,7 +9968,7 @@
         "grade": 90.97,
         "name": "Julius Randle",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "NYK"
     },
@@ -9998,7 +9998,7 @@
         "grade": 65.54,
         "name": "Cam Reddish",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 26,
         "team": "ATL"
     },
@@ -10028,7 +10028,7 @@
         "grade": 62.88,
         "name": "J.J. Redick",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 44,
         "team": [
             "NOP",
@@ -10061,7 +10061,7 @@
         "grade": 81.48,
         "name": "Naz Reid",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "MIN"
     },
@@ -10091,7 +10091,7 @@
         "grade": 74.98,
         "name": "Josh Richardson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 59,
         "team": "DAL"
     },
@@ -10121,7 +10121,7 @@
         "grade": 68.91,
         "name": "Austin Rivers",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": [
             "NYK",
@@ -10154,7 +10154,7 @@
         "grade": 80.76,
         "name": "Duncan Robinson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "MIA"
     },
@@ -10184,7 +10184,7 @@
         "grade": 60.2,
         "name": "Glenn Robinson III",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 23,
         "team": "SAC"
     },
@@ -10214,7 +10214,7 @@
         "grade": 57.36,
         "name": "Jerome Robinson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 17,
         "team": "WAS"
     },
@@ -10244,7 +10244,7 @@
         "grade": 84.37,
         "name": "Mitchell Robinson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 31,
         "team": "NYK"
     },
@@ -10274,7 +10274,7 @@
         "grade": 71.68,
         "name": "Isaiah Roby",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "OKC"
     },
@@ -10304,7 +10304,7 @@
         "grade": 73.3,
         "name": "Rajon Rondo",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": [
             "ATL",
@@ -10337,7 +10337,7 @@
         "grade": 84.3,
         "name": "Derrick Rose",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": [
             "DET",
@@ -10370,7 +10370,7 @@
         "grade": 71.88,
         "name": "Terrence Ross",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 46,
         "team": "ORL"
     },
@@ -10400,7 +10400,7 @@
         "grade": 87.9,
         "name": "Terry Rozier",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "CHO"
     },
@@ -10430,7 +10430,7 @@
         "grade": 72.34,
         "name": "Ricky Rubio",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "MIN"
     },
@@ -10460,7 +10460,7 @@
         "grade": 79.0,
         "name": "D'Angelo Russell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 42,
         "team": "MIN"
     },
@@ -10490,7 +10490,7 @@
         "grade": 93.36,
         "name": "Domantas Sabonis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "IND"
     },
@@ -10520,7 +10520,7 @@
         "grade": 59.24,
         "name": "JaKarr Sampson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 29,
         "team": "IND"
     },
@@ -10550,7 +10550,7 @@
         "grade": 72.12,
         "name": "Dario Šarić",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "PHO"
     },
@@ -10580,7 +10580,7 @@
         "grade": 80.08,
         "name": "Tomáš Satoranský",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "CHI"
     },
@@ -10610,7 +10610,7 @@
         "grade": 78.94,
         "name": "Dennis Schröder",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "LAL"
     },
@@ -10640,7 +10640,7 @@
         "grade": 59.71,
         "name": "Mike Scott",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 51,
         "team": "PHI"
     },
@@ -10670,7 +10670,7 @@
         "grade": 82.19,
         "name": "Collin Sexton",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "CLE"
     },
@@ -10700,7 +10700,7 @@
         "grade": 68.44,
         "name": "Landry Shamet",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "BRK"
     },
@@ -10730,7 +10730,7 @@
         "grade": 85.66,
         "name": "Pascal Siakam",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "TOR"
     },
@@ -10760,7 +10760,7 @@
         "grade": 90.16,
         "name": "Ben Simmons",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": "PHI"
     },
@@ -10790,7 +10790,7 @@
         "grade": 69.86,
         "name": "Anfernee Simons",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "POR"
     },
@@ -10820,7 +10820,7 @@
         "grade": 79.05,
         "name": "Marcus Smart",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 48,
         "team": "BOS"
     },
@@ -10850,7 +10850,7 @@
         "grade": 69.72,
         "name": "Dennis Smith Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 23,
         "team": [
             "NYK",
@@ -10883,7 +10883,7 @@
         "grade": 67.32,
         "name": "Ish Smith",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 44,
         "team": "WAS"
     },
@@ -10913,7 +10913,7 @@
         "grade": 74.19,
         "name": "Tony Snell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "ATL"
     },
@@ -10943,7 +10943,7 @@
         "grade": 59.55,
         "name": "Lamar Stevens",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 40,
         "team": "CLE"
     },
@@ -10973,7 +10973,7 @@
         "grade": 80.72,
         "name": "Isaiah Stewart",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "DET"
     },
@@ -11003,7 +11003,7 @@
         "grade": 66.6,
         "name": "Max Strus",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": "MIA"
     },
@@ -11033,7 +11033,7 @@
         "grade": 72.07,
         "name": "Edmond Sumner",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": "IND"
     },
@@ -11063,7 +11063,7 @@
         "grade": 80.56,
         "name": "Jae'Sean Tate",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": "HOU"
     },
@@ -11093,7 +11093,7 @@
         "grade": 91.66,
         "name": "Jayson Tatum",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "BOS"
     },
@@ -11123,7 +11123,7 @@
         "grade": 69.18,
         "name": "Jeff Teague",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 55,
         "team": [
             "BOS",
@@ -11156,7 +11156,7 @@
         "grade": 68.34,
         "name": "Garrett Temple",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 56,
         "team": "CHI"
     },
@@ -11186,7 +11186,7 @@
         "grade": 83.27,
         "name": "Daniel Theis",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": [
             "BOS",
@@ -11219,7 +11219,7 @@
         "grade": 56.37,
         "name": "Brodric Thomas",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 32,
         "team": [
             "HOU",
@@ -11252,7 +11252,7 @@
         "grade": 71.47,
         "name": "Tristan Thompson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 54,
         "team": "BOS"
     },
@@ -11282,7 +11282,7 @@
         "grade": 53.67,
         "name": "Sindarius Thornwell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 21,
         "team": [
             "NOP",
@@ -11315,7 +11315,7 @@
         "grade": 72.17,
         "name": "Matisse Thybulle",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "PHI"
     },
@@ -11345,7 +11345,7 @@
         "grade": 56.23,
         "name": "Killian Tillie",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 18,
         "team": "MEM"
     },
@@ -11375,7 +11375,7 @@
         "grade": 79.44,
         "name": "Xavier Tillman Sr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 59,
         "team": "MEM"
     },
@@ -11405,7 +11405,7 @@
         "grade": 69.85,
         "name": "Obi Toppin",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "NYK"
     },
@@ -11435,7 +11435,7 @@
         "grade": 83.09,
         "name": "Juan Toscano-Anderson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 53,
         "team": "GSW"
     },
@@ -11465,7 +11465,7 @@
         "grade": 93.56,
         "name": "Karl-Anthony Towns",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "MIN"
     },
@@ -11495,7 +11495,7 @@
         "grade": 70.39,
         "name": "Gary Trent Jr.",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 58,
         "team": [
             "POR",
@@ -11528,7 +11528,7 @@
         "grade": 62.55,
         "name": "P.J. Tucker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": [
             "HOU",
@@ -11561,7 +11561,7 @@
         "grade": 84.14,
         "name": "Myles Turner",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 47,
         "team": "IND"
     },
@@ -11591,7 +11591,7 @@
         "grade": 91.91,
         "name": "Jonas Valančiūnas",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "MEM"
     },
@@ -11621,7 +11621,7 @@
         "grade": 63.21,
         "name": "Denzel Valentine",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "CHI"
     },
@@ -11651,7 +11651,7 @@
         "grade": 79.88,
         "name": "Jarred Vanderbilt",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "MIN"
     },
@@ -11681,7 +11681,7 @@
         "grade": 85.74,
         "name": "Fred VanVleet",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "TOR"
     },
@@ -11711,7 +11711,7 @@
         "grade": 67.12,
         "name": "Devin Vassell",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 62,
         "team": "SAS"
     },
@@ -11741,7 +11741,7 @@
         "grade": 57.7,
         "name": "Gabe Vincent",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "MIA"
     },
@@ -11771,7 +11771,7 @@
         "grade": 92.45,
         "name": "Nikola Vučević",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 70,
         "team": [
             "ORL",
@@ -11804,7 +11804,7 @@
         "grade": 71.61,
         "name": "Dean Wade",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "CLE"
     },
@@ -11834,7 +11834,7 @@
         "grade": 70.22,
         "name": "Moritz Wagner",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 45,
         "team": [
             "WAS",
@@ -11868,7 +11868,7 @@
         "grade": 84.23,
         "name": "Kemba Walker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 43,
         "team": "BOS"
     },
@@ -11898,7 +11898,7 @@
         "grade": 64.78,
         "name": "Lonnie Walker IV",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 60,
         "team": "SAS"
     },
@@ -11928,7 +11928,7 @@
         "grade": 72.48,
         "name": "John Wall",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 40,
         "team": "HOU"
     },
@@ -11958,7 +11958,7 @@
         "grade": 62.4,
         "name": "Brad Wanamaker",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": [
             "GSW",
@@ -11991,7 +11991,7 @@
         "grade": 79.77,
         "name": "P.J. Washington",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 64,
         "team": "CHO"
     },
@@ -12021,7 +12021,7 @@
         "grade": 70.78,
         "name": "Yuta Watanabe",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 50,
         "team": "TOR"
     },
@@ -12051,7 +12051,7 @@
         "grade": 65.48,
         "name": "Paul Watson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 27,
         "team": "TOR"
     },
@@ -12081,7 +12081,7 @@
         "grade": 84.59,
         "name": "Russell Westbrook",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 65,
         "team": "WAS"
     },
@@ -12111,7 +12111,7 @@
         "grade": 73.97,
         "name": "Coby White",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 69,
         "team": "CHI"
     },
@@ -12141,7 +12141,7 @@
         "grade": 79.41,
         "name": "Derrick White",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": "SAS"
     },
@@ -12171,7 +12171,7 @@
         "grade": 71.78,
         "name": "Hassan Whiteside",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 36,
         "team": "SAC"
     },
@@ -12201,7 +12201,7 @@
         "grade": 83.87,
         "name": "Andrew Wiggins",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "GSW"
     },
@@ -12231,7 +12231,7 @@
         "grade": 63.59,
         "name": "Grant Williams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "BOS"
     },
@@ -12261,7 +12261,7 @@
         "grade": 79.6,
         "name": "Kenrich Williams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": "OKC"
     },
@@ -12291,7 +12291,7 @@
         "grade": 70.09,
         "name": "Lou Williams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 66,
         "team": [
             "LAC",
@@ -12324,7 +12324,7 @@
         "grade": 74.58,
         "name": "Patrick Williams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 71,
         "team": "CHI"
     },
@@ -12354,7 +12354,7 @@
         "grade": 88.91,
         "name": "Robert Williams",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 52,
         "team": "BOS"
     },
@@ -12384,7 +12384,7 @@
         "grade": 93.18,
         "name": "Zion Williamson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 61,
         "team": "NOP"
     },
@@ -12414,7 +12414,7 @@
         "grade": 60.89,
         "name": "D.J. Wilson",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 35,
         "team": [
             "MIL",
@@ -12447,7 +12447,7 @@
         "grade": 67.97,
         "name": "Dylan Windler",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 31,
         "team": "CLE"
     },
@@ -12477,7 +12477,7 @@
         "grade": 59.84,
         "name": "Justise Winslow",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 26,
         "team": "MEM"
     },
@@ -12507,7 +12507,7 @@
         "grade": 68.61,
         "name": "James Wiseman",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 39,
         "team": "GSW"
     },
@@ -12537,7 +12537,7 @@
         "grade": 86.82,
         "name": "Christian Wood",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 41,
         "team": "HOU"
     },
@@ -12567,7 +12567,7 @@
         "grade": 85.27,
         "name": "Delon Wright",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": [
             "DET",
@@ -12600,7 +12600,7 @@
         "grade": 88.74,
         "name": "Thaddeus Young",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 68,
         "team": "CHI"
     },
@@ -12630,7 +12630,7 @@
         "grade": 87.04,
         "name": "Trae Young",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 63,
         "team": "ATL"
     },
@@ -12660,7 +12660,7 @@
         "grade": 80.74,
         "name": "Cody Zeller",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 48,
         "team": "CHO"
     },
@@ -12690,7 +12690,7 @@
         "grade": 86.55,
         "name": "Ivica Zubac",
         "league_grade": 89.41,
-        "year": 2021,
+        "year": "2021",
         "games_played": 72,
         "team": "LAC"
     }

@@ -24,7 +24,7 @@
         "grade": 59.08,
         "name": "Arron Afflalo",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "DET"
     },
@@ -53,7 +53,7 @@
         "grade": 53.28,
         "name": "Blake Ahearn",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 12,
         "team": "MIA"
     },
@@ -82,7 +82,7 @@
         "grade": 83.6,
         "name": "LaMarcus Aldridge",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "POR"
     },
@@ -111,7 +111,7 @@
         "grade": 60.62,
         "name": "Malik Allen",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": [
             "NJN",
@@ -143,7 +143,7 @@
         "grade": 88.33,
         "name": "Ray Allen",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "BOS"
     },
@@ -172,7 +172,7 @@
         "grade": 66.97,
         "name": "Tony Allen",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "BOS"
     },
@@ -201,7 +201,7 @@
         "grade": 76.15,
         "name": "Rafer Alston",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "HOU"
     },
@@ -230,7 +230,7 @@
         "grade": 53.87,
         "name": "Derek Anderson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 28,
         "team": "CHA"
     },
@@ -259,7 +259,7 @@
         "grade": 90.36,
         "name": "Carmelo Anthony",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "DEN"
     },
@@ -288,7 +288,7 @@
         "grade": 57.14,
         "name": "Joel Anthony",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 24,
         "team": "MIA"
     },
@@ -317,7 +317,7 @@
         "grade": 75.24,
         "name": "Gilbert Arenas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 13,
         "team": "WAS"
     },
@@ -346,7 +346,7 @@
         "grade": 75.7,
         "name": "Trevor Ariza",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 35,
         "team": [
             "ORL",
@@ -378,7 +378,7 @@
         "grade": 52.89,
         "name": "Darrell Armstrong",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 50,
         "team": "NJN"
     },
@@ -407,7 +407,7 @@
         "grade": 53.61,
         "name": "Hilton Armstrong",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 65,
         "team": "NOH"
     },
@@ -436,7 +436,7 @@
         "grade": 69.37,
         "name": "Carlos Arroyo",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 62,
         "team": "ORL"
     },
@@ -465,7 +465,7 @@
         "grade": 51.17,
         "name": "Chucky Atkins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 24,
         "team": "DEN"
     },
@@ -494,7 +494,7 @@
         "grade": 70.72,
         "name": "Kelenna Azubuike",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "GSW"
     },
@@ -523,7 +523,7 @@
         "grade": 63.25,
         "name": "Renaldo Balkman",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 65,
         "team": "NYK"
     },
@@ -552,7 +552,7 @@
         "grade": 67.52,
         "name": "Marcus Banks",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 36,
         "team": [
             "PHO",
@@ -584,7 +584,7 @@
         "grade": 81.86,
         "name": "Leandro Barbosa",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "PHO"
     },
@@ -613,7 +613,7 @@
         "grade": 58.34,
         "name": "J.J. Barea",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 44,
         "team": "DAL"
     },
@@ -642,7 +642,7 @@
         "grade": 60.99,
         "name": "Andrea Bargnani",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "TOR"
     },
@@ -671,7 +671,7 @@
         "grade": 71.07,
         "name": "Matt Barnes",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "GSW"
     },
@@ -700,7 +700,7 @@
         "grade": 52.09,
         "name": "Earl Barron",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 46,
         "team": "MIA"
     },
@@ -729,7 +729,7 @@
         "grade": 78.46,
         "name": "Brent Barry",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 31,
         "team": "SAS"
     },
@@ -758,7 +758,7 @@
         "grade": 77.03,
         "name": "Brandon Bass",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "DAL"
     },
@@ -787,7 +787,7 @@
         "grade": 83.66,
         "name": "Shane Battier",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "HOU"
     },
@@ -816,7 +816,7 @@
         "grade": 59.99,
         "name": "Charlie Bell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 68,
         "team": "MIL"
     },
@@ -845,7 +845,7 @@
         "grade": 75.14,
         "name": "Raja Bell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "PHO"
     },
@@ -874,7 +874,7 @@
         "grade": 71.04,
         "name": "Mike Bibby",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 48,
         "team": [
             "SAC",
@@ -906,7 +906,7 @@
         "grade": 85.85,
         "name": "Andris Biedriņš",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "GSW"
     },
@@ -935,7 +935,7 @@
         "grade": 91.39,
         "name": "Chauncey Billups",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "DET"
     },
@@ -964,7 +964,7 @@
         "grade": 69.28,
         "name": "Steve Blake",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "POR"
     },
@@ -993,7 +993,7 @@
         "grade": 71.63,
         "name": "Andray Blatche",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "WAS"
     },
@@ -1022,7 +1022,7 @@
         "grade": 60.38,
         "name": "Mark Blount",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": "MIA"
     },
@@ -1051,7 +1051,7 @@
         "grade": 74.72,
         "name": "Keith Bogans",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "ORL"
     },
@@ -1080,7 +1080,7 @@
         "grade": 83.27,
         "name": "Andrew Bogut",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "MIL"
     },
@@ -1109,7 +1109,7 @@
         "grade": 66.12,
         "name": "Matt Bonner",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 68,
         "team": "SAS"
     },
@@ -1138,7 +1138,7 @@
         "grade": 73.81,
         "name": "Josh Boone",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "NJN"
     },
@@ -1167,7 +1167,7 @@
         "grade": 93.6,
         "name": "Carlos Boozer",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "UTA"
     },
@@ -1196,7 +1196,7 @@
         "grade": 93.65,
         "name": "Chris Bosh",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 67,
         "team": "TOR"
     },
@@ -1225,7 +1225,7 @@
         "grade": 66.59,
         "name": "Bruce Bowen",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "SAS"
     },
@@ -1254,7 +1254,7 @@
         "grade": 62.2,
         "name": "Ryan Bowen",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 53,
         "team": "NOH"
     },
@@ -1283,7 +1283,7 @@
         "grade": 52.16,
         "name": "Earl Boykins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 36,
         "team": "CHA"
     },
@@ -1312,7 +1312,7 @@
         "grade": 56.57,
         "name": "Corey Brewer",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "MIN"
     },
@@ -1341,7 +1341,7 @@
         "grade": 88.54,
         "name": "Ronnie Brewer",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "UTA"
     },
@@ -1370,7 +1370,7 @@
         "grade": 66.98,
         "name": "Aaron Brooks",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": "HOU"
     },
@@ -1399,7 +1399,7 @@
         "grade": 64.0,
         "name": "Devin Brown",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "CLE"
     },
@@ -1428,7 +1428,7 @@
         "grade": 64.46,
         "name": "Kwame Brown",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 38,
         "team": [
             "LAL",
@@ -1460,7 +1460,7 @@
         "grade": 54.75,
         "name": "P.J. Brown",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 18,
         "team": "BOS"
     },
@@ -1489,7 +1489,7 @@
         "grade": 47.63,
         "name": "Shannon Brown",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 21,
         "team": [
             "CLE",
@@ -1521,7 +1521,7 @@
         "grade": 94.84,
         "name": "Kobe Bryant",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "LAL"
     },
@@ -1550,7 +1550,7 @@
         "grade": 54.69,
         "name": "Greg Buckner",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 31,
         "team": "MIN"
     },
@@ -1579,7 +1579,7 @@
         "grade": 91.87,
         "name": "Caron Butler",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 58,
         "team": "WAS"
     },
@@ -1608,7 +1608,7 @@
         "grade": 57.17,
         "name": "Rasual Butler",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": "NOH"
     },
@@ -1637,7 +1637,7 @@
         "grade": 88.24,
         "name": "Andrew Bynum",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 35,
         "team": "LAL"
     },
@@ -1666,7 +1666,7 @@
         "grade": 89.88,
         "name": "José Calderón",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "TOR"
     },
@@ -1695,7 +1695,7 @@
         "grade": 83.62,
         "name": "Marcus Camby",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "DEN"
     },
@@ -1724,7 +1724,7 @@
         "grade": 47.51,
         "name": "Brian Cardinal",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 37,
         "team": "MEM"
     },
@@ -1753,7 +1753,7 @@
         "grade": 60.56,
         "name": "Rodney Carney",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "PHI"
     },
@@ -1782,7 +1782,7 @@
         "grade": 66.26,
         "name": "Matt Carroll",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "CHA"
     },
@@ -1811,7 +1811,7 @@
         "grade": 77.11,
         "name": "Anthony Carter",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "DEN"
     },
@@ -1840,7 +1840,7 @@
         "grade": 88.55,
         "name": "Vince Carter",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "NJN"
     },
@@ -1869,7 +1869,7 @@
         "grade": 70.74,
         "name": "Sam Cassell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 55,
         "team": [
             "LAC",
@@ -1901,7 +1901,7 @@
         "grade": 86.22,
         "name": "Tyson Chandler",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "NOH"
     },
@@ -1930,7 +1930,7 @@
         "grade": 58.43,
         "name": "Wilson Chandler",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 35,
         "team": "NYK"
     },
@@ -1959,7 +1959,7 @@
         "grade": 87.2,
         "name": "Josh Childress",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "ATL"
     },
@@ -1988,7 +1988,7 @@
         "grade": 52.25,
         "name": "Jarron Collins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "UTA"
     },
@@ -2017,7 +2017,7 @@
         "grade": 51.49,
         "name": "Jason Collins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": [
             "NJN",
@@ -2049,7 +2049,7 @@
         "grade": 47.89,
         "name": "Mardy Collins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 46,
         "team": "NYK"
     },
@@ -2078,7 +2078,7 @@
         "grade": 77.0,
         "name": "Nick Collison",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "SEA"
     },
@@ -2107,7 +2107,7 @@
         "grade": 62.47,
         "name": "Mike Conley",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 53,
         "team": "MEM"
     },
@@ -2136,7 +2136,7 @@
         "grade": 54.53,
         "name": "Brian Cook",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": [
             "LAL",
@@ -2168,7 +2168,7 @@
         "grade": 55.36,
         "name": "Daequan Cook",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 59,
         "team": "MIA"
     },
@@ -2197,7 +2197,7 @@
         "grade": 77.35,
         "name": "Jamal Crawford",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "NYK"
     },
@@ -2226,7 +2226,7 @@
         "grade": 53.34,
         "name": "Javaris Crittenton",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 50,
         "team": [
             "LAL",
@@ -2258,7 +2258,7 @@
         "grade": 65.35,
         "name": "Austin Croshere",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 44,
         "team": "GSW"
     },
@@ -2287,7 +2287,7 @@
         "grade": 70.53,
         "name": "Eddy Curry",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 59,
         "team": "NYK"
     },
@@ -2316,7 +2316,7 @@
         "grade": 80.08,
         "name": "Samuel Dalembert",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "PHI"
     },
@@ -2345,7 +2345,7 @@
         "grade": 81.92,
         "name": "Erick Dampier",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "DAL"
     },
@@ -2374,7 +2374,7 @@
         "grade": 74.23,
         "name": "Antonio Daniels",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 71,
         "team": "WAS"
     },
@@ -2403,7 +2403,7 @@
         "grade": 63.86,
         "name": "Marquis Daniels",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "IND"
     },
@@ -2432,7 +2432,7 @@
         "grade": 88.44,
         "name": "Baron Davis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "GSW"
     },
@@ -2461,7 +2461,7 @@
         "grade": 64.88,
         "name": "Glen Davis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": "BOS"
     },
@@ -2490,7 +2490,7 @@
         "grade": 71.46,
         "name": "Ricky Davis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "MIA"
     },
@@ -2519,7 +2519,7 @@
         "grade": 73.14,
         "name": "Carlos Delfino",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "TOR"
     },
@@ -2548,7 +2548,7 @@
         "grade": 81.38,
         "name": "Luol Deng",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 63,
         "team": "CHI"
     },
@@ -2577,7 +2577,7 @@
         "grade": 74.41,
         "name": "Boris Diaw",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "PHO"
     },
@@ -2606,7 +2606,7 @@
         "grade": 53.78,
         "name": "Yakhouba Diawara",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 54,
         "team": "DEN"
     },
@@ -2635,7 +2635,7 @@
         "grade": 63.31,
         "name": "Dan Dickau",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 67,
         "team": "LAC"
     },
@@ -2664,7 +2664,7 @@
         "grade": 64.12,
         "name": "Travis Diener",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "IND"
     },
@@ -2693,7 +2693,7 @@
         "grade": 63.55,
         "name": "Ike Diogu",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 30,
         "team": "IND"
     },
@@ -2722,7 +2722,7 @@
         "grade": 70.57,
         "name": "DeSagana Diop",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": [
             "DAL",
@@ -2754,7 +2754,7 @@
         "grade": 57.55,
         "name": "Juan Dixon",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 53,
         "team": [
             "TOR",
@@ -2786,7 +2786,7 @@
         "grade": 51.53,
         "name": "Michael Doleac",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 24,
         "team": "MIN"
     },
@@ -2815,7 +2815,7 @@
         "grade": 73.48,
         "name": "Keyon Dooling",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "ORL"
     },
@@ -2844,7 +2844,7 @@
         "grade": 54.54,
         "name": "Quincy Douby",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "SAC"
     },
@@ -2873,7 +2873,7 @@
         "grade": 69.57,
         "name": "Jared Dudley",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "CHA"
     },
@@ -2902,7 +2902,7 @@
         "grade": 63.28,
         "name": "Chris Duhon",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "CHI"
     },
@@ -2931,7 +2931,7 @@
         "grade": 92.26,
         "name": "Tim Duncan",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "SAS"
     },
@@ -2960,7 +2960,7 @@
         "grade": 89.83,
         "name": "Mike Dunleavy",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "IND"
     },
@@ -2989,7 +2989,7 @@
         "grade": 77.78,
         "name": "Kevin Durant",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "SEA"
     },
@@ -3018,7 +3018,7 @@
         "grade": 89.95,
         "name": "Monta Ellis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "GSW"
     },
@@ -3047,7 +3047,7 @@
         "grade": 50.3,
         "name": "Francisco Elson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 63,
         "team": [
             "SAS",
@@ -3079,7 +3079,7 @@
         "grade": 54.48,
         "name": "Melvin Ely",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 52,
         "team": "NOH"
     },
@@ -3108,7 +3108,7 @@
         "grade": 77.0,
         "name": "Maurice Evans",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": [
             "LAL",
@@ -3140,7 +3140,7 @@
         "grade": 61.46,
         "name": "Reggie Evans",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "PHI"
     },
@@ -3169,7 +3169,7 @@
         "grade": 78.41,
         "name": "Jordan Farmar",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "LAL"
     },
@@ -3198,7 +3198,7 @@
         "grade": 71.59,
         "name": "Nick Fazekas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 26,
         "team": [
             "DAL",
@@ -3230,7 +3230,7 @@
         "grade": 71.06,
         "name": "Raymond Felton",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "CHA"
     },
@@ -3259,7 +3259,7 @@
         "grade": 70.85,
         "name": "Michael Finley",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "SAS"
     },
@@ -3288,7 +3288,7 @@
         "grade": 77.3,
         "name": "Derek Fisher",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "LAL"
     },
@@ -3317,7 +3317,7 @@
         "grade": 80.66,
         "name": "T.J. Ford",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": "TOR"
     },
@@ -3346,7 +3346,7 @@
         "grade": 81.52,
         "name": "Jeff Foster",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "IND"
     },
@@ -3375,7 +3375,7 @@
         "grade": 68.13,
         "name": "Randy Foye",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 39,
         "team": "MIN"
     },
@@ -3404,7 +3404,7 @@
         "grade": 47.75,
         "name": "Richie Frahm",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 10,
         "team": "LAC"
     },
@@ -3433,7 +3433,7 @@
         "grade": 58.36,
         "name": "Steve Francis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 10,
         "team": "HOU"
     },
@@ -3462,7 +3462,7 @@
         "grade": 71.35,
         "name": "Channing Frye",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "POR"
     },
@@ -3491,7 +3491,7 @@
         "grade": 50.17,
         "name": "Dan Gadzuric",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": "MIL"
     },
@@ -3520,7 +3520,7 @@
         "grade": 82.4,
         "name": "Francisco García",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "SAC"
     },
@@ -3549,7 +3549,7 @@
         "grade": 96.99,
         "name": "Kevin Garnett",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 71,
         "team": "BOS"
     },
@@ -3578,7 +3578,7 @@
         "grade": 91.81,
         "name": "Pau Gasol",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": [
             "MEM",
@@ -3610,7 +3610,7 @@
         "grade": 85.99,
         "name": "Rudy Gay",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "MEM"
     },
@@ -3639,7 +3639,7 @@
         "grade": 56.03,
         "name": "Mickaël Gelabale",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 39,
         "team": "SEA"
     },
@@ -3668,7 +3668,7 @@
         "grade": 53.24,
         "name": "Devean George",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 53,
         "team": "DAL"
     },
@@ -3697,7 +3697,7 @@
         "grade": 74.8,
         "name": "Daniel Gibson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 58,
         "team": "CLE"
     },
@@ -3726,7 +3726,7 @@
         "grade": 60.38,
         "name": "Eddie Gill",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 14,
         "team": [
             "NJN",
@@ -3758,7 +3758,7 @@
         "grade": 94.96,
         "name": "Manu Ginóbili",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "SAS"
     },
@@ -3787,7 +3787,7 @@
         "grade": 60.16,
         "name": "Gordan Giriček",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 56,
         "team": [
             "UTA",
@@ -3820,7 +3820,7 @@
         "grade": 78.0,
         "name": "Ryan Gomes",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "MIN"
     },
@@ -3849,7 +3849,7 @@
         "grade": 70.43,
         "name": "Drew Gooden",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": [
             "CLE",
@@ -3881,7 +3881,7 @@
         "grade": 80.09,
         "name": "Ben Gordon",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "CHI"
     },
@@ -3910,7 +3910,7 @@
         "grade": 88.27,
         "name": "Danny Granger",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "IND"
     },
@@ -3939,7 +3939,7 @@
         "grade": 62.96,
         "name": "Aaron Gray",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 61,
         "team": "CHI"
     },
@@ -3968,7 +3968,7 @@
         "grade": 51.64,
         "name": "Gerald Green",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 30,
         "team": [
             "MIN",
@@ -4000,7 +4000,7 @@
         "grade": 61.56,
         "name": "Jeff Green",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "SEA"
     },
@@ -4029,7 +4029,7 @@
         "grade": 68.98,
         "name": "Willie Green",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "PHI"
     },
@@ -4058,7 +4058,7 @@
         "grade": 87.43,
         "name": "Richard Hamilton",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "DET"
     },
@@ -4087,7 +4087,7 @@
         "grade": 59.55,
         "name": "Anfernee Hardaway",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 16,
         "team": "MIA"
     },
@@ -4116,7 +4116,7 @@
         "grade": 70.74,
         "name": "Matt Harpring",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "UTA"
     },
@@ -4145,7 +4145,7 @@
         "grade": 79.71,
         "name": "Al Harrington",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "GSW"
     },
@@ -4174,7 +4174,7 @@
         "grade": 84.95,
         "name": "Devin Harris",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 64,
         "team": [
             "DAL",
@@ -4206,7 +4206,7 @@
         "grade": 60.63,
         "name": "David Harrison",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 55,
         "team": "IND"
     },
@@ -4235,7 +4235,7 @@
         "grade": 53.38,
         "name": "Jason Hart",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 57,
         "team": "UTA"
     },
@@ -4264,7 +4264,7 @@
         "grade": 71.02,
         "name": "Udonis Haslem",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 49,
         "team": "MIA"
     },
@@ -4293,7 +4293,7 @@
         "grade": 48.53,
         "name": "Trenton Hassell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 63,
         "team": [
             "DAL",
@@ -4325,7 +4325,7 @@
         "grade": 57.63,
         "name": "Spencer Hawes",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 71,
         "team": "SAC"
     },
@@ -4354,7 +4354,7 @@
         "grade": 74.65,
         "name": "Chuck Hayes",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "HOU"
     },
@@ -4383,7 +4383,7 @@
         "grade": 68.92,
         "name": "Jarvis Hayes",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "DET"
     },
@@ -4412,7 +4412,7 @@
         "grade": 81.94,
         "name": "Brendan Haywood",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "WAS"
     },
@@ -4441,7 +4441,7 @@
         "grade": 74.91,
         "name": "Luther Head",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "HOU"
     },
@@ -4470,7 +4470,7 @@
         "grade": 58.05,
         "name": "Nenê",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 16,
         "team": "DEN"
     },
@@ -4499,7 +4499,7 @@
         "grade": 87.49,
         "name": "Grant Hill",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "PHO"
     },
@@ -4528,7 +4528,7 @@
         "grade": 75.01,
         "name": "Kirk Hinrich",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "CHI"
     },
@@ -4557,7 +4557,7 @@
         "grade": 78.09,
         "name": "Al Horford",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "ATL"
     },
@@ -4586,7 +4586,7 @@
         "grade": 58.4,
         "name": "Robert Horry",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 45,
         "team": "SAS"
     },
@@ -4615,7 +4615,7 @@
         "grade": 75.62,
         "name": "Eddie House",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "BOS"
     },
@@ -4644,7 +4644,7 @@
         "grade": 93.97,
         "name": "Dwight Howard",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "ORL"
     },
@@ -4673,7 +4673,7 @@
         "grade": 85.75,
         "name": "Josh Howard",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "DAL"
     },
@@ -4702,7 +4702,7 @@
         "grade": 67.53,
         "name": "Larry Hughes",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 68,
         "team": [
             "CLE",
@@ -4734,7 +4734,7 @@
         "grade": 66.09,
         "name": "Kris Humphries",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "TOR"
     },
@@ -4763,7 +4763,7 @@
         "grade": 91.07,
         "name": "Andre Iguodala",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "PHI"
     },
@@ -4792,7 +4792,7 @@
         "grade": 81.77,
         "name": "Zydrunas Ilgauskas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "CLE"
     },
@@ -4821,7 +4821,7 @@
         "grade": 88.53,
         "name": "Allen Iverson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "DEN"
     },
@@ -4850,7 +4850,7 @@
         "grade": 53.7,
         "name": "Royal Ivey",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "MIL"
     },
@@ -4879,7 +4879,7 @@
         "grade": 72.45,
         "name": "Jarrett Jack",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "POR"
     },
@@ -4908,7 +4908,7 @@
         "grade": 71.06,
         "name": "Bobby Jackson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": [
             "NOH",
@@ -4940,7 +4940,7 @@
         "grade": 52.16,
         "name": "Luke Jackson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 14,
         "team": "MIA"
     },
@@ -4969,7 +4969,7 @@
         "grade": 79.4,
         "name": "Stephen Jackson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "GSW"
     },
@@ -4998,7 +4998,7 @@
         "grade": 47.26,
         "name": "Casey Jacobsen",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 53,
         "team": "MEM"
     },
@@ -5027,7 +5027,7 @@
         "grade": 96.65,
         "name": "LeBron James",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "CLE"
     },
@@ -5056,7 +5056,7 @@
         "grade": 53.28,
         "name": "Mike James",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 54,
         "team": [
             "HOU",
@@ -5088,7 +5088,7 @@
         "grade": 85.64,
         "name": "Antawn Jamison",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "WAS"
     },
@@ -5117,7 +5117,7 @@
         "grade": 71.1,
         "name": "Marko Jarić",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "MIN"
     },
@@ -5146,7 +5146,7 @@
         "grade": 87.48,
         "name": "Al Jefferson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "MIN"
     },
@@ -5175,7 +5175,7 @@
         "grade": 84.7,
         "name": "Richard Jefferson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "NJN"
     },
@@ -5204,7 +5204,7 @@
         "grade": 51.4,
         "name": "Jared Jeffries",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "NYK"
     },
@@ -5233,7 +5233,7 @@
         "grade": 60.98,
         "name": "Yi Jianlian",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "MIL"
     },
@@ -5262,7 +5262,7 @@
         "grade": 56.08,
         "name": "Alexander Johnson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 43,
         "team": "MIA"
     },
@@ -5291,7 +5291,7 @@
         "grade": 76.2,
         "name": "Amir Johnson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 62,
         "team": "DET"
     },
@@ -5320,7 +5320,7 @@
         "grade": 65.65,
         "name": "Anthony Johnson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": [
             "ATL",
@@ -5352,7 +5352,7 @@
         "grade": 83.42,
         "name": "Joe Johnson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "ATL"
     },
@@ -5381,7 +5381,7 @@
         "grade": 58.19,
         "name": "Bobby Jones",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 47,
         "team": [
             "DEN",
@@ -5416,7 +5416,7 @@
         "grade": 65.79,
         "name": "Damon Jones",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 67,
         "team": "CLE"
     },
@@ -5445,7 +5445,7 @@
         "grade": 61.22,
         "name": "Eddie Jones",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 47,
         "team": "DAL"
     },
@@ -5474,7 +5474,7 @@
         "grade": 67.54,
         "name": "Fred Jones",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "NYK"
     },
@@ -5503,7 +5503,7 @@
         "grade": 74.58,
         "name": "James Jones",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 58,
         "team": "POR"
     },
@@ -5532,7 +5532,7 @@
         "grade": 82.69,
         "name": "Chris Kaman",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 56,
         "team": "LAC"
     },
@@ -5561,7 +5561,7 @@
         "grade": 65.36,
         "name": "Jason Kapono",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "TOR"
     },
@@ -5590,7 +5590,7 @@
         "grade": 81.75,
         "name": "Jason Kidd",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": [
             "NJN",
@@ -5622,7 +5622,7 @@
         "grade": 90.97,
         "name": "Andrei Kirilenko",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "UTA"
     },
@@ -5651,7 +5651,7 @@
         "grade": 77.63,
         "name": "Linas Kleiza",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "DEN"
     },
@@ -5680,7 +5680,7 @@
         "grade": 64.43,
         "name": "Brevin Knight",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "LAC"
     },
@@ -5709,7 +5709,7 @@
         "grade": 78.55,
         "name": "Kyle Korver",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": [
             "PHI",
@@ -5741,7 +5741,7 @@
         "grade": 53.41,
         "name": "Nenad Krstić",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 45,
         "team": "NJN"
     },
@@ -5770,7 +5770,7 @@
         "grade": 79.32,
         "name": "Carl Landry",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 42,
         "team": "HOU"
     },
@@ -5799,7 +5799,7 @@
         "grade": 58.99,
         "name": "Stéphane Lasme",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 16,
         "team": [
             "GSW",
@@ -5831,7 +5831,7 @@
         "grade": 51.28,
         "name": "Acie Law",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 56,
         "team": "ATL"
     },
@@ -5860,7 +5860,7 @@
         "grade": 85.09,
         "name": "David Lee",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "NYK"
     },
@@ -5889,7 +5889,7 @@
         "grade": 91.64,
         "name": "Rashard Lewis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "ORL"
     },
@@ -5918,7 +5918,7 @@
         "grade": 73.59,
         "name": "Kyle Lowry",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "MEM"
     },
@@ -5947,7 +5947,7 @@
         "grade": 62.95,
         "name": "Tyronn Lue",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 50,
         "team": [
             "ATL",
@@ -5979,7 +5979,7 @@
         "grade": 86.32,
         "name": "Corey Maggette",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "LAC"
     },
@@ -6008,7 +6008,7 @@
         "grade": 68.76,
         "name": "Stephon Marbury",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 24,
         "team": "NYK"
     },
@@ -6037,7 +6037,7 @@
         "grade": 91.72,
         "name": "Shawn Marion",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 63,
         "team": [
             "PHO",
@@ -6069,7 +6069,7 @@
         "grade": 54.71,
         "name": "Donyell Marshall",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 26,
         "team": [
             "CLE",
@@ -6101,7 +6101,7 @@
         "grade": 81.82,
         "name": "Kenyon Martin",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 71,
         "team": "DEN"
     },
@@ -6130,7 +6130,7 @@
         "grade": 86.78,
         "name": "Kevin Martin",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 61,
         "team": "SAC"
     },
@@ -6159,7 +6159,7 @@
         "grade": 68.54,
         "name": "Desmond Mason",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 59,
         "team": "MIL"
     },
@@ -6188,7 +6188,7 @@
         "grade": 74.36,
         "name": "Roger Mason",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "WAS"
     },
@@ -6217,7 +6217,7 @@
         "grade": 79.91,
         "name": "Jason Maxiell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "DET"
     },
@@ -6246,7 +6246,7 @@
         "grade": 73.7,
         "name": "Rashad McCants",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "MIN"
     },
@@ -6275,7 +6275,7 @@
         "grade": 78.27,
         "name": "Antonio McDyess",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "DET"
     },
@@ -6304,7 +6304,7 @@
         "grade": 83.64,
         "name": "Tracy McGrady",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "HOU"
     },
@@ -6333,7 +6333,7 @@
         "grade": 54.22,
         "name": "Jeff McInnis",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 54,
         "team": "CHA"
     },
@@ -6362,7 +6362,7 @@
         "grade": 49.48,
         "name": "Chris Mihm",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 23,
         "team": "LAL"
     },
@@ -6391,7 +6391,7 @@
         "grade": 71.99,
         "name": "C.J. Miles",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 60,
         "team": "UTA"
     },
@@ -6420,7 +6420,7 @@
         "grade": 60.04,
         "name": "Darko Miličić",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "MEM"
     },
@@ -6449,7 +6449,7 @@
         "grade": 86.92,
         "name": "Andre Miller",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "PHI"
     },
@@ -6478,7 +6478,7 @@
         "grade": 87.18,
         "name": "Brad Miller",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "SAC"
     },
@@ -6507,7 +6507,7 @@
         "grade": 84.24,
         "name": "Mike Miller",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "MEM"
     },
@@ -6536,7 +6536,7 @@
         "grade": 80.1,
         "name": "Paul Millsap",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "UTA"
     },
@@ -6565,7 +6565,7 @@
         "grade": 93.52,
         "name": "Yao Ming",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 55,
         "team": "HOU"
     },
@@ -6594,7 +6594,7 @@
         "grade": 70.34,
         "name": "Cuttino Mobley",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "LAC"
     },
@@ -6623,7 +6623,7 @@
         "grade": 72.98,
         "name": "Nazr Mohammed",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": [
             "DET",
@@ -6655,7 +6655,7 @@
         "grade": 83.4,
         "name": "Jamario Moon",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "TOR"
     },
@@ -6684,7 +6684,7 @@
         "grade": 74.88,
         "name": "Mikki Moore",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "SAC"
     },
@@ -6713,7 +6713,7 @@
         "grade": 45.26,
         "name": "Randolph Morris",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 18,
         "team": "NYK"
     },
@@ -6742,7 +6742,7 @@
         "grade": 70.73,
         "name": "Alonzo Mourning",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 25,
         "team": "MIA"
     },
@@ -6771,7 +6771,7 @@
         "grade": 84.07,
         "name": "Troy Murphy",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "IND"
     },
@@ -6800,7 +6800,7 @@
         "grade": 61.97,
         "name": "Ronald Murray",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 42,
         "team": [
             "DET",
@@ -6832,7 +6832,7 @@
         "grade": 74.56,
         "name": "Dikembe Mutombo",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 39,
         "team": "HOU"
     },
@@ -6861,7 +6861,7 @@
         "grade": 67.59,
         "name": "Boštjan Nachbar",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "NJN"
     },
@@ -6890,7 +6890,7 @@
         "grade": 77.53,
         "name": "Eduardo Nájera",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "DEN"
     },
@@ -6919,7 +6919,7 @@
         "grade": 89.23,
         "name": "Steve Nash",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "PHO"
     },
@@ -6948,7 +6948,7 @@
         "grade": 66.01,
         "name": "Juan Carlos Navarro",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "MEM"
     },
@@ -6977,7 +6977,7 @@
         "grade": 83.52,
         "name": "Jameer Nelson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": "ORL"
     },
@@ -7006,7 +7006,7 @@
         "grade": 78.96,
         "name": "Rasho Nesterović",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 71,
         "team": "TOR"
     },
@@ -7035,7 +7035,7 @@
         "grade": 59.52,
         "name": "Ira Newble",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 49,
         "team": [
             "CLE",
@@ -7068,7 +7068,7 @@
         "grade": 76.15,
         "name": "Joakim Noah",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "CHI"
     },
@@ -7097,7 +7097,7 @@
         "grade": 74.86,
         "name": "Andrés Nocioni",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "CHI"
     },
@@ -7126,7 +7126,7 @@
         "grade": 95.12,
         "name": "Dirk Nowitzki",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "DAL"
     },
@@ -7155,7 +7155,7 @@
         "grade": 70.52,
         "name": "Jermaine O'Neal",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 42,
         "team": "IND"
     },
@@ -7184,7 +7184,7 @@
         "grade": 80.96,
         "name": "Shaquille O'Neal",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 61,
         "team": [
             "MIA",
@@ -7216,7 +7216,7 @@
         "grade": 79.26,
         "name": "Fabricio Oberto",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "SAS"
     },
@@ -7245,7 +7245,7 @@
         "grade": 91.08,
         "name": "Lamar Odom",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "LAL"
     },
@@ -7274,7 +7274,7 @@
         "grade": 82.14,
         "name": "Emeka Okafor",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "CHA"
     },
@@ -7303,7 +7303,7 @@
         "grade": 83.74,
         "name": "Mehmet Okur",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "UTA"
     },
@@ -7332,7 +7332,7 @@
         "grade": 74.85,
         "name": "Travis Outlaw",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "POR"
     },
@@ -7361,7 +7361,7 @@
         "grade": 57.37,
         "name": "Andre Owens",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 31,
         "team": "IND"
     },
@@ -7390,7 +7390,7 @@
         "grade": 57.08,
         "name": "Zaza Pachulia",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 62,
         "team": "ATL"
     },
@@ -7419,7 +7419,7 @@
         "grade": 61.51,
         "name": "Jannero Pargo",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "NOH"
     },
@@ -7448,7 +7448,7 @@
         "grade": 84.26,
         "name": "Anthony Parker",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "TOR"
     },
@@ -7477,7 +7477,7 @@
         "grade": 53.93,
         "name": "Smush Parker",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 28,
         "team": [
             "MIA",
@@ -7509,7 +7509,7 @@
         "grade": 86.43,
         "name": "Tony Parker",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": "SAS"
     },
@@ -7538,7 +7538,7 @@
         "grade": 60.81,
         "name": "Ruben Patterson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 20,
         "team": "LAC"
     },
@@ -7567,7 +7567,7 @@
         "grade": 95.25,
         "name": "Chris Paul",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "NOH"
     },
@@ -7596,7 +7596,7 @@
         "grade": 53.94,
         "name": "Sasha Pavlović",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": "CLE"
     },
@@ -7625,7 +7625,7 @@
         "grade": 81.68,
         "name": "Kendrick Perkins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "BOS"
     },
@@ -7654,7 +7654,7 @@
         "grade": 70.62,
         "name": "Morris Peterson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "NOH"
     },
@@ -7683,7 +7683,7 @@
         "grade": 57.15,
         "name": "Johan Petro",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "SEA"
     },
@@ -7712,7 +7712,7 @@
         "grade": 94.68,
         "name": "Paul Pierce",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "BOS"
     },
@@ -7741,7 +7741,7 @@
         "grade": 73.63,
         "name": "Mickaël Piétrus",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "GSW"
     },
@@ -7770,7 +7770,7 @@
         "grade": 81.76,
         "name": "James Posey",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "BOS"
     },
@@ -7799,7 +7799,7 @@
         "grade": 79.06,
         "name": "Leon Powe",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 56,
         "team": "BOS"
     },
@@ -7828,7 +7828,7 @@
         "grade": 58.82,
         "name": "Josh Powell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 64,
         "team": "LAC"
     },
@@ -7857,7 +7857,7 @@
         "grade": 57.02,
         "name": "Kasib Powell",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 11,
         "team": "MIA"
     },
@@ -7886,7 +7886,7 @@
         "grade": 81.91,
         "name": "Tayshaun Prince",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "DET"
     },
@@ -7915,7 +7915,7 @@
         "grade": 75.07,
         "name": "Joel Przybilla",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "POR"
     },
@@ -7944,7 +7944,7 @@
         "grade": 71.54,
         "name": "Chris Quinn",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 60,
         "team": "MIA"
     },
@@ -7973,7 +7973,7 @@
         "grade": 77.15,
         "name": "Vladimir Radmanović",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 65,
         "team": "LAL"
     },
@@ -8002,7 +8002,7 @@
         "grade": 77.69,
         "name": "Zach Randolph",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": "NYK"
     },
@@ -8031,7 +8031,7 @@
         "grade": 65.3,
         "name": "Theo Ratliff",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 26,
         "team": [
             "MIN",
@@ -8063,7 +8063,7 @@
         "grade": 82.68,
         "name": "Michael Redd",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "MIL"
     },
@@ -8092,7 +8092,7 @@
         "grade": 52.2,
         "name": "Chris Richard",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 52,
         "team": "MIN"
     },
@@ -8121,7 +8121,7 @@
         "grade": 88.63,
         "name": "Jason Richardson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "CHA"
     },
@@ -8150,7 +8150,7 @@
         "grade": 58.0,
         "name": "Quentin Richardson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 65,
         "team": "NYK"
     },
@@ -8179,7 +8179,7 @@
         "grade": 59.97,
         "name": "Luke Ridnour",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 61,
         "team": "SEA"
     },
@@ -8208,7 +8208,7 @@
         "grade": 74.15,
         "name": "Nate Robinson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "NYK"
     },
@@ -8237,7 +8237,7 @@
         "grade": 83.65,
         "name": "Rajon Rondo",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "BOS"
     },
@@ -8266,7 +8266,7 @@
         "grade": 48.28,
         "name": "Malik Rose",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 49,
         "team": "NYK"
     },
@@ -8295,7 +8295,7 @@
         "grade": 55.04,
         "name": "Quinton Ross",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "LAC"
     },
@@ -8324,7 +8324,7 @@
         "grade": 87.19,
         "name": "Brandon Roy",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "POR"
     },
@@ -8353,7 +8353,7 @@
         "grade": 65.89,
         "name": "Michael Ruffin",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 46,
         "team": "MIL"
     },
@@ -8382,7 +8382,7 @@
         "grade": 61.7,
         "name": "Kareem Rush",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 71,
         "team": "IND"
     },
@@ -8411,7 +8411,7 @@
         "grade": 80.3,
         "name": "John Salmons",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "SAC"
     },
@@ -8440,7 +8440,7 @@
         "grade": 52.2,
         "name": "Brian Scalabrine",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 48,
         "team": "BOS"
     },
@@ -8469,7 +8469,7 @@
         "grade": 81.89,
         "name": "Luis Scola",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "HOU"
     },
@@ -8498,7 +8498,7 @@
         "grade": 67.5,
         "name": "Thabo Sefolosha",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 69,
         "team": "CHI"
     },
@@ -8527,7 +8527,7 @@
         "grade": 68.51,
         "name": "Ramon Sessions",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 17,
         "team": "MIL"
     },
@@ -8556,7 +8556,7 @@
         "grade": 60.37,
         "name": "Bobby Simmons",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": "MIL"
     },
@@ -8585,7 +8585,7 @@
         "grade": 60.01,
         "name": "Brian Skinner",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "PHO"
     },
@@ -8614,7 +8614,7 @@
         "grade": 76.05,
         "name": "Craig Smith",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "MIN"
     },
@@ -8643,7 +8643,7 @@
         "grade": 81.19,
         "name": "J.R. Smith",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "DEN"
     },
@@ -8672,7 +8672,7 @@
         "grade": 59.54,
         "name": "Jason Smith",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "PHI"
     },
@@ -8701,7 +8701,7 @@
         "grade": 75.19,
         "name": "Joe Smith",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": [
             "CHI",
@@ -8733,7 +8733,7 @@
         "grade": 86.74,
         "name": "Josh Smith",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 81,
         "team": "ATL"
     },
@@ -8762,7 +8762,7 @@
         "grade": 48.6,
         "name": "Eric Snow",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 22,
         "team": "CLE"
     },
@@ -8791,7 +8791,7 @@
         "grade": 71.01,
         "name": "Kirk Snyder",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 36,
         "team": [
             "HOU",
@@ -8823,7 +8823,7 @@
         "grade": 66.17,
         "name": "Darius Songaila",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "WAS"
     },
@@ -8852,7 +8852,7 @@
         "grade": 70.22,
         "name": "Jerry Stackhouse",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 58,
         "team": "DAL"
     },
@@ -8881,7 +8881,7 @@
         "grade": 72.56,
         "name": "DeShawn Stevenson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "WAS"
     },
@@ -8910,7 +8910,7 @@
         "grade": 83.5,
         "name": "Peja Stojaković",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "NOH"
     },
@@ -8939,7 +8939,7 @@
         "grade": 51.95,
         "name": "Awvee Storey",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 26,
         "team": "MIL"
     },
@@ -8968,7 +8968,7 @@
         "grade": 54.12,
         "name": "Damon Stoudamire",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 60,
         "team": [
             "MEM",
@@ -9000,7 +9000,7 @@
         "grade": 55.15,
         "name": "Salim Stoudamire",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 35,
         "team": "ATL"
     },
@@ -9029,7 +9029,7 @@
         "grade": 96.41,
         "name": "Amar'e Stoudemire",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "PHO"
     },
@@ -9058,7 +9058,7 @@
         "grade": 67.89,
         "name": "Rodney Stuckey",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 57,
         "team": "DET"
     },
@@ -9087,7 +9087,7 @@
         "grade": 67.84,
         "name": "Stromile Swift",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 56,
         "team": [
             "MEM",
@@ -9119,7 +9119,7 @@
         "grade": 71.68,
         "name": "Wally Szczerbiak",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": [
             "SEA",
@@ -9151,7 +9151,7 @@
         "grade": 61.22,
         "name": "Sebastian Telfair",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 60,
         "team": "MIN"
     },
@@ -9180,7 +9180,7 @@
         "grade": 89.02,
         "name": "Jason Terry",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "DAL"
     },
@@ -9209,7 +9209,7 @@
         "grade": 47.54,
         "name": "Kenny Thomas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 23,
         "team": "SAC"
     },
@@ -9238,7 +9238,7 @@
         "grade": 76.11,
         "name": "Kurt Thomas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 70,
         "team": [
             "SEA",
@@ -9270,7 +9270,7 @@
         "grade": 71.25,
         "name": "Tim Thomas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 63,
         "team": "LAC"
     },
@@ -9299,7 +9299,7 @@
         "grade": 69.5,
         "name": "Tyrus Thomas",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "CHI"
     },
@@ -9328,7 +9328,7 @@
         "grade": 65.2,
         "name": "Al Thornton",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 79,
         "team": "LAC"
     },
@@ -9357,7 +9357,7 @@
         "grade": 67.56,
         "name": "Jamaal Tinsley",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 39,
         "team": "IND"
     },
@@ -9386,7 +9386,7 @@
         "grade": 76.49,
         "name": "Ronny Turiaf",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "LAL"
     },
@@ -9415,7 +9415,7 @@
         "grade": 90.55,
         "name": "Hedo Türkoğlu",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "ORL"
     },
@@ -9444,7 +9444,7 @@
         "grade": 70.68,
         "name": "Ime Udoka",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "SAS"
     },
@@ -9473,7 +9473,7 @@
         "grade": 75.33,
         "name": "Beno Udrih",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 65,
         "team": "SAC"
     },
@@ -9502,7 +9502,7 @@
         "grade": 67.39,
         "name": "Anderson Varejão",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 48,
         "team": "CLE"
     },
@@ -9531,7 +9531,7 @@
         "grade": 57.36,
         "name": "Jacque Vaughn",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "SAS"
     },
@@ -9560,7 +9560,7 @@
         "grade": 68.41,
         "name": "Charlie Villanueva",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "MIL"
     },
@@ -9589,7 +9589,7 @@
         "grade": 76.44,
         "name": "Sasha Vujačić",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": "LAL"
     },
@@ -9618,7 +9618,7 @@
         "grade": 86.11,
         "name": "Dwyane Wade",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 51,
         "team": "MIA"
     },
@@ -9647,7 +9647,7 @@
         "grade": 58.23,
         "name": "Antoine Walker",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 46,
         "team": "MIN"
     },
@@ -9676,7 +9676,7 @@
         "grade": 69.57,
         "name": "Ben Wallace",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 72,
         "team": [
             "CHI",
@@ -9708,7 +9708,7 @@
         "grade": 86.9,
         "name": "Gerald Wallace",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 62,
         "team": "CHA"
     },
@@ -9737,7 +9737,7 @@
         "grade": 87.17,
         "name": "Rasheed Wallace",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 77,
         "team": "DET"
     },
@@ -9766,7 +9766,7 @@
         "grade": 72.41,
         "name": "Luke Walton",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "LAL"
     },
@@ -9795,7 +9795,7 @@
         "grade": 73.93,
         "name": "Hakim Warrick",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "MEM"
     },
@@ -9824,7 +9824,7 @@
         "grade": 56.83,
         "name": "C.J. Watson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 32,
         "team": "GSW"
     },
@@ -9853,7 +9853,7 @@
         "grade": 73.17,
         "name": "Earl Watson",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 78,
         "team": "SEA"
     },
@@ -9882,7 +9882,7 @@
         "grade": 74.28,
         "name": "Martell Webster",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "POR"
     },
@@ -9911,7 +9911,7 @@
         "grade": 73.24,
         "name": "Bonzi Wells",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": [
             "HOU",
@@ -9943,7 +9943,7 @@
         "grade": 90.07,
         "name": "David West",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "NOH"
     },
@@ -9972,7 +9972,7 @@
         "grade": 69.27,
         "name": "Delonte West",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 61,
         "team": [
             "SEA",
@@ -10004,7 +10004,7 @@
         "grade": 79.14,
         "name": "Chris Wilcox",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 62,
         "team": "SEA"
     },
@@ -10033,7 +10033,7 @@
         "grade": 63.51,
         "name": "Damien Wilkins",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 76,
         "team": "SEA"
     },
@@ -10062,7 +10062,7 @@
         "grade": 61.99,
         "name": "Mike Wilks",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 15,
         "team": [
             "DEN",
@@ -10095,7 +10095,7 @@
         "grade": 91.3,
         "name": "Deron Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 82,
         "team": "UTA"
     },
@@ -10124,7 +10124,7 @@
         "grade": 69.14,
         "name": "Jason Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 67,
         "team": "MIA"
     },
@@ -10153,7 +10153,7 @@
         "grade": 78.05,
         "name": "Lou Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "PHI"
     },
@@ -10182,7 +10182,7 @@
         "grade": 79.32,
         "name": "Marvin Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 80,
         "team": "ATL"
     },
@@ -10211,7 +10211,7 @@
         "grade": 83.78,
         "name": "Mo Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 66,
         "team": "MIL"
     },
@@ -10240,7 +10240,7 @@
         "grade": 71.39,
         "name": "Sean Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 73,
         "team": "NJN"
     },
@@ -10269,7 +10269,7 @@
         "grade": 65.87,
         "name": "Shawne Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 65,
         "team": "IND"
     },
@@ -10298,7 +10298,7 @@
         "grade": 57.48,
         "name": "Shelden Williams",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 64,
         "team": [
             "ATL",
@@ -10330,7 +10330,7 @@
         "grade": 87.05,
         "name": "Metta World Peace",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 57,
         "team": "SAC"
     },
@@ -10359,7 +10359,7 @@
         "grade": 59.78,
         "name": "Antoine Wright",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 56,
         "team": [
             "NJN",
@@ -10391,7 +10391,7 @@
         "grade": 76.71,
         "name": "Dorell Wright",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 44,
         "team": "MIA"
     },
@@ -10420,7 +10420,7 @@
         "grade": 73.08,
         "name": "Julian Wright",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 57,
         "team": "NOH"
     },
@@ -10449,7 +10449,7 @@
         "grade": 59.43,
         "name": "Nick Young",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 75,
         "team": "WAS"
     },
@@ -10478,7 +10478,7 @@
         "grade": 80.86,
         "name": "Thaddeus Young",
         "league_grade": 80.81,
-        "year": 2008,
+        "year": "2008",
         "games_played": 74,
         "team": "PHI"
     }

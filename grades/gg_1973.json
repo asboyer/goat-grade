@@ -17,7 +17,7 @@
         "grade": 55.78,
         "name": "Zaid Abdul-Aziz",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 48,
         "team": "HOU"
     },
@@ -39,7 +39,7 @@
         "grade": 97.24,
         "name": "Kareem Abdul-Jabbar",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": "MIL"
     },
@@ -61,7 +61,7 @@
         "grade": 55.12,
         "name": "Don Adams",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": [
             "ATL",
@@ -86,7 +86,7 @@
         "grade": 50.97,
         "name": "Rick Adelman",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": "POR"
     },
@@ -108,7 +108,7 @@
         "grade": 83.03,
         "name": "Lucius Allen",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "MIL"
     },
@@ -130,7 +130,7 @@
         "grade": 90.36,
         "name": "Tiny Archibald",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "KCO"
     },
@@ -152,7 +152,7 @@
         "grade": 72.57,
         "name": "Dennis Awtrey",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": [
             "PHI",
@@ -177,7 +177,7 @@
         "grade": 40.57,
         "name": "Dick Barnett",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 51,
         "team": "NYK"
     },
@@ -199,7 +199,7 @@
         "grade": 79.87,
         "name": "Jim Barnett",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "GSW"
     },
@@ -221,7 +221,7 @@
         "grade": 88.92,
         "name": "Rick Barry",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "GSW"
     },
@@ -243,7 +243,7 @@
         "grade": 59.79,
         "name": "Butch Beard",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "SEA"
     },
@@ -265,7 +265,7 @@
         "grade": 85.05,
         "name": "Walt Bellamy",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": "ATL"
     },
@@ -287,7 +287,7 @@
         "grade": 84.47,
         "name": "Dave Bing",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "DET"
     },
@@ -309,7 +309,7 @@
         "grade": 73.1,
         "name": "John Block",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": [
             "PHI",
@@ -334,7 +334,7 @@
         "grade": 51.27,
         "name": "Freddie Boyd",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "PHI"
     },
@@ -356,7 +356,7 @@
         "grade": 66.24,
         "name": "Steve Bracey",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 70,
         "team": "ATL"
     },
@@ -378,7 +378,7 @@
         "grade": 80.54,
         "name": "Bill Bradley",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "NYK"
     },
@@ -400,7 +400,7 @@
         "grade": 77.41,
         "name": "Bill Bridges",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": [
             "PHI",
@@ -425,7 +425,7 @@
         "grade": 68.01,
         "name": "John Brisker",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 70,
         "team": "SEA"
     },
@@ -447,7 +447,7 @@
         "grade": 73.18,
         "name": "Fred Brown",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "SEA"
     },
@@ -469,7 +469,7 @@
         "grade": 62.95,
         "name": "Corky Calhoun",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "PHO"
     },
@@ -491,7 +491,7 @@
         "grade": 77.97,
         "name": "Austin Carr",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "CLE"
     },
@@ -513,7 +513,7 @@
         "grade": 64.44,
         "name": "Fred Carter",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "PHI"
     },
@@ -535,7 +535,7 @@
         "grade": 94.17,
         "name": "Wilt Chamberlain",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "LAL"
     },
@@ -557,7 +557,7 @@
         "grade": 84.55,
         "name": "Don Chaney",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "BOS"
     },
@@ -579,7 +579,7 @@
         "grade": 78.02,
         "name": "Phil Chenier",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 71,
         "team": "BAL"
     },
@@ -601,7 +601,7 @@
         "grade": 73.84,
         "name": "Bob Christian",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 55,
         "team": "ATL"
     },
@@ -623,7 +623,7 @@
         "grade": 88.97,
         "name": "Archie Clark",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 39,
         "team": "BAL"
     },
@@ -645,7 +645,7 @@
         "grade": 64.52,
         "name": "Jim Cleamons",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "CLE"
     },
@@ -667,7 +667,7 @@
         "grade": 75.59,
         "name": "Barry Clemens",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 72,
         "team": "CLE"
     },
@@ -689,7 +689,7 @@
         "grade": 60.43,
         "name": "Mel Counts",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 66,
         "team": [
             "PHI",
@@ -714,7 +714,7 @@
         "grade": 85.35,
         "name": "Dave Cowens",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "BOS"
     },
@@ -736,7 +736,7 @@
         "grade": 85.32,
         "name": "Bob Dandridge",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "MIL"
     },
@@ -758,7 +758,7 @@
         "grade": 53.68,
         "name": "Charlie Davis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 75,
         "team": [
             "CLE",
@@ -783,7 +783,7 @@
         "grade": 58.55,
         "name": "Dwight Davis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "CLE"
     },
@@ -805,7 +805,7 @@
         "grade": 69.97,
         "name": "Jim Davis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "DET"
     },
@@ -827,7 +827,7 @@
         "grade": 62.01,
         "name": "Mickey Davis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": "MIL"
     },
@@ -849,7 +849,7 @@
         "grade": 57.14,
         "name": "Mike Davis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 13,
         "team": "BAL"
     },
@@ -871,7 +871,7 @@
         "grade": 75.64,
         "name": "Dave DeBusschere",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "NYK"
     },
@@ -893,7 +893,7 @@
         "grade": 62.7,
         "name": "Terry Dischinger",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 63,
         "team": "POR"
     },
@@ -915,7 +915,7 @@
         "grade": 55.62,
         "name": "Terry Driscoll",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 60,
         "team": [
             "BAL",
@@ -940,7 +940,7 @@
         "grade": 53.35,
         "name": "Joe Ellis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": "GSW"
     },
@@ -962,7 +962,7 @@
         "grade": 66.04,
         "name": "Leroy Ellis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": [
             "LAL",
@@ -987,7 +987,7 @@
         "grade": 64.55,
         "name": "Keith Erickson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": "LAL"
     },
@@ -1009,7 +1009,7 @@
         "grade": 68.15,
         "name": "Chris Ford",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": "DET"
     },
@@ -1031,7 +1031,7 @@
         "grade": 47.43,
         "name": "Fred Foster",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 63,
         "team": "DET"
     },
@@ -1053,7 +1053,7 @@
         "grade": 86.54,
         "name": "Jim Fox",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": "SEA"
     },
@@ -1075,7 +1075,7 @@
         "grade": 94.67,
         "name": "Walt Frazier",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 78,
         "team": "NYK"
     },
@@ -1097,7 +1097,7 @@
         "grade": 56.2,
         "name": "Dick Garrett",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 78,
         "team": "BUF"
     },
@@ -1119,7 +1119,7 @@
         "grade": 40.85,
         "name": "Dick Gibbs",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 67,
         "team": [
             "HOU",
@@ -1144,7 +1144,7 @@
         "grade": 79.43,
         "name": "Herm Gilliam",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": "ATL"
     },
@@ -1166,7 +1166,7 @@
         "grade": 85.54,
         "name": "Gail Goodrich",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": "LAL"
     },
@@ -1188,7 +1188,7 @@
         "grade": 74.81,
         "name": "Johnny Green",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 66,
         "team": "KCO"
     },
@@ -1210,7 +1210,7 @@
         "grade": 59.96,
         "name": "Lamar Green",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "PHO"
     },
@@ -1232,7 +1232,7 @@
         "grade": 50.92,
         "name": "Hal Greer",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 38,
         "team": "PHI"
     },
@@ -1254,7 +1254,7 @@
         "grade": 80.15,
         "name": "Matt Guokas",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "KCO"
     },
@@ -1276,7 +1276,7 @@
         "grade": 85.85,
         "name": "Happy Hairston",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 28,
         "team": "LAL"
     },
@@ -1298,7 +1298,7 @@
         "grade": 57.97,
         "name": "Jeff Halliburton",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 55,
         "team": [
             "ATL",
@@ -1323,7 +1323,7 @@
         "grade": 71.55,
         "name": "Clem Haskins",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "PHO"
     },
@@ -1345,7 +1345,7 @@
         "grade": 89.33,
         "name": "John Havlicek",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "BOS"
     },
@@ -1367,7 +1367,7 @@
         "grade": 86.93,
         "name": "Connie Hawkins",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 75,
         "team": "PHO"
     },
@@ -1389,7 +1389,7 @@
         "grade": 77.55,
         "name": "Elvin Hayes",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "BAL"
     },
@@ -1411,7 +1411,7 @@
         "grade": 90.36,
         "name": "Spencer Haywood",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "SEA"
     },
@@ -1433,7 +1433,7 @@
         "grade": 55.09,
         "name": "Walt Hazzard",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 55,
         "team": [
             "BUF",
@@ -1458,7 +1458,7 @@
         "grade": 59.74,
         "name": "Gar Heard",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": [
             "SEA",
@@ -1483,7 +1483,7 @@
         "grade": 48.09,
         "name": "Bill Hewitt",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "BUF"
     },
@@ -1505,7 +1505,7 @@
         "grade": 44.47,
         "name": "Fred Hilton",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 59,
         "team": "BUF"
     },
@@ -1527,7 +1527,7 @@
         "grade": 89.67,
         "name": "Lou Hudson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 75,
         "team": "ATL"
     },
@@ -1549,7 +1549,7 @@
         "grade": 58.27,
         "name": "John Hummer",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 66,
         "team": "BUF"
     },
@@ -1571,7 +1571,7 @@
         "grade": 69.34,
         "name": "Phil Jackson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "NYK"
     },
@@ -1593,7 +1593,7 @@
         "grade": 52.82,
         "name": "Charles Johnson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 70,
         "team": "GSW"
     },
@@ -1615,7 +1615,7 @@
         "grade": 49.01,
         "name": "Gus Johnson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 21,
         "team": "PHO"
     },
@@ -1637,7 +1637,7 @@
         "grade": 69.75,
         "name": "John Johnson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "CLE"
     },
@@ -1659,7 +1659,7 @@
         "grade": 78.1,
         "name": "Ollie Johnson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 78,
         "team": "POR"
     },
@@ -1681,7 +1681,7 @@
         "grade": 50.69,
         "name": "Wali Jones",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 27,
         "team": "MIL"
     },
@@ -1703,7 +1703,7 @@
         "grade": 90.16,
         "name": "Bob Kauffman",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "BUF"
     },
@@ -1725,7 +1725,7 @@
         "grade": 58.16,
         "name": "Jim King",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 65,
         "team": "CHI"
     },
@@ -1747,7 +1747,7 @@
         "grade": 67.4,
         "name": "Don Kojis",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "KCO"
     },
@@ -1769,7 +1769,7 @@
         "grade": 50.5,
         "name": "Howard Komives",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 67,
         "team": "BUF"
     },
@@ -1791,7 +1791,7 @@
         "grade": 72.52,
         "name": "Sam Lacey",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "KCO"
     },
@@ -1813,7 +1813,7 @@
         "grade": 91.91,
         "name": "Bob Lanier",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "DET"
     },
@@ -1835,7 +1835,7 @@
         "grade": 58.27,
         "name": "Stu Lantz",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 51,
         "team": "DET"
     },
@@ -1857,7 +1857,7 @@
         "grade": 56.03,
         "name": "Mo Layton",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 65,
         "team": "PHO"
     },
@@ -1879,7 +1879,7 @@
         "grade": 54.79,
         "name": "Manny Leaks",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "PHI"
     },
@@ -1901,7 +1901,7 @@
         "grade": 67.23,
         "name": "Clyde Lee",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 66,
         "team": "GSW"
     },
@@ -1923,7 +1923,7 @@
         "grade": 60.24,
         "name": "Kevin Loughery",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 32,
         "team": "PHI"
     },
@@ -1945,7 +1945,7 @@
         "grade": 75.78,
         "name": "Bob Love",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "CHI"
     },
@@ -1967,7 +1967,7 @@
         "grade": 61.45,
         "name": "Stan Love",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 72,
         "team": "BAL"
     },
@@ -1989,7 +1989,7 @@
         "grade": 89.11,
         "name": "Jerry Lucas",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 71,
         "team": "NYK"
     },
@@ -2011,7 +2011,7 @@
         "grade": 82.53,
         "name": "Pete Maravich",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "ATL"
     },
@@ -2033,7 +2033,7 @@
         "grade": 83.47,
         "name": "Jack Marin",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "HOU"
     },
@@ -2055,7 +2055,7 @@
         "grade": 44.47,
         "name": "LaRue Martin",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "POR"
     },
@@ -2077,7 +2077,7 @@
         "grade": 47.79,
         "name": "Eddie Mast",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 42,
         "team": "ATL"
     },
@@ -2099,7 +2099,7 @@
         "grade": 62.09,
         "name": "Don May",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 58,
         "team": [
             "ATL",
@@ -2124,7 +2124,7 @@
         "grade": 74.04,
         "name": "Bob McAdoo",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "BUF"
     },
@@ -2146,7 +2146,7 @@
         "grade": 60.29,
         "name": "Paul McCracken",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 24,
         "team": "HOU"
     },
@@ -2168,7 +2168,7 @@
         "grade": 49.17,
         "name": "Jim McDaniels",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 68,
         "team": "SEA"
     },
@@ -2190,7 +2190,7 @@
         "grade": 80.15,
         "name": "Jon McGlocklin",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "MIL"
     },
@@ -2212,7 +2212,7 @@
         "grade": 42.59,
         "name": "Kenny McIntosh",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 59,
         "team": [
             "CHI",
@@ -2237,7 +2237,7 @@
         "grade": 80.51,
         "name": "Jim McMillian",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "LAL"
     },
@@ -2259,7 +2259,7 @@
         "grade": 51.97,
         "name": "Cliff Meely",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "HOU"
     },
@@ -2281,7 +2281,7 @@
         "grade": 73.98,
         "name": "Dean Meminger",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "NYK"
     },
@@ -2303,7 +2303,7 @@
         "grade": 75.53,
         "name": "John Mengelt",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": [
             "KCO",
@@ -2328,7 +2328,7 @@
         "grade": 86.24,
         "name": "Earl Monroe",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 75,
         "team": "NYK"
     },
@@ -2350,7 +2350,7 @@
         "grade": 76.69,
         "name": "Otto Moore",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "HOU"
     },
@@ -2372,7 +2372,7 @@
         "grade": 88.28,
         "name": "Jeff Mullins",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "GSW"
     },
@@ -2394,7 +2394,7 @@
         "grade": 78.91,
         "name": "Calvin Murphy",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "HOU"
     },
@@ -2416,7 +2416,7 @@
         "grade": 79.24,
         "name": "Lloyd Neal",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "POR"
     },
@@ -2438,7 +2438,7 @@
         "grade": 80.4,
         "name": "Don Nelson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 72,
         "team": "BOS"
     },
@@ -2460,7 +2460,7 @@
         "grade": 79.29,
         "name": "Mike Newlin",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "HOU"
     },
@@ -2482,7 +2482,7 @@
         "grade": 74.26,
         "name": "Willie Norwood",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "DET"
     },
@@ -2504,7 +2504,7 @@
         "grade": 43.36,
         "name": "Steve Patterson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 62,
         "team": "CLE"
     },
@@ -2526,7 +2526,7 @@
         "grade": 71.99,
         "name": "Curtis Perry",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 67,
         "team": "MIL"
     },
@@ -2548,7 +2548,7 @@
         "grade": 79.24,
         "name": "Geoff Petrie",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "POR"
     },
@@ -2570,7 +2570,7 @@
         "grade": 62.92,
         "name": "Kevin Porter",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 71,
         "team": "BAL"
     },
@@ -2592,7 +2592,7 @@
         "grade": 60.79,
         "name": "Jim Price",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 59,
         "team": "LAL"
     },
@@ -2614,7 +2614,7 @@
         "grade": 49.28,
         "name": "Mike Price",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 57,
         "team": "PHI"
     },
@@ -2636,7 +2636,7 @@
         "grade": 44.39,
         "name": "Mike Ratliff",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 58,
         "team": "KCO"
     },
@@ -2658,7 +2658,7 @@
         "grade": 84.52,
         "name": "Clifford Ray",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "CHI"
     },
@@ -2680,7 +2680,7 @@
         "grade": 78.66,
         "name": "Willis Reed",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 69,
         "team": "NYK"
     },
@@ -2702,7 +2702,7 @@
         "grade": 54.93,
         "name": "Pat Riley",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 55,
         "team": "LAL"
     },
@@ -2724,7 +2724,7 @@
         "grade": 53.93,
         "name": "Ron Riley",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 74,
         "team": "KCO"
     },
@@ -2746,7 +2746,7 @@
         "grade": 51.83,
         "name": "Rich Rinaldi",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 33,
         "team": "BAL"
     },
@@ -2768,7 +2768,7 @@
         "grade": 92.71,
         "name": "Mike Riordan",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "BAL"
     },
@@ -2790,7 +2790,7 @@
         "grade": 67.26,
         "name": "Rick Roberson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 62,
         "team": "CLE"
     },
@@ -2812,7 +2812,7 @@
         "grade": 86.15,
         "name": "Oscar Robertson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "MIL"
     },
@@ -2834,7 +2834,7 @@
         "grade": 64.97,
         "name": "Flynn Robinson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 44,
         "team": [
             "LAL",
@@ -2859,7 +2859,7 @@
         "grade": 86.65,
         "name": "Curtis Rowe",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "DET"
     },
@@ -2881,7 +2881,7 @@
         "grade": 77.63,
         "name": "Cazzie Russell",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "GSW"
     },
@@ -2903,7 +2903,7 @@
         "grade": 73.98,
         "name": "Dale Schlueter",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 78,
         "team": "PHI"
     },
@@ -2925,7 +2925,7 @@
         "grade": 80.84,
         "name": "Charlie Scott",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "PHO"
     },
@@ -2947,7 +2947,7 @@
         "grade": 85.68,
         "name": "Paul Silas",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "BOS"
     },
@@ -2969,7 +2969,7 @@
         "grade": 60.62,
         "name": "Jerry Sloan",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 69,
         "team": "CHI"
     },
@@ -2991,7 +2991,7 @@
         "grade": 63.14,
         "name": "Bingo Smith",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "CLE"
     },
@@ -3013,7 +3013,7 @@
         "grade": 78.08,
         "name": "Elmore Smith",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": "BUF"
     },
@@ -3035,7 +3035,7 @@
         "grade": 66.46,
         "name": "Greg Smith",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 76,
         "team": [
             "HOU",
@@ -3060,7 +3060,7 @@
         "grade": 68.51,
         "name": "Randy Smith",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "BUF"
     },
@@ -3082,7 +3082,7 @@
         "grade": 75.81,
         "name": "Dick Snyder",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "SEA"
     },
@@ -3104,7 +3104,7 @@
         "grade": 51.58,
         "name": "Dave Sorenson",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 58,
         "team": [
             "CLE",
@@ -3129,7 +3129,7 @@
         "grade": 44.61,
         "name": "Bud Stallworth",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "SEA"
     },
@@ -3151,7 +3151,7 @@
         "grade": 55.37,
         "name": "Dave Stallworth",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "BAL"
     },
@@ -3173,7 +3173,7 @@
         "grade": 67.87,
         "name": "Larry Steele",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 66,
         "team": "POR"
     },
@@ -3195,7 +3195,7 @@
         "grade": 42.7,
         "name": "Chuck Terry",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 67,
         "team": "MIL"
     },
@@ -3217,7 +3217,7 @@
         "grade": 83.33,
         "name": "Nate Thurmond",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "GSW"
     },
@@ -3239,7 +3239,7 @@
         "grade": 84.05,
         "name": "Rudy Tomjanovich",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "HOU"
     },
@@ -3261,7 +3261,7 @@
         "grade": 65.74,
         "name": "George Trapp",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "ATL"
     },
@@ -3283,7 +3283,7 @@
         "grade": 53.65,
         "name": "John Trapp",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 44,
         "team": [
             "LAL",
@@ -3308,7 +3308,7 @@
         "grade": 90.16,
         "name": "Wes Unseld",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "BAL"
     },
@@ -3330,7 +3330,7 @@
         "grade": 86.01,
         "name": "Dick Van Arsdale",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "PHO"
     },
@@ -3352,7 +3352,7 @@
         "grade": 64.74,
         "name": "Tom Van Arsdale",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": [
             "KCO",
@@ -3377,7 +3377,7 @@
         "grade": 79.18,
         "name": "Norm Van Lier",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "CHI"
     },
@@ -3399,7 +3399,7 @@
         "grade": 84.85,
         "name": "Neal Walk",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "PHO"
     },
@@ -3421,7 +3421,7 @@
         "grade": 88.95,
         "name": "Chet Walker",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 79,
         "team": "CHI"
     },
@@ -3443,7 +3443,7 @@
         "grade": 82.28,
         "name": "Jimmy Walker",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "HOU"
     },
@@ -3465,7 +3465,7 @@
         "grade": 54.98,
         "name": "Cornell Warner",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 72,
         "team": [
             "BUF",
@@ -3490,7 +3490,7 @@
         "grade": 67.76,
         "name": "Jim Washington",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 75,
         "team": "ATL"
     },
@@ -3512,7 +3512,7 @@
         "grade": 67.43,
         "name": "Bob Weiss",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "CHI"
     },
@@ -3534,7 +3534,7 @@
         "grade": 90.88,
         "name": "Jerry West",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 69,
         "team": "LAL"
     },
@@ -3556,7 +3556,7 @@
         "grade": 56.14,
         "name": "John Wetzel",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 28,
         "team": "ATL"
     },
@@ -3578,7 +3578,7 @@
         "grade": 74.12,
         "name": "Jo Jo White",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 82,
         "team": "BOS"
     },
@@ -3600,7 +3600,7 @@
         "grade": 81.51,
         "name": "Sidney Wicks",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "POR"
     },
@@ -3622,7 +3622,7 @@
         "grade": 87.84,
         "name": "Lenny Wilkens",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 75,
         "team": "CLE"
     },
@@ -3644,7 +3644,7 @@
         "grade": 59.82,
         "name": "Art Williams",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 81,
         "team": "BOS"
     },
@@ -3666,7 +3666,7 @@
         "grade": 70.39,
         "name": "Nate Williams",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 80,
         "team": "KCO"
     },
@@ -3688,7 +3688,7 @@
         "grade": 61.98,
         "name": "Ron Williams",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 73,
         "team": "GSW"
     },
@@ -3710,7 +3710,7 @@
         "grade": 54.93,
         "name": "Lee Winfield",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 53,
         "team": "SEA"
     },
@@ -3732,7 +3732,7 @@
         "grade": 62.42,
         "name": "Dave Wohl",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 78,
         "team": [
             "POR",
@@ -3757,7 +3757,7 @@
         "grade": 54.59,
         "name": "Joby Wright",
         "league_grade": 76.86,
-        "year": 1973,
+        "year": "1973",
         "games_played": 77,
         "team": "SEA"
     }

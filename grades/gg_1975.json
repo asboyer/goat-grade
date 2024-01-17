@@ -23,7 +23,7 @@
         "grade": 70.83,
         "name": "Zaid Abdul-Aziz",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 65,
         "team": "HOU"
     },
@@ -51,7 +51,7 @@
         "grade": 96.43,
         "name": "Kareem Abdul-Jabbar",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 65,
         "team": "MIL"
     },
@@ -79,7 +79,7 @@
         "grade": 51.22,
         "name": "Don Adams",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 51,
         "team": "DET"
     },
@@ -107,7 +107,7 @@
         "grade": 53.66,
         "name": "Rick Adelman",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 58,
         "team": [
             "CHI",
@@ -139,7 +139,7 @@
         "grade": 74.86,
         "name": "Lucius Allen",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 66,
         "team": [
             "MIL",
@@ -170,7 +170,7 @@
         "grade": 51.01,
         "name": "Dan Anderson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 43,
         "team": "POR"
     },
@@ -198,7 +198,7 @@
         "grade": 85.05,
         "name": "Tiny Archibald",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "KCO"
     },
@@ -226,7 +226,7 @@
         "grade": 43.67,
         "name": "Jim Ard",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 59,
         "team": "BOS"
     },
@@ -254,7 +254,7 @@
         "grade": 77.55,
         "name": "Dennis Awtrey",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "PHO"
     },
@@ -282,7 +282,7 @@
         "grade": 73.42,
         "name": "Mike Bantom",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "PHO"
     },
@@ -310,7 +310,7 @@
         "grade": 60.84,
         "name": "Jim Barnett",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": [
             "NOJ",
@@ -341,7 +341,7 @@
         "grade": 92.15,
         "name": "Rick Barry",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "GSW"
     },
@@ -369,7 +369,7 @@
         "grade": 86.23,
         "name": "Butch Beard",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "GSW"
     },
@@ -397,7 +397,7 @@
         "grade": 61.86,
         "name": "Zelmo Beaty",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 69,
         "team": "LAL"
     },
@@ -425,7 +425,7 @@
         "grade": 56.55,
         "name": "Ron Behagen",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "KCO"
     },
@@ -453,7 +453,7 @@
         "grade": 54.7,
         "name": "Henry Bibby",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": [
             "NYK",
@@ -484,7 +484,7 @@
         "grade": 74.39,
         "name": "Dave Bing",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "DET"
     },
@@ -512,7 +512,7 @@
         "grade": 74.21,
         "name": "John Block",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 54,
         "team": [
             "NOJ",
@@ -543,7 +543,7 @@
         "grade": 79.73,
         "name": "Tom Boerwinkle",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "CHI"
     },
@@ -571,7 +571,7 @@
         "grade": 43.21,
         "name": "Freddie Boyd",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 66,
         "team": "PHI"
     },
@@ -599,7 +599,7 @@
         "grade": 61.42,
         "name": "Bill Bradley",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "NYK"
     },
@@ -627,7 +627,7 @@
         "grade": 72.42,
         "name": "Jim Brewer",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "CLE"
     },
@@ -655,7 +655,7 @@
         "grade": 40.75,
         "name": "Bill Bridges",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 32,
         "team": [
             "LAL",
@@ -686,7 +686,7 @@
         "grade": 51.71,
         "name": "John Brisker",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 21,
         "team": "SEA"
     },
@@ -714,7 +714,7 @@
         "grade": 54.45,
         "name": "Allan Bristow",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 72,
         "team": "PHI"
     },
@@ -742,7 +742,7 @@
         "grade": 54.63,
         "name": "Gary Brokaw",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "MIL"
     },
@@ -770,7 +770,7 @@
         "grade": 88.16,
         "name": "Fred Brown",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "SEA"
     },
@@ -798,7 +798,7 @@
         "grade": 69.79,
         "name": "John Brown",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "ATL"
     },
@@ -826,7 +826,7 @@
         "grade": 65.64,
         "name": "Tom Burleson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "SEA"
     },
@@ -854,7 +854,7 @@
         "grade": 50.06,
         "name": "Corky Calhoun",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 70,
         "team": [
             "PHO",
@@ -885,7 +885,7 @@
         "grade": 76.0,
         "name": "Austin Carr",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 41,
         "team": "CLE"
     },
@@ -913,7 +913,7 @@
         "grade": 73.03,
         "name": "Fred Carter",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 77,
         "team": "PHI"
     },
@@ -941,7 +941,7 @@
         "grade": 66.54,
         "name": "Harvey Catchings",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 37,
         "team": "PHI"
     },
@@ -969,7 +969,7 @@
         "grade": 73.56,
         "name": "Don Chaney",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BOS"
     },
@@ -997,7 +997,7 @@
         "grade": 68.91,
         "name": "Ken Charles",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "BUF"
     },
@@ -1025,7 +1025,7 @@
         "grade": 86.79,
         "name": "Phil Chenier",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 77,
         "team": "WSB"
     },
@@ -1053,7 +1053,7 @@
         "grade": 82.64,
         "name": "Jim Chones",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 72,
         "team": "CLE"
     },
@@ -1081,7 +1081,7 @@
         "grade": 82.27,
         "name": "Archie Clark",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 77,
         "team": "SEA"
     },
@@ -1109,7 +1109,7 @@
         "grade": 80.09,
         "name": "Jim Cleamons",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 74,
         "team": "CLE"
     },
@@ -1137,7 +1137,7 @@
         "grade": 59.87,
         "name": "Barry Clemens",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 77,
         "team": "POR"
     },
@@ -1165,7 +1165,7 @@
         "grade": 61.82,
         "name": "E.C. Coleman",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 77,
         "team": "NOJ"
     },
@@ -1193,7 +1193,7 @@
         "grade": 84.5,
         "name": "Doug Collins",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "PHI"
     },
@@ -1221,7 +1221,7 @@
         "grade": 65.62,
         "name": "Mel Counts",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "NOJ"
     },
@@ -1249,7 +1249,7 @@
         "grade": 92.1,
         "name": "Dave Cowens",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 65,
         "team": "BOS"
     },
@@ -1277,7 +1277,7 @@
         "grade": 81.14,
         "name": "Billy Cunningham",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "PHI"
     },
@@ -1305,7 +1305,7 @@
         "grade": 50.78,
         "name": "Mike D'Antoni",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 67,
         "team": "KCO"
     },
@@ -1333,7 +1333,7 @@
         "grade": 85.24,
         "name": "Bob Dandridge",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "MIL"
     },
@@ -1361,7 +1361,7 @@
         "grade": 65.27,
         "name": "Dwight Davis",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "CLE"
     },
@@ -1389,7 +1389,7 @@
         "grade": 65.84,
         "name": "Jim Davis",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "DET"
     },
@@ -1417,7 +1417,7 @@
         "grade": 43.62,
         "name": "Mel Davis",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 62,
         "team": "NYK"
     },
@@ -1445,7 +1445,7 @@
         "grade": 66.59,
         "name": "Mickey Davis",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "MIL"
     },
@@ -1473,7 +1473,7 @@
         "grade": 44.87,
         "name": "Rod Derline",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 58,
         "team": "SEA"
     },
@@ -1501,7 +1501,7 @@
         "grade": 67.52,
         "name": "Derrek Dickey",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "GSW"
     },
@@ -1529,7 +1529,7 @@
         "grade": 52.13,
         "name": "Ernie DiGregorio",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 31,
         "team": "BUF"
     },
@@ -1557,7 +1557,7 @@
         "grade": 78.85,
         "name": "John Drew",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "ATL"
     },
@@ -1585,7 +1585,7 @@
         "grade": 61.84,
         "name": "Charles Dudley",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 67,
         "team": "GSW"
     },
@@ -1613,7 +1613,7 @@
         "grade": 69.95,
         "name": "Leroy Ellis",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "PHI"
     },
@@ -1641,7 +1641,7 @@
         "grade": 65.47,
         "name": "Keith Erickson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 49,
         "team": "PHO"
     },
@@ -1669,7 +1669,7 @@
         "grade": 68.98,
         "name": "Chris Ford",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "DET"
     },
@@ -1697,7 +1697,7 @@
         "grade": 42.74,
         "name": "Fred Foster",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "CLE"
     },
@@ -1725,7 +1725,7 @@
         "grade": 74.03,
         "name": "Jim Fox",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "SEA"
     },
@@ -1753,7 +1753,7 @@
         "grade": 92.59,
         "name": "Walt Frazier",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "NYK"
     },
@@ -1781,7 +1781,7 @@
         "grade": 51.62,
         "name": "Bernie Fryer",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 31,
         "team": "NOJ"
     },
@@ -1809,7 +1809,7 @@
         "grade": 65.92,
         "name": "Rowland Garrett",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 70,
         "team": "CHI"
     },
@@ -1837,7 +1837,7 @@
         "grade": 75.49,
         "name": "John Gianelli",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "NYK"
     },
@@ -1865,7 +1865,7 @@
         "grade": 68.93,
         "name": "Herm Gilliam",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 60,
         "team": "ATL"
     },
@@ -1893,7 +1893,7 @@
         "grade": 77.6,
         "name": "Gail Goodrich",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 72,
         "team": "LAL"
     },
@@ -1921,7 +1921,7 @@
         "grade": 71.2,
         "name": "Leonard Gray",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "SEA"
     },
@@ -1949,7 +1949,7 @@
         "grade": 42.91,
         "name": "Lamar Green",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 15,
         "team": "NOJ"
     },
@@ -1977,7 +1977,7 @@
         "grade": 69.14,
         "name": "Matt Guokas",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "CHI"
     },
@@ -2005,7 +2005,7 @@
         "grade": 81.95,
         "name": "Happy Hairston",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 74,
         "team": "LAL"
     },
@@ -2033,7 +2033,7 @@
         "grade": 47.15,
         "name": "Clem Haskins",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 70,
         "team": "WSB"
     },
@@ -2061,7 +2061,7 @@
         "grade": 86.47,
         "name": "John Havlicek",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BOS"
     },
@@ -2089,7 +2089,7 @@
         "grade": 77.94,
         "name": "Steve Hawes",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 55,
         "team": "HOU"
     },
@@ -2117,7 +2117,7 @@
         "grade": 61.53,
         "name": "Connie Hawkins",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 43,
         "team": "LAL"
     },
@@ -2145,7 +2145,7 @@
         "grade": 47.43,
         "name": "Nate Hawthorne",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 50,
         "team": "PHO"
     },
@@ -2173,7 +2173,7 @@
         "grade": 88.67,
         "name": "Elvin Hayes",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "WSB"
     },
@@ -2201,7 +2201,7 @@
         "grade": 84.29,
         "name": "Spencer Haywood",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 68,
         "team": "SEA"
     },
@@ -2229,7 +2229,7 @@
         "grade": 64.11,
         "name": "Gar Heard",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 67,
         "team": "BUF"
     },
@@ -2257,7 +2257,7 @@
         "grade": 59.66,
         "name": "Tom Henderson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "ATL"
     },
@@ -2285,7 +2285,7 @@
         "grade": 55.95,
         "name": "Bill Hewitt",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 18,
         "team": "CHI"
     },
@@ -2313,7 +2313,7 @@
         "grade": 68.95,
         "name": "Lou Hudson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 11,
         "team": "ATL"
     },
@@ -2341,7 +2341,7 @@
         "grade": 38.71,
         "name": "John Hummer",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 43,
         "team": "SEA"
     },
@@ -2369,7 +2369,7 @@
         "grade": 43.39,
         "name": "Greg Jackson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 49,
         "team": [
             "NYK",
@@ -2400,7 +2400,7 @@
         "grade": 75.14,
         "name": "Phil Jackson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "NYK"
     },
@@ -2428,7 +2428,7 @@
         "grade": 41.05,
         "name": "Wardell Jackson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 56,
         "team": "SEA"
     },
@@ -2456,7 +2456,7 @@
         "grade": 64.39,
         "name": "Aaron James",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "NOJ"
     },
@@ -2484,7 +2484,7 @@
         "grade": 59.87,
         "name": "Charles Johnson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "GSW"
     },
@@ -2512,7 +2512,7 @@
         "grade": 70.08,
         "name": "George Johnson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "GSW"
     },
@@ -2540,7 +2540,7 @@
         "grade": 83.48,
         "name": "John Johnson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "POR"
     },
@@ -2568,7 +2568,7 @@
         "grade": 67.75,
         "name": "Ollie Johnson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": [
             "NOJ",
@@ -2599,7 +2599,7 @@
         "grade": 68.21,
         "name": "Dwight Jones",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "ATL"
     },
@@ -2627,7 +2627,7 @@
         "grade": 73.82,
         "name": "Jimmy Jones",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "WSB"
     },
@@ -2655,7 +2655,7 @@
         "grade": 50.76,
         "name": "Bob Kauffman",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "ATL"
     },
@@ -2683,7 +2683,7 @@
         "grade": 54.59,
         "name": "Don Kojis",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 21,
         "team": "KCO"
     },
@@ -2711,7 +2711,7 @@
         "grade": 44.79,
         "name": "Tom Kozelko",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "WSB"
     },
@@ -2739,7 +2739,7 @@
         "grade": 79.59,
         "name": "Kevin Kunnert",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "HOU"
     },
@@ -2767,7 +2767,7 @@
         "grade": 81.48,
         "name": "Sam Lacey",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "KCO"
     },
@@ -2795,7 +2795,7 @@
         "grade": 96.22,
         "name": "Bob Lanier",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "DET"
     },
@@ -2823,7 +2823,7 @@
         "grade": 54.42,
         "name": "Stu Lantz",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": [
             "NOJ",
@@ -2854,7 +2854,7 @@
         "grade": 54.54,
         "name": "Clyde Lee",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": [
             "ATL",
@@ -2885,7 +2885,7 @@
         "grade": 70.53,
         "name": "Bob Love",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 61,
         "team": "CHI"
     },
@@ -2913,7 +2913,7 @@
         "grade": 52.75,
         "name": "Stan Love",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 30,
         "team": "LAL"
     },
@@ -2941,7 +2941,7 @@
         "grade": 51.41,
         "name": "Phil Lumpkin",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 48,
         "team": "POR"
     },
@@ -2969,7 +2969,7 @@
         "grade": 73.75,
         "name": "Pete Maravich",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "NOJ"
     },
@@ -2997,7 +2997,7 @@
         "grade": 66.05,
         "name": "Jack Marin",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "BUF"
     },
@@ -3025,7 +3025,7 @@
         "grade": 56.27,
         "name": "LaRue Martin",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "POR"
     },
@@ -3053,7 +3053,7 @@
         "grade": 94.7,
         "name": "Bob McAdoo",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BUF"
     },
@@ -3081,7 +3081,7 @@
         "grade": 69.49,
         "name": "Jon McGlocklin",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "MIL"
     },
@@ -3109,7 +3109,7 @@
         "grade": 84.36,
         "name": "Jim McMillian",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 62,
         "team": "BUF"
     },
@@ -3137,7 +3137,7 @@
         "grade": 72.27,
         "name": "Larry McNeill",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "KCO"
     },
@@ -3165,7 +3165,7 @@
         "grade": 54.72,
         "name": "Cliff Meely",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 48,
         "team": "HOU"
     },
@@ -3193,7 +3193,7 @@
         "grade": 59.27,
         "name": "Gary Melchionni",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 68,
         "team": "PHO"
     },
@@ -3221,7 +3221,7 @@
         "grade": 72.1,
         "name": "Dean Meminger",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "ATL"
     },
@@ -3249,7 +3249,7 @@
         "grade": 70.81,
         "name": "John Mengelt",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "DET"
     },
@@ -3277,7 +3277,7 @@
         "grade": 86.37,
         "name": "Steve Mix",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 46,
         "team": "PHI"
     },
@@ -3305,7 +3305,7 @@
         "grade": 46.52,
         "name": "Eric Money",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 66,
         "team": "DET"
     },
@@ -3333,7 +3333,7 @@
         "grade": 83.71,
         "name": "Earl Monroe",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "NYK"
     },
@@ -3361,7 +3361,7 @@
         "grade": 60.31,
         "name": "Otto Moore",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 42,
         "team": [
             "DET",
@@ -3392,7 +3392,7 @@
         "grade": 66.2,
         "name": "Jeff Mullins",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 66,
         "team": "GSW"
     },
@@ -3420,7 +3420,7 @@
         "grade": 84.4,
         "name": "Calvin Murphy",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "HOU"
     },
@@ -3448,7 +3448,7 @@
         "grade": 72.08,
         "name": "Lloyd Neal",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "POR"
     },
@@ -3476,7 +3476,7 @@
         "grade": 87.37,
         "name": "Don Nelson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "BOS"
     },
@@ -3504,7 +3504,7 @@
         "grade": 61.35,
         "name": "Louie Nelson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 72,
         "team": "NOJ"
     },
@@ -3532,7 +3532,7 @@
         "grade": 80.16,
         "name": "Mike Newlin",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "HOU"
     },
@@ -3560,7 +3560,7 @@
         "grade": 69.48,
         "name": "Willie Norwood",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 24,
         "team": "DET"
     },
@@ -3588,7 +3588,7 @@
         "grade": 41.54,
         "name": "Jim Owens",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 41,
         "team": "PHO"
     },
@@ -3616,7 +3616,7 @@
         "grade": 49.9,
         "name": "Steve Patterson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "CLE"
     },
@@ -3644,7 +3644,7 @@
         "grade": 86.75,
         "name": "Curtis Perry",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "PHO"
     },
@@ -3672,7 +3672,7 @@
         "grade": 70.8,
         "name": "Geoff Petrie",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "POR"
     },
@@ -3700,7 +3700,7 @@
         "grade": 66.96,
         "name": "Howard Porter",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 58,
         "team": [
             "NYK",
@@ -3731,7 +3731,7 @@
         "grade": 81.92,
         "name": "Kevin Porter",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "WSB"
     },
@@ -3759,7 +3759,7 @@
         "grade": 79.03,
         "name": "Jim Price",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 50,
         "team": [
             "LAL",
@@ -3790,7 +3790,7 @@
         "grade": 83.71,
         "name": "Ed Ratleff",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "HOU"
     },
@@ -3818,7 +3818,7 @@
         "grade": 85.38,
         "name": "Clifford Ray",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "GSW"
     },
@@ -3846,7 +3846,7 @@
         "grade": 57.16,
         "name": "Kevin Restani",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "MIL"
     },
@@ -3874,7 +3874,7 @@
         "grade": 48.28,
         "name": "Pat Riley",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 46,
         "team": "LAL"
     },
@@ -3902,7 +3902,7 @@
         "grade": 55.17,
         "name": "Ron Riley",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 77,
         "team": "HOU"
     },
@@ -3930,7 +3930,7 @@
         "grade": 81.62,
         "name": "Mike Riordan",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 74,
         "team": "WSB"
     },
@@ -3958,7 +3958,7 @@
         "grade": 54.7,
         "name": "Rick Roberson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 16,
         "team": "NOJ"
     },
@@ -3986,7 +3986,7 @@
         "grade": 66.89,
         "name": "Truck Robinson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "WSB"
     },
@@ -4014,7 +4014,7 @@
         "grade": 73.89,
         "name": "Curtis Rowe",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "DET"
     },
@@ -4042,7 +4042,7 @@
         "grade": 48.72,
         "name": "Campy Russell",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 68,
         "team": "CLE"
     },
@@ -4070,7 +4070,7 @@
         "grade": 67.42,
         "name": "Cazzie Russell",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 40,
         "team": "LAL"
     },
@@ -4098,7 +4098,7 @@
         "grade": 54.4,
         "name": "Fred Saunders",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 69,
         "team": "PHO"
     },
@@ -4126,7 +4126,7 @@
         "grade": 67.82,
         "name": "Dale Schlueter",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "BUF"
     },
@@ -4154,7 +4154,7 @@
         "grade": 75.72,
         "name": "Charlie Scott",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 69,
         "team": "PHO"
     },
@@ -4182,7 +4182,7 @@
         "grade": 74.23,
         "name": "Paul Silas",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BOS"
     },
@@ -4210,7 +4210,7 @@
         "grade": 50.02,
         "name": "Tal Skinner",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "SEA"
     },
@@ -4238,7 +4238,7 @@
         "grade": 78.06,
         "name": "Jerry Sloan",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "CHI"
     },
@@ -4266,7 +4266,7 @@
         "grade": 82.87,
         "name": "Bingo Smith",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "CLE"
     },
@@ -4294,7 +4294,7 @@
         "grade": 44.46,
         "name": "Don Smith",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 54,
         "team": "PHI"
     },
@@ -4322,7 +4322,7 @@
         "grade": 80.91,
         "name": "Elmore Smith",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 74,
         "team": "LAL"
     },
@@ -4350,7 +4350,7 @@
         "grade": 70.32,
         "name": "Phil Smith",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 74,
         "team": "GSW"
     },
@@ -4378,7 +4378,7 @@
         "grade": 84.29,
         "name": "Randy Smith",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BUF"
     },
@@ -4406,7 +4406,7 @@
         "grade": 84.38,
         "name": "Dick Snyder",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "CLE"
     },
@@ -4434,7 +4434,7 @@
         "grade": 74.65,
         "name": "Mike Sojourner",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "ATL"
     },
@@ -4462,7 +4462,7 @@
         "grade": 47.7,
         "name": "Bud Stallworth",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "NOJ"
     },
@@ -4490,7 +4490,7 @@
         "grade": 85.15,
         "name": "Larry Steele",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "POR"
     },
@@ -4518,7 +4518,7 @@
         "grade": 61.81,
         "name": "George Thompson",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "MIL"
     },
@@ -4546,7 +4546,7 @@
         "grade": 68.26,
         "name": "Nate Thurmond",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "CHI"
     },
@@ -4574,7 +4574,7 @@
         "grade": 88.85,
         "name": "Rudy Tomjanovich",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "HOU"
     },
@@ -4602,7 +4602,7 @@
         "grade": 51.32,
         "name": "George Trapp",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 78,
         "team": "DET"
     },
@@ -4630,7 +4630,7 @@
         "grade": 45.99,
         "name": "John Tschogl",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 39,
         "team": "PHI"
     },
@@ -4658,7 +4658,7 @@
         "grade": 91.56,
         "name": "Wes Unseld",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 73,
         "team": "WSB"
     },
@@ -4686,7 +4686,7 @@
         "grade": 77.75,
         "name": "Dick Van Arsdale",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 70,
         "team": "PHO"
     },
@@ -4714,7 +4714,7 @@
         "grade": 64.34,
         "name": "Tom Van Arsdale",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": [
             "PHI",
@@ -4745,7 +4745,7 @@
         "grade": 76.2,
         "name": "Norm Van Lier",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 70,
         "team": "CHI"
     },
@@ -4773,7 +4773,7 @@
         "grade": 58.96,
         "name": "Neal Walk",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 67,
         "team": [
             "NOJ",
@@ -4804,7 +4804,7 @@
         "grade": 86.89,
         "name": "Chet Walker",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "CHI"
     },
@@ -4832,7 +4832,7 @@
         "grade": 56.83,
         "name": "Foots Walker",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 72,
         "team": "CLE"
     },
@@ -4860,7 +4860,7 @@
         "grade": 76.09,
         "name": "Jimmy Walker",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 81,
         "team": "KCO"
     },
@@ -4888,7 +4888,7 @@
         "grade": 88.83,
         "name": "Bill Walton",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 35,
         "team": "POR"
     },
@@ -4916,7 +4916,7 @@
         "grade": 69.65,
         "name": "Cornell Warner",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "MIL"
     },
@@ -4944,7 +4944,7 @@
         "grade": 60.07,
         "name": "Jim Washington",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": [
             "ATL",
@@ -4975,7 +4975,7 @@
         "grade": 51.69,
         "name": "Kermit Washington",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 55,
         "team": "LAL"
     },
@@ -5003,7 +5003,7 @@
         "grade": 65.45,
         "name": "Slick Watts",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "SEA"
     },
@@ -5031,7 +5031,7 @@
         "grade": 67.21,
         "name": "Nick Weatherspoon",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "WSB"
     },
@@ -5059,7 +5059,7 @@
         "grade": 72.54,
         "name": "Scott Wedman",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 80,
         "team": "KCO"
     },
@@ -5087,7 +5087,7 @@
         "grade": 54.82,
         "name": "Bob Weiss",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 76,
         "team": "BUF"
     },
@@ -5115,7 +5115,7 @@
         "grade": 83.73,
         "name": "Paul Westphal",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BOS"
     },
@@ -5143,7 +5143,7 @@
         "grade": 59.08,
         "name": "John Wetzel",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 63,
         "team": "ATL"
     },
@@ -5171,7 +5171,7 @@
         "grade": 83.3,
         "name": "Jo Jo White",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "BOS"
     },
@@ -5199,7 +5199,7 @@
         "grade": 91.7,
         "name": "Sidney Wicks",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "POR"
     },
@@ -5227,7 +5227,7 @@
         "grade": 70.8,
         "name": "Lenny Wilkens",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 65,
         "team": "POR"
     },
@@ -5255,7 +5255,7 @@
         "grade": 72.75,
         "name": "Jamaal Wilkes",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "GSW"
     },
@@ -5283,7 +5283,7 @@
         "grade": 52.59,
         "name": "Earl Williams",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 79,
         "team": "PHO"
     },
@@ -5311,7 +5311,7 @@
         "grade": 80.19,
         "name": "Nate Williams",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 85,
         "team": [
             "KCO",
@@ -5342,7 +5342,7 @@
         "grade": 42.98,
         "name": "Ron Williams",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 46,
         "team": "MIL"
     },
@@ -5370,7 +5370,7 @@
         "grade": 70.9,
         "name": "Lee Winfield",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 68,
         "team": "BUF"
     },
@@ -5398,7 +5398,7 @@
         "grade": 69.83,
         "name": "Harthorne Wingo",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 82,
         "team": "NYK"
     },
@@ -5426,7 +5426,7 @@
         "grade": 61.44,
         "name": "Brian Winters",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 68,
         "team": "LAL"
     },
@@ -5454,7 +5454,7 @@
         "grade": 56.51,
         "name": "Dave Wohl",
         "league_grade": 73.63,
-        "year": 1975,
+        "year": "1975",
         "games_played": 75,
         "team": "HOU"
     }

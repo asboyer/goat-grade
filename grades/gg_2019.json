@@ -25,7 +25,7 @@
         "grade": 58.84,
         "name": "Álex Abrines",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 31,
         "team": "OKC"
     },
@@ -55,7 +55,7 @@
         "grade": 52.3,
         "name": "Quincy Acy",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 10,
         "team": "PHO"
     },
@@ -85,7 +85,7 @@
         "grade": 53.52,
         "name": "Jaylen Adams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 34,
         "team": "ATL"
     },
@@ -115,7 +115,7 @@
         "grade": 88.14,
         "name": "Steven Adams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "OKC"
     },
@@ -145,7 +145,7 @@
         "grade": 87.13,
         "name": "Bam Adebayo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "MIA"
     },
@@ -175,7 +175,7 @@
         "grade": 49.1,
         "name": "Deng Adel",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 19,
         "team": "CLE"
     },
@@ -205,7 +205,7 @@
         "grade": 89.17,
         "name": "LaMarcus Aldridge",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "SAS"
     },
@@ -235,7 +235,7 @@
         "grade": 50.27,
         "name": "Rawle Alkins",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 10,
         "team": "CHI"
     },
@@ -265,7 +265,7 @@
         "grade": 53.18,
         "name": "Grayson Allen",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 38,
         "team": "UTA"
     },
@@ -295,7 +295,7 @@
         "grade": 87.05,
         "name": "Jarrett Allen",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "BRK"
     },
@@ -325,7 +325,7 @@
         "grade": 75.92,
         "name": "Kadeem Allen",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 19,
         "team": "NYK"
     },
@@ -355,7 +355,7 @@
         "grade": 81.6,
         "name": "Al-Farouq Aminu",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "POR"
     },
@@ -385,7 +385,7 @@
         "grade": 80.47,
         "name": "Kyle Anderson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "MEM"
     },
@@ -415,7 +415,7 @@
         "grade": 48.2,
         "name": "Ryan Anderson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 25,
         "team": [
             "PHO",
@@ -448,7 +448,7 @@
         "grade": 97.16,
         "name": "Giannis Antetokounmpo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "MIL"
     },
@@ -478,7 +478,7 @@
         "grade": 64.34,
         "name": "Carmelo Anthony",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 10,
         "team": "HOU"
     },
@@ -508,7 +508,7 @@
         "grade": 67.07,
         "name": "OG Anunoby",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "TOR"
     },
@@ -538,7 +538,7 @@
         "grade": 73.98,
         "name": "Ryan Arcidiacono",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "CHI"
     },
@@ -568,7 +568,7 @@
         "grade": 74.52,
         "name": "Trevor Ariza",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": [
             "PHO",
@@ -601,7 +601,7 @@
         "grade": 83.71,
         "name": "D.J. Augustin",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "ORL"
     },
@@ -631,7 +631,7 @@
         "grade": 86.65,
         "name": "Deandre Ayton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 71,
         "team": "PHO"
     },
@@ -661,7 +661,7 @@
         "grade": 64.75,
         "name": "Dwayne Bacon",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "CHO"
     },
@@ -691,7 +691,7 @@
         "grade": 79.36,
         "name": "Marvin Bagley III",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 62,
         "team": "SAC"
     },
@@ -721,7 +721,7 @@
         "grade": 50.88,
         "name": "Ron Baker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 15,
         "team": [
             "NYK",
@@ -754,7 +754,7 @@
         "grade": 72.2,
         "name": "Lonzo Ball",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 47,
         "team": "LAL"
     },
@@ -784,7 +784,7 @@
         "grade": 71.15,
         "name": "Mo Bamba",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 47,
         "team": "ORL"
     },
@@ -814,7 +814,7 @@
         "grade": 67.8,
         "name": "J.J. Barea",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 38,
         "team": "DAL"
     },
@@ -844,7 +844,7 @@
         "grade": 75.74,
         "name": "Harrison Barnes",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": [
             "DAL",
@@ -877,7 +877,7 @@
         "grade": 67.74,
         "name": "Will Barton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "DEN"
     },
@@ -907,7 +907,7 @@
         "grade": 57.87,
         "name": "Keita Bates-Diop",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 30,
         "team": "MIN"
     },
@@ -937,7 +937,7 @@
         "grade": 81.97,
         "name": "Nicolas Batum",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "CHO"
     },
@@ -967,7 +967,7 @@
         "grade": 53.72,
         "name": "Jerryd Bayless",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 34,
         "team": "MIN"
     },
@@ -997,7 +997,7 @@
         "grade": 73.26,
         "name": "Aron Baynes",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "BOS"
     },
@@ -1027,7 +1027,7 @@
         "grade": 67.95,
         "name": "Kent Bazemore",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "ATL"
     },
@@ -1057,7 +1057,7 @@
         "grade": 91.23,
         "name": "Bradley Beal",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "WAS"
     },
@@ -1087,7 +1087,7 @@
         "grade": 81.06,
         "name": "Malik Beasley",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "DEN"
     },
@@ -1117,7 +1117,7 @@
         "grade": 65.08,
         "name": "Michael Beasley",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 26,
         "team": "LAL"
     },
@@ -1147,7 +1147,7 @@
         "grade": 70.54,
         "name": "Marco Belinelli",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "SAS"
     },
@@ -1177,7 +1177,7 @@
         "grade": 66.47,
         "name": "Jordan Bell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "GSW"
     },
@@ -1207,7 +1207,7 @@
         "grade": 67.74,
         "name": "DeAndre' Bembry",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "ATL"
     },
@@ -1237,7 +1237,7 @@
         "grade": 60.2,
         "name": "Dragan Bender",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "PHO"
     },
@@ -1267,7 +1267,7 @@
         "grade": 46.66,
         "name": "Dairis Bertāns",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 12,
         "team": "NOP"
     },
@@ -1297,7 +1297,7 @@
         "grade": 81.13,
         "name": "Dāvis Bertāns",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "SAS"
     },
@@ -1327,7 +1327,7 @@
         "grade": 79.99,
         "name": "Patrick Beverley",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 78,
         "team": "LAC"
     },
@@ -1357,7 +1357,7 @@
         "grade": 77.14,
         "name": "Khem Birch",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 50,
         "team": "ORL"
     },
@@ -1387,7 +1387,7 @@
         "grade": 69.44,
         "name": "Bismack Biyombo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 54,
         "team": "CHO"
     },
@@ -1417,7 +1417,7 @@
         "grade": 84.65,
         "name": "Nemanja Bjelica",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "SAC"
     },
@@ -1447,7 +1447,7 @@
         "grade": 55.58,
         "name": "Antonio Blakeney",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 57,
         "team": "CHI"
     },
@@ -1477,7 +1477,7 @@
         "grade": 90.68,
         "name": "Eric Bledsoe",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 78,
         "team": "MIL"
     },
@@ -1507,7 +1507,7 @@
         "grade": 58.14,
         "name": "Jaron Blossomgame",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 27,
         "team": "CLE"
     },
@@ -1537,7 +1537,7 @@
         "grade": 76.26,
         "name": "Bogdan Bogdanović",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "SAC"
     },
@@ -1567,7 +1567,7 @@
         "grade": 87.06,
         "name": "Bojan Bogdanović",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "IND"
     },
@@ -1597,7 +1597,7 @@
         "grade": 65.67,
         "name": "Andrew Bogut",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 11,
         "team": "GSW"
     },
@@ -1627,7 +1627,7 @@
         "grade": 72.6,
         "name": "Jonah Bolden",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 44,
         "team": "PHI"
     },
@@ -1657,7 +1657,7 @@
         "grade": 83.66,
         "name": "Devin Booker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "PHO"
     },
@@ -1687,7 +1687,7 @@
         "grade": 63.24,
         "name": "Avery Bradley",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 63,
         "team": [
             "LAC",
@@ -1720,7 +1720,7 @@
         "grade": 65.35,
         "name": "Corey Brewer",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 31,
         "team": [
             "PHI",
@@ -1753,7 +1753,7 @@
         "grade": 74.63,
         "name": "Mikal Bridges",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "PHO"
     },
@@ -1783,7 +1783,7 @@
         "grade": 74.82,
         "name": "Miles Bridges",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "CHO"
     },
@@ -1813,7 +1813,7 @@
         "grade": 53.23,
         "name": "Isaiah Briscoe",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 39,
         "team": "ORL"
     },
@@ -1843,7 +1843,7 @@
         "grade": 66.83,
         "name": "Ryan Broekhoff",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "DAL"
     },
@@ -1873,7 +1873,7 @@
         "grade": 89.67,
         "name": "Malcolm Brogdon",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "MIL"
     },
@@ -1903,7 +1903,7 @@
         "grade": 56.88,
         "name": "Dillon Brooks",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 18,
         "team": "MEM"
     },
@@ -1933,7 +1933,7 @@
         "grade": 58.91,
         "name": "MarShon Brooks",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 29,
         "team": "MEM"
     },
@@ -1963,7 +1963,7 @@
         "grade": 59.21,
         "name": "Bruce Brown",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "DET"
     },
@@ -1993,7 +1993,7 @@
         "grade": 74.95,
         "name": "Jaylen Brown",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "BOS"
     },
@@ -2023,7 +2023,7 @@
         "grade": 69.92,
         "name": "Sterling Brown",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": "MIL"
     },
@@ -2053,7 +2053,7 @@
         "grade": 57.61,
         "name": "Troy Brown Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 52,
         "team": "WAS"
     },
@@ -2083,7 +2083,7 @@
         "grade": 71.41,
         "name": "Jalen Brunson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "DAL"
     },
@@ -2113,7 +2113,7 @@
         "grade": 85.94,
         "name": "Thomas Bryant",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "WAS"
     },
@@ -2143,7 +2143,7 @@
         "grade": 74.45,
         "name": "Reggie Bullock",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 63,
         "team": [
             "DET",
@@ -2176,7 +2176,7 @@
         "grade": 72.06,
         "name": "Trey Burke",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": [
             "NYK",
@@ -2209,7 +2209,7 @@
         "grade": 69.01,
         "name": "Alec Burks",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": [
             "UTA",
@@ -2243,7 +2243,7 @@
         "grade": 90.77,
         "name": "Jimmy Butler",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 65,
         "team": [
             "MIN",
@@ -2276,7 +2276,7 @@
         "grade": 74.3,
         "name": "Bruno Caboclo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 34,
         "team": "MEM"
     },
@@ -2306,7 +2306,7 @@
         "grade": 55.08,
         "name": "José Calderón",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 49,
         "team": "DET"
     },
@@ -2336,7 +2336,7 @@
         "grade": 78.38,
         "name": "Kentavious Caldwell-Pope",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "LAL"
     },
@@ -2366,7 +2366,7 @@
         "grade": 58.03,
         "name": "Isaiah Canaan",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 30,
         "team": [
             "PHO",
@@ -2400,7 +2400,7 @@
         "grade": 90.16,
         "name": "Clint Capela",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "HOU"
     },
@@ -2430,7 +2430,7 @@
         "grade": 70.62,
         "name": "DeMarre Carroll",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "BRK"
     },
@@ -2460,7 +2460,7 @@
         "grade": 57.19,
         "name": "Jevon Carter",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 39,
         "team": "MEM"
     },
@@ -2490,7 +2490,7 @@
         "grade": 70.56,
         "name": "Vince Carter",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "ATL"
     },
@@ -2520,7 +2520,7 @@
         "grade": 74.94,
         "name": "Wendell Carter Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 44,
         "team": "CHI"
     },
@@ -2550,7 +2550,7 @@
         "grade": 65.62,
         "name": "Michael Carter-Williams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 28,
         "team": [
             "HOU",
@@ -2583,7 +2583,7 @@
         "grade": 75.07,
         "name": "Alex Caruso",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 25,
         "team": "LAL"
     },
@@ -2613,7 +2613,7 @@
         "grade": 75.13,
         "name": "Omri Casspi",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 36,
         "team": "MEM"
     },
@@ -2643,7 +2643,7 @@
         "grade": 88.34,
         "name": "Willie Cauley-Stein",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "SAC"
     },
@@ -2673,7 +2673,7 @@
         "grade": 70.08,
         "name": "Tyson Chandler",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 55,
         "team": [
             "PHO",
@@ -2706,7 +2706,7 @@
         "grade": 65.67,
         "name": "Wilson Chandler",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": [
             "PHI",
@@ -2739,7 +2739,7 @@
         "grade": 52.87,
         "name": "Marquese Chriss",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": [
             "HOU",
@@ -2772,7 +2772,7 @@
         "grade": 63.38,
         "name": "Gary Clark",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "HOU"
     },
@@ -2802,7 +2802,7 @@
         "grade": 57.09,
         "name": "Ian Clark",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "NOP"
     },
@@ -2832,7 +2832,7 @@
         "grade": 75.48,
         "name": "Jordan Clarkson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "CLE"
     },
@@ -2862,7 +2862,7 @@
         "grade": 87.51,
         "name": "John Collins",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 61,
         "team": "ATL"
     },
@@ -2892,7 +2892,7 @@
         "grade": 73.82,
         "name": "Zach Collins",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "POR"
     },
@@ -2922,7 +2922,7 @@
         "grade": 86.29,
         "name": "Darren Collison",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "IND"
     },
@@ -2952,7 +2952,7 @@
         "grade": 88.81,
         "name": "Mike Conley",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "MEM"
     },
@@ -2982,7 +2982,7 @@
         "grade": 79.89,
         "name": "Pat Connaughton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 61,
         "team": "MIL"
     },
@@ -3012,7 +3012,7 @@
         "grade": 69.39,
         "name": "Quinn Cook",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "GSW"
     },
@@ -3042,7 +3042,7 @@
         "grade": 86.4,
         "name": "DeMarcus Cousins",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 30,
         "team": "GSW"
     },
@@ -3072,7 +3072,7 @@
         "grade": 83.27,
         "name": "Robert Covington",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 35,
         "team": [
             "PHI",
@@ -3105,7 +3105,7 @@
         "grade": 62.59,
         "name": "Allen Crabbe",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "BRK"
     },
@@ -3135,7 +3135,7 @@
         "grade": 69.95,
         "name": "Torrey Craig",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "DEN"
     },
@@ -3165,7 +3165,7 @@
         "grade": 61.22,
         "name": "Jamal Crawford",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "PHO"
     },
@@ -3195,7 +3195,7 @@
         "grade": 78.0,
         "name": "Jae Crowder",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "UTA"
     },
@@ -3225,7 +3225,7 @@
         "grade": 69.88,
         "name": "Dante Cunningham",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "SAS"
     },
@@ -3255,7 +3255,7 @@
         "grade": 72.37,
         "name": "Seth Curry",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "POR"
     },
@@ -3285,7 +3285,7 @@
         "grade": 95.11,
         "name": "Stephen Curry",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": "GSW"
     },
@@ -3315,7 +3315,7 @@
         "grade": 60.17,
         "name": "Troy Daniels",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "PHO"
     },
@@ -3345,7 +3345,7 @@
         "grade": 96.09,
         "name": "Anthony Davis",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": "NOP"
     },
@@ -3375,7 +3375,7 @@
         "grade": 79.31,
         "name": "Ed Davis",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "BRK"
     },
@@ -3405,7 +3405,7 @@
         "grade": 86.64,
         "name": "Dewayne Dedmon",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "ATL"
     },
@@ -3435,7 +3435,7 @@
         "grade": 64.92,
         "name": "Sam Dekker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 47,
         "team": [
             "CLE",
@@ -3468,7 +3468,7 @@
         "grade": 59.96,
         "name": "Matthew Dellavedova",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 48,
         "team": [
             "MIL",
@@ -3501,7 +3501,7 @@
         "grade": 73.02,
         "name": "Luol Deng",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 22,
         "team": "MIN"
     },
@@ -3531,7 +3531,7 @@
         "grade": 86.48,
         "name": "DeMar DeRozan",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "SAS"
     },
@@ -3561,7 +3561,7 @@
         "grade": 76.69,
         "name": "Cheick Diallo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "NOP"
     },
@@ -3591,7 +3591,7 @@
         "grade": 56.77,
         "name": "Hamidou Diallo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "OKC"
     },
@@ -3621,7 +3621,7 @@
         "grade": 79.07,
         "name": "Gorgui Dieng",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "MIN"
     },
@@ -3651,7 +3651,7 @@
         "grade": 81.98,
         "name": "Spencer Dinwiddie",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "BRK"
     },
@@ -3681,7 +3681,7 @@
         "grade": 61.89,
         "name": "Donte DiVincenzo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 27,
         "team": "MIL"
     },
@@ -3711,7 +3711,7 @@
         "grade": 85.5,
         "name": "Luka Dončić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "DAL"
     },
@@ -3741,7 +3741,7 @@
         "grade": 57.87,
         "name": "Tyler Dorsey",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 48,
         "team": [
             "ATL",
@@ -3774,7 +3774,7 @@
         "grade": 66.68,
         "name": "Damyean Dotson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "NYK"
     },
@@ -3804,7 +3804,7 @@
         "grade": 72.13,
         "name": "Goran Dragić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 36,
         "team": "MIA"
     },
@@ -3834,7 +3834,7 @@
         "grade": 89.41,
         "name": "Andre Drummond",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "DET"
     },
@@ -3864,7 +3864,7 @@
         "grade": 67.6,
         "name": "Jared Dudley",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": "BRK"
     },
@@ -3894,7 +3894,7 @@
         "grade": 70.11,
         "name": "Kris Dunn",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "CHI"
     },
@@ -3924,7 +3924,7 @@
         "grade": 95.89,
         "name": "Kevin Durant",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 78,
         "team": "GSW"
     },
@@ -3954,7 +3954,7 @@
         "grade": 63.97,
         "name": "Henry Ellenson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 19,
         "team": [
             "DET",
@@ -3987,7 +3987,7 @@
         "grade": 75.98,
         "name": "Wayne Ellington",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 53,
         "team": [
             "MIA",
@@ -4020,7 +4020,7 @@
         "grade": 93.05,
         "name": "Joel Embiid",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "PHI"
     },
@@ -4050,7 +4050,7 @@
         "grade": 73.01,
         "name": "James Ennis III",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": [
             "HOU",
@@ -4083,7 +4083,7 @@
         "grade": 64.68,
         "name": "Tyreke Evans",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": "IND"
     },
@@ -4113,7 +4113,7 @@
         "grade": 62.58,
         "name": "Dante Exum",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "UTA"
     },
@@ -4143,7 +4143,7 @@
         "grade": 80.23,
         "name": "Kenneth Faried",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 37,
         "team": [
             "BRK",
@@ -4176,7 +4176,7 @@
         "grade": 89.24,
         "name": "Derrick Favors",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "UTA"
     },
@@ -4206,7 +4206,7 @@
         "grade": 61.92,
         "name": "Cristiano Felício",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "CHI"
     },
@@ -4236,7 +4236,7 @@
         "grade": 63.01,
         "name": "Raymond Felton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 33,
         "team": "OKC"
     },
@@ -4266,7 +4266,7 @@
         "grade": 66.93,
         "name": "Terrance Ferguson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "OKC"
     },
@@ -4296,7 +4296,7 @@
         "grade": 69.06,
         "name": "Yogi Ferrell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 71,
         "team": "SAC"
     },
@@ -4326,7 +4326,7 @@
         "grade": 72.35,
         "name": "Dorian Finney-Smith",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "DAL"
     },
@@ -4356,7 +4356,7 @@
         "grade": 77.46,
         "name": "Bryn Forbes",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "SAS"
     },
@@ -4386,7 +4386,7 @@
         "grade": 74.0,
         "name": "Evan Fournier",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "ORL"
     },
@@ -4416,7 +4416,7 @@
         "grade": 86.0,
         "name": "De'Aaron Fox",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "SAC"
     },
@@ -4446,7 +4446,7 @@
         "grade": 68.53,
         "name": "Tim Frazier",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": [
             "NOP",
@@ -4479,7 +4479,7 @@
         "grade": 84.95,
         "name": "Enes Freedom",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": [
             "NYK",
@@ -4512,7 +4512,7 @@
         "grade": 62.07,
         "name": "Markelle Fultz",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 19,
         "team": "PHI"
     },
@@ -4542,7 +4542,7 @@
         "grade": 90.44,
         "name": "Danilo Gallinari",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "LAC"
     },
@@ -4572,7 +4572,7 @@
         "grade": 68.7,
         "name": "Langston Galloway",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "DET"
     },
@@ -4602,7 +4602,7 @@
         "grade": 87.76,
         "name": "Marc Gasol",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": [
             "MEM",
@@ -4635,7 +4635,7 @@
         "grade": 72.04,
         "name": "Pau Gasol",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 30,
         "team": [
             "SAS",
@@ -4668,7 +4668,7 @@
         "grade": 88.33,
         "name": "Rudy Gay",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": "SAS"
     },
@@ -4698,7 +4698,7 @@
         "grade": 94.29,
         "name": "Paul George",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "OKC"
     },
@@ -4728,7 +4728,7 @@
         "grade": 83.96,
         "name": "Taj Gibson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "MIN"
     },
@@ -4758,7 +4758,7 @@
         "grade": 66.34,
         "name": "Harry Giles",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": "SAC"
     },
@@ -4788,7 +4788,7 @@
         "grade": 79.87,
         "name": "Shai Gilgeous-Alexander",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "LAC"
     },
@@ -4818,7 +4818,7 @@
         "grade": 92.81,
         "name": "Rudy Gobert",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "UTA"
     },
@@ -4848,7 +4848,7 @@
         "grade": 83.73,
         "name": "Aaron Gordon",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 78,
         "team": "ORL"
     },
@@ -4878,7 +4878,7 @@
         "grade": 74.42,
         "name": "Eric Gordon",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "HOU"
     },
@@ -4908,7 +4908,7 @@
         "grade": 69.85,
         "name": "Marcin Gortat",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 47,
         "team": "LAC"
     },
@@ -4938,7 +4938,7 @@
         "grade": 55.58,
         "name": "Devonte' Graham",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "CHO"
     },
@@ -4968,7 +4968,7 @@
         "grade": 56.49,
         "name": "Treveon Graham",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 35,
         "team": "BRK"
     },
@@ -4998,7 +4998,7 @@
         "grade": 86.23,
         "name": "Jerami Grant",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "OKC"
     },
@@ -5028,7 +5028,7 @@
         "grade": 65.35,
         "name": "Jerian Grant",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "ORL"
     },
@@ -5058,7 +5058,7 @@
         "grade": 86.69,
         "name": "Danny Green",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "TOR"
     },
@@ -5088,7 +5088,7 @@
         "grade": 80.79,
         "name": "Draymond Green",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 66,
         "team": "GSW"
     },
@@ -5118,7 +5118,7 @@
         "grade": 70.36,
         "name": "Gerald Green",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "HOU"
     },
@@ -5148,7 +5148,7 @@
         "grade": 78.96,
         "name": "JaMychal Green",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 65,
         "team": [
             "MEM",
@@ -5181,7 +5181,7 @@
         "grade": 80.14,
         "name": "Jeff Green",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "WAS"
     },
@@ -5211,7 +5211,7 @@
         "grade": 90.91,
         "name": "Blake Griffin",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "DET"
     },
@@ -5241,7 +5241,7 @@
         "grade": 52.48,
         "name": "Daniel Hamilton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 19,
         "team": "ATL"
     },
@@ -5271,7 +5271,7 @@
         "grade": 71.01,
         "name": "Tim Hardaway Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 65,
         "team": [
             "NYK",
@@ -5304,7 +5304,7 @@
         "grade": 96.93,
         "name": "James Harden",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 78,
         "team": "HOU"
     },
@@ -5334,7 +5334,7 @@
         "grade": 78.87,
         "name": "Maurice Harkless",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "POR"
     },
@@ -5364,7 +5364,7 @@
         "grade": 91.18,
         "name": "Montrezl Harrell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "LAC"
     },
@@ -5394,7 +5394,7 @@
         "grade": 63.14,
         "name": "Devin Harris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "DAL"
     },
@@ -5424,7 +5424,7 @@
         "grade": 73.33,
         "name": "Gary Harris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 57,
         "team": "DEN"
     },
@@ -5454,7 +5454,7 @@
         "grade": 84.87,
         "name": "Joe Harris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "BRK"
     },
@@ -5484,7 +5484,7 @@
         "grade": 90.37,
         "name": "Tobias Harris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": [
             "LAC",
@@ -5517,7 +5517,7 @@
         "grade": 51.93,
         "name": "Andrew Harrison",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 17,
         "team": [
             "MEM",
@@ -5551,7 +5551,7 @@
         "grade": 67.11,
         "name": "Shaquille Harrison",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "CHI"
     },
@@ -5581,7 +5581,7 @@
         "grade": 70.51,
         "name": "Josh Hart",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "LAL"
     },
@@ -5611,7 +5611,7 @@
         "grade": 84.4,
         "name": "Gordon Hayward",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "BOS"
     },
@@ -5641,7 +5641,7 @@
         "grade": 75.07,
         "name": "John Henson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 14,
         "team": "MIL"
     },
@@ -5671,7 +5671,7 @@
         "grade": 72.47,
         "name": "Juancho Hernangómez",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "DEN"
     },
@@ -5701,7 +5701,7 @@
         "grade": 77.25,
         "name": "Willy Hernangómez",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": "CHO"
     },
@@ -5731,7 +5731,7 @@
         "grade": 62.2,
         "name": "Mario Hezonja",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": "NYK"
     },
@@ -5761,7 +5761,7 @@
         "grade": 87.92,
         "name": "Buddy Hield",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "SAC"
     },
@@ -5791,7 +5791,7 @@
         "grade": 65.15,
         "name": "Nenê",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "HOU"
     },
@@ -5821,7 +5821,7 @@
         "grade": 73.56,
         "name": "George Hill",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": [
             "CLE",
@@ -5854,7 +5854,7 @@
         "grade": 57.21,
         "name": "Solomon Hill",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 44,
         "team": "NOP"
     },
@@ -5884,7 +5884,7 @@
         "grade": 64.59,
         "name": "Aaron Holiday",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 50,
         "team": "IND"
     },
@@ -5914,7 +5914,7 @@
         "grade": 89.25,
         "name": "Jrue Holiday",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "NOP"
     },
@@ -5944,7 +5944,7 @@
         "grade": 71.35,
         "name": "Justin Holiday",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": [
             "CHI",
@@ -5977,7 +5977,7 @@
         "grade": 65.17,
         "name": "Rondae Hollis-Jefferson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": "BRK"
     },
@@ -6007,7 +6007,7 @@
         "grade": 82.34,
         "name": "Richaun Holmes",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "PHO"
     },
@@ -6037,7 +6037,7 @@
         "grade": 71.54,
         "name": "Rodney Hood",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": [
             "CLE",
@@ -6070,7 +6070,7 @@
         "grade": 94.27,
         "name": "Al Horford",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "BOS"
     },
@@ -6100,7 +6100,7 @@
         "grade": 77.78,
         "name": "Danuel House Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 39,
         "team": "HOU"
     },
@@ -6130,7 +6130,7 @@
         "grade": 68.52,
         "name": "Kevin Huerter",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "ATL"
     },
@@ -6160,7 +6160,7 @@
         "grade": 58.98,
         "name": "Chandler Hutchison",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 44,
         "team": "CHI"
     },
@@ -6190,7 +6190,7 @@
         "grade": 86.02,
         "name": "Serge Ibaka",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "TOR"
     },
@@ -6220,7 +6220,7 @@
         "grade": 82.55,
         "name": "Andre Iguodala",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "GSW"
     },
@@ -6250,7 +6250,7 @@
         "grade": 71.27,
         "name": "Ersan İlyasova",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "MIL"
     },
@@ -6280,7 +6280,7 @@
         "grade": 85.83,
         "name": "Joe Ingles",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "UTA"
     },
@@ -6310,7 +6310,7 @@
         "grade": 76.05,
         "name": "Brandon Ingram",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 52,
         "team": "LAL"
     },
@@ -6340,7 +6340,7 @@
         "grade": 96.12,
         "name": "Kyrie Irving",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "BOS"
     },
@@ -6370,7 +6370,7 @@
         "grade": 78.0,
         "name": "Jonathan Isaac",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "ORL"
     },
@@ -6400,7 +6400,7 @@
         "grade": 63.1,
         "name": "Wes Iwundu",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "ORL"
     },
@@ -6430,7 +6430,7 @@
         "grade": 58.87,
         "name": "Frank Jackson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 61,
         "team": "NOP"
     },
@@ -6460,7 +6460,7 @@
         "grade": 84.29,
         "name": "Jaren Jackson Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": "MEM"
     },
@@ -6490,7 +6490,7 @@
         "grade": 63.54,
         "name": "Josh Jackson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "PHO"
     },
@@ -6520,7 +6520,7 @@
         "grade": 70.71,
         "name": "Justin Jackson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": [
             "SAC",
@@ -6553,7 +6553,7 @@
         "grade": 80.32,
         "name": "Reggie Jackson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "DET"
     },
@@ -6583,7 +6583,7 @@
         "grade": 94.71,
         "name": "LeBron James",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 55,
         "team": "LAL"
     },
@@ -6613,7 +6613,7 @@
         "grade": 57.96,
         "name": "John Jenkins",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 26,
         "team": [
             "WAS",
@@ -6646,7 +6646,7 @@
         "grade": 76.32,
         "name": "Jonas Jerebko",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "GSW"
     },
@@ -6676,7 +6676,7 @@
         "grade": 68.21,
         "name": "Amir Johnson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "PHI"
     },
@@ -6706,7 +6706,7 @@
         "grade": 70.29,
         "name": "James Johnson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 55,
         "team": "MIA"
     },
@@ -6736,7 +6736,7 @@
         "grade": 63.91,
         "name": "Stanley Johnson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 66,
         "team": [
             "DET",
@@ -6769,7 +6769,7 @@
         "grade": 74.81,
         "name": "Tyler Johnson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 57,
         "team": [
             "MIA",
@@ -6802,7 +6802,7 @@
         "grade": 51.97,
         "name": "Wesley Johnson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 38,
         "team": [
             "NOP",
@@ -6835,7 +6835,7 @@
         "grade": 95.77,
         "name": "Nikola Jokić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "DEN"
     },
@@ -6865,7 +6865,7 @@
         "grade": 76.53,
         "name": "Damian Jones",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 24,
         "team": "GSW"
     },
@@ -6895,7 +6895,7 @@
         "grade": 75.97,
         "name": "Derrick Jones Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "MIA"
     },
@@ -6925,7 +6925,7 @@
         "grade": 59.1,
         "name": "Jalen Jones",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 16,
         "team": "CLE"
     },
@@ -6955,7 +6955,7 @@
         "grade": 71.21,
         "name": "Tyus Jones",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "MIN"
     },
@@ -6985,7 +6985,7 @@
         "grade": 88.79,
         "name": "DeAndre Jordan",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": [
             "DAL",
@@ -7018,7 +7018,7 @@
         "grade": 71.0,
         "name": "Cory Joseph",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "IND"
     },
@@ -7048,7 +7048,7 @@
         "grade": 75.67,
         "name": "Frank Kaminsky",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 47,
         "team": "CHO"
     },
@@ -7078,7 +7078,7 @@
         "grade": 74.3,
         "name": "Luke Kennard",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 63,
         "team": "DET"
     },
@@ -7108,7 +7108,7 @@
         "grade": 70.83,
         "name": "Michael Kidd-Gilchrist",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "CHO"
     },
@@ -7138,7 +7138,7 @@
         "grade": 79.58,
         "name": "Maxi Kleber",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 71,
         "team": "DAL"
     },
@@ -7168,7 +7168,7 @@
         "grade": 56.03,
         "name": "Brandon Knight",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 39,
         "team": [
             "HOU",
@@ -7201,7 +7201,7 @@
         "grade": 60.02,
         "name": "Kevin Knox",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "NYK"
     },
@@ -7231,7 +7231,7 @@
         "grade": 64.27,
         "name": "Furkan Korkmaz",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 48,
         "team": "PHI"
     },
@@ -7261,7 +7261,7 @@
         "grade": 73.02,
         "name": "Luke Kornet",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "NYK"
     },
@@ -7291,7 +7291,7 @@
         "grade": 73.02,
         "name": "Kyle Korver",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": [
             "CLE",
@@ -7324,7 +7324,7 @@
         "grade": 59.96,
         "name": "Kosta Koufos",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "SAC"
     },
@@ -7354,7 +7354,7 @@
         "grade": 69.46,
         "name": "Rodions Kurucs",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 63,
         "team": "BRK"
     },
@@ -7384,7 +7384,7 @@
         "grade": 78.63,
         "name": "Kyle Kuzma",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "LAL"
     },
@@ -7414,7 +7414,7 @@
         "grade": 84.98,
         "name": "Jeremy Lamb",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "CHO"
     },
@@ -7444,7 +7444,7 @@
         "grade": 84.67,
         "name": "Zach LaVine",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 63,
         "team": "CHI"
     },
@@ -7474,7 +7474,7 @@
         "grade": 76.19,
         "name": "Jake Layman",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 71,
         "team": "POR"
     },
@@ -7504,7 +7504,7 @@
         "grade": 58.35,
         "name": "Courtney Lee",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 34,
         "team": [
             "NYK",
@@ -7537,7 +7537,7 @@
         "grade": 65.73,
         "name": "Damion Lee",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 32,
         "team": "GSW"
     },
@@ -7567,7 +7567,7 @@
         "grade": 78.73,
         "name": "Alex Len",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "ATL"
     },
@@ -7597,7 +7597,7 @@
         "grade": 95.93,
         "name": "Kawhi Leonard",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "TOR"
     },
@@ -7627,7 +7627,7 @@
         "grade": 80.52,
         "name": "Meyers Leonard",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 61,
         "team": "POR"
     },
@@ -7657,7 +7657,7 @@
         "grade": 75.55,
         "name": "Caris LeVert",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 40,
         "team": "BRK"
     },
@@ -7687,7 +7687,7 @@
         "grade": 92.45,
         "name": "Damian Lillard",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "POR"
     },
@@ -7717,7 +7717,7 @@
         "grade": 70.76,
         "name": "Jeremy Lin",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": [
             "ATL",
@@ -7750,7 +7750,7 @@
         "grade": 69.71,
         "name": "Shaun Livingston",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "GSW"
     },
@@ -7780,7 +7780,7 @@
         "grade": 82.19,
         "name": "Kevon Looney",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "GSW"
     },
@@ -7810,7 +7810,7 @@
         "grade": 88.57,
         "name": "Brook Lopez",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "MIL"
     },
@@ -7840,7 +7840,7 @@
         "grade": 75.1,
         "name": "Robin Lopez",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "CHI"
     },
@@ -7870,7 +7870,7 @@
         "grade": 76.48,
         "name": "Kevin Love",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 22,
         "team": "CLE"
     },
@@ -7900,7 +7900,7 @@
         "grade": 88.19,
         "name": "Kyle Lowry",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 65,
         "team": "TOR"
     },
@@ -7930,7 +7930,7 @@
         "grade": 53.74,
         "name": "Timothé Luwawu-Cabarrot",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 50,
         "team": [
             "OKC",
@@ -7963,7 +7963,7 @@
         "grade": 65.82,
         "name": "Trey Lyles",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "DEN"
     },
@@ -7993,7 +7993,7 @@
         "grade": 62.09,
         "name": "Shelvin Mack",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 57,
         "team": [
             "MEM",
@@ -8026,7 +8026,7 @@
         "grade": 63.61,
         "name": "Ian Mahinmi",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 34,
         "team": "WAS"
     },
@@ -8056,7 +8056,7 @@
         "grade": 67.01,
         "name": "Thon Maker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": [
             "MIL",
@@ -8089,7 +8089,7 @@
         "grade": 84.11,
         "name": "Boban Marjanović",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": [
             "LAC",
@@ -8122,7 +8122,7 @@
         "grade": 81.18,
         "name": "Lauri Markkanen",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 52,
         "team": "CHI"
     },
@@ -8152,7 +8152,7 @@
         "grade": 59.27,
         "name": "Frank Mason III",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 38,
         "team": "SAC"
     },
@@ -8182,7 +8182,7 @@
         "grade": 71.88,
         "name": "Wesley Matthews",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": [
             "DAL",
@@ -8216,7 +8216,7 @@
         "grade": 61.03,
         "name": "Patrick McCaw",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 29,
         "team": [
             "CLE",
@@ -8249,7 +8249,7 @@
         "grade": 86.01,
         "name": "CJ McCollum",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "POR"
     },
@@ -8279,7 +8279,7 @@
         "grade": 76.38,
         "name": "T.J. McConnell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "PHI"
     },
@@ -8309,7 +8309,7 @@
         "grade": 73.76,
         "name": "Doug McDermott",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "IND"
     },
@@ -8339,7 +8339,7 @@
         "grade": 86.69,
         "name": "JaVale McGee",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "LAL"
     },
@@ -8369,7 +8369,7 @@
         "grade": 65.52,
         "name": "Rodney McGruder",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 66,
         "team": "MIA"
     },
@@ -8399,7 +8399,7 @@
         "grade": 65.8,
         "name": "Alfonzo McKinnie",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "GSW"
     },
@@ -8429,7 +8429,7 @@
         "grade": 66.53,
         "name": "Jordan McRae",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 27,
         "team": "WAS"
     },
@@ -8459,7 +8459,7 @@
         "grade": 72.31,
         "name": "Salah Mejri",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 36,
         "team": "DAL"
     },
@@ -8489,7 +8489,7 @@
         "grade": 62.12,
         "name": "De'Anthony Melton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 50,
         "team": "PHO"
     },
@@ -8519,7 +8519,7 @@
         "grade": 86.31,
         "name": "Khris Middleton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "MIL"
     },
@@ -8549,7 +8549,7 @@
         "grade": 60.12,
         "name": "C.J. Miles",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 53,
         "team": [
             "TOR",
@@ -8582,7 +8582,7 @@
         "grade": 65.64,
         "name": "Darius Miller",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": "NOP"
     },
@@ -8612,7 +8612,7 @@
         "grade": 77.09,
         "name": "Patty Mills",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "SAS"
     },
@@ -8642,7 +8642,7 @@
         "grade": 88.0,
         "name": "Paul Millsap",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 70,
         "team": "DEN"
     },
@@ -8672,7 +8672,7 @@
         "grade": 57.23,
         "name": "Shake Milton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 20,
         "team": "PHI"
     },
@@ -8702,7 +8702,7 @@
         "grade": 85.31,
         "name": "Nikola Mirotić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": [
             "NOP",
@@ -8735,7 +8735,7 @@
         "grade": 85.02,
         "name": "Donovan Mitchell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "UTA"
     },
@@ -8765,7 +8765,7 @@
         "grade": 63.32,
         "name": "Malik Monk",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "CHO"
     },
@@ -8795,7 +8795,7 @@
         "grade": 63.59,
         "name": "Greg Monroe",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": [
             "TOR",
@@ -8829,7 +8829,7 @@
         "grade": 72.67,
         "name": "E'Twaun Moore",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 53,
         "team": "NOP"
     },
@@ -8859,7 +8859,7 @@
         "grade": 81.76,
         "name": "Marcus Morris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "BOS"
     },
@@ -8889,7 +8889,7 @@
         "grade": 68.71,
         "name": "Markieff Morris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": [
             "WAS",
@@ -8922,7 +8922,7 @@
         "grade": 84.53,
         "name": "Monte Morris",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "DEN"
     },
@@ -8952,7 +8952,7 @@
         "grade": 71.48,
         "name": "Emmanuel Mudiay",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": "NYK"
     },
@@ -8982,7 +8982,7 @@
         "grade": 84.36,
         "name": "Jamal Murray",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "DEN"
     },
@@ -9012,7 +9012,7 @@
         "grade": 72.41,
         "name": "Mike Muscala",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": [
             "PHI",
@@ -9045,7 +9045,7 @@
         "grade": 49.85,
         "name": "Svi Mykhailiuk",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": [
             "LAL",
@@ -9078,7 +9078,7 @@
         "grade": 59.47,
         "name": "Abdel Nader",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 61,
         "team": "OKC"
     },
@@ -9108,7 +9108,7 @@
         "grade": 87.65,
         "name": "Larry Nance Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "CLE"
     },
@@ -9138,7 +9138,7 @@
         "grade": 74.59,
         "name": "Shabazz Napier",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": "BRK"
     },
@@ -9168,7 +9168,7 @@
         "grade": 71.9,
         "name": "Raul Neto",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 37,
         "team": "UTA"
     },
@@ -9198,7 +9198,7 @@
         "grade": 79.35,
         "name": "Joakim Noah",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "MEM"
     },
@@ -9228,7 +9228,7 @@
         "grade": 81.06,
         "name": "Nerlens Noel",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "OKC"
     },
@@ -9258,7 +9258,7 @@
         "grade": 57.78,
         "name": "Dirk Nowitzki",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "DAL"
     },
@@ -9288,7 +9288,7 @@
         "grade": 55.96,
         "name": "Frank Ntilikina",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "NYK"
     },
@@ -9318,7 +9318,7 @@
         "grade": 90.51,
         "name": "Jusuf Nurkić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "POR"
     },
@@ -9348,7 +9348,7 @@
         "grade": 68.59,
         "name": "David Nwaba",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "CLE"
     },
@@ -9378,7 +9378,7 @@
         "grade": 76.7,
         "name": "Royce O'Neale",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "UTA"
     },
@@ -9408,7 +9408,7 @@
         "grade": 56.67,
         "name": "Semi Ojeleye",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": "BOS"
     },
@@ -9438,7 +9438,7 @@
         "grade": 75.2,
         "name": "Jahlil Okafor",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": "NOP"
     },
@@ -9468,7 +9468,7 @@
         "grade": 55.95,
         "name": "Elie Okobo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 53,
         "team": "PHO"
     },
@@ -9498,7 +9498,7 @@
         "grade": 62.94,
         "name": "Josh Okogie",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "MIN"
     },
@@ -9528,7 +9528,7 @@
         "grade": 82.34,
         "name": "Victor Oladipo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 36,
         "team": "IND"
     },
@@ -9558,7 +9558,7 @@
         "grade": 85.52,
         "name": "Kelly Olynyk",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "MIA"
     },
@@ -9588,7 +9588,7 @@
         "grade": 69.09,
         "name": "Cedi Osman",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "CLE"
     },
@@ -9618,7 +9618,7 @@
         "grade": 77.83,
         "name": "Kelly Oubre Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 69,
         "team": [
             "WAS",
@@ -9651,7 +9651,7 @@
         "grade": 68.3,
         "name": "Zaza Pachulia",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "DET"
     },
@@ -9681,7 +9681,7 @@
         "grade": 76.91,
         "name": "Jabari Parker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": [
             "CHI",
@@ -9714,7 +9714,7 @@
         "grade": 65.33,
         "name": "Tony Parker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": "CHO"
     },
@@ -9744,7 +9744,7 @@
         "grade": 60.7,
         "name": "Chandler Parsons",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 25,
         "team": "MEM"
     },
@@ -9774,7 +9774,7 @@
         "grade": 56.97,
         "name": "Patrick Patterson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 63,
         "team": "OKC"
     },
@@ -9804,7 +9804,7 @@
         "grade": 89.0,
         "name": "Chris Paul",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 58,
         "team": "HOU"
     },
@@ -9834,7 +9834,7 @@
         "grade": 63.54,
         "name": "Cameron Payne",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 40,
         "team": [
             "CHI",
@@ -9867,7 +9867,7 @@
         "grade": 73.09,
         "name": "Elfrid Payton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "NOP"
     },
@@ -9897,7 +9897,7 @@
         "grade": 57.05,
         "name": "Theo Pinson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 18,
         "team": "BRK"
     },
@@ -9927,7 +9927,7 @@
         "grade": 86.08,
         "name": "Mason Plumlee",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "DEN"
     },
@@ -9957,7 +9957,7 @@
         "grade": 81.96,
         "name": "Jakob Poeltl",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "SAS"
     },
@@ -9987,7 +9987,7 @@
         "grade": 85.4,
         "name": "Otto Porter Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": [
             "WAS",
@@ -10020,7 +10020,7 @@
         "grade": 74.47,
         "name": "Bobby Portis",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 50,
         "team": [
             "CHI",
@@ -10053,7 +10053,7 @@
         "grade": 88.77,
         "name": "Dwight Powell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "DAL"
     },
@@ -10083,7 +10083,7 @@
         "grade": 78.5,
         "name": "Norman Powell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 60,
         "team": "TOR"
     },
@@ -10113,7 +10113,7 @@
         "grade": 65.92,
         "name": "Alex Poythress",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 21,
         "team": "ATL"
     },
@@ -10143,7 +10143,7 @@
         "grade": 75.11,
         "name": "Taurean Prince",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 55,
         "team": "ATL"
     },
@@ -10173,7 +10173,7 @@
         "grade": 73.25,
         "name": "Ivan Rabb",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 49,
         "team": "MEM"
     },
@@ -10203,7 +10203,7 @@
         "grade": 60.86,
         "name": "Chasson Randle",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 49,
         "team": "WAS"
     },
@@ -10233,7 +10233,7 @@
         "grade": 89.88,
         "name": "Julius Randle",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "NOP"
     },
@@ -10263,7 +10263,7 @@
         "grade": 82.91,
         "name": "J.J. Redick",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": "PHI"
     },
@@ -10293,7 +10293,7 @@
         "grade": 63.7,
         "name": "Cameron Reynolds",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 19,
         "team": "MIN"
     },
@@ -10323,7 +10323,7 @@
         "grade": 83.33,
         "name": "Josh Richardson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "MIA"
     },
@@ -10353,7 +10353,7 @@
         "grade": 61.47,
         "name": "Austin Rivers",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 76,
         "team": [
             "WAS",
@@ -10386,7 +10386,7 @@
         "grade": 55.88,
         "name": "Duncan Robinson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 15,
         "team": "MIA"
     },
@@ -10416,7 +10416,7 @@
         "grade": 58.32,
         "name": "Glenn Robinson III",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 47,
         "team": "DET"
     },
@@ -10446,7 +10446,7 @@
         "grade": 85.35,
         "name": "Mitchell Robinson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 66,
         "team": "NYK"
     },
@@ -10476,7 +10476,7 @@
         "grade": 69.86,
         "name": "Rajon Rondo",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "LAL"
     },
@@ -10506,7 +10506,7 @@
         "grade": 81.71,
         "name": "Derrick Rose",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 51,
         "team": "MIN"
     },
@@ -10536,7 +10536,7 @@
         "grade": 83.31,
         "name": "Terrence Ross",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "ORL"
     },
@@ -10566,7 +10566,7 @@
         "grade": 74.53,
         "name": "Terry Rozier",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "BOS"
     },
@@ -10596,7 +10596,7 @@
         "grade": 77.68,
         "name": "Ricky Rubio",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "UTA"
     },
@@ -10626,7 +10626,7 @@
         "grade": 85.41,
         "name": "D'Angelo Russell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "BRK"
     },
@@ -10656,7 +10656,7 @@
         "grade": 92.78,
         "name": "Domantas Sabonis",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "IND"
     },
@@ -10686,7 +10686,7 @@
         "grade": 61.95,
         "name": "Brandon Sampson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 14,
         "team": "CHI"
     },
@@ -10716,7 +10716,7 @@
         "grade": 76.38,
         "name": "Dario Šarić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": [
             "PHI",
@@ -10749,7 +10749,7 @@
         "grade": 81.3,
         "name": "Tomáš Satoranský",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "WAS"
     },
@@ -10779,7 +10779,7 @@
         "grade": 73.22,
         "name": "Dennis Schröder",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "OKC"
     },
@@ -10809,7 +10809,7 @@
         "grade": 62.29,
         "name": "Mike Scott",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": [
             "LAC",
@@ -10842,7 +10842,7 @@
         "grade": 72.84,
         "name": "Thabo Sefolosha",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 50,
         "team": "UTA"
     },
@@ -10872,7 +10872,7 @@
         "grade": 56.87,
         "name": "Wayne Selden",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": [
             "MEM",
@@ -10905,7 +10905,7 @@
         "grade": 65.99,
         "name": "Collin Sexton",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "CLE"
     },
@@ -10935,7 +10935,7 @@
         "grade": 73.3,
         "name": "Landry Shamet",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": [
             "PHI",
@@ -10968,7 +10968,7 @@
         "grade": 66.75,
         "name": "Iman Shumpert",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 62,
         "team": [
             "SAC",
@@ -11001,7 +11001,7 @@
         "grade": 94.1,
         "name": "Pascal Siakam",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "TOR"
     },
@@ -11031,7 +11031,7 @@
         "grade": 91.96,
         "name": "Ben Simmons",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "PHI"
     },
@@ -11061,7 +11061,7 @@
         "grade": 58.68,
         "name": "Jonathon Simmons",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": [
             "ORL",
@@ -11094,7 +11094,7 @@
         "grade": 82.78,
         "name": "Marcus Smart",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "BOS"
     },
@@ -11124,7 +11124,7 @@
         "grade": 69.37,
         "name": "Dennis Smith Jr.",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 53,
         "team": [
             "DAL",
@@ -11157,7 +11157,7 @@
         "grade": 67.5,
         "name": "Ish Smith",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 56,
         "team": "DET"
     },
@@ -11187,7 +11187,7 @@
         "grade": 59.84,
         "name": "J.R. Smith",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 11,
         "team": "CLE"
     },
@@ -11217,7 +11217,7 @@
         "grade": 74.79,
         "name": "Tony Snell",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "MIL"
     },
@@ -11247,7 +11247,7 @@
         "grade": 62.63,
         "name": "Ray Spalding",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 14,
         "team": [
             "DAL",
@@ -11280,7 +11280,7 @@
         "grade": 66.69,
         "name": "Omari Spellman",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "ATL"
     },
@@ -11310,7 +11310,7 @@
         "grade": 64.46,
         "name": "Nik Stauskas",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": [
             "POR",
@@ -11343,7 +11343,7 @@
         "grade": 67.95,
         "name": "Lance Stephenson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "LAL"
     },
@@ -11373,7 +11373,7 @@
         "grade": 84.69,
         "name": "Jayson Tatum",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 79,
         "team": "BOS"
     },
@@ -11403,7 +11403,7 @@
         "grade": 75.35,
         "name": "Jeff Teague",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 42,
         "team": "MIN"
     },
@@ -11433,7 +11433,7 @@
         "grade": 69.21,
         "name": "Garrett Temple",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": [
             "MEM",
@@ -11466,7 +11466,7 @@
         "grade": 58.7,
         "name": "Miloš Teodosić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 15,
         "team": "LAC"
     },
@@ -11496,7 +11496,7 @@
         "grade": 80.31,
         "name": "Daniel Theis",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 66,
         "team": "BOS"
     },
@@ -11526,7 +11526,7 @@
         "grade": 53.92,
         "name": "Isaiah Thomas",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 12,
         "team": "DEN"
     },
@@ -11556,7 +11556,7 @@
         "grade": 53.68,
         "name": "Lance Thomas",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "NYK"
     },
@@ -11586,7 +11586,7 @@
         "grade": 86.8,
         "name": "Klay Thompson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 78,
         "team": "GSW"
     },
@@ -11616,7 +11616,7 @@
         "grade": 77.62,
         "name": "Tristan Thompson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "CLE"
     },
@@ -11646,7 +11646,7 @@
         "grade": 63.06,
         "name": "Anthony Tolliver",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 65,
         "team": "MIN"
     },
@@ -11676,7 +11676,7 @@
         "grade": 97.28,
         "name": "Karl-Anthony Towns",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 77,
         "team": "MIN"
     },
@@ -11706,7 +11706,7 @@
         "grade": 68.13,
         "name": "Allonzo Trier",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "NYK"
     },
@@ -11736,7 +11736,7 @@
         "grade": 76.94,
         "name": "P.J. Tucker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "HOU"
     },
@@ -11766,7 +11766,7 @@
         "grade": 69.51,
         "name": "Evan Turner",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "POR"
     },
@@ -11796,7 +11796,7 @@
         "grade": 88.73,
         "name": "Myles Turner",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 74,
         "team": "IND"
     },
@@ -11826,7 +11826,7 @@
         "grade": 88.59,
         "name": "Jonas Valančiūnas",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 49,
         "team": [
             "TOR",
@@ -11859,7 +11859,7 @@
         "grade": 80.08,
         "name": "Fred VanVleet",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 64,
         "team": "TOR"
     },
@@ -11889,7 +11889,7 @@
         "grade": 78.85,
         "name": "Noah Vonleh",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 68,
         "team": "NYK"
     },
@@ -11919,7 +11919,7 @@
         "grade": 95.55,
         "name": "Nikola Vučević",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 80,
         "team": "ORL"
     },
@@ -11949,7 +11949,7 @@
         "grade": 77.38,
         "name": "Dwyane Wade",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "MIA"
     },
@@ -11979,7 +11979,7 @@
         "grade": 59.29,
         "name": "Moritz Wagner",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "LAL"
     },
@@ -12009,7 +12009,7 @@
         "grade": 70.83,
         "name": "Dion Waiters",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 44,
         "team": "MIA"
     },
@@ -12039,7 +12039,7 @@
         "grade": 89.02,
         "name": "Kemba Walker",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 82,
         "team": "CHO"
     },
@@ -12069,7 +12069,7 @@
         "grade": 78.57,
         "name": "John Wall",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 32,
         "team": "WAS"
     },
@@ -12099,7 +12099,7 @@
         "grade": 51.43,
         "name": "Tyrone Wallace",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 62,
         "team": "LAC"
     },
@@ -12129,7 +12129,7 @@
         "grade": 82.77,
         "name": "T.J. Warren",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 43,
         "team": "PHO"
     },
@@ -12159,7 +12159,7 @@
         "grade": 54.35,
         "name": "Julian Washburn",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 18,
         "team": "MEM"
     },
@@ -12189,7 +12189,7 @@
         "grade": 48.96,
         "name": "Yuta Watanabe",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 15,
         "team": "MEM"
     },
@@ -12219,7 +12219,7 @@
         "grade": 87.12,
         "name": "Russell Westbrook",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "OKC"
     },
@@ -12249,7 +12249,7 @@
         "grade": 83.13,
         "name": "Derrick White",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 67,
         "team": "SAS"
     },
@@ -12279,7 +12279,7 @@
         "grade": 86.68,
         "name": "Hassan Whiteside",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 72,
         "team": "MIA"
     },
@@ -12309,7 +12309,7 @@
         "grade": 69.17,
         "name": "Andrew Wiggins",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 73,
         "team": "MIN"
     },
@@ -12339,7 +12339,7 @@
         "grade": 68.89,
         "name": "Johnathan Williams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 24,
         "team": "LAL"
     },
@@ -12369,7 +12369,7 @@
         "grade": 65.67,
         "name": "Kenrich Williams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 46,
         "team": "NOP"
     },
@@ -12399,7 +12399,7 @@
         "grade": 82.15,
         "name": "Lou Williams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "LAC"
     },
@@ -12429,7 +12429,7 @@
         "grade": 79.28,
         "name": "Marvin Williams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": "CHO"
     },
@@ -12459,7 +12459,7 @@
         "grade": 63.58,
         "name": "Troy Williams",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 21,
         "team": "SAC"
     },
@@ -12489,7 +12489,7 @@
         "grade": 66.12,
         "name": "D.J. Wilson",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 48,
         "team": "MIL"
     },
@@ -12519,7 +12519,7 @@
         "grade": 77.09,
         "name": "Justise Winslow",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 66,
         "team": "MIA"
     },
@@ -12549,7 +12549,7 @@
         "grade": 76.24,
         "name": "Christian Wood",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 21,
         "team": [
             "MIL",
@@ -12582,7 +12582,7 @@
         "grade": 80.26,
         "name": "Delon Wright",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 75,
         "team": [
             "TOR",
@@ -12615,7 +12615,7 @@
         "grade": 88.44,
         "name": "Thaddeus Young",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "IND"
     },
@@ -12645,7 +12645,7 @@
         "grade": 78.39,
         "name": "Trae Young",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 81,
         "team": "ATL"
     },
@@ -12675,7 +12675,7 @@
         "grade": 84.58,
         "name": "Cody Zeller",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 49,
         "team": "CHO"
     },
@@ -12705,7 +12705,7 @@
         "grade": 70.72,
         "name": "Ante Žižić",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": "CLE"
     },
@@ -12735,7 +12735,7 @@
         "grade": 80.56,
         "name": "Ivica Zubac",
         "league_grade": 85.6,
-        "year": 2019,
+        "year": "2019",
         "games_played": 59,
         "team": [
             "LAL",

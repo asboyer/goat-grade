@@ -17,7 +17,7 @@
         "grade": 66.12,
         "name": "Zaid Abdul-Aziz",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 58,
         "team": "SEA"
     },
@@ -39,7 +39,7 @@
         "grade": 97.26,
         "name": "Kareem Abdul-Jabbar",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "MIL"
     },
@@ -61,7 +61,7 @@
         "grade": 55.83,
         "name": "Don Adams",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": [
             "HOU",
@@ -86,7 +86,7 @@
         "grade": 62.83,
         "name": "Rick Adelman",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "POR"
     },
@@ -108,7 +108,7 @@
         "grade": 85.37,
         "name": "Lucius Allen",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "MIL"
     },
@@ -130,7 +130,7 @@
         "grade": 90.99,
         "name": "Tiny Archibald",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": "CIN"
     },
@@ -152,7 +152,7 @@
         "grade": 54.14,
         "name": "Dennis Awtrey",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 58,
         "team": "PHI"
     },
@@ -174,7 +174,7 @@
         "grade": 63.02,
         "name": "Dick Barnett",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "NYK"
     },
@@ -196,7 +196,7 @@
         "grade": 67.21,
         "name": "Jim Barnett",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "GSW"
     },
@@ -218,7 +218,7 @@
         "grade": 80.82,
         "name": "Butch Beard",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 68,
         "team": "CLE"
     },
@@ -240,7 +240,7 @@
         "grade": 90.37,
         "name": "Walt Bellamy",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "ATL"
     },
@@ -262,7 +262,7 @@
         "grade": 68.45,
         "name": "Dave Bing",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 45,
         "team": "DET"
     },
@@ -284,7 +284,7 @@
         "grade": 69.54,
         "name": "John Block",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "MIL"
     },
@@ -306,7 +306,7 @@
         "grade": 73.09,
         "name": "Tom Boerwinkle",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "CHI"
     },
@@ -328,7 +328,7 @@
         "grade": 78.85,
         "name": "Bill Bradley",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "NYK"
     },
@@ -350,7 +350,7 @@
         "grade": 82.73,
         "name": "Bill Bridges",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": [
             "ATL",
@@ -375,7 +375,7 @@
         "grade": 41.07,
         "name": "Fred Brown",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 33,
         "team": "SEA"
     },
@@ -397,7 +397,7 @@
         "grade": 59.59,
         "name": "Em Bryant",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 54,
         "team": "BUF"
     },
@@ -419,7 +419,7 @@
         "grade": 63.5,
         "name": "Austin Carr",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 43,
         "team": "CLE"
     },
@@ -441,7 +441,7 @@
         "grade": 62.88,
         "name": "Fred Carter",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": [
             "BAL",
@@ -466,7 +466,7 @@
         "grade": 93.49,
         "name": "Wilt Chamberlain",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "LAL"
     },
@@ -488,7 +488,7 @@
         "grade": 49.84,
         "name": "Jerry Chambers",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 26,
         "team": "BUF"
     },
@@ -510,7 +510,7 @@
         "grade": 79.33,
         "name": "Don Chaney",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "BOS"
     },
@@ -532,7 +532,7 @@
         "grade": 57.74,
         "name": "Phil Chenier",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "BAL"
     },
@@ -554,7 +554,7 @@
         "grade": 88.71,
         "name": "Archie Clark",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": [
             "PHI",
@@ -579,7 +579,7 @@
         "grade": 74.88,
         "name": "Barry Clemens",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "SEA"
     },
@@ -601,7 +601,7 @@
         "grade": 58.24,
         "name": "Mel Counts",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": "PHO"
     },
@@ -623,7 +623,7 @@
         "grade": 87.98,
         "name": "Dave Cowens",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "BOS"
     },
@@ -645,7 +645,7 @@
         "grade": 58.98,
         "name": "Pete Cross",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 74,
         "team": "SEA"
     },
@@ -667,7 +667,7 @@
         "grade": 86.18,
         "name": "Billy Cunningham",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 75,
         "team": "PHI"
     },
@@ -689,7 +689,7 @@
         "grade": 47.7,
         "name": "Dick Cunningham",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 63,
         "team": "HOU"
     },
@@ -711,7 +711,7 @@
         "grade": 87.79,
         "name": "Bob Dandridge",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "MIL"
     },
@@ -733,7 +733,7 @@
         "grade": 54.9,
         "name": "Charlie Davis",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 61,
         "team": "CLE"
     },
@@ -755,7 +755,7 @@
         "grade": 53.49,
         "name": "Jim Davis",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 75,
         "team": [
             "ATL",
@@ -781,7 +781,7 @@
         "grade": 55.55,
         "name": "Mike Davis",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 62,
         "team": "BUF"
     },
@@ -803,7 +803,7 @@
         "grade": 70.7,
         "name": "Dave DeBusschere",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "NYK"
     },
@@ -825,7 +825,7 @@
         "grade": 74.86,
         "name": "Terry Dischinger",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "DET"
     },
@@ -847,7 +847,7 @@
         "grade": 43.57,
         "name": "Ken Durrett",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 19,
         "team": "CIN"
     },
@@ -869,7 +869,7 @@
         "grade": 48.69,
         "name": "Johnny Egan",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 38,
         "team": "HOU"
     },
@@ -891,7 +891,7 @@
         "grade": 55.04,
         "name": "Joe Ellis",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "GSW"
     },
@@ -913,7 +913,7 @@
         "grade": 62.01,
         "name": "Leroy Ellis",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 74,
         "team": "LAL"
     },
@@ -935,7 +935,7 @@
         "grade": 66.12,
         "name": "Keith Erickson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 15,
         "team": "LAL"
     },
@@ -957,7 +957,7 @@
         "grade": 56.78,
         "name": "Fred Foster",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 74,
         "team": "PHI"
     },
@@ -979,7 +979,7 @@
         "grade": 71.09,
         "name": "Jim Fox",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": [
             "CHI",
@@ -1004,7 +1004,7 @@
         "grade": 96.14,
         "name": "Walt Frazier",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": "NYK"
     },
@@ -1026,7 +1026,7 @@
         "grade": 64.57,
         "name": "Dick Garrett",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": "BUF"
     },
@@ -1048,7 +1048,7 @@
         "grade": 43.85,
         "name": "Dick Gibbs",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 64,
         "team": "HOU"
     },
@@ -1070,7 +1070,7 @@
         "grade": 71.93,
         "name": "Herm Gilliam",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "ATL"
     },
@@ -1092,7 +1092,7 @@
         "grade": 92.4,
         "name": "Gail Goodrich",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "LAL"
     },
@@ -1114,7 +1114,7 @@
         "grade": 78.88,
         "name": "Johnny Green",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CIN"
     },
@@ -1136,7 +1136,7 @@
         "grade": 61.59,
         "name": "Lamar Green",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 67,
         "team": "PHO"
     },
@@ -1158,7 +1158,7 @@
         "grade": 70.78,
         "name": "Hal Greer",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "PHI"
     },
@@ -1180,7 +1180,7 @@
         "grade": 66.12,
         "name": "Gary Gregor",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "POR"
     },
@@ -1202,7 +1202,7 @@
         "grade": 72.1,
         "name": "Matt Guokas",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 61,
         "team": "CIN"
     },
@@ -1224,7 +1224,7 @@
         "grade": 84.61,
         "name": "Happy Hairston",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "LAL"
     },
@@ -1246,7 +1246,7 @@
         "grade": 84.55,
         "name": "Clem Haskins",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "PHO"
     },
@@ -1268,7 +1268,7 @@
         "grade": 91.1,
         "name": "John Havlicek",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "BOS"
     },
@@ -1290,7 +1290,7 @@
         "grade": 87.59,
         "name": "Connie Hawkins",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": "PHO"
     },
@@ -1312,7 +1312,7 @@
         "grade": 77.16,
         "name": "Elvin Hayes",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "HOU"
     },
@@ -1334,7 +1334,7 @@
         "grade": 87.22,
         "name": "Spencer Haywood",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": "SEA"
     },
@@ -1356,7 +1356,7 @@
         "grade": 73.76,
         "name": "Walt Hazzard",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 72,
         "team": "BUF"
     },
@@ -1378,7 +1378,7 @@
         "grade": 50.09,
         "name": "Gar Heard",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 58,
         "team": "SEA"
     },
@@ -1400,7 +1400,7 @@
         "grade": 57.43,
         "name": "Bill Hewitt",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 68,
         "team": "DET"
     },
@@ -1422,7 +1422,7 @@
         "grade": 47.93,
         "name": "Fred Hilton",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 61,
         "team": "BUF"
     },
@@ -1444,7 +1444,7 @@
         "grade": 65.55,
         "name": "Bill Hosket",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 44,
         "team": "BUF"
     },
@@ -1466,7 +1466,7 @@
         "grade": 91.44,
         "name": "Lou Hudson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": "ATL"
     },
@@ -1488,7 +1488,7 @@
         "grade": 44.53,
         "name": "John Hummer",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 55,
         "team": "BUF"
     },
@@ -1510,7 +1510,7 @@
         "grade": 50.85,
         "name": "Luke Jackson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 63,
         "team": "PHI"
     },
@@ -1532,7 +1532,7 @@
         "grade": 65.58,
         "name": "Phil Jackson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "NYK"
     },
@@ -1554,7 +1554,7 @@
         "grade": 49.22,
         "name": "Gus Johnson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 39,
         "team": "BAL"
     },
@@ -1576,7 +1576,7 @@
         "grade": 75.62,
         "name": "John Johnson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CLE"
     },
@@ -1598,7 +1598,7 @@
         "grade": 41.38,
         "name": "Jake Jones",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 17,
         "team": [
             "PHI",
@@ -1623,7 +1623,7 @@
         "grade": 55.29,
         "name": "Wali Jones",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 48,
         "team": "MIL"
     },
@@ -1645,7 +1645,7 @@
         "grade": 89.02,
         "name": "Bob Kauffman",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": "BUF"
     },
@@ -1667,7 +1667,7 @@
         "grade": 60.52,
         "name": "Toby Kimball",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 74,
         "team": "MIL"
     },
@@ -1689,7 +1689,7 @@
         "grade": 64.54,
         "name": "Jim King",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": "CHI"
     },
@@ -1711,7 +1711,7 @@
         "grade": 73.09,
         "name": "Don Kojis",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": "SEA"
     },
@@ -1733,7 +1733,7 @@
         "grade": 50.35,
         "name": "Howard Komives",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "DET"
     },
@@ -1755,7 +1755,7 @@
         "grade": 55.97,
         "name": "Steve Kuberski",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 71,
         "team": "BOS"
     },
@@ -1777,7 +1777,7 @@
         "grade": 58.69,
         "name": "Sam Lacey",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "CIN"
     },
@@ -1799,7 +1799,7 @@
         "grade": 88.69,
         "name": "Bob Lanier",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "DET"
     },
@@ -1821,7 +1821,7 @@
         "grade": 79.92,
         "name": "Stu Lantz",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "HOU"
     },
@@ -1843,7 +1843,7 @@
         "grade": 57.91,
         "name": "Mo Layton",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "PHO"
     },
@@ -1865,7 +1865,7 @@
         "grade": 73.31,
         "name": "Clyde Lee",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "GSW"
     },
@@ -1887,7 +1887,7 @@
         "grade": 66.34,
         "name": "Kevin Loughery",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": [
             "BAL",
@@ -1912,7 +1912,7 @@
         "grade": 79.47,
         "name": "Bob Love",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "CHI"
     },
@@ -1934,7 +1934,7 @@
         "grade": 64.18,
         "name": "Stan Love",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 74,
         "team": "BAL"
     },
@@ -1956,7 +1956,7 @@
         "grade": 94.39,
         "name": "Jerry Lucas",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": "NYK"
     },
@@ -1978,7 +1978,7 @@
         "grade": 75.0,
         "name": "Pete Maravich",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 66,
         "team": "ATL"
     },
@@ -2000,7 +2000,7 @@
         "grade": 88.71,
         "name": "Jack Marin",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "BAL"
     },
@@ -2022,7 +2022,7 @@
         "grade": 50.35,
         "name": "Harvey Marlatt",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 31,
         "team": "DET"
     },
@@ -2044,7 +2044,7 @@
         "grade": 70.75,
         "name": "Don May",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 75,
         "team": "ATL"
     },
@@ -2066,7 +2066,7 @@
         "grade": 44.67,
         "name": "Willie McCarter",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 39,
         "team": "POR"
     },
@@ -2088,7 +2088,7 @@
         "grade": 50.99,
         "name": "Jim McDaniels",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 12,
         "team": "SEA"
     },
@@ -2110,7 +2110,7 @@
         "grade": 81.72,
         "name": "Jon McGlocklin",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "MIL"
     },
@@ -2132,7 +2132,7 @@
         "grade": 41.44,
         "name": "Gil McGregor",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 42,
         "team": "CIN"
     },
@@ -2154,7 +2154,7 @@
         "grade": 80.7,
         "name": "Stan McKenzie",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "POR"
     },
@@ -2176,7 +2176,7 @@
         "grade": 85.12,
         "name": "Jim McMillian",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "LAL"
     },
@@ -2198,7 +2198,7 @@
         "grade": 56.81,
         "name": "Cliff Meely",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": "HOU"
     },
@@ -2220,7 +2220,7 @@
         "grade": 62.12,
         "name": "Dean Meminger",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "NYK"
     },
@@ -2242,7 +2242,7 @@
         "grade": 73.73,
         "name": "John Mengelt",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "CIN"
     },
@@ -2264,7 +2264,7 @@
         "grade": 65.89,
         "name": "Earl Monroe",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 63,
         "team": [
             "BAL",
@@ -2289,7 +2289,7 @@
         "grade": 59.59,
         "name": "Otto Moore",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "PHO"
     },
@@ -2311,7 +2311,7 @@
         "grade": 41.77,
         "name": "Erwin Mueller",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 42,
         "team": "DET"
     },
@@ -2333,7 +2333,7 @@
         "grade": 88.24,
         "name": "Jeff Mullins",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "GSW"
     },
@@ -2355,7 +2355,7 @@
         "grade": 83.99,
         "name": "Calvin Murphy",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "HOU"
     },
@@ -2377,7 +2377,7 @@
         "grade": 85.73,
         "name": "Don Nelson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "BOS"
     },
@@ -2399,7 +2399,7 @@
         "grade": 54.48,
         "name": "Mike Newlin",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "HOU"
     },
@@ -2421,7 +2421,7 @@
         "grade": 69.35,
         "name": "Willie Norwood",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "DET"
     },
@@ -2443,7 +2443,7 @@
         "grade": 40.99,
         "name": "Steve Patterson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 65,
         "team": "CLE"
     },
@@ -2465,7 +2465,7 @@
         "grade": 51.61,
         "name": "Curtis Perry",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 75,
         "team": [
             "HOU",
@@ -2490,7 +2490,7 @@
         "grade": 60.27,
         "name": "Geoff Petrie",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 60,
         "team": "POR"
     },
@@ -2512,7 +2512,7 @@
         "grade": 54.31,
         "name": "Howard Porter",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 67,
         "team": "CHI"
     },
@@ -2534,7 +2534,7 @@
         "grade": 65.1,
         "name": "Bob Quick",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 18,
         "team": "DET"
     },
@@ -2556,7 +2556,7 @@
         "grade": 83.12,
         "name": "Clifford Ray",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CHI"
     },
@@ -2578,7 +2578,7 @@
         "grade": 64.79,
         "name": "Willis Reed",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 11,
         "team": "NYK"
     },
@@ -2600,7 +2600,7 @@
         "grade": 57.37,
         "name": "Pat Riley",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 67,
         "team": "LAL"
     },
@@ -2622,7 +2622,7 @@
         "grade": 65.36,
         "name": "Mike Riordan",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 58,
         "team": [
             "NYK",
@@ -2647,7 +2647,7 @@
         "grade": 70.11,
         "name": "Rick Roberson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 63,
         "team": "CLE"
     },
@@ -2669,7 +2669,7 @@
         "grade": 89.19,
         "name": "Oscar Robertson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 64,
         "team": "MIL"
     },
@@ -2691,7 +2691,7 @@
         "grade": 78.03,
         "name": "Flynn Robinson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 64,
         "team": "LAL"
     },
@@ -2713,7 +2713,7 @@
         "grade": 67.32,
         "name": "Curtis Rowe",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "DET"
     },
@@ -2735,7 +2735,7 @@
         "grade": 66.34,
         "name": "Bob Rule",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": [
             "SEA",
@@ -2760,7 +2760,7 @@
         "grade": 83.12,
         "name": "Cazzie Russell",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "GSW"
     },
@@ -2782,7 +2782,7 @@
         "grade": 58.1,
         "name": "Tom Sanders",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "BOS"
     },
@@ -2804,7 +2804,7 @@
         "grade": 84.78,
         "name": "Dale Schlueter",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "POR"
     },
@@ -2826,7 +2826,7 @@
         "grade": 47.96,
         "name": "Larry Siegfried",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 31,
         "team": [
             "HOU",
@@ -2851,7 +2851,7 @@
         "grade": 90.26,
         "name": "Paul Silas",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "PHO"
     },
@@ -2873,7 +2873,7 @@
         "grade": 75.31,
         "name": "Jerry Sloan",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CHI"
     },
@@ -2895,7 +2895,7 @@
         "grade": 72.19,
         "name": "Bingo Smith",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CLE"
     },
@@ -2917,7 +2917,7 @@
         "grade": 68.14,
         "name": "Elmore Smith",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "BUF"
     },
@@ -2939,7 +2939,7 @@
         "grade": 71.54,
         "name": "Greg Smith",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": [
             "MIL",
@@ -2964,7 +2964,7 @@
         "grade": 73.34,
         "name": "Randy Smith",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": "BUF"
     },
@@ -2986,7 +2986,7 @@
         "grade": 50.04,
         "name": "William Smith",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 22,
         "team": "POR"
     },
@@ -3008,7 +3008,7 @@
         "grade": 88.24,
         "name": "Dick Snyder",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": "SEA"
     },
@@ -3030,7 +3030,7 @@
         "grade": 65.3,
         "name": "Dave Sorenson",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": "CLE"
     },
@@ -3052,7 +3052,7 @@
         "grade": 66.56,
         "name": "Dave Stallworth",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": [
             "NYK",
@@ -3077,7 +3077,7 @@
         "grade": 65.67,
         "name": "Larry Steele",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 72,
         "team": "POR"
     },
@@ -3099,7 +3099,7 @@
         "grade": 80.82,
         "name": "Nate Thurmond",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "GSW"
     },
@@ -3121,7 +3121,7 @@
         "grade": 85.14,
         "name": "Rudy Tomjanovich",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "HOU"
     },
@@ -3143,7 +3143,7 @@
         "grade": 45.93,
         "name": "George Trapp",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 60,
         "team": "ATL"
     },
@@ -3165,7 +3165,7 @@
         "grade": 56.33,
         "name": "John Trapp",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 58,
         "team": "LAL"
     },
@@ -3187,7 +3187,7 @@
         "grade": 70.08,
         "name": "John Tresvant",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 65,
         "team": "BAL"
     },
@@ -3209,7 +3209,7 @@
         "grade": 87.0,
         "name": "Wes Unseld",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 76,
         "team": "BAL"
     },
@@ -3231,7 +3231,7 @@
         "grade": 87.59,
         "name": "Dick Van Arsdale",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "PHO"
     },
@@ -3253,7 +3253,7 @@
         "grade": 74.94,
         "name": "Tom Van Arsdale",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 73,
         "team": "CIN"
     },
@@ -3275,7 +3275,7 @@
         "grade": 79.35,
         "name": "Norm Van Lier",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": [
             "CIN",
@@ -3300,7 +3300,7 @@
         "grade": 83.06,
         "name": "Neal Walk",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "PHO"
     },
@@ -3322,7 +3322,7 @@
         "grade": 93.89,
         "name": "Chet Walker",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "CHI"
     },
@@ -3344,7 +3344,7 @@
         "grade": 78.65,
         "name": "Jimmy Walker",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 78,
         "team": "DET"
     },
@@ -3366,7 +3366,7 @@
         "grade": 58.47,
         "name": "Cornell Warner",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 62,
         "team": "BUF"
     },
@@ -3388,7 +3388,7 @@
         "grade": 51.75,
         "name": "John Warren",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 68,
         "team": "CLE"
     },
@@ -3410,7 +3410,7 @@
         "grade": 57.32,
         "name": "Bobby Washington",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 69,
         "team": "CLE"
     },
@@ -3432,7 +3432,7 @@
         "grade": 73.56,
         "name": "Jim Washington",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 84,
         "team": [
             "PHI",
@@ -3457,7 +3457,7 @@
         "grade": 71.79,
         "name": "Bob Weiss",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CHI"
     },
@@ -3479,7 +3479,7 @@
         "grade": 57.57,
         "name": "Walt Wesley",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "CLE"
     },
@@ -3501,7 +3501,7 @@
         "grade": 92.79,
         "name": "Jerry West",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 77,
         "team": "LAL"
     },
@@ -3523,7 +3523,7 @@
         "grade": 76.63,
         "name": "Jo Jo White",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "BOS"
     },
@@ -3545,7 +3545,7 @@
         "grade": 71.62,
         "name": "Sidney Wicks",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 82,
         "team": "POR"
     },
@@ -3567,7 +3567,7 @@
         "grade": 87.37,
         "name": "Lenny Wilkens",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "SEA"
     },
@@ -3589,7 +3589,7 @@
         "grade": 75.64,
         "name": "Art Williams",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "BOS"
     },
@@ -3611,7 +3611,7 @@
         "grade": 57.04,
         "name": "Milt Williams",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 10,
         "team": "ATL"
     },
@@ -3633,7 +3633,7 @@
         "grade": 58.24,
         "name": "Nate Williams",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "CIN"
     },
@@ -3655,7 +3655,7 @@
         "grade": 78.85,
         "name": "Ron Williams",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 80,
         "team": "GSW"
     },
@@ -3677,7 +3677,7 @@
         "grade": 76.07,
         "name": "Lee Winfield",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 81,
         "team": "SEA"
     },
@@ -3699,7 +3699,7 @@
         "grade": 60.86,
         "name": "Dave Wohl",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 79,
         "team": "PHI"
     },
@@ -3721,7 +3721,7 @@
         "grade": 46.55,
         "name": "Charlie Yelverton",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 69,
         "team": "POR"
     },
@@ -3743,7 +3743,7 @@
         "grade": 42.45,
         "name": "Gary Zeller",
         "league_grade": 75.63,
-        "year": 1972,
+        "year": "1972",
         "games_played": 28,
         "team": "BAL"
     }

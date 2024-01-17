@@ -13,7 +13,7 @@
         "grade": 53.47,
         "name": "Curly Armstrong",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 63,
         "team": "FTW"
     },
@@ -31,7 +31,7 @@
         "grade": 68.87,
         "name": "Cliff Barker",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 49,
         "team": "INO"
     },
@@ -49,7 +49,7 @@
         "grade": 67.82,
         "name": "Leo Barnhorst",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "CHS"
     },
@@ -67,7 +67,7 @@
         "grade": 25.9,
         "name": "Ed Bartels",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 15,
         "team": [
             "DNN",
@@ -88,7 +88,7 @@
         "grade": 82.26,
         "name": "Ralph Beard",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "INO"
     },
@@ -106,7 +106,7 @@
         "grade": 48.54,
         "name": "Charlie Black",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": [
             "FTW",
@@ -127,7 +127,7 @@
         "grade": 47.11,
         "name": "Nelson Bobb",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": "PHW"
     },
@@ -145,7 +145,7 @@
         "grade": 35.83,
         "name": "Jake Bornheimer",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "PHW"
     },
@@ -163,7 +163,7 @@
         "grade": 70.51,
         "name": "Vince Boryla",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": "NYK"
     },
@@ -181,7 +181,7 @@
         "grade": 73.54,
         "name": "Don Boven",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "WAT"
     },
@@ -199,7 +199,7 @@
         "grade": 84.66,
         "name": "Harry Boykoff",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": "WAT"
     },
@@ -217,7 +217,7 @@
         "grade": 24.26,
         "name": "Joe Bradley",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 46,
         "team": "CHS"
     },
@@ -235,7 +235,7 @@
         "grade": 60.88,
         "name": "Bob Brannum",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": "SHE"
     },
@@ -253,7 +253,7 @@
         "grade": 86.34,
         "name": "Carl Braun",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "NYK"
     },
@@ -271,7 +271,7 @@
         "grade": 78.34,
         "name": "Frankie Brian",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "AND"
     },
@@ -289,7 +289,7 @@
         "grade": 62.98,
         "name": "Bob Brown",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "DNN"
     },
@@ -307,7 +307,7 @@
         "grade": 44.33,
         "name": "Jim Browne",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 31,
         "team": "DNN"
     },
@@ -325,7 +325,7 @@
         "grade": 59.61,
         "name": "Walt Budko",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "BLB"
     },
@@ -343,7 +343,7 @@
         "grade": 52.79,
         "name": "Jack Burmaster",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": "SHE"
     },
@@ -361,7 +361,7 @@
         "grade": 43.45,
         "name": "Tommy Byrnes",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 53,
         "team": "BLB"
     },
@@ -379,7 +379,7 @@
         "grade": 78.05,
         "name": "Bill Calhoun",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "ROC"
     },
@@ -397,7 +397,7 @@
         "grade": 60.33,
         "name": "Don Carlson",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": "MNL"
     },
@@ -415,7 +415,7 @@
         "grade": 72.37,
         "name": "Bob Carpenter",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "FTW"
     },
@@ -433,7 +433,7 @@
         "grade": 43.28,
         "name": "Jake Carter",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 24,
         "team": [
             "DNN",
@@ -454,7 +454,7 @@
         "grade": 83.9,
         "name": "Al Cervi",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 56,
         "team": "SYR"
     },
@@ -472,7 +472,7 @@
         "grade": 35.45,
         "name": "John Chaney",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 16,
         "team": [
             "TRI",
@@ -493,7 +493,7 @@
         "grade": 47.07,
         "name": "Leroy Chollet",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 49,
         "team": "SYR"
     },
@@ -511,7 +511,7 @@
         "grade": 62.85,
         "name": "Bill Closs",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "AND"
     },
@@ -529,7 +529,7 @@
         "grade": 79.27,
         "name": "Jack Coleman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "ROC"
     },
@@ -547,7 +547,7 @@
         "grade": 72.91,
         "name": "Bobby Cook",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 51,
         "team": "SHE"
     },
@@ -565,7 +565,7 @@
         "grade": 45.85,
         "name": "Ray Corley",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "SYR"
     },
@@ -583,7 +583,7 @@
         "grade": 28.55,
         "name": "Jack Cotton",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 54,
         "team": "DNN"
     },
@@ -601,7 +601,7 @@
         "grade": 41.64,
         "name": "Dillard Crocker",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 53,
         "team": "DNN"
     },
@@ -619,7 +619,7 @@
         "grade": 58.1,
         "name": "Chink Crossin",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "PHW"
     },
@@ -637,7 +637,7 @@
         "grade": 81.96,
         "name": "Fran Curran",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "ROC"
     },
@@ -655,7 +655,7 @@
         "grade": 49.3,
         "name": "Jimmy Darden",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 26,
         "team": "DNN"
     },
@@ -673,7 +673,7 @@
         "grade": 85.92,
         "name": "Bob Davies",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "ROC"
     },
@@ -691,7 +691,7 @@
         "grade": 26.19,
         "name": "Hook Dillon",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 22,
         "team": "WSC"
     },
@@ -709,7 +709,7 @@
         "grade": 60.58,
         "name": "Joe Dolhon",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "BLB"
     },
@@ -727,7 +727,7 @@
         "grade": 60.67,
         "name": "Bob Doll",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 47,
         "team": "BOS"
     },
@@ -745,7 +745,7 @@
         "grade": 49.01,
         "name": "Harry Donovan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 45,
         "team": "NYK"
     },
@@ -763,7 +763,7 @@
         "grade": 67.61,
         "name": "Andy Duncan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "ROC"
     },
@@ -781,7 +781,7 @@
         "grade": 73.04,
         "name": "Dike Eddleman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "TRI"
     },
@@ -799,7 +799,7 @@
         "grade": 76.95,
         "name": "Gene Englund",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 46,
         "team": [
             "BOS",
@@ -820,7 +820,7 @@
         "grade": 30.53,
         "name": "Bob Evans",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 47,
         "team": "INO"
     },
@@ -838,7 +838,7 @@
         "grade": 42.86,
         "name": "Johnny Ezersky",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 54,
         "team": [
             "BLB",
@@ -859,7 +859,7 @@
         "grade": 72.62,
         "name": "Bob Feerick",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "WSC"
     },
@@ -877,7 +877,7 @@
         "grade": 22.95,
         "name": "George Feigenbaum",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 12,
         "team": "BLB"
     },
@@ -895,7 +895,7 @@
         "grade": 57.26,
         "name": "Arnie Ferrin",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 63,
         "team": "MNL"
     },
@@ -913,7 +913,7 @@
         "grade": 41.6,
         "name": "Jerry Fleishman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "PHW"
     },
@@ -931,7 +931,7 @@
         "grade": 41.64,
         "name": "Joe Fulks",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "PHW"
     },
@@ -949,7 +949,7 @@
         "grade": 65.8,
         "name": "Bill Gabor",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 56,
         "team": "SYR"
     },
@@ -967,7 +967,7 @@
         "grade": 29.39,
         "name": "Elmer Gainer",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 15,
         "team": "WAT"
     },
@@ -985,7 +985,7 @@
         "grade": 82.64,
         "name": "Harry Gallatin",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "NYK"
     },
@@ -1003,7 +1003,7 @@
         "grade": 77.42,
         "name": "Vern Gardner",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 63,
         "team": "PHW"
     },
@@ -1021,7 +1021,7 @@
         "grade": 37.43,
         "name": "Frank Gates",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "AND"
     },
@@ -1039,7 +1039,7 @@
         "grade": 61.76,
         "name": "Dee Gibson",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 44,
         "team": "TRI"
     },
@@ -1057,7 +1057,7 @@
         "grade": 49.47,
         "name": "Hoot Gibson",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 32,
         "team": [
             "BOS",
@@ -1078,7 +1078,7 @@
         "grade": 64.79,
         "name": "Chuck Gilmur",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "WSC"
     },
@@ -1096,7 +1096,7 @@
         "grade": 35.24,
         "name": "Joe Graboski",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": "CHS"
     },
@@ -1114,7 +1114,7 @@
         "grade": 46.94,
         "name": "Bud Grant",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 35,
         "team": "MNL"
     },
@@ -1132,7 +1132,7 @@
         "grade": 91.85,
         "name": "Alex Groza",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "INO"
     },
@@ -1150,7 +1150,7 @@
         "grade": 33.64,
         "name": "Al Guokas",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": [
             "DNN",
@@ -1171,7 +1171,7 @@
         "grade": 30.61,
         "name": "Robert Hahn",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 10,
         "team": "CHS"
     },
@@ -1189,7 +1189,7 @@
         "grade": 68.54,
         "name": "Chick Halbert",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "WSC"
     },
@@ -1207,7 +1207,7 @@
         "grade": 80.95,
         "name": "Bruce Hale",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "INO"
     },
@@ -1225,7 +1225,7 @@
         "grade": 24.26,
         "name": "Dale Hamilton",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 14,
         "team": "WAT"
     },
@@ -1243,7 +1243,7 @@
         "grade": 74.89,
         "name": "Alex Hannum",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "SYR"
     },
@@ -1261,7 +1261,7 @@
         "grade": 86.76,
         "name": "John Hargis",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "AND"
     },
@@ -1279,7 +1279,7 @@
         "grade": 73.71,
         "name": "Bob Harris",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "FTW"
     },
@@ -1297,7 +1297,7 @@
         "grade": 65.97,
         "name": "Bob Harrison",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "MNL"
     },
@@ -1315,7 +1315,7 @@
         "grade": 43.79,
         "name": "Billy Hassett",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": [
             "TRI",
@@ -1336,7 +1336,7 @@
         "grade": 33.9,
         "name": "Marshall Hawkins",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 39,
         "team": "INO"
     },
@@ -1354,7 +1354,7 @@
         "grade": 51.78,
         "name": "Bill Henry",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 63,
         "team": [
             "FTW",
@@ -1375,7 +1375,7 @@
         "grade": 53.85,
         "name": "Bill Herman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 13,
         "team": "DNN"
     },
@@ -1393,7 +1393,7 @@
         "grade": 53.38,
         "name": "Kleggie Hermsen",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "CHS"
     },
@@ -1411,7 +1411,7 @@
         "grade": 56.16,
         "name": "Sonny Hertzberg",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "BOS"
     },
@@ -1429,7 +1429,7 @@
         "grade": 71.78,
         "name": "Paul Hoffman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "BLB"
     },
@@ -1447,7 +1447,7 @@
         "grade": 51.62,
         "name": "Joe Holland",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "INO"
     },
@@ -1465,7 +1465,7 @@
         "grade": 62.22,
         "name": "Red Holzman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "ROC"
     },
@@ -1483,7 +1483,7 @@
         "grade": 30.11,
         "name": "Gene James",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 29,
         "team": "NYK"
     },
@@ -1501,7 +1501,7 @@
         "grade": 42.19,
         "name": "Tony Jaros",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": "MNL"
     },
@@ -1519,7 +1519,7 @@
         "grade": 58.31,
         "name": "Buddy Jeannette",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 37,
         "team": "BLB"
     },
@@ -1537,7 +1537,7 @@
         "grade": 82.76,
         "name": "Arnie Johnson",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "ROC"
     },
@@ -1555,7 +1555,7 @@
         "grade": 59.78,
         "name": "Ralph Johnson",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": [
             "AND",
@@ -1576,7 +1576,7 @@
         "grade": 85.25,
         "name": "Wah Wah Jones",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "INO"
     },
@@ -1594,7 +1594,7 @@
         "grade": 73.84,
         "name": "Noble Jorgensen",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 54,
         "team": "SHE"
     },
@@ -1612,7 +1612,7 @@
         "grade": 73.21,
         "name": "George Kaftan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 55,
         "team": "BOS"
     },
@@ -1630,7 +1630,7 @@
         "grade": 35.83,
         "name": "Leo Katkaveck",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 54,
         "team": "WSC"
     },
@@ -1648,7 +1648,7 @@
         "grade": 61.51,
         "name": "Jack Kerris",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": [
             "TRI",
@@ -1669,7 +1669,7 @@
         "grade": 75.44,
         "name": "Bob Kinney",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "BOS"
     },
@@ -1687,7 +1687,7 @@
         "grade": 48.8,
         "name": "Walt Kirk",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 58,
         "team": [
             "AND",
@@ -1708,7 +1708,7 @@
         "grade": 57.0,
         "name": "Leo Klier",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "FTW"
     },
@@ -1726,7 +1726,7 @@
         "grade": 75.56,
         "name": "Duane Klueh",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 52,
         "team": [
             "DNN",
@@ -1747,7 +1747,7 @@
         "grade": 44.63,
         "name": "Milo Komenich",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "AND"
     },
@@ -1765,7 +1765,7 @@
         "grade": 61.59,
         "name": "Leo Kubiak",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "WAT"
     },
@@ -1783,7 +1783,7 @@
         "grade": 54.86,
         "name": "Frank Kudelka",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "CHS"
     },
@@ -1801,7 +1801,7 @@
         "grade": 33.64,
         "name": "Walt Lautenbach",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 55,
         "team": "SHE"
     },
@@ -1819,7 +1819,7 @@
         "grade": 75.52,
         "name": "Tony Lavelli",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 56,
         "team": "BOS"
     },
@@ -1837,7 +1837,7 @@
         "grade": 71.78,
         "name": "Ed Leede",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "BOS"
     },
@@ -1855,7 +1855,7 @@
         "grade": 55.61,
         "name": "Andrew Levane",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "SYR"
     },
@@ -1873,7 +1873,7 @@
         "grade": 30.15,
         "name": "Freddie Lewis",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 34,
         "team": [
             "BLB",
@@ -1894,7 +1894,7 @@
         "grade": 48.04,
         "name": "Ron Livingstone",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 54,
         "team": [
             "BLB",
@@ -1915,7 +1915,7 @@
         "grade": 74.18,
         "name": "John Logan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "STB"
     },
@@ -1933,7 +1933,7 @@
         "grade": 56.37,
         "name": "Ray Lumpp",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 58,
         "team": "NYK"
     },
@@ -1951,7 +1951,7 @@
         "grade": 88.61,
         "name": "Ed Macauley",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "STB"
     },
@@ -1969,7 +1969,7 @@
         "grade": 61.55,
         "name": "Johnny Macknowski",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": "SYR"
     },
@@ -1987,7 +1987,7 @@
         "grade": 34.32,
         "name": "John Mahnken",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": [
             "FTW",
@@ -2009,7 +2009,7 @@
         "grade": 34.65,
         "name": "John Mandic",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 25,
         "team": [
             "WSC",
@@ -2030,7 +2030,7 @@
         "grade": 64.16,
         "name": "Slater Martin",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "MNL"
     },
@@ -2048,7 +2048,7 @@
         "grade": 39.58,
         "name": "Ariel Maughan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "STB"
     },
@@ -2066,7 +2066,7 @@
         "grade": 39.12,
         "name": "Matt Mazza",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 26,
         "team": "SHE"
     },
@@ -2084,7 +2084,7 @@
         "grade": 71.4,
         "name": "Dick McGuire",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "NYK"
     },
@@ -2102,7 +2102,7 @@
         "grade": 47.87,
         "name": "Bones McKinney",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 53,
         "team": "WSC"
     },
@@ -2120,7 +2120,7 @@
         "grade": 44.0,
         "name": "Mal McMullen",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 58,
         "team": "INO"
     },
@@ -2138,7 +2138,7 @@
         "grade": 84.28,
         "name": "Dick Mehen",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "WAT"
     },
@@ -2156,7 +2156,7 @@
         "grade": 75.19,
         "name": "Stan Miasek",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "CHS"
     },
@@ -2174,7 +2174,7 @@
         "grade": 38.57,
         "name": "Ed Mikan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": [
             "CHS",
@@ -2195,7 +2195,7 @@
         "grade": 96.74,
         "name": "George Mikan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "MNL"
     },
@@ -2213,7 +2213,7 @@
         "grade": 89.03,
         "name": "Vern Mikkelsen",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "MNL"
     },
@@ -2231,7 +2231,7 @@
         "grade": 84.61,
         "name": "Leo Mogus",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "PHW"
     },
@@ -2249,7 +2249,7 @@
         "grade": 74.43,
         "name": "Max Morris",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "SHE"
     },
@@ -2267,7 +2267,7 @@
         "grade": 30.11,
         "name": "Joe Mullaney",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 37,
         "team": "BOS"
     },
@@ -2285,7 +2285,7 @@
         "grade": 24.3,
         "name": "Jerry Nagel",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 14,
         "team": "FTW"
     },
@@ -2303,7 +2303,7 @@
         "grade": 83.9,
         "name": "Jack Nichols",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": [
             "WSC",
@@ -2324,7 +2324,7 @@
         "grade": 58.56,
         "name": "Richie Niemiera",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": [
             "FTW",
@@ -2345,7 +2345,7 @@
         "grade": 46.4,
         "name": "Paul Noel",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "NYK"
     },
@@ -2363,7 +2363,7 @@
         "grade": 48.29,
         "name": "Johnny Norlander",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 40,
         "team": "WSC"
     },
@@ -2381,7 +2381,7 @@
         "grade": 35.37,
         "name": "George Nostrand",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 55,
         "team": [
             "BOS",
@@ -2403,7 +2403,7 @@
         "grade": 28.0,
         "name": "Mike Novak",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": [
             "ROC",
@@ -2424,7 +2424,7 @@
         "grade": 27.08,
         "name": "Dermie O'Connell",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": [
             "BOS",
@@ -2445,7 +2445,7 @@
         "grade": 54.1,
         "name": "Andy O'Donnell",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 25,
         "team": "BLB"
     },
@@ -2463,7 +2463,7 @@
         "grade": 52.67,
         "name": "Dick O'Keefe",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "WSC"
     },
@@ -2481,7 +2481,7 @@
         "grade": 50.06,
         "name": "John Oldham",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": "FTW"
     },
@@ -2499,7 +2499,7 @@
         "grade": 30.32,
         "name": "Gene Ollrich",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 14,
         "team": "WAT"
     },
@@ -2517,7 +2517,7 @@
         "grade": 48.5,
         "name": "Johnny Orr",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 34,
         "team": [
             "STB",
@@ -2538,7 +2538,7 @@
         "grade": 83.06,
         "name": "Don Otten",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": [
             "TRI",
@@ -2559,7 +2559,7 @@
         "grade": 39.41,
         "name": "Mac Otten",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": [
             "TRI",
@@ -2580,7 +2580,7 @@
         "grade": 42.53,
         "name": "Red Owens",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": [
             "TRI",
@@ -2601,7 +2601,7 @@
         "grade": 44.08,
         "name": "Easy Parham",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "STB"
     },
@@ -2619,7 +2619,7 @@
         "grade": 63.91,
         "name": "Stan Patrick",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 53,
         "team": [
             "WAT",
@@ -2640,7 +2640,7 @@
         "grade": 45.13,
         "name": "Johnny Payak",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 52,
         "team": [
             "PHW",
@@ -2661,7 +2661,7 @@
         "grade": 45.64,
         "name": "Warren Perkins",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "TRI"
     },
@@ -2679,7 +2679,7 @@
         "grade": 74.85,
         "name": "Ed Peterson",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "SYR"
     },
@@ -2697,7 +2697,7 @@
         "grade": 37.39,
         "name": "Jack Phelan",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 55,
         "team": [
             "WAT",
@@ -2718,7 +2718,7 @@
         "grade": 80.87,
         "name": "Andy Phillip",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "CHS"
     },
@@ -2736,7 +2736,7 @@
         "grade": 79.86,
         "name": "Jim Pollard",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "MNL"
     },
@@ -2754,7 +2754,7 @@
         "grade": 38.74,
         "name": "Les Pugh",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 56,
         "team": "BLB"
     },
@@ -2772,7 +2772,7 @@
         "grade": 27.42,
         "name": "Don Putman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": "STB"
     },
@@ -2790,7 +2790,7 @@
         "grade": 76.66,
         "name": "George Ratkovicz",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "SYR"
     },
@@ -2808,7 +2808,7 @@
         "grade": 50.65,
         "name": "Don Ray",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": "TRI"
     },
@@ -2826,7 +2826,7 @@
         "grade": 66.81,
         "name": "Chick Reiser",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "WSC"
     },
@@ -2844,7 +2844,7 @@
         "grade": 69.84,
         "name": "Arnie Risen",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "ROC"
     },
@@ -2862,7 +2862,7 @@
         "grade": 58.22,
         "name": "Tex Ritter",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "NYK"
     },
@@ -2880,7 +2880,7 @@
         "grade": 49.05,
         "name": "Bill Roberts",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "STB"
     },
@@ -2898,7 +2898,7 @@
         "grade": 84.74,
         "name": "Red Rocha",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "STB"
     },
@@ -2916,7 +2916,7 @@
         "grade": 64.33,
         "name": "Kenny Rollins",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "CHS"
     },
@@ -2934,7 +2934,7 @@
         "grade": 52.46,
         "name": "Bob Royer",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 42,
         "team": "DNN"
     },
@@ -2952,7 +2952,7 @@
         "grade": 68.91,
         "name": "Ed Sadowski",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 69,
         "team": [
             "PHW",
@@ -2973,7 +2973,7 @@
         "grade": 75.14,
         "name": "Kenny Sailors",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": "DNN"
     },
@@ -2991,7 +2991,7 @@
         "grade": 64.83,
         "name": "Pep Saul",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 49,
         "team": "ROC"
     },
@@ -3009,7 +3009,7 @@
         "grade": 85.16,
         "name": "Herm Schaefer",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "MNL"
     },
@@ -3027,7 +3027,7 @@
         "grade": 24.38,
         "name": "Marv Schatzman",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 34,
         "team": "BLB"
     },
@@ -3045,7 +3045,7 @@
         "grade": 86.09,
         "name": "Fred Schaus",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "FTW"
     },
@@ -3063,7 +3063,7 @@
         "grade": 94.97,
         "name": "Dolph Schayes",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 64,
         "team": "SYR"
     },
@@ -3081,7 +3081,7 @@
         "grade": 73.25,
         "name": "Milt Schoon",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "SHE"
     },
@@ -3099,7 +3099,7 @@
         "grade": 49.26,
         "name": "Howie Schultz",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": [
             "AND",
@@ -3120,7 +3120,7 @@
         "grade": 46.27,
         "name": "Dick Schulz",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 50,
         "team": [
             "WSC",
@@ -3142,7 +3142,7 @@
         "grade": 80.41,
         "name": "Fred Scolari",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 66,
         "team": "WSC"
     },
@@ -3160,7 +3160,7 @@
         "grade": 66.94,
         "name": "Wayne See",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": "WAT"
     },
@@ -3178,7 +3178,7 @@
         "grade": 34.44,
         "name": "Glen Selbo",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 13,
         "team": "SHE"
     },
@@ -3196,7 +3196,7 @@
         "grade": 54.98,
         "name": "Rollie Seltz",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 34,
         "team": "AND"
     },
@@ -3214,7 +3214,7 @@
         "grade": 62.56,
         "name": "Jim Seminoff",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": "BOS"
     },
@@ -3232,7 +3232,7 @@
         "grade": 66.68,
         "name": "George Senesky",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "PHW"
     },
@@ -3250,7 +3250,7 @@
         "grade": 69.21,
         "name": "Paul Seymour",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "SYR"
     },
@@ -3268,7 +3268,7 @@
         "grade": 53.64,
         "name": "Carl Shaeffer",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 43,
         "team": "INO"
     },
@@ -3286,7 +3286,7 @@
         "grade": 72.28,
         "name": "Howie Shannon",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "BOS"
     },
@@ -3304,7 +3304,7 @@
         "grade": 35.71,
         "name": "Charley Shipp",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 23,
         "team": "WAT"
     },
@@ -3322,7 +3322,7 @@
         "grade": 60.71,
         "name": "Connie Simmons",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "NYK"
     },
@@ -3340,7 +3340,7 @@
         "grade": 80.24,
         "name": "Belus Smawley",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 61,
         "team": "STB"
     },
@@ -3358,7 +3358,7 @@
         "grade": 41.43,
         "name": "Jack Smiley",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": [
             "AND",
@@ -3379,7 +3379,7 @@
         "grade": 73.54,
         "name": "Chips Sobek",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 60,
         "team": "SHE"
     },
@@ -3397,7 +3397,7 @@
         "grade": 76.95,
         "name": "Odie Spears",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "CHS"
     },
@@ -3415,7 +3415,7 @@
         "grade": 76.74,
         "name": "Ed Stanczak",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 57,
         "team": "AND"
     },
@@ -3433,7 +3433,7 @@
         "grade": 33.56,
         "name": "Gene Stump",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 49,
         "team": [
             "MNL",
@@ -3454,7 +3454,7 @@
         "grade": 64.71,
         "name": "Mike Todorovich",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 65,
         "team": [
             "STB",
@@ -3475,7 +3475,7 @@
         "grade": 74.72,
         "name": "Jack Toomay",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 62,
         "team": "DNN"
     },
@@ -3493,7 +3493,7 @@
         "grade": 31.25,
         "name": "Bob Tough",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 29,
         "team": [
             "BLB",
@@ -3514,7 +3514,7 @@
         "grade": 64.66,
         "name": "Blackie Towery",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "BLB"
     },
@@ -3532,7 +3532,7 @@
         "grade": 57.55,
         "name": "Butch van Breda Kolff",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 56,
         "team": "NYK"
     },
@@ -3550,7 +3550,7 @@
         "grade": 67.32,
         "name": "Gene Vance",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 35,
         "team": "TRI"
     },
@@ -3568,7 +3568,7 @@
         "grade": 78.64,
         "name": "Ernie Vandeweghe",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 42,
         "team": "NYK"
     },
@@ -3586,7 +3586,7 @@
         "grade": 37.47,
         "name": "Floyd Volker",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 54,
         "team": [
             "INO",
@@ -3607,7 +3607,7 @@
         "grade": 64.75,
         "name": "Whitey Von Nieda",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 59,
         "team": [
             "TRI",
@@ -3628,7 +3628,7 @@
         "grade": 36.25,
         "name": "Clint Wager",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 63,
         "team": "FTW"
     },
@@ -3646,7 +3646,7 @@
         "grade": 66.47,
         "name": "Danny Wagner",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 11,
         "team": "SHE"
     },
@@ -3664,7 +3664,7 @@
         "grade": 64.92,
         "name": "Brady Walker",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "BOS"
     },
@@ -3682,7 +3682,7 @@
         "grade": 64.29,
         "name": "Paul Walther",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 53,
         "team": [
             "MNL",
@@ -3703,7 +3703,7 @@
         "grade": 94.21,
         "name": "Bobby Wanzer",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 67,
         "team": "ROC"
     },
@@ -3721,7 +3721,7 @@
         "grade": 57.42,
         "name": "Murray Wier",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 56,
         "team": "TRI"
     },
@@ -3739,7 +3739,7 @@
         "grade": 49.39,
         "name": "D.C. Wilcutt",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 37,
         "team": "STB"
     },
@@ -3757,7 +3757,7 @@
         "grade": 86.26,
         "name": "Max Zaslofsky",
         "league_grade": 58.81,
-        "year": 1950,
+        "year": "1950",
         "games_played": 68,
         "team": "CHS"
     }

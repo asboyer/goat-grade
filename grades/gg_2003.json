@@ -25,7 +25,7 @@
         "grade": 57.29,
         "name": "Tariq Abdul-Wahad",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 14,
         "team": "DAL"
     },
@@ -55,7 +55,7 @@
         "grade": 89.57,
         "name": "Shareef Abdur-Rahim",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "ATL"
     },
@@ -85,7 +85,7 @@
         "grade": 53.47,
         "name": "Courtney Alexander",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "NOH"
     },
@@ -115,7 +115,7 @@
         "grade": 58.62,
         "name": "Malik Allen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "MIA"
     },
@@ -145,7 +145,7 @@
         "grade": 89.19,
         "name": "Ray Allen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": [
             "MIL",
@@ -178,7 +178,7 @@
         "grade": 66.6,
         "name": "Rafer Alston",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 47,
         "team": "TOR"
     },
@@ -208,7 +208,7 @@
         "grade": 56.75,
         "name": "Chris Andersen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 59,
         "team": "DEN"
     },
@@ -238,7 +238,7 @@
         "grade": 84.9,
         "name": "Derek Anderson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": "POR"
     },
@@ -268,7 +268,7 @@
         "grade": 63.4,
         "name": "Kenny Anderson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 61,
         "team": [
             "SEA",
@@ -301,7 +301,7 @@
         "grade": 72.87,
         "name": "Shandon Anderson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "NYK"
     },
@@ -331,7 +331,7 @@
         "grade": 82.08,
         "name": "Gilbert Arenas",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "GSW"
     },
@@ -361,7 +361,7 @@
         "grade": 77.9,
         "name": "Darrell Armstrong",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "ORL"
     },
@@ -391,7 +391,7 @@
         "grade": 58.49,
         "name": "Chucky Atkins",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 65,
         "team": "DET"
     },
@@ -421,7 +421,7 @@
         "grade": 51.46,
         "name": "Stacey Augmon",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": "NOH"
     },
@@ -451,7 +451,7 @@
         "grade": 59.85,
         "name": "Vin Baker",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 52,
         "team": "BOS"
     },
@@ -481,7 +481,7 @@
         "grade": 87.1,
         "name": "Brent Barry",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "SEA"
     },
@@ -511,7 +511,7 @@
         "grade": 83.54,
         "name": "Jon Barry",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "DET"
     },
@@ -541,7 +541,7 @@
         "grade": 56.72,
         "name": "Mike Batiste",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "MEM"
     },
@@ -571,7 +571,7 @@
         "grade": 78.91,
         "name": "Tony Battie",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "BOS"
     },
@@ -601,7 +601,7 @@
         "grade": 86.02,
         "name": "Shane Battier",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "MEM"
     },
@@ -631,7 +631,7 @@
         "grade": 54.76,
         "name": "Lonny Baxter",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "CHI"
     },
@@ -661,7 +661,7 @@
         "grade": 59.99,
         "name": "Raja Bell",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "DAL"
     },
@@ -691,7 +691,7 @@
         "grade": 67.72,
         "name": "Jonathan Bender",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 46,
         "team": "IND"
     },
@@ -721,7 +721,7 @@
         "grade": 61.03,
         "name": "Travis Best",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "MIA"
     },
@@ -751,7 +751,7 @@
         "grade": 85.61,
         "name": "Mike Bibby",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "SAC"
     },
@@ -781,7 +781,7 @@
         "grade": 87.67,
         "name": "Chauncey Billups",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 74,
         "team": "DET"
     },
@@ -811,7 +811,7 @@
         "grade": 59.73,
         "name": "Corie Blount",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 50,
         "team": "CHI"
     },
@@ -841,7 +841,7 @@
         "grade": 57.96,
         "name": "Mark Blount",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": [
             "DEN",
@@ -874,7 +874,7 @@
         "grade": 52.97,
         "name": "Calvin Booth",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 47,
         "team": "SEA"
     },
@@ -904,7 +904,7 @@
         "grade": 80.66,
         "name": "Carlos Boozer",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "CLE"
     },
@@ -934,7 +934,7 @@
         "grade": 75.82,
         "name": "Bruce Bowen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "SAS"
     },
@@ -964,7 +964,7 @@
         "grade": 69.83,
         "name": "Ryan Bowen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 62,
         "team": "DEN"
     },
@@ -994,7 +994,7 @@
         "grade": 72.04,
         "name": "Earl Boykins",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 68,
         "team": "GSW"
     },
@@ -1024,7 +1024,7 @@
         "grade": 60.01,
         "name": "Michael Bradley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "TOR"
     },
@@ -1054,7 +1054,7 @@
         "grade": 83.75,
         "name": "Shawn Bradley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "DAL"
     },
@@ -1084,7 +1084,7 @@
         "grade": 88.54,
         "name": "Elton Brand",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 62,
         "team": "LAC"
     },
@@ -1114,7 +1114,7 @@
         "grade": 66.18,
         "name": "J.R. Bremer",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 64,
         "team": "BOS"
     },
@@ -1144,7 +1144,7 @@
         "grade": 49.68,
         "name": "Kedrick Brown",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 51,
         "team": "BOS"
     },
@@ -1174,7 +1174,7 @@
         "grade": 64.11,
         "name": "Kwame Brown",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "WAS"
     },
@@ -1204,7 +1204,7 @@
         "grade": 88.42,
         "name": "P.J. Brown",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "NOH"
     },
@@ -1234,7 +1234,7 @@
         "grade": 63.08,
         "name": "Tierre Brown",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 15,
         "team": "CLE"
     },
@@ -1264,7 +1264,7 @@
         "grade": 63.88,
         "name": "Rick Brunson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 17,
         "team": "CHI"
     },
@@ -1294,7 +1294,7 @@
         "grade": 94.78,
         "name": "Kobe Bryant",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "LAL"
     },
@@ -1324,7 +1324,7 @@
         "grade": 70.27,
         "name": "Greg Buckner",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "PHI"
     },
@@ -1354,7 +1354,7 @@
         "grade": 46.31,
         "name": "Pat Burke",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 62,
         "team": "ORL"
     },
@@ -1384,7 +1384,7 @@
         "grade": 79.24,
         "name": "Caron Butler",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "MIA"
     },
@@ -1414,7 +1414,7 @@
         "grade": 55.28,
         "name": "Rasual Butler",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "MIA"
     },
@@ -1444,7 +1444,7 @@
         "grade": 53.59,
         "name": "Jason Caffey",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 51,
         "team": "MIL"
     },
@@ -1474,7 +1474,7 @@
         "grade": 70.09,
         "name": "Marcus Camby",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 29,
         "team": "DEN"
     },
@@ -1504,7 +1504,7 @@
         "grade": 63.2,
         "name": "Elden Campbell",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 56,
         "team": [
             "NOH",
@@ -1537,7 +1537,7 @@
         "grade": 49.68,
         "name": "Anthony Carter",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 49,
         "team": "MIA"
     },
@@ -1567,7 +1567,7 @@
         "grade": 86.95,
         "name": "Vince Carter",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 43,
         "team": "TOR"
     },
@@ -1597,7 +1597,7 @@
         "grade": 87.62,
         "name": "Sam Cassell",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "MIL"
     },
@@ -1627,7 +1627,7 @@
         "grade": 72.49,
         "name": "Kelvin Cato",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "HOU"
     },
@@ -1657,7 +1657,7 @@
         "grade": 75.69,
         "name": "Tyson Chandler",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "CHI"
     },
@@ -1687,7 +1687,7 @@
         "grade": 67.79,
         "name": "Calbert Cheaney",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "UTA"
     },
@@ -1717,7 +1717,7 @@
         "grade": 89.36,
         "name": "Doug Christie",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "SAC"
     },
@@ -1747,7 +1747,7 @@
         "grade": 74.42,
         "name": "Keon Clark",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "SAC"
     },
@@ -1777,7 +1777,7 @@
         "grade": 68.45,
         "name": "Speedy Claxton",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 30,
         "team": "SAS"
     },
@@ -1807,7 +1807,7 @@
         "grade": 78.46,
         "name": "Derrick Coleman",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 64,
         "team": "PHI"
     },
@@ -1837,7 +1837,7 @@
         "grade": 48.25,
         "name": "Bimbo Coles",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 35,
         "team": [
             "CLE",
@@ -1870,7 +1870,7 @@
         "grade": 54.03,
         "name": "Jarron Collins",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 22,
         "team": "UTA"
     },
@@ -1900,7 +1900,7 @@
         "grade": 64.55,
         "name": "Jason Collins",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "NJN"
     },
@@ -1930,7 +1930,7 @@
         "grade": 72.85,
         "name": "Jamal Crawford",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "CHI"
     },
@@ -1960,7 +1960,7 @@
         "grade": 69.46,
         "name": "Austin Croshere",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 49,
         "team": "IND"
     },
@@ -1990,7 +1990,7 @@
         "grade": 45.66,
         "name": "John Crotty",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 12,
         "team": "DEN"
     },
@@ -2020,7 +2020,7 @@
         "grade": 72.51,
         "name": "Eddy Curry",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "CHI"
     },
@@ -2050,7 +2050,7 @@
         "grade": 55.77,
         "name": "Michael Curry",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "DET"
     },
@@ -2080,7 +2080,7 @@
         "grade": 72.33,
         "name": "Erick Dampier",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "GSW"
     },
@@ -2110,7 +2110,7 @@
         "grade": 69.85,
         "name": "Antonio Daniels",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "POR"
     },
@@ -2140,7 +2140,7 @@
         "grade": 66.16,
         "name": "Antonio Davis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 53,
         "team": "TOR"
     },
@@ -2170,7 +2170,7 @@
         "grade": 82.25,
         "name": "Baron Davis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 50,
         "team": "NOH"
     },
@@ -2200,7 +2200,7 @@
         "grade": 79.83,
         "name": "Dale Davis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "POR"
     },
@@ -2230,7 +2230,7 @@
         "grade": 48.85,
         "name": "Emanual Davis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 24,
         "team": "ATL"
     },
@@ -2260,7 +2260,7 @@
         "grade": 75.38,
         "name": "Ricky Davis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "CLE"
     },
@@ -2290,7 +2290,7 @@
         "grade": 64.62,
         "name": "Andrew DeClercq",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "ORL"
     },
@@ -2320,7 +2320,7 @@
         "grade": 77.58,
         "name": "Tony Delk",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "BOS"
     },
@@ -2350,7 +2350,7 @@
         "grade": 53.11,
         "name": "Dan Dickau",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 50,
         "team": "ATL"
     },
@@ -2380,7 +2380,7 @@
         "grade": 46.77,
         "name": "DeSagana Diop",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "CLE"
     },
@@ -2410,7 +2410,7 @@
         "grade": 83.36,
         "name": "Vlade Divac",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "SAC"
     },
@@ -2440,7 +2440,7 @@
         "grade": 53.33,
         "name": "Juan Dixon",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 42,
         "team": "WAS"
     },
@@ -2470,7 +2470,7 @@
         "grade": 49.04,
         "name": "Michael Doleac",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "NYK"
     },
@@ -2500,7 +2500,7 @@
         "grade": 54.78,
         "name": "Keyon Dooling",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "LAC"
     },
@@ -2530,7 +2530,7 @@
         "grade": 63.97,
         "name": "Predrag Drobnjak",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "SEA"
     },
@@ -2560,7 +2560,7 @@
         "grade": 94.45,
         "name": "Tim Duncan",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "SAS"
     },
@@ -2590,7 +2590,7 @@
         "grade": 62.4,
         "name": "Mike Dunleavy",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "GSW"
     },
@@ -2620,7 +2620,7 @@
         "grade": 75.8,
         "name": "Howard Eisley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "NYK"
     },
@@ -2650,7 +2650,7 @@
         "grade": 56.23,
         "name": "LaPhonso Ellis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "MIA"
     },
@@ -2680,7 +2680,7 @@
         "grade": 57.67,
         "name": "Melvin Ely",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 52,
         "team": "LAC"
     },
@@ -2710,7 +2710,7 @@
         "grade": 61.38,
         "name": "Reggie Evans",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "SEA"
     },
@@ -2740,7 +2740,7 @@
         "grade": 84.08,
         "name": "Michael Finley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "DAL"
     },
@@ -2770,7 +2770,7 @@
         "grade": 74.12,
         "name": "Derek Fisher",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "LAL"
     },
@@ -2800,7 +2800,7 @@
         "grade": 68.66,
         "name": "Marcus Fizer",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 38,
         "team": "CHI"
     },
@@ -2830,7 +2830,7 @@
         "grade": 47.01,
         "name": "Danny Fortson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 17,
         "team": "GSW"
     },
@@ -2860,7 +2860,7 @@
         "grade": 46.84,
         "name": "Greg Foster",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 29,
         "team": "TOR"
     },
@@ -2890,7 +2890,7 @@
         "grade": 52.55,
         "name": "Jeff Foster",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "IND"
     },
@@ -2920,7 +2920,7 @@
         "grade": 62.62,
         "name": "Tremaine Fowlkes",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 37,
         "team": "LAC"
     },
@@ -2950,7 +2950,7 @@
         "grade": 72.47,
         "name": "Rick Fox",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": "LAL"
     },
@@ -2980,7 +2980,7 @@
         "grade": 75.94,
         "name": "Adonal Foyle",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "GSW"
     },
@@ -3010,7 +3010,7 @@
         "grade": 90.23,
         "name": "Steve Francis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "HOU"
     },
@@ -3040,7 +3040,7 @@
         "grade": 58.01,
         "name": "Dan Gadzuric",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 49,
         "team": "MIL"
     },
@@ -3070,7 +3070,7 @@
         "grade": 95.84,
         "name": "Kevin Garnett",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "MIN"
     },
@@ -3100,7 +3100,7 @@
         "grade": 73.86,
         "name": "Pat Garrity",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "ORL"
     },
@@ -3130,7 +3130,7 @@
         "grade": 87.28,
         "name": "Pau Gasol",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "MEM"
     },
@@ -3160,7 +3160,7 @@
         "grade": 65.17,
         "name": "Devean George",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 71,
         "team": "LAL"
     },
@@ -3190,7 +3190,7 @@
         "grade": 62.26,
         "name": "Kendall Gill",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "MIN"
     },
@@ -3220,7 +3220,7 @@
         "grade": 78.31,
         "name": "Manu Ginóbili",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "SAS"
     },
@@ -3250,7 +3250,7 @@
         "grade": 66.46,
         "name": "Gordan Giriček",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": [
             "MEM",
@@ -3283,7 +3283,7 @@
         "grade": 69.45,
         "name": "Dion Glover",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": "ATL"
     },
@@ -3313,7 +3313,7 @@
         "grade": 68.08,
         "name": "Drew Gooden",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": [
             "MEM",
@@ -3346,7 +3346,7 @@
         "grade": 81.59,
         "name": "Brian Grant",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "MIA"
     },
@@ -3376,7 +3376,7 @@
         "grade": 66.19,
         "name": "Adrian Griffin",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 74,
         "team": "DAL"
     },
@@ -3406,7 +3406,7 @@
         "grade": 72.48,
         "name": "Eddie Griffin",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "HOU"
     },
@@ -3436,7 +3436,7 @@
         "grade": 60.28,
         "name": "Tom Gugliotta",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 27,
         "team": "PHO"
     },
@@ -3466,7 +3466,7 @@
         "grade": 49.8,
         "name": "Marcus Haislip",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 39,
         "team": "MIL"
     },
@@ -3496,7 +3496,7 @@
         "grade": 46.11,
         "name": "Darvin Ham",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "ATL"
     },
@@ -3526,7 +3526,7 @@
         "grade": 81.4,
         "name": "Richard Hamilton",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "DET"
     },
@@ -3556,7 +3556,7 @@
         "grade": 75.33,
         "name": "Anfernee Hardaway",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 58,
         "team": "PHO"
     },
@@ -3586,7 +3586,7 @@
         "grade": 61.32,
         "name": "Tim Hardaway",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 10,
         "team": "IND"
     },
@@ -3616,7 +3616,7 @@
         "grade": 88.76,
         "name": "Matt Harpring",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "UTA"
     },
@@ -3646,7 +3646,7 @@
         "grade": 68.92,
         "name": "Al Harrington",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "IND"
     },
@@ -3676,7 +3676,7 @@
         "grade": 53.88,
         "name": "Junior Harrington",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "DEN"
     },
@@ -3706,7 +3706,7 @@
         "grade": 68.78,
         "name": "Othella Harrington",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 74,
         "team": "NYK"
     },
@@ -3736,7 +3736,7 @@
         "grade": 71.88,
         "name": "Lucious Harris",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "NJN"
     },
@@ -3766,7 +3766,7 @@
         "grade": 64.22,
         "name": "Donnell Harvey",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "DEN"
     },
@@ -3796,7 +3796,7 @@
         "grade": 53.38,
         "name": "Trenton Hassell",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "CHI"
     },
@@ -3826,7 +3826,7 @@
         "grade": 49.79,
         "name": "Juaquin Hawkins",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 58,
         "team": "HOU"
     },
@@ -3856,7 +3856,7 @@
         "grade": 71.22,
         "name": "Brendan Haywood",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "WAS"
     },
@@ -3886,7 +3886,7 @@
         "grade": 60.93,
         "name": "Alan Henderson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "ATL"
     },
@@ -3916,7 +3916,7 @@
         "grade": 81.51,
         "name": "Nenê",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "DEN"
     },
@@ -3946,7 +3946,7 @@
         "grade": 85.01,
         "name": "Grant Hill",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 29,
         "team": "ORL"
     },
@@ -3976,7 +3976,7 @@
         "grade": 56.29,
         "name": "Tyrone Hill",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 56,
         "team": [
             "CLE",
@@ -4009,7 +4009,7 @@
         "grade": 57.05,
         "name": "Fred Hoiberg",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 63,
         "team": "CHI"
     },
@@ -4039,7 +4039,7 @@
         "grade": 73.73,
         "name": "Robert Horry",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "LAL"
     },
@@ -4069,7 +4069,7 @@
         "grade": 60.28,
         "name": "Eddie House",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "MIA"
     },
@@ -4099,7 +4099,7 @@
         "grade": 82.18,
         "name": "Allan Houston",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "NYK"
     },
@@ -4129,7 +4129,7 @@
         "grade": 83.92,
         "name": "Juwan Howard",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "DEN"
     },
@@ -4159,7 +4159,7 @@
         "grade": 76.69,
         "name": "Troy Hudson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "MIN"
     },
@@ -4189,7 +4189,7 @@
         "grade": 80.24,
         "name": "Larry Hughes",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "WAS"
     },
@@ -4219,7 +4219,7 @@
         "grade": 56.0,
         "name": "Lindsey Hunter",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 29,
         "team": "TOR"
     },
@@ -4249,7 +4249,7 @@
         "grade": 62.69,
         "name": "Steven Hunter",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 33,
         "team": "ORL"
     },
@@ -4279,7 +4279,7 @@
         "grade": 77.7,
         "name": "Zydrunas Ilgauskas",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "CLE"
     },
@@ -4309,7 +4309,7 @@
         "grade": 84.34,
         "name": "Allen Iverson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "PHI"
     },
@@ -4339,7 +4339,7 @@
         "grade": 87.02,
         "name": "Bobby Jackson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 59,
         "team": "SAC"
     },
@@ -4369,7 +4369,7 @@
         "grade": 46.78,
         "name": "Jermaine Jackson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 53,
         "team": [
             "TOR",
@@ -4402,7 +4402,7 @@
         "grade": 69.07,
         "name": "Jim Jackson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 63,
         "team": "SAC"
     },
@@ -4432,7 +4432,7 @@
         "grade": 61.86,
         "name": "Marc Jackson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "MIN"
     },
@@ -4462,7 +4462,7 @@
         "grade": 58.4,
         "name": "Mark Jackson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "UTA"
     },
@@ -4492,7 +4492,7 @@
         "grade": 80.67,
         "name": "Stephen Jackson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "SAS"
     },
@@ -4522,7 +4522,7 @@
         "grade": 54.83,
         "name": "Casey Jacobsen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "PHO"
     },
@@ -4552,7 +4552,7 @@
         "grade": 61.39,
         "name": "Jerome James",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 51,
         "team": "SEA"
     },
@@ -4582,7 +4582,7 @@
         "grade": 61.62,
         "name": "Mike James",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "MIA"
     },
@@ -4612,7 +4612,7 @@
         "grade": 84.06,
         "name": "Antawn Jamison",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "GSW"
     },
@@ -4642,7 +4642,7 @@
         "grade": 69.54,
         "name": "Marko Jarić",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "LAC"
     },
@@ -4672,7 +4672,7 @@
         "grade": 46.7,
         "name": "Chris Jefferies",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 51,
         "team": "TOR"
     },
@@ -4702,7 +4702,7 @@
         "grade": 87.94,
         "name": "Richard Jefferson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "NJN"
     },
@@ -4732,7 +4732,7 @@
         "grade": 60.02,
         "name": "Jared Jeffries",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 20,
         "team": "WAS"
     },
@@ -4762,7 +4762,7 @@
         "grade": 63.28,
         "name": "Anthony Johnson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "NJN"
     },
@@ -4792,7 +4792,7 @@
         "grade": 57.77,
         "name": "Ervin Johnson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "MIL"
     },
@@ -4822,7 +4822,7 @@
         "grade": 66.27,
         "name": "Joe Johnson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "PHO"
     },
@@ -4852,7 +4852,7 @@
         "grade": 61.18,
         "name": "Damon Jones",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 49,
         "team": "SAC"
     },
@@ -4882,7 +4882,7 @@
         "grade": 89.07,
         "name": "Eddie Jones",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 47,
         "team": "MIA"
     },
@@ -4912,7 +4912,7 @@
         "grade": 70.95,
         "name": "Jumaine Jones",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "CLE"
     },
@@ -4942,7 +4942,7 @@
         "grade": 84.26,
         "name": "Michael Jordan",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "WAS"
     },
@@ -4972,7 +4972,7 @@
         "grade": 58.48,
         "name": "Shawn Kemp",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "ORL"
     },
@@ -5002,7 +5002,7 @@
         "grade": 66.95,
         "name": "Steve Kerr",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "SAS"
     },
@@ -5032,7 +5032,7 @@
         "grade": 90.18,
         "name": "Jason Kidd",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "NJN"
     },
@@ -5062,7 +5062,7 @@
         "grade": 91.84,
         "name": "Andrei Kirilenko",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "UTA"
     },
@@ -5092,7 +5092,7 @@
         "grade": 89.44,
         "name": "Kerry Kittles",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 65,
         "team": "NJN"
     },
@@ -5122,7 +5122,7 @@
         "grade": 54.64,
         "name": "Brevin Knight",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "MEM"
     },
@@ -5152,7 +5152,7 @@
         "grade": 82.54,
         "name": "Toni Kukoč",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 63,
         "team": "MIL"
     },
@@ -5182,7 +5182,7 @@
         "grade": 85.37,
         "name": "Christian Laettner",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": "WAS"
     },
@@ -5212,7 +5212,7 @@
         "grade": 82.69,
         "name": "Raef LaFrentz",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "DAL"
     },
@@ -5242,7 +5242,7 @@
         "grade": 56.08,
         "name": "Sean Lampley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 35,
         "team": "MIA"
     },
@@ -5272,7 +5272,7 @@
         "grade": 70.36,
         "name": "Voshon Lenard",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 63,
         "team": "TOR"
     },
@@ -5302,7 +5302,7 @@
         "grade": 85.91,
         "name": "Rashard Lewis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "SEA"
     },
@@ -5332,7 +5332,7 @@
         "grade": 46.1,
         "name": "Grant Long",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 41,
         "team": "BOS"
     },
@@ -5362,7 +5362,7 @@
         "grade": 69.97,
         "name": "Tyronn Lue",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "WAS"
     },
@@ -5392,7 +5392,7 @@
         "grade": 67.47,
         "name": "George Lynch",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "NOH"
     },
@@ -5422,7 +5422,7 @@
         "grade": 71.52,
         "name": "Todd MacCulloch",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 42,
         "team": "PHI"
     },
@@ -5452,7 +5452,7 @@
         "grade": 50.5,
         "name": "Mark Madsen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 54,
         "team": "LAL"
     },
@@ -5482,7 +5482,7 @@
         "grade": 81.33,
         "name": "Corey Maggette",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 64,
         "team": "LAC"
     },
@@ -5512,7 +5512,7 @@
         "grade": 77.92,
         "name": "Jamaal Magloire",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "NOH"
     },
@@ -5542,7 +5542,7 @@
         "grade": 90.03,
         "name": "Karl Malone",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "UTA"
     },
@@ -5572,7 +5572,7 @@
         "grade": 85.84,
         "name": "Stephon Marbury",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "PHO"
     },
@@ -5602,7 +5602,7 @@
         "grade": 94.78,
         "name": "Shawn Marion",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "PHO"
     },
@@ -5632,7 +5632,7 @@
         "grade": 84.86,
         "name": "Donyell Marshall",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "CHI"
     },
@@ -5662,7 +5662,7 @@
         "grade": 84.54,
         "name": "Kenyon Martin",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "NJN"
     },
@@ -5692,7 +5692,7 @@
         "grade": 85.71,
         "name": "Jamal Mashburn",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "NOH"
     },
@@ -5722,7 +5722,7 @@
         "grade": 68.59,
         "name": "Anthony Mason",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 65,
         "team": "MIL"
     },
@@ -5752,7 +5752,7 @@
         "grade": 75.38,
         "name": "Desmond Mason",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": [
             "SEA",
@@ -5785,7 +5785,7 @@
         "grade": 53.79,
         "name": "Tony Massenburg",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 58,
         "team": "UTA"
     },
@@ -5815,7 +5815,7 @@
         "grade": 72.18,
         "name": "Walter McCarty",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "BOS"
     },
@@ -5845,7 +5845,7 @@
         "grade": 61.63,
         "name": "Jelani McCoy",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "TOR"
     },
@@ -5875,7 +5875,7 @@
         "grade": 95.16,
         "name": "Tracy McGrady",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "ORL"
     },
@@ -5905,7 +5905,7 @@
         "grade": 55.4,
         "name": "Jeff McInnis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "POR"
     },
@@ -5935,7 +5935,7 @@
         "grade": 77.36,
         "name": "Aaron McKie",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "PHI"
     },
@@ -5965,7 +5965,7 @@
         "grade": 48.99,
         "name": "Stanislav Medvedenko",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 58,
         "team": "LAL"
     },
@@ -5995,7 +5995,7 @@
         "grade": 57.1,
         "name": "Ron Mercer",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "IND"
     },
@@ -6025,7 +6025,7 @@
         "grade": 54.05,
         "name": "Chris Mihm",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 52,
         "team": "CLE"
     },
@@ -6055,7 +6055,7 @@
         "grade": 58.27,
         "name": "Darius Miles",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "CLE"
     },
@@ -6085,7 +6085,7 @@
         "grade": 71.46,
         "name": "Andre Miller",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "LAC"
     },
@@ -6115,7 +6115,7 @@
         "grade": 89.79,
         "name": "Brad Miller",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "IND"
     },
@@ -6145,7 +6145,7 @@
         "grade": 78.75,
         "name": "Mike Miller",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 65,
         "team": [
             "ORL",
@@ -6178,7 +6178,7 @@
         "grade": 83.98,
         "name": "Reggie Miller",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": "IND"
     },
@@ -6208,7 +6208,7 @@
         "grade": 54.58,
         "name": "Chris Mills",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 21,
         "team": "GSW"
     },
@@ -6238,7 +6238,7 @@
         "grade": 90.03,
         "name": "Yao Ming",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "HOU"
     },
@@ -6268,7 +6268,7 @@
         "grade": 84.06,
         "name": "Cuttino Mobley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "HOU"
     },
@@ -6298,7 +6298,7 @@
         "grade": 52.46,
         "name": "Nazr Mohammed",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 35,
         "team": "ATL"
     },
@@ -6328,7 +6328,7 @@
         "grade": 67.31,
         "name": "Jérôme Moïso",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 51,
         "team": "NOH"
     },
@@ -6358,7 +6358,7 @@
         "grade": 61.22,
         "name": "Terence Morris",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 49,
         "team": "HOU"
     },
@@ -6388,7 +6388,7 @@
         "grade": 77.3,
         "name": "Troy Murphy",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "GSW"
     },
@@ -6418,7 +6418,7 @@
         "grade": 56.17,
         "name": "Dikembe Mutombo",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 24,
         "team": "NJN"
     },
@@ -6448,7 +6448,7 @@
         "grade": 59.55,
         "name": "Mamadou N'Diaye",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 22,
         "team": "TOR"
     },
@@ -6478,7 +6478,7 @@
         "grade": 56.43,
         "name": "Lee Nailon",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 38,
         "team": "NYK"
     },
@@ -6508,7 +6508,7 @@
         "grade": 78.33,
         "name": "Eduardo Nájera",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 48,
         "team": "DAL"
     },
@@ -6538,7 +6538,7 @@
         "grade": 89.42,
         "name": "Steve Nash",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "DAL"
     },
@@ -6568,7 +6568,7 @@
         "grade": 79.51,
         "name": "Rasho Nesterović",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "MIN"
     },
@@ -6598,7 +6598,7 @@
         "grade": 73.66,
         "name": "Ira Newble",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "ATL"
     },
@@ -6628,7 +6628,7 @@
         "grade": 58.53,
         "name": "Moochie Norris",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "HOU"
     },
@@ -6658,7 +6658,7 @@
         "grade": 96.8,
         "name": "Dirk Nowitzki",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "DAL"
     },
@@ -6688,7 +6688,7 @@
         "grade": 90.86,
         "name": "Jermaine O'Neal",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "IND"
     },
@@ -6718,7 +6718,7 @@
         "grade": 92.25,
         "name": "Shaquille O'Neal",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "LAL"
     },
@@ -6748,7 +6748,7 @@
         "grade": 54.68,
         "name": "Charles Oakley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 42,
         "team": "WAS"
     },
@@ -6778,7 +6778,7 @@
         "grade": 77.1,
         "name": "Lamar Odom",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 49,
         "team": "LAC"
     },
@@ -6808,7 +6808,7 @@
         "grade": 71.67,
         "name": "Mehmet Okur",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "DET"
     },
@@ -6838,7 +6838,7 @@
         "grade": 69.43,
         "name": "Kevin Ollie",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": [
             "MIL",
@@ -6871,7 +6871,7 @@
         "grade": 61.22,
         "name": "Michael Olowokandi",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 36,
         "team": "LAC"
     },
@@ -6901,7 +6901,7 @@
         "grade": 69.51,
         "name": "Greg Ostertag",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "UTA"
     },
@@ -6931,7 +6931,7 @@
         "grade": 76.21,
         "name": "Bo Outlaw",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "PHO"
     },
@@ -6961,7 +6961,7 @@
         "grade": 57.83,
         "name": "Robert Pack",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 28,
         "team": "NOH"
     },
@@ -6991,7 +6991,7 @@
         "grade": 64.44,
         "name": "Scott Padgett",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "UTA"
     },
@@ -7021,7 +7021,7 @@
         "grade": 55.07,
         "name": "Milt Palacio",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "CLE"
     },
@@ -7051,7 +7051,7 @@
         "grade": 50.16,
         "name": "Jannero Pargo",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 34,
         "team": "LAL"
     },
@@ -7081,7 +7081,7 @@
         "grade": 59.11,
         "name": "Smush Parker",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "CLE"
     },
@@ -7111,7 +7111,7 @@
         "grade": 82.35,
         "name": "Tony Parker",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "SAS"
     },
@@ -7141,7 +7141,7 @@
         "grade": 68.79,
         "name": "Cherokee Parks",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 30,
         "team": "LAC"
     },
@@ -7171,7 +7171,7 @@
         "grade": 73.51,
         "name": "Ruben Patterson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "POR"
     },
@@ -7201,7 +7201,7 @@
         "grade": 85.77,
         "name": "Gary Payton",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": [
             "SEA",
@@ -7234,7 +7234,7 @@
         "grade": 69.93,
         "name": "Anthony Peeler",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "MIN"
     },
@@ -7264,7 +7264,7 @@
         "grade": 74.71,
         "name": "Wesley Person",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "MEM"
     },
@@ -7294,7 +7294,7 @@
         "grade": 69.34,
         "name": "Morris Peterson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "TOR"
     },
@@ -7324,7 +7324,7 @@
         "grade": 77.56,
         "name": "Eric Piatkowski",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 62,
         "team": "LAC"
     },
@@ -7354,7 +7354,7 @@
         "grade": 90.22,
         "name": "Paul Pierce",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "BOS"
     },
@@ -7384,7 +7384,7 @@
         "grade": 81.78,
         "name": "Scottie Pippen",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 64,
         "team": "POR"
     },
@@ -7414,7 +7414,7 @@
         "grade": 63.08,
         "name": "Scot Pollard",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 23,
         "team": "SAC"
     },
@@ -7444,7 +7444,7 @@
         "grade": 78.38,
         "name": "James Posey",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 83,
         "team": [
             "DEN",
@@ -7477,7 +7477,7 @@
         "grade": 51.77,
         "name": "Vitaly Potapenko",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 26,
         "team": "SEA"
     },
@@ -7507,7 +7507,7 @@
         "grade": 63.4,
         "name": "Tayshaun Prince",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 42,
         "team": "DET"
     },
@@ -7537,7 +7537,7 @@
         "grade": 50.21,
         "name": "Joel Przybilla",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 32,
         "team": "MIL"
     },
@@ -7567,7 +7567,7 @@
         "grade": 72.06,
         "name": "Vladimir Radmanović",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "SEA"
     },
@@ -7597,7 +7597,7 @@
         "grade": 76.91,
         "name": "Zach Randolph",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "POR"
     },
@@ -7627,7 +7627,7 @@
         "grade": 73.5,
         "name": "Theo Ratliff",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "ATL"
     },
@@ -7657,7 +7657,7 @@
         "grade": 69.28,
         "name": "Željko Rebrača",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 30,
         "team": "DET"
     },
@@ -7687,7 +7687,7 @@
         "grade": 86.95,
         "name": "Michael Redd",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "MIL"
     },
@@ -7717,7 +7717,7 @@
         "grade": 70.56,
         "name": "Glen Rice",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 62,
         "team": "HOU"
     },
@@ -7747,7 +7747,7 @@
         "grade": 73.74,
         "name": "Jason Richardson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "GSW"
     },
@@ -7777,7 +7777,7 @@
         "grade": 59.37,
         "name": "Quentin Richardson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 59,
         "team": "LAC"
     },
@@ -7807,7 +7807,7 @@
         "grade": 74.06,
         "name": "Clifford Robinson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "DET"
     },
@@ -7837,7 +7837,7 @@
         "grade": 81.26,
         "name": "David Robinson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 64,
         "team": "SAS"
     },
@@ -7867,7 +7867,7 @@
         "grade": 69.92,
         "name": "Eddie Robinson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 64,
         "team": "CHI"
     },
@@ -7897,7 +7897,7 @@
         "grade": 79.16,
         "name": "Glenn Robinson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "ATL"
     },
@@ -7927,7 +7927,7 @@
         "grade": 67.08,
         "name": "Rodney Rogers",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 68,
         "team": "NJN"
     },
@@ -7957,7 +7957,7 @@
         "grade": 54.46,
         "name": "Sean Rooks",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": "LAC"
     },
@@ -7987,7 +7987,7 @@
         "grade": 75.19,
         "name": "Jalen Rose",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "CHI"
     },
@@ -8017,7 +8017,7 @@
         "grade": 80.3,
         "name": "Malik Rose",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "SAS"
     },
@@ -8047,7 +8047,7 @@
         "grade": 45.28,
         "name": "Kareem Rush",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": "LAL"
     },
@@ -8077,7 +8077,7 @@
         "grade": 58.35,
         "name": "Bryon Russell",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": "WAS"
     },
@@ -8107,7 +8107,7 @@
         "grade": 83.83,
         "name": "Arvydas Sabonis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "POR"
     },
@@ -8137,7 +8137,7 @@
         "grade": 50.88,
         "name": "Jeryl Sasser",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "ORL"
     },
@@ -8167,7 +8167,7 @@
         "grade": 47.54,
         "name": "Kenny Satterfield",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 39,
         "team": [
             "DEN",
@@ -8200,7 +8200,7 @@
         "grade": 57.46,
         "name": "Brian Scalabrine",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 59,
         "team": "NJN"
     },
@@ -8230,7 +8230,7 @@
         "grade": 43.7,
         "name": "Ansu Sesay",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 45,
         "team": "SEA"
     },
@@ -8260,7 +8260,7 @@
         "grade": 55.35,
         "name": "Brian Shaw",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "LAL"
     },
@@ -8290,7 +8290,7 @@
         "grade": 54.18,
         "name": "Bobby Simmons",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 36,
         "team": "WAS"
     },
@@ -8320,7 +8320,7 @@
         "grade": 74.61,
         "name": "Brian Skinner",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 77,
         "team": "PHI"
     },
@@ -8350,7 +8350,7 @@
         "grade": 68.53,
         "name": "Joe Smith",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 54,
         "team": "MIN"
     },
@@ -8380,7 +8380,7 @@
         "grade": 66.8,
         "name": "Steve Smith",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 53,
         "team": "SAS"
     },
@@ -8410,7 +8410,7 @@
         "grade": 82.69,
         "name": "Eric Snow",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "PHI"
     },
@@ -8440,7 +8440,7 @@
         "grade": 75.92,
         "name": "Latrell Sprewell",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 74,
         "team": "NYK"
     },
@@ -8470,7 +8470,7 @@
         "grade": 81.37,
         "name": "Jerry Stackhouse",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": "WAS"
     },
@@ -8500,7 +8500,7 @@
         "grade": 62.06,
         "name": "Vladimir Stepania",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "MIA"
     },
@@ -8530,7 +8530,7 @@
         "grade": 48.46,
         "name": "DeShawn Stevenson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 61,
         "team": "UTA"
     },
@@ -8560,7 +8560,7 @@
         "grade": 89.51,
         "name": "John Stockton",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "UTA"
     },
@@ -8590,7 +8590,7 @@
         "grade": 91.33,
         "name": "Peja Stojaković",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "SAC"
     },
@@ -8620,7 +8620,7 @@
         "grade": 63.57,
         "name": "Damon Stoudamire",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 59,
         "team": "POR"
     },
@@ -8650,7 +8650,7 @@
         "grade": 78.53,
         "name": "Amar'e Stoudemire",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "PHO"
     },
@@ -8680,7 +8680,7 @@
         "grade": 72.49,
         "name": "Erick Strickland",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 71,
         "team": "IND"
     },
@@ -8710,7 +8710,7 @@
         "grade": 67.86,
         "name": "Rod Strickland",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 47,
         "team": "MIN"
     },
@@ -8740,7 +8740,7 @@
         "grade": 65.24,
         "name": "Bob Sura",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 55,
         "team": "GSW"
     },
@@ -8770,7 +8770,7 @@
         "grade": 77.37,
         "name": "Stromile Swift",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "MEM"
     },
@@ -8800,7 +8800,7 @@
         "grade": 86.44,
         "name": "Wally Szczerbiak",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 52,
         "team": "MIN"
     },
@@ -8830,7 +8830,7 @@
         "grade": 56.83,
         "name": "Maurice Taylor",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "HOU"
     },
@@ -8860,7 +8860,7 @@
         "grade": 85.55,
         "name": "Jason Terry",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "ATL"
     },
@@ -8890,7 +8890,7 @@
         "grade": 64.4,
         "name": "Etan Thomas",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 38,
         "team": "WAS"
     },
@@ -8920,7 +8920,7 @@
         "grade": 76.05,
         "name": "Kenny Thomas",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": [
             "HOU",
@@ -8953,7 +8953,7 @@
         "grade": 84.63,
         "name": "Kurt Thomas",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "NYK"
     },
@@ -8983,7 +8983,7 @@
         "grade": 73.86,
         "name": "Tim Thomas",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "MIL"
     },
@@ -9013,7 +9013,7 @@
         "grade": 71.36,
         "name": "Jamaal Tinsley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "IND"
     },
@@ -9043,7 +9043,7 @@
         "grade": 67.01,
         "name": "Robert Traylor",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "NOH"
     },
@@ -9073,7 +9073,7 @@
         "grade": 73.06,
         "name": "Gary Trent",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "MIN"
     },
@@ -9103,7 +9103,7 @@
         "grade": 57.36,
         "name": "Jake Tsakalidis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 33,
         "team": "PHO"
     },
@@ -9133,7 +9133,7 @@
         "grade": 48.63,
         "name": "Nikoloz Tskitishvili",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "DEN"
     },
@@ -9163,7 +9163,7 @@
         "grade": 66.26,
         "name": "Hedo Türkoğlu",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "SAC"
     },
@@ -9193,7 +9193,7 @@
         "grade": 74.16,
         "name": "Nick Van Exel",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "DAL"
     },
@@ -9223,7 +9223,7 @@
         "grade": 86.21,
         "name": "Keith Van Horn",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 74,
         "team": "PHI"
     },
@@ -9253,7 +9253,7 @@
         "grade": 61.01,
         "name": "Jacque Vaughn",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 80,
         "team": "ORL"
     },
@@ -9283,7 +9283,7 @@
         "grade": 67.33,
         "name": "Jake Voskuhl",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 65,
         "team": "PHO"
     },
@@ -9313,7 +9313,7 @@
         "grade": 57.22,
         "name": "Dajuan Wagner",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 47,
         "team": "CLE"
     },
@@ -9343,7 +9343,7 @@
         "grade": 73.61,
         "name": "Antoine Walker",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "BOS"
     },
@@ -9373,7 +9373,7 @@
         "grade": 58.79,
         "name": "Samaki Walker",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "LAL"
     },
@@ -9403,7 +9403,7 @@
         "grade": 83.49,
         "name": "Ben Wallace",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "DET"
     },
@@ -9433,7 +9433,7 @@
         "grade": 62.9,
         "name": "Gerald Wallace",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 47,
         "team": "SAC"
     },
@@ -9463,7 +9463,7 @@
         "grade": 90.15,
         "name": "Rasheed Wallace",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 74,
         "team": "POR"
     },
@@ -9493,7 +9493,7 @@
         "grade": 77.88,
         "name": "Charlie Ward",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "NYK"
     },
@@ -9523,7 +9523,7 @@
         "grade": 70.46,
         "name": "Earl Watson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "MEM"
     },
@@ -9553,7 +9553,7 @@
         "grade": 74.5,
         "name": "Clarence Weatherspoon",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 79,
         "team": "NYK"
     },
@@ -9583,7 +9583,7 @@
         "grade": 87.2,
         "name": "Chris Webber",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 67,
         "team": "SAC"
     },
@@ -9613,7 +9613,7 @@
         "grade": 78.42,
         "name": "Bonzi Wells",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "POR"
     },
@@ -9643,7 +9643,7 @@
         "grade": 82.43,
         "name": "David Wesley",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 73,
         "team": "NOH"
     },
@@ -9673,7 +9673,7 @@
         "grade": 60.6,
         "name": "Jahidi White",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 16,
         "team": "WAS"
     },
@@ -9703,7 +9703,7 @@
         "grade": 59.77,
         "name": "Rodney White",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 72,
         "team": "DEN"
     },
@@ -9733,7 +9733,7 @@
         "grade": 54.37,
         "name": "Chris Whitney",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 51,
         "team": [
             "DEN",
@@ -9766,7 +9766,7 @@
         "grade": 59.31,
         "name": "Chris Wilcox",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 46,
         "team": "LAC"
     },
@@ -9796,7 +9796,7 @@
         "grade": 53.65,
         "name": "Mike Wilks",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 46,
         "team": [
             "ATL",
@@ -9829,7 +9829,7 @@
         "grade": 68.14,
         "name": "Aaron Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 81,
         "team": "NJN"
     },
@@ -9859,7 +9859,7 @@
         "grade": 79.15,
         "name": "Alvin Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": "TOR"
     },
@@ -9889,7 +9889,7 @@
         "grade": 76.35,
         "name": "Eric Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "BOS"
     },
@@ -9919,7 +9919,7 @@
         "grade": 75.73,
         "name": "Jason Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 76,
         "team": "MEM"
     },
@@ -9949,7 +9949,7 @@
         "grade": 62.71,
         "name": "Jay Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 75,
         "team": "CHI"
     },
@@ -9979,7 +9979,7 @@
         "grade": 79.31,
         "name": "Jerome Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 71,
         "team": "TOR"
     },
@@ -10009,7 +10009,7 @@
         "grade": 59.7,
         "name": "Monty Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 21,
         "team": "PHI"
     },
@@ -10039,7 +10039,7 @@
         "grade": 53.4,
         "name": "Scott Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "PHO"
     },
@@ -10069,7 +10069,7 @@
         "grade": 68.36,
         "name": "Shammond Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 78,
         "team": [
             "BOS",
@@ -10102,7 +10102,7 @@
         "grade": 66.19,
         "name": "Walt Williams",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 66,
         "team": "DAL"
     },
@@ -10132,7 +10132,7 @@
         "grade": 73.72,
         "name": "Corliss Williamson",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 82,
         "team": "DET"
     },
@@ -10162,7 +10162,7 @@
         "grade": 60.28,
         "name": "Kevin Willis",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 71,
         "team": "SAS"
     },
@@ -10192,7 +10192,7 @@
         "grade": 86.56,
         "name": "Metta World Peace",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 69,
         "team": "IND"
     },
@@ -10222,7 +10222,7 @@
         "grade": 67.44,
         "name": "Lorenzen Wright",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 70,
         "team": "MEM"
     },
@@ -10252,7 +10252,7 @@
         "grade": 61.41,
         "name": "Vincent Yarbrough",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 59,
         "team": "DEN"
     },
@@ -10282,7 +10282,7 @@
         "grade": 51.6,
         "name": "Wang Zhizhi",
         "league_grade": 76.91,
-        "year": 2003,
+        "year": "2003",
         "games_played": 41,
         "team": "LAC"
     }

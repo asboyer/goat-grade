@@ -24,7 +24,8 @@
         "OBPM": 85,
         "WS": 3,
         "grade": 867,
-        "name": "Paul Arizin*"
+        "name": "Paul Arizin*",
+        "year": "1959"
     },
     "Elgin Baylor*": {
         "TS%": 16,
@@ -51,7 +52,8 @@
         "OBPM": 84,
         "WS": 6,
         "grade": 883,
-        "name": "Elgin Baylor*"
+        "name": "Elgin Baylor*",
+        "year": "1959"
     },
     "Ernie Beck": {
         "TS%": 69,
@@ -78,7 +80,8 @@
         "OBPM": 83,
         "WS": 62,
         "grade": 1535,
-        "name": "Ernie Beck"
+        "name": "Ernie Beck",
+        "year": "1959"
     },
     "Al Bianchi": {
         "TS%": 58,
@@ -105,7 +108,8 @@
         "OBPM": 82,
         "WS": 44,
         "grade": 1394,
-        "name": "Al Bianchi"
+        "name": "Al Bianchi",
+        "year": "1959"
     },
     "Bucky Bockhorn": {
         "TS%": 60,
@@ -132,7 +136,8 @@
         "OBPM": 81,
         "WS": 58,
         "grade": 1362,
-        "name": "Bucky Bockhorn"
+        "name": "Bucky Bockhorn",
+        "year": "1959"
     },
     "Carl Braun*": {
         "TS%": 19,
@@ -159,7 +164,8 @@
         "OBPM": 80,
         "WS": 25,
         "grade": 1030,
-        "name": "Carl Braun*"
+        "name": "Carl Braun*",
+        "year": "1959"
     },
     "Gene Conley": {
         "TS%": 83,
@@ -186,7 +192,8 @@
         "OBPM": 79,
         "WS": 74,
         "grade": 1723,
-        "name": "Gene Conley"
+        "name": "Gene Conley",
+        "year": "1959"
     },
     "Ed Conlin": {
         "TS%": 50,
@@ -213,7 +220,8 @@
         "OBPM": 78,
         "WS": 71,
         "grade": 1390,
-        "name": "Ed Conlin"
+        "name": "Ed Conlin",
+        "year": "1959"
     },
     "Larry Costello*": {
         "TS%": 9,
@@ -240,7 +248,8 @@
         "OBPM": 77,
         "WS": 10,
         "grade": 861,
-        "name": "Larry Costello*"
+        "name": "Larry Costello*",
+        "year": "1959"
     },
     "Bob Cousy*": {
         "TS%": 39,
@@ -267,7 +276,8 @@
         "OBPM": 76,
         "WS": 9,
         "grade": 957,
-        "name": "Bob Cousy*"
+        "name": "Bob Cousy*",
+        "year": "1959"
     },
     "Archie Dees": {
         "TS%": 53,
@@ -294,7 +304,8 @@
         "OBPM": 75,
         "WS": 67,
         "grade": 1466,
-        "name": "Archie Dees"
+        "name": "Archie Dees",
+        "year": "1959"
     },
     "George Dempsey": {
         "TS%": 13,
@@ -321,7 +332,8 @@
         "OBPM": 74,
         "WS": 57,
         "grade": 1292,
-        "name": "George Dempsey"
+        "name": "George Dempsey",
+        "year": "1959"
     },
     "Connie Dierking": {
         "TS%": 65,
@@ -348,7 +360,8 @@
         "OBPM": 73,
         "WS": 66,
         "grade": 1586,
-        "name": "Connie Dierking"
+        "name": "Connie Dierking",
+        "year": "1959"
     },
     "Walter Dukes": {
         "TS%": 59,
@@ -375,7 +388,8 @@
         "OBPM": 72,
         "WS": 29,
         "grade": 1256,
-        "name": "Walter Dukes"
+        "name": "Walter Dukes",
+        "year": "1959"
     },
     "Boo Ellis": {
         "TS%": 18,
@@ -402,7 +416,8 @@
         "OBPM": 71,
         "WS": 33,
         "grade": 1141,
-        "name": "Boo Ellis"
+        "name": "Boo Ellis",
+        "year": "1959"
     },
     "Wayne Embry*": {
         "TS%": 41,
@@ -429,7 +444,8 @@
         "OBPM": 70,
         "WS": 41,
         "grade": 1201,
-        "name": "Wayne Embry*"
+        "name": "Wayne Embry*",
+        "year": "1959"
     },
     "Dick Farley": {
         "TS%": 33,
@@ -456,7 +472,8 @@
         "OBPM": 69,
         "WS": 31,
         "grade": 1179,
-        "name": "Dick Farley"
+        "name": "Dick Farley",
+        "year": "1959"
     },
     "Mike Farmer": {
         "TS%": 73,
@@ -483,7 +500,8 @@
         "OBPM": 68,
         "WS": 78,
         "grade": 1465,
-        "name": "Mike Farmer"
+        "name": "Mike Farmer",
+        "year": "1959"
     },
     "Ray Felix": {
         "TS%": 43,
@@ -510,7 +528,8 @@
         "OBPM": 67,
         "WS": 39,
         "grade": 1233,
-        "name": "Ray Felix"
+        "name": "Ray Felix",
+        "year": "1959"
     },
     "Al Ferrari": {
         "TS%": 49,
@@ -537,7 +556,8 @@
         "OBPM": 66,
         "WS": 53,
         "grade": 1393,
-        "name": "Al Ferrari"
+        "name": "Al Ferrari",
+        "year": "1959"
     },
     "Ed Fleming": {
         "TS%": 36,
@@ -564,7 +584,8 @@
         "OBPM": 65,
         "WS": 38,
         "grade": 1224,
-        "name": "Ed Fleming"
+        "name": "Ed Fleming",
+        "year": "1959"
     },
     "Larry Foust": {
         "TS%": 24,
@@ -591,7 +612,8 @@
         "OBPM": 64,
         "WS": 26,
         "grade": 972,
-        "name": "Larry Foust"
+        "name": "Larry Foust",
+        "year": "1959"
     },
     "Dick Garmaker": {
         "TS%": 25,
@@ -618,7 +640,8 @@
         "OBPM": 63,
         "WS": 22,
         "grade": 948,
-        "name": "Dick Garmaker"
+        "name": "Dick Garmaker",
+        "year": "1959"
     },
     "Jack George": {
         "TS%": 57,
@@ -645,7 +668,8 @@
         "OBPM": 62,
         "WS": 73,
         "grade": 1389,
-        "name": "Jack George"
+        "name": "Jack George",
+        "year": "1959"
     },
     "Tom Gola*": {
         "TS%": 17,
@@ -672,7 +696,8 @@
         "OBPM": 61,
         "WS": 13,
         "grade": 786,
-        "name": "Tom Gola*"
+        "name": "Tom Gola*",
+        "year": "1959"
     },
     "Joe Graboski": {
         "TS%": 66,
@@ -699,7 +724,8 @@
         "OBPM": 60,
         "WS": 30,
         "grade": 1106,
-        "name": "Joe Graboski"
+        "name": "Joe Graboski",
+        "year": "1959"
     },
     "Si Green": {
         "TS%": 74,
@@ -726,7 +752,8 @@
         "OBPM": 59,
         "WS": 77,
         "grade": 1562,
-        "name": "Si Green"
+        "name": "Si Green",
+        "year": "1959"
     },
     "Hal Greer*": {
         "TS%": 11,
@@ -753,7 +780,8 @@
         "OBPM": 58,
         "WS": 24,
         "grade": 906,
-        "name": "Hal Greer*"
+        "name": "Hal Greer*",
+        "year": "1959"
     },
     "Richie Guerin*": {
         "TS%": 7,
@@ -780,7 +808,8 @@
         "OBPM": 57,
         "WS": 11,
         "grade": 687,
-        "name": "Richie Guerin*"
+        "name": "Richie Guerin*",
+        "year": "1959"
     },
     "Cliff Hagan*": {
         "TS%": 5,
@@ -807,7 +836,8 @@
         "OBPM": 56,
         "WS": 5,
         "grade": 581,
-        "name": "Cliff Hagan*"
+        "name": "Cliff Hagan*",
+        "year": "1959"
     },
     "Steve Hamilton": {
         "TS%": 56,
@@ -834,7 +864,8 @@
         "OBPM": 55,
         "WS": 65,
         "grade": 1415,
-        "name": "Steve Hamilton"
+        "name": "Steve Hamilton",
+        "year": "1959"
     },
     "Vern Hatton": {
         "TS%": 42,
@@ -861,7 +892,8 @@
         "OBPM": 54,
         "WS": 61,
         "grade": 1213,
-        "name": "Vern Hatton"
+        "name": "Vern Hatton",
+        "year": "1959"
     },
     "Tom Heinsohn*": {
         "TS%": 38,
@@ -888,7 +920,8 @@
         "OBPM": 53,
         "WS": 17,
         "grade": 792,
-        "name": "Tom Heinsohn*"
+        "name": "Tom Heinsohn*",
+        "year": "1959"
     },
     "Joe Holup": {
         "TS%": 55,
@@ -915,7 +948,8 @@
         "OBPM": 52,
         "WS": 43,
         "grade": 1190,
-        "name": "Joe Holup"
+        "name": "Joe Holup",
+        "year": "1959"
     },
     "Bob Hopkins": {
         "TS%": 29,
@@ -942,7 +976,8 @@
         "OBPM": 51,
         "WS": 27,
         "grade": 933,
-        "name": "Bob Hopkins"
+        "name": "Bob Hopkins",
+        "year": "1959"
     },
     "Hot Rod Hundley": {
         "TS%": 64,
@@ -969,7 +1004,8 @@
         "OBPM": 50,
         "WS": 56,
         "grade": 1173,
-        "name": "Hot Rod Hundley"
+        "name": "Hot Rod Hundley",
+        "year": "1959"
     },
     "Andy Johnson": {
         "TS%": 61,
@@ -996,7 +1032,8 @@
         "OBPM": 49,
         "WS": 55,
         "grade": 1261,
-        "name": "Andy Johnson"
+        "name": "Andy Johnson",
+        "year": "1959"
     },
     "Neil Johnston*": {
         "TS%": 48,
@@ -1023,7 +1060,8 @@
         "OBPM": 48,
         "WS": 64,
         "grade": 1266,
-        "name": "Neil Johnston*"
+        "name": "Neil Johnston*",
+        "year": "1959"
     },
     "K.C. Jones*": {
         "TS%": 77,
@@ -1050,7 +1088,8 @@
         "OBPM": 47,
         "WS": 63,
         "grade": 1419,
-        "name": "K.C. Jones*"
+        "name": "K.C. Jones*",
+        "year": "1959"
     },
     "Sam Jones*": {
         "TS%": 20,
@@ -1077,7 +1116,8 @@
         "OBPM": 46,
         "WS": 20,
         "grade": 743,
-        "name": "Sam Jones*"
+        "name": "Sam Jones*",
+        "year": "1959"
     },
     "Phil Jordon": {
         "TS%": 28,
@@ -1104,7 +1144,8 @@
         "OBPM": 45,
         "WS": 21,
         "grade": 732,
-        "name": "Phil Jordon"
+        "name": "Phil Jordon",
+        "year": "1959"
     },
     "Red Kerr": {
         "TS%": 12,
@@ -1131,7 +1172,8 @@
         "OBPM": 44,
         "WS": 8,
         "grade": 543,
-        "name": "Red Kerr"
+        "name": "Red Kerr",
+        "year": "1959"
     },
     "Jim Krebs": {
         "TS%": 52,
@@ -1158,7 +1200,8 @@
         "OBPM": 43,
         "WS": 52,
         "grade": 1011,
-        "name": "Jim Krebs"
+        "name": "Jim Krebs",
+        "year": "1959"
     },
     "Slick Leonard*": {
         "TS%": 54,
@@ -1185,7 +1228,8 @@
         "OBPM": 42,
         "WS": 51,
         "grade": 1102,
-        "name": "Slick Leonard*"
+        "name": "Slick Leonard*",
+        "year": "1959"
     },
     "Earl Lloyd*": {
         "TS%": 72,
@@ -1212,7 +1256,8 @@
         "OBPM": 41,
         "WS": 54,
         "grade": 1130,
-        "name": "Earl Lloyd*"
+        "name": "Earl Lloyd*",
+        "year": "1959"
     },
     "Jim Loscutoff": {
         "TS%": 80,
@@ -1239,7 +1284,8 @@
         "OBPM": 40,
         "WS": 60,
         "grade": 1206,
-        "name": "Jim Loscutoff"
+        "name": "Jim Loscutoff",
+        "year": "1959"
     },
     "Clyde Lovellette*": {
         "TS%": 8,
@@ -1266,7 +1312,8 @@
         "OBPM": 39,
         "WS": 16,
         "grade": 588,
-        "name": "Clyde Lovellette*"
+        "name": "Clyde Lovellette*",
+        "year": "1959"
     },
     "Ed Macauley*": {
         "TS%": 82,
@@ -1293,7 +1340,8 @@
         "OBPM": 38,
         "WS": 81,
         "grade": 1491,
-        "name": "Ed Macauley*"
+        "name": "Ed Macauley*",
+        "year": "1959"
     },
     "Tom Marshall": {
         "TS%": 85,
@@ -1320,7 +1368,8 @@
         "OBPM": 37,
         "WS": 83,
         "grade": 1459,
-        "name": "Tom Marshall"
+        "name": "Tom Marshall",
+        "year": "1959"
     },
     "Slater Martin*": {
         "TS%": 63,
@@ -1347,7 +1396,8 @@
         "OBPM": 36,
         "WS": 37,
         "grade": 1005,
-        "name": "Slater Martin*"
+        "name": "Slater Martin*",
+        "year": "1959"
     },
     "Johnny McCarthy": {
         "TS%": 68,
@@ -1374,7 +1424,8 @@
         "OBPM": 35,
         "WS": 70,
         "grade": 1072,
-        "name": "Johnny McCarthy"
+        "name": "Johnny McCarthy",
+        "year": "1959"
     },
     "Dick McGuire*": {
         "TS%": 10,
@@ -1401,7 +1452,8 @@
         "OBPM": 34,
         "WS": 15,
         "grade": 614,
-        "name": "Dick McGuire*"
+        "name": "Dick McGuire*",
+        "year": "1959"
     },
     "Jack McMahon": {
         "TS%": 75,
@@ -1428,7 +1480,8 @@
         "OBPM": 33,
         "WS": 68,
         "grade": 1122,
-        "name": "Jack McMahon"
+        "name": "Jack McMahon",
+        "year": "1959"
     },
     "Shellie McMillon": {
         "TS%": 34,
@@ -1455,7 +1508,8 @@
         "OBPM": 32,
         "WS": 47,
         "grade": 904,
-        "name": "Shellie McMillon"
+        "name": "Shellie McMillon",
+        "year": "1959"
     },
     "Vern Mikkelsen*": {
         "TS%": 27,
@@ -1482,7 +1536,8 @@
         "OBPM": 31,
         "WS": 23,
         "grade": 632,
-        "name": "Vern Mikkelsen*"
+        "name": "Vern Mikkelsen*",
+        "year": "1959"
     },
     "Willie Naulls": {
         "TS%": 45,
@@ -1509,7 +1564,8 @@
         "OBPM": 30,
         "WS": 32,
         "grade": 753,
-        "name": "Willie Naulls"
+        "name": "Willie Naulls",
+        "year": "1959"
     },
     "Chuck Noble": {
         "TS%": 79,
@@ -1536,7 +1592,8 @@
         "OBPM": 29,
         "WS": 84,
         "grade": 1261,
-        "name": "Chuck Noble"
+        "name": "Chuck Noble",
+        "year": "1959"
     },
     "Togo Palazzi": {
         "TS%": 47,
@@ -1563,7 +1620,8 @@
         "OBPM": 28,
         "WS": 46,
         "grade": 910,
-        "name": "Togo Palazzi"
+        "name": "Togo Palazzi",
+        "year": "1959"
     },
     "Jim Palmer": {
         "TS%": 31,
@@ -1590,7 +1648,8 @@
         "OBPM": 27,
         "WS": 36,
         "grade": 798,
-        "name": "Jim Palmer"
+        "name": "Jim Palmer",
+        "year": "1959"
     },
     "Med Park": {
         "TS%": 21,
@@ -1617,7 +1676,8 @@
         "OBPM": 26,
         "WS": 50,
         "grade": 817,
-        "name": "Med Park"
+        "name": "Med Park",
+        "year": "1959"
     },
     "Jack Parr": {
         "TS%": 76,
@@ -1644,7 +1704,8 @@
         "OBPM": 25,
         "WS": 82,
         "grade": 1273,
-        "name": "Jack Parr"
+        "name": "Jack Parr",
+        "year": "1959"
     },
     "Bob Pettit*": {
         "TS%": 3,
@@ -1671,7 +1732,8 @@
         "OBPM": 24,
         "WS": 1,
         "grade": 310,
-        "name": "Bob Pettit*"
+        "name": "Bob Pettit*",
+        "year": "1959"
     },
     "Dave Piontek": {
         "TS%": 62,
@@ -1698,7 +1760,8 @@
         "OBPM": 23,
         "WS": 69,
         "grade": 948,
-        "name": "Dave Piontek"
+        "name": "Dave Piontek",
+        "year": "1959"
     },
     "Frank Ramsey*": {
         "TS%": 35,
@@ -1725,7 +1788,8 @@
         "OBPM": 22,
         "WS": 18,
         "grade": 591,
-        "name": "Frank Ramsey*"
+        "name": "Frank Ramsey*",
+        "year": "1959"
     },
     "Hub Reed": {
         "TS%": 30,
@@ -1752,7 +1816,8 @@
         "OBPM": 21,
         "WS": 45,
         "grade": 846,
-        "name": "Hub Reed"
+        "name": "Hub Reed",
+        "year": "1959"
     },
     "Guy Rodgers*": {
         "TS%": 67,
@@ -1779,7 +1844,8 @@
         "OBPM": 20,
         "WS": 35,
         "grade": 774,
-        "name": "Guy Rodgers*"
+        "name": "Guy Rodgers*",
+        "year": "1959"
     },
     "Phil Rollins": {
         "TS%": 46,
@@ -1806,7 +1872,8 @@
         "OBPM": 19,
         "WS": 72,
         "grade": 965,
-        "name": "Phil Rollins"
+        "name": "Phil Rollins",
+        "year": "1959"
     },
     "Bill Russell*": {
         "TS%": 14,
@@ -1833,7 +1900,8 @@
         "OBPM": 18,
         "WS": 4,
         "grade": 347,
-        "name": "Bill Russell*"
+        "name": "Bill Russell*",
+        "year": "1959"
     },
     "Woody Sauldsberry": {
         "TS%": 78,
@@ -1860,7 +1928,8 @@
         "OBPM": 17,
         "WS": 85,
         "grade": 884,
-        "name": "Woody Sauldsberry"
+        "name": "Woody Sauldsberry",
+        "year": "1959"
     },
     "Dolph Schayes*": {
         "TS%": 15,
@@ -1887,7 +1956,8 @@
         "OBPM": 16,
         "WS": 7,
         "grade": 361,
-        "name": "Dolph Schayes*"
+        "name": "Dolph Schayes*",
+        "year": "1959"
     },
     "Kenny Sears": {
         "TS%": 1,
@@ -1914,7 +1984,8 @@
         "OBPM": 15,
         "WS": 2,
         "grade": 264,
-        "name": "Kenny Sears"
+        "name": "Kenny Sears",
+        "year": "1959"
     },
     "Frank Selvy": {
         "TS%": 32,
@@ -1941,7 +2012,8 @@
         "OBPM": 14,
         "WS": 34,
         "grade": 766,
-        "name": "Frank Selvy"
+        "name": "Frank Selvy",
+        "year": "1959"
     },
     "Paul Seymour": {
         "TS%": 70,
@@ -1968,7 +2040,8 @@
         "OBPM": 13,
         "WS": 75,
         "grade": 1109,
-        "name": "Paul Seymour"
+        "name": "Paul Seymour",
+        "year": "1959"
     },
     "Chuck Share": {
         "TS%": 26,
@@ -1995,7 +2068,8 @@
         "OBPM": 12,
         "WS": 28,
         "grade": 646,
-        "name": "Chuck Share"
+        "name": "Chuck Share",
+        "year": "1959"
     },
     "Bill Sharman*": {
         "TS%": 23,
@@ -2022,7 +2096,8 @@
         "OBPM": 11,
         "WS": 12,
         "grade": 352,
-        "name": "Bill Sharman*"
+        "name": "Bill Sharman*",
+        "year": "1959"
     },
     "Gene Shue": {
         "TS%": 37,
@@ -2049,7 +2124,8 @@
         "OBPM": 10,
         "WS": 19,
         "grade": 459,
-        "name": "Gene Shue"
+        "name": "Gene Shue",
+        "year": "1959"
     },
     "Ron Sobie": {
         "TS%": 51,
@@ -2076,7 +2152,8 @@
         "OBPM": 9,
         "WS": 59,
         "grade": 878,
-        "name": "Ron Sobie"
+        "name": "Ron Sobie",
+        "year": "1959"
     },
     "Guy Sparrow": {
         "TS%": 81,
@@ -2103,7 +2180,8 @@
         "OBPM": 8,
         "WS": 80,
         "grade": 1233,
-        "name": "Guy Sparrow"
+        "name": "Guy Sparrow",
+        "year": "1959"
     },
     "Larry Staverman": {
         "TS%": 6,
@@ -2130,7 +2208,8 @@
         "OBPM": 7,
         "WS": 48,
         "grade": 665,
-        "name": "Larry Staverman"
+        "name": "Larry Staverman",
+        "year": "1959"
     },
     "Bennie Swain": {
         "TS%": 40,
@@ -2157,7 +2236,8 @@
         "OBPM": 6,
         "WS": 40,
         "grade": 773,
-        "name": "Bennie Swain"
+        "name": "Bennie Swain",
+        "year": "1959"
     },
     "Lou Tsioropoulos": {
         "TS%": 84,
@@ -2184,7 +2264,8 @@
         "OBPM": 5,
         "WS": 79,
         "grade": 1168,
-        "name": "Lou Tsioropoulos"
+        "name": "Lou Tsioropoulos",
+        "year": "1959"
     },
     "Jack Twyman*": {
         "TS%": 22,
@@ -2211,7 +2292,8 @@
         "OBPM": 4,
         "WS": 14,
         "grade": 272,
-        "name": "Jack Twyman*"
+        "name": "Jack Twyman*",
+        "year": "1959"
     },
     "Charlie Tyra": {
         "TS%": 44,
@@ -2238,7 +2320,8 @@
         "OBPM": 3,
         "WS": 49,
         "grade": 719,
-        "name": "Charlie Tyra"
+        "name": "Charlie Tyra",
+        "year": "1959"
     },
     "Win Wilfong": {
         "TS%": 71,
@@ -2265,7 +2348,8 @@
         "OBPM": 2,
         "WS": 76,
         "grade": 1095,
-        "name": "Win Wilfong"
+        "name": "Win Wilfong",
+        "year": "1959"
     },
     "George Yardley*": {
         "TS%": 2,
@@ -2292,6 +2376,7 @@
         "OBPM": 1,
         "WS": 42,
         "grade": 437,
-        "name": "George Yardley*"
+        "name": "George Yardley*",
+        "year": "1959"
     }
 }

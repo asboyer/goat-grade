@@ -6572,8 +6572,8 @@
         "BPM": "3.1",
         "VORP": "3.1"
     },
-    "Pau Gasol": {
-        "Player": "Pau Gasol",
+    "Pau Gasol*": {
+        "Player": "Pau Gasol*",
         "Pos": "PF",
         "Age": "31",
         "Tm": "LAL",
@@ -13619,8 +13619,8 @@
         "BPM": "4.1",
         "VORP": "1.6"
     },
-    "Dirk Nowitzki": {
-        "Player": "Dirk Nowitzki",
+    "Dirk Nowitzki*": {
+        "Player": "Dirk Nowitzki*",
         "Pos": "PF",
         "Age": "33",
         "Tm": "DAL",
@@ -14139,8 +14139,8 @@
         "BPM": "-1.7",
         "VORP": "0.1"
     },
-    "Tony Parker": {
-        "Player": "Tony Parker",
+    "Tony Parker*": {
+        "Player": "Tony Parker*",
         "Pos": "PG",
         "Age": "29",
         "Tm": "SAS",
@@ -18211,8 +18211,8 @@
         "BPM": "-2.2",
         "VORP": "0.0"
     },
-    "Dwyane Wade": {
-        "Player": "Dwyane Wade",
+    "Dwyane Wade*": {
+        "Player": "Dwyane Wade*",
         "Pos": "SG",
         "Age": "30",
         "Tm": "MIA",

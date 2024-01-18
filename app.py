@@ -35,7 +35,7 @@ def index():
     text_2 = """
         <br>
         <br>
-        <a href="/all_time">all time</a> rankings (work in progress)
+        <a href="/all_time">all time</a> rankings <i>* -> hof</i>
         <br>
         <br>
         an <a href="https://asboyer.com" target="_blank">@asboyer</a> production

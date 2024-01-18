@@ -25,7 +25,7 @@
         "grade": 72.87,
         "name": "Quincy Acy",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 29,
         "team": "TOR"
     },
@@ -55,7 +55,7 @@
         "grade": 55.32,
         "name": "Jeff Adrien",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 52,
         "team": "CHA"
     },
@@ -85,7 +85,7 @@
         "grade": 69.32,
         "name": "Arron Afflalo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 64,
         "team": "ORL"
     },
@@ -115,7 +115,7 @@
         "grade": 86.85,
         "name": "LaMarcus Aldridge",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "POR"
     },
@@ -145,7 +145,7 @@
         "grade": 60.98,
         "name": "Lavoy Allen",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "PHI"
     },
@@ -175,7 +175,7 @@
         "grade": 80.5,
         "name": "Ray Allen",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "MIA"
     },
@@ -205,7 +205,7 @@
         "grade": 74.3,
         "name": "Tony Allen",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "MEM"
     },
@@ -235,7 +235,7 @@
         "grade": 74.58,
         "name": "Al-Farouq Aminu",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "NOH"
     },
@@ -265,7 +265,7 @@
         "grade": 76.58,
         "name": "Chris Andersen",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 42,
         "team": "MIA"
     },
@@ -295,7 +295,7 @@
         "grade": 64.56,
         "name": "Alan Anderson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "TOR"
     },
@@ -325,7 +325,7 @@
         "grade": 65.57,
         "name": "James Anderson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 39,
         "team": [
             "SAS",
@@ -358,7 +358,7 @@
         "grade": 82.08,
         "name": "Ryan Anderson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "NOH"
     },
@@ -388,7 +388,7 @@
         "grade": 89.1,
         "name": "Carmelo Anthony",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 67,
         "team": "NYK"
     },
@@ -418,7 +418,7 @@
         "grade": 79.0,
         "name": "Trevor Ariza",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "WAS"
     },
@@ -448,7 +448,7 @@
         "grade": 62.34,
         "name": "Darrell Arthur",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "MEM"
     },
@@ -478,7 +478,7 @@
         "grade": 76.43,
         "name": "Ömer Aşık",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "HOU"
     },
@@ -508,7 +508,7 @@
         "grade": 63.82,
         "name": "D.J. Augustin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "IND"
     },
@@ -538,7 +538,7 @@
         "grade": 64.61,
         "name": "Gustavo Ayón",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 55,
         "team": [
             "ORL",
@@ -571,7 +571,7 @@
         "grade": 67.94,
         "name": "Jeff Ayres",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 37,
         "team": "IND"
     },
@@ -601,7 +601,7 @@
         "grade": 54.64,
         "name": "Luke Babbitt",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 62,
         "team": "POR"
     },
@@ -631,7 +631,7 @@
         "grade": 62.8,
         "name": "Leandro Barbosa",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 41,
         "team": "BOS"
     },
@@ -661,7 +661,7 @@
         "grade": 68.59,
         "name": "J.J. Barea",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "MIN"
     },
@@ -691,7 +691,7 @@
         "grade": 62.64,
         "name": "Andrea Bargnani",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 35,
         "team": "TOR"
     },
@@ -721,7 +721,7 @@
         "grade": 68.23,
         "name": "Harrison Barnes",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "GSW"
     },
@@ -751,7 +751,7 @@
         "grade": 84.79,
         "name": "Matt Barnes",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "LAC"
     },
@@ -781,7 +781,7 @@
         "grade": 48.95,
         "name": "Earl Barron",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 12,
         "team": [
             "WAS",
@@ -814,7 +814,7 @@
         "grade": 50.76,
         "name": "Will Barton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "POR"
     },
@@ -844,7 +844,7 @@
         "grade": 72.78,
         "name": "Brandon Bass",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "BOS"
     },
@@ -874,7 +874,7 @@
         "grade": 75.69,
         "name": "Shane Battier",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "MIA"
     },
@@ -904,7 +904,7 @@
         "grade": 87.59,
         "name": "Nicolas Batum",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "POR"
     },
@@ -934,7 +934,7 @@
         "grade": 73.7,
         "name": "Jerryd Bayless",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "MEM"
     },
@@ -964,7 +964,7 @@
         "grade": 75.68,
         "name": "Bradley Beal",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "WAS"
     },
@@ -994,7 +994,7 @@
         "grade": 57.8,
         "name": "Michael Beasley",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "PHO"
     },
@@ -1024,7 +1024,7 @@
         "grade": 53.93,
         "name": "Rodrigue Beaubois",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 45,
         "team": "DAL"
     },
@@ -1054,7 +1054,7 @@
         "grade": 64.77,
         "name": "Marco Belinelli",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "CHI"
     },
@@ -1084,7 +1084,7 @@
         "grade": 77.26,
         "name": "Patrick Beverley",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 41,
         "team": "HOU"
     },
@@ -1114,7 +1114,7 @@
         "grade": 71.38,
         "name": "Chauncey Billups",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 22,
         "team": "LAC"
     },
@@ -1144,7 +1144,7 @@
         "grade": 57.37,
         "name": "Bismack Biyombo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "CHA"
     },
@@ -1174,7 +1174,7 @@
         "grade": 68.45,
         "name": "DeJuan Blair",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "SAS"
     },
@@ -1204,7 +1204,7 @@
         "grade": 72.9,
         "name": "Steve Blake",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 45,
         "team": "LAL"
     },
@@ -1234,7 +1234,7 @@
         "grade": 83.54,
         "name": "Andray Blatche",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "BRK"
     },
@@ -1264,7 +1264,7 @@
         "grade": 81.44,
         "name": "Eric Bledsoe",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "LAC"
     },
@@ -1294,7 +1294,7 @@
         "grade": 59.2,
         "name": "Keith Bogans",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "BRK"
     },
@@ -1324,7 +1324,7 @@
         "grade": 71.85,
         "name": "Andrew Bogut",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 32,
         "team": "GSW"
     },
@@ -1354,7 +1354,7 @@
         "grade": 71.22,
         "name": "Matt Bonner",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 68,
         "team": "SAS"
     },
@@ -1384,7 +1384,7 @@
         "grade": 67.59,
         "name": "Trevor Booker",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 48,
         "team": "WAS"
     },
@@ -1414,7 +1414,7 @@
         "grade": 79.61,
         "name": "Carlos Boozer",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "CHI"
     },
@@ -1444,7 +1444,7 @@
         "grade": 90.25,
         "name": "Chris Bosh",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "MIA"
     },
@@ -1474,7 +1474,7 @@
         "grade": 61.06,
         "name": "Avery Bradley",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 50,
         "team": "BOS"
     },
@@ -1504,7 +1504,7 @@
         "grade": 71.78,
         "name": "Elton Brand",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "DAL"
     },
@@ -1534,7 +1534,7 @@
         "grade": 75.31,
         "name": "Corey Brewer",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "DEN"
     },
@@ -1564,7 +1564,7 @@
         "grade": 55.37,
         "name": "Ronnie Brewer",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 60,
         "team": [
             "NYK",
@@ -1597,7 +1597,7 @@
         "grade": 65.73,
         "name": "Aaron Brooks",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 53,
         "team": [
             "SAC",
@@ -1630,7 +1630,7 @@
         "grade": 63.88,
         "name": "MarShon Brooks",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "BRK"
     },
@@ -1660,7 +1660,7 @@
         "grade": 52.71,
         "name": "Kwame Brown",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 22,
         "team": "PHI"
     },
@@ -1690,7 +1690,7 @@
         "grade": 66.41,
         "name": "Shannon Brown",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "PHO"
     },
@@ -1720,7 +1720,7 @@
         "grade": 91.9,
         "name": "Kobe Bryant",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "LAL"
     },
@@ -1750,7 +1750,7 @@
         "grade": 65.02,
         "name": "Chase Budinger",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 23,
         "team": "MIN"
     },
@@ -1780,7 +1780,7 @@
         "grade": 60.05,
         "name": "Alec Burks",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 64,
         "team": "UTA"
     },
@@ -1810,7 +1810,7 @@
         "grade": 71.52,
         "name": "Caron Butler",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "LAC"
     },
@@ -1840,7 +1840,7 @@
         "grade": 83.54,
         "name": "Jimmy Butler",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "CHI"
     },
@@ -1870,7 +1870,7 @@
         "grade": 70.76,
         "name": "Will Bynum",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "DET"
     },
@@ -1900,7 +1900,7 @@
         "grade": 85.72,
         "name": "José Calderón",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": [
             "TOR",
@@ -1933,7 +1933,7 @@
         "grade": 49.57,
         "name": "Marcus Camby",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 24,
         "team": "NYK"
     },
@@ -1963,7 +1963,7 @@
         "grade": 74.42,
         "name": "DeMarre Carroll",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "UTA"
     },
@@ -1993,7 +1993,7 @@
         "grade": 86.23,
         "name": "Vince Carter",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "DAL"
     },
@@ -2023,7 +2023,7 @@
         "grade": 60.61,
         "name": "Omri Casspi",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 43,
         "team": "CLE"
     },
@@ -2053,7 +2053,7 @@
         "grade": 79.29,
         "name": "Mario Chalmers",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "MIA"
     },
@@ -2083,7 +2083,7 @@
         "grade": 85.05,
         "name": "Tyson Chandler",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "NYK"
     },
@@ -2113,7 +2113,7 @@
         "grade": 81.03,
         "name": "Wilson Chandler",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 43,
         "team": "DEN"
     },
@@ -2143,7 +2143,7 @@
         "grade": 69.9,
         "name": "Earl Clark",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "LAL"
     },
@@ -2173,7 +2173,7 @@
         "grade": 52.45,
         "name": "Victor Claver",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 49,
         "team": "POR"
     },
@@ -2203,7 +2203,7 @@
         "grade": 56.23,
         "name": "Norris Cole",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "MIA"
     },
@@ -2233,7 +2233,7 @@
         "grade": 47.92,
         "name": "Jason Collins",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 38,
         "team": [
             "BOS",
@@ -2266,7 +2266,7 @@
         "grade": 81.85,
         "name": "Darren Collison",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "DAL"
     },
@@ -2296,7 +2296,7 @@
         "grade": 78.91,
         "name": "Nick Collison",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "OKC"
     },
@@ -2326,7 +2326,7 @@
         "grade": 89.21,
         "name": "Mike Conley",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "MEM"
     },
@@ -2356,7 +2356,7 @@
         "grade": 72.6,
         "name": "Chris Copeland",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "NYK"
     },
@@ -2386,7 +2386,7 @@
         "grade": 81.46,
         "name": "DeMarcus Cousins",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "SAC"
     },
@@ -2416,7 +2416,7 @@
         "grade": 82.0,
         "name": "Jamal Crawford",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "LAC"
     },
@@ -2446,7 +2446,7 @@
         "grade": 69.51,
         "name": "Jordan Crawford",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 70,
         "team": [
             "WAS",
@@ -2479,7 +2479,7 @@
         "grade": 61.43,
         "name": "Jae Crowder",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "DAL"
     },
@@ -2509,7 +2509,7 @@
         "grade": 69.68,
         "name": "Dante Cunningham",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "MIN"
     },
@@ -2539,7 +2539,7 @@
         "grade": 92.39,
         "name": "Stephen Curry",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "GSW"
     },
@@ -2569,7 +2569,7 @@
         "grade": 76.34,
         "name": "Samuel Dalembert",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 47,
         "team": "MIL"
     },
@@ -2599,7 +2599,7 @@
         "grade": 56.51,
         "name": "Marquis Daniels",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "MIL"
     },
@@ -2629,7 +2629,7 @@
         "grade": 87.1,
         "name": "Anthony Davis",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 64,
         "team": "NOH"
     },
@@ -2659,7 +2659,7 @@
         "grade": 78.55,
         "name": "Ed Davis",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": [
             "TOR",
@@ -2692,7 +2692,7 @@
         "grade": 68.23,
         "name": "Glen Davis",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 34,
         "team": "ORL"
     },
@@ -2722,7 +2722,7 @@
         "grade": 68.73,
         "name": "Austin Daye",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 55,
         "team": [
             "DET",
@@ -2755,7 +2755,7 @@
         "grade": 65.12,
         "name": "Nando De Colo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "SAS"
     },
@@ -2785,7 +2785,7 @@
         "grade": 77.8,
         "name": "Carlos Delfino",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 67,
         "team": "HOU"
     },
@@ -2815,7 +2815,7 @@
         "grade": 81.33,
         "name": "Luol Deng",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "CHI"
     },
@@ -2845,7 +2845,7 @@
         "grade": 76.18,
         "name": "DeMar DeRozan",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "TOR"
     },
@@ -2875,7 +2875,7 @@
         "grade": 80.02,
         "name": "Boris Diaw",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "SAS"
     },
@@ -2905,7 +2905,7 @@
         "grade": 46.99,
         "name": "DeSagana Diop",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 22,
         "team": "CHA"
     },
@@ -2935,7 +2935,7 @@
         "grade": 70.21,
         "name": "Toney Douglas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 71,
         "team": [
             "HOU",
@@ -2968,7 +2968,7 @@
         "grade": 82.98,
         "name": "Goran Dragić",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "PHO"
     },
@@ -2998,7 +2998,7 @@
         "grade": 85.66,
         "name": "Andre Drummond",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 60,
         "team": "DET"
     },
@@ -3028,7 +3028,7 @@
         "grade": 80.17,
         "name": "Jared Dudley",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "PHO"
     },
@@ -3058,7 +3058,7 @@
         "grade": 56.04,
         "name": "Chris Duhon",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 46,
         "team": "LAL"
     },
@@ -3088,7 +3088,7 @@
         "grade": 92.21,
         "name": "Tim Duncan",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "SAS"
     },
@@ -3118,7 +3118,7 @@
         "grade": 78.97,
         "name": "Mike Dunleavy",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "MIL"
     },
@@ -3148,7 +3148,7 @@
         "grade": 99.47,
         "name": "Kevin Durant",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "OKC"
     },
@@ -3178,7 +3178,7 @@
         "grade": 47.26,
         "name": "Devin Ebanks",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 19,
         "team": "LAL"
     },
@@ -3208,7 +3208,7 @@
         "grade": 71.01,
         "name": "Wayne Ellington",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": [
             "MEM",
@@ -3241,7 +3241,7 @@
         "grade": 79.71,
         "name": "Monta Ellis",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "MIL"
     },
@@ -3271,7 +3271,7 @@
         "grade": 67.08,
         "name": "Reggie Evans",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "BRK"
     },
@@ -3301,7 +3301,7 @@
         "grade": 84.31,
         "name": "Tyreke Evans",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "SAC"
     },
@@ -3331,7 +3331,7 @@
         "grade": 55.49,
         "name": "Festus Ezeli",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "GSW"
     },
@@ -3361,7 +3361,7 @@
         "grade": 85.19,
         "name": "Kenneth Faried",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "DEN"
     },
@@ -3391,7 +3391,7 @@
         "grade": 77.72,
         "name": "Derrick Favors",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "UTA"
     },
@@ -3421,7 +3421,7 @@
         "grade": 77.26,
         "name": "Raymond Felton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 68,
         "team": "NYK"
     },
@@ -3451,7 +3451,7 @@
         "grade": 61.03,
         "name": "Landry Fields",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 51,
         "team": "TOR"
     },
@@ -3481,7 +3481,7 @@
         "grade": 55.93,
         "name": "Derek Fisher",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 33,
         "team": [
             "DAL",
@@ -3514,7 +3514,7 @@
         "grade": 68.86,
         "name": "Evan Fournier",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 38,
         "team": "DEN"
     },
@@ -3544,7 +3544,7 @@
         "grade": 72.1,
         "name": "Randy Foye",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "UTA"
     },
@@ -3574,7 +3574,7 @@
         "grade": 65.03,
         "name": "Jimmer Fredette",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "SAC"
     },
@@ -3604,7 +3604,7 @@
         "grade": 74.21,
         "name": "Enes Freedom",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 70,
         "team": "UTA"
     },
@@ -3634,7 +3634,7 @@
         "grade": 85.56,
         "name": "Danilo Gallinari",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 71,
         "team": "DEN"
     },
@@ -3664,7 +3664,7 @@
         "grade": 67.28,
         "name": "Francisco García",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 58,
         "team": [
             "SAC",
@@ -3697,7 +3697,7 @@
         "grade": 87.49,
         "name": "Kevin Garnett",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 68,
         "team": "BOS"
     },
@@ -3727,7 +3727,7 @@
         "grade": 91.98,
         "name": "Marc Gasol",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "MEM"
     },
@@ -3757,7 +3757,7 @@
         "grade": 81.0,
         "name": "Pau Gasol",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 49,
         "team": "LAL"
     },
@@ -3787,7 +3787,7 @@
         "grade": 80.14,
         "name": "Rudy Gay",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": [
             "MEM",
@@ -3820,7 +3820,7 @@
         "grade": 66.11,
         "name": "Alonzo Gee",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "CLE"
     },
@@ -3850,7 +3850,7 @@
         "grade": 70.47,
         "name": "Mickaël Gelabale",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 36,
         "team": "MIN"
     },
@@ -3880,7 +3880,7 @@
         "grade": 89.1,
         "name": "Paul George",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "IND"
     },
@@ -3910,7 +3910,7 @@
         "grade": 53.69,
         "name": "Daniel Gibson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 46,
         "team": "CLE"
     },
@@ -3940,7 +3940,7 @@
         "grade": 71.86,
         "name": "Taj Gibson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "CHI"
     },
@@ -3970,7 +3970,7 @@
         "grade": 84.82,
         "name": "Manu Ginóbili",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 60,
         "team": "SAS"
     },
@@ -4000,7 +4000,7 @@
         "grade": 61.39,
         "name": "Ben Gordon",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "CHA"
     },
@@ -4030,7 +4030,7 @@
         "grade": 69.24,
         "name": "Eric Gordon",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 42,
         "team": "NOH"
     },
@@ -4060,7 +4060,7 @@
         "grade": 77.65,
         "name": "Marcin Gortat",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "PHO"
     },
@@ -4090,7 +4090,7 @@
         "grade": 56.98,
         "name": "Aaron Gray",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 42,
         "team": "TOR"
     },
@@ -4120,7 +4120,7 @@
         "grade": 86.3,
         "name": "Danny Green",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "SAS"
     },
@@ -4150,7 +4150,7 @@
         "grade": 54.22,
         "name": "Draymond Green",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "GSW"
     },
@@ -4180,7 +4180,7 @@
         "grade": 59.45,
         "name": "Gerald Green",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 60,
         "team": "IND"
     },
@@ -4210,7 +4210,7 @@
         "grade": 81.67,
         "name": "Jeff Green",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "BOS"
     },
@@ -4240,7 +4240,7 @@
         "grade": 68.76,
         "name": "Willie Green",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "LAC"
     },
@@ -4270,7 +4270,7 @@
         "grade": 92.34,
         "name": "Blake Griffin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "LAC"
     },
@@ -4300,7 +4300,7 @@
         "grade": 51.91,
         "name": "Hamed Haddadi",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 30,
         "team": [
             "MEM",
@@ -4333,7 +4333,7 @@
         "grade": 59.36,
         "name": "Richard Hamilton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 50,
         "team": "CHI"
     },
@@ -4363,7 +4363,7 @@
         "grade": 65.96,
         "name": "Tyler Hansbrough",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "IND"
     },
@@ -4393,7 +4393,7 @@
         "grade": 93.34,
         "name": "James Harden",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "HOU"
     },
@@ -4423,7 +4423,7 @@
         "grade": 70.15,
         "name": "Maurice Harkless",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "ORL"
     },
@@ -4453,7 +4453,7 @@
         "grade": 52.79,
         "name": "Al Harrington",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 10,
         "team": "ORL"
     },
@@ -4483,7 +4483,7 @@
         "grade": 77.38,
         "name": "Devin Harris",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 58,
         "team": "ATL"
     },
@@ -4513,7 +4513,7 @@
         "grade": 74.77,
         "name": "Tobias Harris",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 55,
         "team": [
             "MIL",
@@ -4546,7 +4546,7 @@
         "grade": 64.5,
         "name": "Udonis Haslem",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "MIA"
     },
@@ -4576,7 +4576,7 @@
         "grade": 78.37,
         "name": "Spencer Hawes",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "PHI"
     },
@@ -4606,7 +4606,7 @@
         "grade": 58.32,
         "name": "Chuck Hayes",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "SAC"
     },
@@ -4636,7 +4636,7 @@
         "grade": 83.02,
         "name": "Gordon Hayward",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "UTA"
     },
@@ -4666,7 +4666,7 @@
         "grade": 50.98,
         "name": "Brendan Haywood",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "CHA"
     },
@@ -4696,7 +4696,7 @@
         "grade": 75.84,
         "name": "Gerald Henderson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 68,
         "team": "CHA"
     },
@@ -4726,7 +4726,7 @@
         "grade": 48.96,
         "name": "Xavier Henry",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 50,
         "team": "NOH"
     },
@@ -4756,7 +4756,7 @@
         "grade": 66.31,
         "name": "John Henson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 63,
         "team": "MIL"
     },
@@ -4786,7 +4786,7 @@
         "grade": 77.77,
         "name": "Roy Hibbert",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "IND"
     },
@@ -4816,7 +4816,7 @@
         "grade": 83.22,
         "name": "J.J. Hickson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "POR"
     },
@@ -4846,7 +4846,7 @@
         "grade": 81.42,
         "name": "Nenê",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "WAS"
     },
@@ -4876,7 +4876,7 @@
         "grade": 88.89,
         "name": "George Hill",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "IND"
     },
@@ -4906,7 +4906,7 @@
         "grade": 48.71,
         "name": "Grant Hill",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 29,
         "team": "LAC"
     },
@@ -4936,7 +4936,7 @@
         "grade": 68.17,
         "name": "Jordan Hill",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 29,
         "team": "LAL"
     },
@@ -4966,7 +4966,7 @@
         "grade": 69.64,
         "name": "Kirk Hinrich",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 60,
         "team": "CHI"
     },
@@ -4996,7 +4996,7 @@
         "grade": 79.34,
         "name": "Jrue Holiday",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "PHI"
     },
@@ -5026,7 +5026,7 @@
         "grade": 64.92,
         "name": "Ryan Hollins",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 60,
         "team": "LAC"
     },
@@ -5056,7 +5056,7 @@
         "grade": 92.67,
         "name": "Al Horford",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "ATL"
     },
@@ -5086,7 +5086,7 @@
         "grade": 88.53,
         "name": "Dwight Howard",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "LAL"
     },
@@ -5116,7 +5116,7 @@
         "grade": 56.27,
         "name": "Josh Howard",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 11,
         "team": "MIN"
     },
@@ -5146,7 +5146,7 @@
         "grade": 63.34,
         "name": "Kris Humphries",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "BRK"
     },
@@ -5176,7 +5176,7 @@
         "grade": 88.3,
         "name": "Serge Ibaka",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "OKC"
     },
@@ -5206,7 +5206,7 @@
         "grade": 84.54,
         "name": "Andre Iguodala",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "DEN"
     },
@@ -5236,7 +5236,7 @@
         "grade": 86.9,
         "name": "Ersan İlyasova",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "MIL"
     },
@@ -5266,7 +5266,7 @@
         "grade": 87.98,
         "name": "Kyrie Irving",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "CLE"
     },
@@ -5296,7 +5296,7 @@
         "grade": 59.0,
         "name": "Royal Ivey",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 53,
         "team": "PHI"
     },
@@ -5326,7 +5326,7 @@
         "grade": 81.11,
         "name": "Jarrett Jack",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "GSW"
     },
@@ -5356,7 +5356,7 @@
         "grade": 71.99,
         "name": "Reggie Jackson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 70,
         "team": "OKC"
     },
@@ -5386,7 +5386,7 @@
         "grade": 58.42,
         "name": "Stephen Jackson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 55,
         "team": "SAS"
     },
@@ -5416,7 +5416,7 @@
         "grade": 99.07,
         "name": "LeBron James",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "MIA"
     },
@@ -5446,7 +5446,7 @@
         "grade": 57.29,
         "name": "Mike James",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 45,
         "team": "DAL"
     },
@@ -5476,7 +5476,7 @@
         "grade": 75.95,
         "name": "Antawn Jamison",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "LAL"
     },
@@ -5506,7 +5506,7 @@
         "grade": 88.25,
         "name": "Al Jefferson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "UTA"
     },
@@ -5536,7 +5536,7 @@
         "grade": 61.19,
         "name": "Richard Jefferson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "GSW"
     },
@@ -5566,7 +5566,7 @@
         "grade": 68.76,
         "name": "John Jenkins",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "ATL"
     },
@@ -5596,7 +5596,7 @@
         "grade": 80.14,
         "name": "Brandon Jennings",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "MIL"
     },
@@ -5626,7 +5626,7 @@
         "grade": 71.76,
         "name": "Jonas Jerebko",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 49,
         "team": "DET"
     },
@@ -5656,7 +5656,7 @@
         "grade": 87.94,
         "name": "Amir Johnson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "TOR"
     },
@@ -5686,7 +5686,7 @@
         "grade": 71.11,
         "name": "Ivan Johnson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "ATL"
     },
@@ -5716,7 +5716,7 @@
         "grade": 56.32,
         "name": "James Johnson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 54,
         "team": "SAC"
     },
@@ -5746,7 +5746,7 @@
         "grade": 77.72,
         "name": "Joe Johnson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "BRK"
     },
@@ -5776,7 +5776,7 @@
         "grade": 63.98,
         "name": "Orlando Johnson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 51,
         "team": "IND"
     },
@@ -5806,7 +5806,7 @@
         "grade": 58.24,
         "name": "Wesley Johnson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 50,
         "team": "PHO"
     },
@@ -5836,7 +5836,7 @@
         "grade": 49.29,
         "name": "Dahntay Jones",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": [
             "DAL",
@@ -5869,7 +5869,7 @@
         "grade": 51.76,
         "name": "DeQuan Jones",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 63,
         "team": "ORL"
     },
@@ -5899,7 +5899,7 @@
         "grade": 52.78,
         "name": "Dominique Jones",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 29,
         "team": "DAL"
     },
@@ -5929,7 +5929,7 @@
         "grade": 48.88,
         "name": "Kevin Jones",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 32,
         "team": "CLE"
     },
@@ -5959,7 +5959,7 @@
         "grade": 71.38,
         "name": "Terrence Jones",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 19,
         "team": "HOU"
     },
@@ -5989,7 +5989,7 @@
         "grade": 80.12,
         "name": "DeAndre Jordan",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "LAC"
     },
@@ -6019,7 +6019,7 @@
         "grade": 67.32,
         "name": "Cory Joseph",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 28,
         "team": "SAS"
     },
@@ -6049,7 +6049,7 @@
         "grade": 70.7,
         "name": "Chris Kaman",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "DAL"
     },
@@ -6079,7 +6079,7 @@
         "grade": 80.06,
         "name": "Jason Kidd",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "NYK"
     },
@@ -6109,7 +6109,7 @@
         "grade": 67.68,
         "name": "Michael Kidd-Gilchrist",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "CHA"
     },
@@ -6139,7 +6139,7 @@
         "grade": 89.5,
         "name": "Andrei Kirilenko",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 64,
         "team": "MIN"
     },
@@ -6169,7 +6169,7 @@
         "grade": 52.92,
         "name": "Linas Kleiza",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 20,
         "team": "TOR"
     },
@@ -6199,7 +6199,7 @@
         "grade": 65.34,
         "name": "Brandon Knight",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "DET"
     },
@@ -6229,7 +6229,7 @@
         "grade": 86.38,
         "name": "Kyle Korver",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "ATL"
     },
@@ -6259,7 +6259,7 @@
         "grade": 80.47,
         "name": "Kosta Koufos",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "DEN"
     },
@@ -6289,7 +6289,7 @@
         "grade": 46.31,
         "name": "Doron Lamb",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 47,
         "team": [
             "MIL",
@@ -6322,7 +6322,7 @@
         "grade": 81.89,
         "name": "Carl Landry",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "GSW"
     },
@@ -6352,7 +6352,7 @@
         "grade": 85.41,
         "name": "Ty Lawson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "DEN"
     },
@@ -6382,7 +6382,7 @@
         "grade": 76.29,
         "name": "Courtney Lee",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "BOS"
     },
@@ -6412,7 +6412,7 @@
         "grade": 89.33,
         "name": "David Lee",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "GSW"
     },
@@ -6442,7 +6442,7 @@
         "grade": 58.43,
         "name": "Malcolm Lee",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 16,
         "team": "MIN"
     },
@@ -6472,7 +6472,7 @@
         "grade": 89.96,
         "name": "Kawhi Leonard",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 58,
         "team": "SAS"
     },
@@ -6502,7 +6502,7 @@
         "grade": 69.67,
         "name": "Meyers Leonard",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "POR"
     },
@@ -6532,7 +6532,7 @@
         "grade": 60.92,
         "name": "Rashard Lewis",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 55,
         "team": "MIA"
     },
@@ -6562,7 +6562,7 @@
         "grade": 81.69,
         "name": "Damian Lillard",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "POR"
     },
@@ -6592,7 +6592,7 @@
         "grade": 81.88,
         "name": "Jeremy Lin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "HOU"
     },
@@ -6622,7 +6622,7 @@
         "grade": 71.47,
         "name": "Shaun Livingston",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": [
             "WAS",
@@ -6655,7 +6655,7 @@
         "grade": 88.1,
         "name": "Brook Lopez",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 74,
         "team": "BRK"
     },
@@ -6685,7 +6685,7 @@
         "grade": 81.54,
         "name": "Robin Lopez",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "NOH"
     },
@@ -6715,7 +6715,7 @@
         "grade": 71.05,
         "name": "Kevin Love",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 18,
         "team": "MIN"
     },
@@ -6745,7 +6745,7 @@
         "grade": 83.82,
         "name": "Kyle Lowry",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 68,
         "team": "TOR"
     },
@@ -6775,7 +6775,7 @@
         "grade": 60.25,
         "name": "John Lucas III",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 63,
         "team": "TOR"
     },
@@ -6805,7 +6805,7 @@
         "grade": 62.18,
         "name": "Shelvin Mack",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 31,
         "team": [
             "WAS",
@@ -6839,7 +6839,7 @@
         "grade": 51.14,
         "name": "Corey Maggette",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 18,
         "team": "DET"
     },
@@ -6869,7 +6869,7 @@
         "grade": 61.6,
         "name": "Ian Mahinmi",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "IND"
     },
@@ -6899,7 +6899,7 @@
         "grade": 87.41,
         "name": "Shawn Marion",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 67,
         "team": "DAL"
     },
@@ -6929,7 +6929,7 @@
         "grade": 49.33,
         "name": "Kendall Marshall",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 48,
         "team": "PHO"
     },
@@ -6959,7 +6959,7 @@
         "grade": 59.17,
         "name": "Cartier Martin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 41,
         "team": "WAS"
     },
@@ -6989,7 +6989,7 @@
         "grade": 72.52,
         "name": "Kenyon Martin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 18,
         "team": "NYK"
     },
@@ -7019,7 +7019,7 @@
         "grade": 83.67,
         "name": "Kevin Martin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "OKC"
     },
@@ -7049,7 +7049,7 @@
         "grade": 65.54,
         "name": "Roger Mason",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "NOH"
     },
@@ -7079,7 +7079,7 @@
         "grade": 81.63,
         "name": "Wesley Matthews",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "POR"
     },
@@ -7109,7 +7109,7 @@
         "grade": 61.47,
         "name": "Jason Maxiell",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "DET"
     },
@@ -7139,7 +7139,7 @@
         "grade": 51.94,
         "name": "Eric Maynor",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 64,
         "team": [
             "OKC",
@@ -7172,7 +7172,7 @@
         "grade": 80.86,
         "name": "O.J. Mayo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "DAL"
     },
@@ -7202,7 +7202,7 @@
         "grade": 56.33,
         "name": "Luc Mbah a Moute",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 58,
         "team": "MIL"
     },
@@ -7232,7 +7232,7 @@
         "grade": 84.03,
         "name": "JaVale McGee",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "DEN"
     },
@@ -7262,7 +7262,7 @@
         "grade": 53.94,
         "name": "Dominic McGuire",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 26,
         "team": [
             "TOR",
@@ -7296,7 +7296,7 @@
         "grade": 69.22,
         "name": "Josh McRoberts",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 67,
         "team": [
             "ORL",
@@ -7329,7 +7329,7 @@
         "grade": 68.7,
         "name": "Jodie Meeks",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "LAL"
     },
@@ -7359,7 +7359,7 @@
         "grade": 64.02,
         "name": "Khris Middleton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 27,
         "team": "DET"
     },
@@ -7389,7 +7389,7 @@
         "grade": 76.3,
         "name": "C.J. Miles",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "CLE"
     },
@@ -7419,7 +7419,7 @@
         "grade": 80.02,
         "name": "Andre Miller",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "DEN"
     },
@@ -7449,7 +7449,7 @@
         "grade": 58.42,
         "name": "Darius Miller",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 52,
         "team": "NOH"
     },
@@ -7479,7 +7479,7 @@
         "grade": 73.3,
         "name": "Mike Miller",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "MIA"
     },
@@ -7509,7 +7509,7 @@
         "grade": 72.58,
         "name": "Patty Mills",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 58,
         "team": "SAS"
     },
@@ -7539,7 +7539,7 @@
         "grade": 89.61,
         "name": "Paul Millsap",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "UTA"
     },
@@ -7569,7 +7569,7 @@
         "grade": 54.1,
         "name": "Nazr Mohammed",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 63,
         "team": "CHI"
     },
@@ -7599,7 +7599,7 @@
         "grade": 85.55,
         "name": "Greg Monroe",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "DET"
     },
@@ -7629,7 +7629,7 @@
         "grade": 61.06,
         "name": "E'Twaun Moore",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "ORL"
     },
@@ -7659,7 +7659,7 @@
         "grade": 51.75,
         "name": "Darius Morris",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 48,
         "team": "LAL"
     },
@@ -7689,7 +7689,7 @@
         "grade": 65.14,
         "name": "Marcus Morris",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": [
             "HOU",
@@ -7722,7 +7722,7 @@
         "grade": 66.05,
         "name": "Markieff Morris",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "PHO"
     },
@@ -7752,7 +7752,7 @@
         "grade": 60.49,
         "name": "Donatas Motiejūnas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 44,
         "team": "HOU"
     },
@@ -7782,7 +7782,7 @@
         "grade": 67.83,
         "name": "Arnett Moultrie",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 47,
         "team": "PHI"
     },
@@ -7812,7 +7812,7 @@
         "grade": 60.73,
         "name": "Byron Mullens",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 53,
         "team": "CHA"
     },
@@ -7842,7 +7842,7 @@
         "grade": 59.83,
         "name": "Troy Murphy",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 14,
         "team": "DAL"
     },
@@ -7872,7 +7872,7 @@
         "grade": 82.42,
         "name": "Steve Nash",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 50,
         "team": "LAL"
     },
@@ -7902,7 +7902,7 @@
         "grade": 65.69,
         "name": "Gary Neal",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 68,
         "team": "SAS"
     },
@@ -7932,7 +7932,7 @@
         "grade": 72.64,
         "name": "Jameer Nelson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "ORL"
     },
@@ -7962,7 +7962,7 @@
         "grade": 68.13,
         "name": "Andrew Nicholson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "ORL"
     },
@@ -7992,7 +7992,7 @@
         "grade": 87.08,
         "name": "Joakim Noah",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "CHI"
     },
@@ -8022,7 +8022,7 @@
         "grade": 70.01,
         "name": "Steve Novak",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "NYK"
     },
@@ -8052,7 +8052,7 @@
         "grade": 89.44,
         "name": "Dirk Nowitzki",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 53,
         "team": "DAL"
     },
@@ -8082,7 +8082,7 @@
         "grade": 72.48,
         "name": "Jermaine O'Neal",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 55,
         "team": "PHO"
     },
@@ -8112,7 +8112,7 @@
         "grade": 66.93,
         "name": "Kyle O'Quinn",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 57,
         "team": "ORL"
     },
@@ -8142,7 +8142,7 @@
         "grade": 65.49,
         "name": "Lamar Odom",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "LAC"
     },
@@ -8172,7 +8172,7 @@
         "grade": 74.52,
         "name": "Emeka Okafor",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "WAS"
     },
@@ -8202,7 +8202,7 @@
         "grade": 57.47,
         "name": "Travis Outlaw",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 38,
         "team": "SAC"
     },
@@ -8232,7 +8232,7 @@
         "grade": 69.64,
         "name": "Zaza Pachulia",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 52,
         "team": "ATL"
     },
@@ -8262,7 +8262,7 @@
         "grade": 56.67,
         "name": "Jannero Pargo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 32,
         "team": [
             "WAS",
@@ -8296,7 +8296,7 @@
         "grade": 55.0,
         "name": "Jeremy Pargo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 39,
         "team": [
             "CLE",
@@ -8329,7 +8329,7 @@
         "grade": 90.42,
         "name": "Tony Parker",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "SAS"
     },
@@ -8359,7 +8359,7 @@
         "grade": 88.32,
         "name": "Chandler Parsons",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "HOU"
     },
@@ -8389,7 +8389,7 @@
         "grade": 79.2,
         "name": "Patrick Patterson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 71,
         "team": [
             "HOU",
@@ -8422,7 +8422,7 @@
         "grade": 93.49,
         "name": "Chris Paul",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 70,
         "team": "LAC"
     },
@@ -8452,7 +8452,7 @@
         "grade": 50.69,
         "name": "Sasha Pavlović",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 39,
         "team": "POR"
     },
@@ -8482,7 +8482,7 @@
         "grade": 84.87,
         "name": "Nikola Peković",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 62,
         "team": "MIN"
     },
@@ -8512,7 +8512,7 @@
         "grade": 65.07,
         "name": "Kendrick Perkins",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "OKC"
     },
@@ -8542,7 +8542,7 @@
         "grade": 56.66,
         "name": "Johan Petro",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 31,
         "team": "ATL"
     },
@@ -8572,7 +8572,7 @@
         "grade": 89.93,
         "name": "Paul Pierce",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "BOS"
     },
@@ -8602,7 +8602,7 @@
         "grade": 51.84,
         "name": "Mickaël Piétrus",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 19,
         "team": "TOR"
     },
@@ -8632,7 +8632,7 @@
         "grade": 71.95,
         "name": "Quincy Pondexter",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "MEM"
     },
@@ -8662,7 +8662,7 @@
         "grade": 67.25,
         "name": "A.J. Price",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 57,
         "team": "WAS"
     },
@@ -8692,7 +8692,7 @@
         "grade": 50.36,
         "name": "Ronnie Price",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 39,
         "team": "POR"
     },
@@ -8722,7 +8722,7 @@
         "grade": 75.98,
         "name": "Pablo Prigioni",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "NYK"
     },
@@ -8752,7 +8752,7 @@
         "grade": 71.66,
         "name": "Tayshaun Prince",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": [
             "DET",
@@ -8785,7 +8785,7 @@
         "grade": 65.82,
         "name": "Shavlik Randolph",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 16,
         "team": "BOS"
     },
@@ -8815,7 +8815,7 @@
         "grade": 81.4,
         "name": "Zach Randolph",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "MEM"
     },
@@ -8845,7 +8845,7 @@
         "grade": 77.82,
         "name": "J.J. Redick",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": [
             "ORL",
@@ -8878,7 +8878,7 @@
         "grade": 70.27,
         "name": "Jason Richardson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 33,
         "team": "PHI"
     },
@@ -8908,7 +8908,7 @@
         "grade": 77.11,
         "name": "Luke Ridnour",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "MIN"
     },
@@ -8938,7 +8938,7 @@
         "grade": 50.22,
         "name": "Austin Rivers",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "NOH"
     },
@@ -8968,7 +8968,7 @@
         "grade": 67.6,
         "name": "Brian Roberts",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "NOH"
     },
@@ -8998,7 +8998,7 @@
         "grade": 83.73,
         "name": "Nate Robinson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "CHI"
     },
@@ -9028,7 +9028,7 @@
         "grade": 54.09,
         "name": "Thomas Robinson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 70,
         "team": [
             "SAC",
@@ -9061,7 +9061,7 @@
         "grade": 82.91,
         "name": "Rajon Rondo",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 38,
         "team": "BOS"
     },
@@ -9091,7 +9091,7 @@
         "grade": 59.67,
         "name": "Terrence Ross",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "TOR"
     },
@@ -9121,7 +9121,7 @@
         "grade": 74.41,
         "name": "Ricky Rubio",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 57,
         "team": "MIN"
     },
@@ -9151,7 +9151,7 @@
         "grade": 63.75,
         "name": "John Salmons",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "SAC"
     },
@@ -9181,7 +9181,7 @@
         "grade": 46.34,
         "name": "Samardo Samuels",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 18,
         "team": "CLE"
     },
@@ -9211,7 +9211,7 @@
         "grade": 81.92,
         "name": "Larry Sanders",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 71,
         "team": "MIL"
     },
@@ -9241,7 +9241,7 @@
         "grade": 78.22,
         "name": "Luis Scola",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "PHO"
     },
@@ -9271,7 +9271,7 @@
         "grade": 86.66,
         "name": "Thabo Sefolosha",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "OKC"
     },
@@ -9301,7 +9301,7 @@
         "grade": 60.34,
         "name": "Kevin Séraphin",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "WAS"
     },
@@ -9331,7 +9331,7 @@
         "grade": 72.5,
         "name": "Ramon Sessions",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "CHA"
     },
@@ -9361,7 +9361,7 @@
         "grade": 69.53,
         "name": "Iman Shumpert",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 45,
         "team": "NYK"
     },
@@ -9391,7 +9391,7 @@
         "grade": 62.77,
         "name": "Alexey Shved",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "MIN"
     },
@@ -9421,7 +9421,7 @@
         "grade": 66.46,
         "name": "Kyle Singler",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "DET"
     },
@@ -9451,7 +9451,7 @@
         "grade": 54.9,
         "name": "Chris Singleton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 57,
         "team": "WAS"
     },
@@ -9481,7 +9481,7 @@
         "grade": 52.33,
         "name": "Donald Sloan",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 23,
         "team": [
             "CLE",
@@ -9514,7 +9514,7 @@
         "grade": 75.04,
         "name": "Greg Smith",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 70,
         "team": "HOU"
     },
@@ -9544,7 +9544,7 @@
         "grade": 84.05,
         "name": "J.R. Smith",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "NYK"
     },
@@ -9574,7 +9574,7 @@
         "grade": 71.22,
         "name": "Jason Smith",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 51,
         "team": "NOH"
     },
@@ -9604,7 +9604,7 @@
         "grade": 83.74,
         "name": "Josh Smith",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "ATL"
     },
@@ -9634,7 +9634,7 @@
         "grade": 67.82,
         "name": "Marreese Speights",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": [
             "MEM",
@@ -9667,7 +9667,7 @@
         "grade": 87.6,
         "name": "Tiago Splitter",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 81,
         "team": "SAS"
     },
@@ -9697,7 +9697,7 @@
         "grade": 55.48,
         "name": "Jerry Stackhouse",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 37,
         "team": "BRK"
     },
@@ -9727,7 +9727,7 @@
         "grade": 78.05,
         "name": "Lance Stephenson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "IND"
     },
@@ -9757,7 +9757,7 @@
         "grade": 59.06,
         "name": "DeShawn Stevenson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "ATL"
     },
@@ -9787,7 +9787,7 @@
         "grade": 62.46,
         "name": "Greg Stiemsma",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "MIN"
     },
@@ -9817,7 +9817,7 @@
         "grade": 81.1,
         "name": "Amar'e Stoudemire",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 29,
         "team": "NYK"
     },
@@ -9847,7 +9847,7 @@
         "grade": 67.72,
         "name": "Rodney Stuckey",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "DET"
     },
@@ -9877,7 +9877,7 @@
         "grade": 71.01,
         "name": "Jared Sullinger",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 45,
         "team": "BOS"
     },
@@ -9907,7 +9907,7 @@
         "grade": 60.37,
         "name": "Jeff Taylor",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "CHA"
     },
@@ -9937,7 +9937,7 @@
         "grade": 84.57,
         "name": "Jeff Teague",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "ATL"
     },
@@ -9967,7 +9967,7 @@
         "grade": 60.4,
         "name": "Sebastian Telfair",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": [
             "PHO",
@@ -10000,7 +10000,7 @@
         "grade": 62.17,
         "name": "Garrett Temple",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 51,
         "team": "WAS"
     },
@@ -10030,7 +10030,7 @@
         "grade": 77.35,
         "name": "Jason Terry",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "BOS"
     },
@@ -10060,7 +10060,7 @@
         "grade": 69.49,
         "name": "Hasheem Thabeet",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "OKC"
     },
@@ -10090,7 +10090,7 @@
         "grade": 79.45,
         "name": "Isaiah Thomas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "SAC"
     },
@@ -10120,7 +10120,7 @@
         "grade": 68.32,
         "name": "Kurt Thomas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 39,
         "team": "NYK"
     },
@@ -10150,7 +10150,7 @@
         "grade": 58.4,
         "name": "Lance Thomas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "NOH"
     },
@@ -10180,7 +10180,7 @@
         "grade": 54.34,
         "name": "Tyrus Thomas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 26,
         "team": "CHA"
     },
@@ -10210,7 +10210,7 @@
         "grade": 71.96,
         "name": "Jason Thompson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "SAC"
     },
@@ -10240,7 +10240,7 @@
         "grade": 79.89,
         "name": "Klay Thompson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "GSW"
     },
@@ -10270,7 +10270,7 @@
         "grade": 75.45,
         "name": "Tristan Thompson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "CLE"
     },
@@ -10300,7 +10300,7 @@
         "grade": 76.55,
         "name": "Marcus Thornton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 72,
         "team": "SAC"
     },
@@ -10330,7 +10330,7 @@
         "grade": 60.01,
         "name": "Jamaal Tinsley",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": "UTA"
     },
@@ -10360,7 +10360,7 @@
         "grade": 58.58,
         "name": "Anthony Tolliver",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 62,
         "team": "ATL"
     },
@@ -10390,7 +10390,7 @@
         "grade": 70.43,
         "name": "P.J. Tucker",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "PHO"
     },
@@ -10420,7 +10420,7 @@
         "grade": 60.56,
         "name": "Ronny Turiaf",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 65,
         "team": "LAC"
     },
@@ -10450,7 +10450,7 @@
         "grade": 49.98,
         "name": "Hedo Türkoğlu",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 11,
         "team": "ORL"
     },
@@ -10480,7 +10480,7 @@
         "grade": 69.0,
         "name": "Evan Turner",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "PHI"
     },
@@ -10510,7 +10510,7 @@
         "grade": 64.35,
         "name": "Ekpe Udoh",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "MIL"
     },
@@ -10540,7 +10540,7 @@
         "grade": 68.76,
         "name": "Beno Udrih",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 66,
         "team": [
             "MIL",
@@ -10573,7 +10573,7 @@
         "grade": 77.97,
         "name": "Jonas Valančiūnas",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 62,
         "team": "TOR"
     },
@@ -10603,7 +10603,7 @@
         "grade": 84.07,
         "name": "Anderson Varejão",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 25,
         "team": "CLE"
     },
@@ -10633,7 +10633,7 @@
         "grade": 76.29,
         "name": "Greivis Vásquez",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "NOH"
     },
@@ -10663,7 +10663,7 @@
         "grade": 56.8,
         "name": "Jan Veselý",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 51,
         "team": "WAS"
     },
@@ -10693,7 +10693,7 @@
         "grade": 65.38,
         "name": "Charlie Villanueva",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "DET"
     },
@@ -10723,7 +10723,7 @@
         "grade": 82.28,
         "name": "Nikola Vučević",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "ORL"
     },
@@ -10753,7 +10753,7 @@
         "grade": 93.32,
         "name": "Dwyane Wade",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "MIA"
     },
@@ -10783,7 +10783,7 @@
         "grade": 66.75,
         "name": "Dion Waiters",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "CLE"
     },
@@ -10813,7 +10813,7 @@
         "grade": 81.68,
         "name": "Kemba Walker",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "CHA"
     },
@@ -10843,7 +10843,7 @@
         "grade": 85.96,
         "name": "John Wall",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 49,
         "team": "WAS"
     },
@@ -10873,7 +10873,7 @@
         "grade": 72.54,
         "name": "Gerald Wallace",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 69,
         "team": "BRK"
     },
@@ -10903,7 +10903,7 @@
         "grade": 65.9,
         "name": "Rasheed Wallace",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 21,
         "team": "NYK"
     },
@@ -10933,7 +10933,7 @@
         "grade": 60.8,
         "name": "Luke Walton",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 50,
         "team": "CLE"
     },
@@ -10963,7 +10963,7 @@
         "grade": 54.55,
         "name": "Hakim Warrick",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 28,
         "team": [
             "NOH",
@@ -10996,7 +10996,7 @@
         "grade": 74.75,
         "name": "C.J. Watson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 80,
         "team": "BRK"
     },
@@ -11026,7 +11026,7 @@
         "grade": 53.15,
         "name": "Earl Watson",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 48,
         "team": "UTA"
     },
@@ -11056,7 +11056,7 @@
         "grade": 83.0,
         "name": "Martell Webster",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "WAS"
     },
@@ -11086,7 +11086,7 @@
         "grade": 91.32,
         "name": "David West",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "IND"
     },
@@ -11116,7 +11116,7 @@
         "grade": 89.42,
         "name": "Russell Westbrook",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 82,
         "team": "OKC"
     },
@@ -11146,7 +11146,7 @@
         "grade": 74.69,
         "name": "Chris Wilcox",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "BOS"
     },
@@ -11176,7 +11176,7 @@
         "grade": 66.8,
         "name": "Damien Wilkins",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 61,
         "team": "PHI"
     },
@@ -11206,7 +11206,7 @@
         "grade": 90.18,
         "name": "Deron Williams",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "BRK"
     },
@@ -11236,7 +11236,7 @@
         "grade": 71.3,
         "name": "Derrick Williams",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 78,
         "team": "MIN"
     },
@@ -11266,7 +11266,7 @@
         "grade": 79.77,
         "name": "Lou Williams",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 39,
         "team": "ATL"
     },
@@ -11296,7 +11296,7 @@
         "grade": 68.1,
         "name": "Marvin Williams",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 73,
         "team": "UTA"
     },
@@ -11326,7 +11326,7 @@
         "grade": 74.33,
         "name": "Mo Williams",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 46,
         "team": "UTA"
     },
@@ -11356,7 +11356,7 @@
         "grade": 62.4,
         "name": "Terrence Williams",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 24,
         "team": "BOS"
     },
@@ -11386,7 +11386,7 @@
         "grade": 78.32,
         "name": "Metta World Peace",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 75,
         "team": "LAL"
     },
@@ -11416,7 +11416,7 @@
         "grade": 81.63,
         "name": "Brandan Wright",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 64,
         "team": "DAL"
     },
@@ -11446,7 +11446,7 @@
         "grade": 81.05,
         "name": "Dorell Wright",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 79,
         "team": "PHI"
     },
@@ -11476,7 +11476,7 @@
         "grade": 70.69,
         "name": "Nick Young",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 59,
         "team": "PHI"
     },
@@ -11506,7 +11506,7 @@
         "grade": 54.24,
         "name": "Sam Young",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 56,
         "team": "IND"
     },
@@ -11536,7 +11536,7 @@
         "grade": 87.08,
         "name": "Thaddeus Young",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 76,
         "team": "PHI"
     },
@@ -11566,7 +11566,7 @@
         "grade": 62.91,
         "name": "Tyler Zeller",
         "league_grade": 80.35,
-        "year": "2013",
+        "year": 2013,
         "games_played": 77,
         "team": "CLE"
     }

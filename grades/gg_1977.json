@@ -20,11 +20,12 @@
         "DBPM": 5,
         "VORP": 1,
         "eFG%": 4,
-        "G": 45,
-        "grade": -489.31,
+        "grade": 97.27,
         "name": "Kareem Abdul-Jabbar",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "LAL"
     },
     "Tom Abernethy": {
         "PTS": 184,
@@ -47,11 +48,12 @@
         "DBPM": 127,
         "VORP": 124,
         "eFG%": 67,
-        "G": 152,
-        "grade": -3713.7,
+        "grade": 69.28,
         "name": "Tom Abernethy",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "LAL"
     },
     "Alvan Adams": {
         "PTS": 36,
@@ -74,11 +76,12 @@
         "DBPM": 24,
         "VORP": 14,
         "eFG%": 88,
-        "G": 143,
-        "grade": -1530.48,
+        "grade": 89.08,
         "name": "Alvan Adams",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "PHO"
     },
     "Don Adams": {
         "PTS": 161,
@@ -101,11 +104,12 @@
         "DBPM": 112,
         "VORP": 180,
         "eFG%": 220,
-        "G": 111,
-        "grade": -5023.93,
+        "grade": 56.77,
         "name": "Don Adams",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "BUF"
     },
     "Lucius Allen": {
         "PTS": 59,
@@ -128,11 +132,12 @@
         "DBPM": 140,
         "VORP": 75,
         "eFG%": 138,
-        "G": 102,
-        "grade": -2922.59,
+        "grade": 75.83,
         "name": "Lucius Allen",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "LAL"
     },
     "Tiny Archibald*": {
         "PTS": 22,
@@ -155,11 +160,12 @@
         "DBPM": 162,
         "VORP": 74,
         "eFG%": 161,
-        "G": 230,
-        "grade": -2926.98,
+        "grade": 77.5,
         "name": "Tiny Archibald",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 34,
+        "team": "NYN"
     },
     "Jim Ard": {
         "PTS": 239,
@@ -182,11 +188,12 @@
         "DBPM": 49,
         "VORP": 209,
         "eFG%": 239,
-        "G": 166,
-        "grade": -6038.78,
+        "grade": 48.25,
         "name": "Jim Ard",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 63,
+        "team": "BOS"
     },
     "Bird Averitt": {
         "PTS": 151,
@@ -209,11 +216,12 @@
         "DBPM": 247,
         "VORP": 247,
         "eFG%": 238,
-        "G": 125,
-        "grade": -6626.62,
+        "grade": 42.34,
         "name": "Bird Averitt",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 75,
+        "team": "BUF"
     },
     "Dennis Awtrey": {
         "PTS": 202,
@@ -236,11 +244,12 @@
         "DBPM": 95,
         "VORP": 158,
         "eFG%": 202,
-        "G": 142,
-        "grade": -4898.17,
+        "grade": 58.34,
         "name": "Dennis Awtrey",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "PHO"
     },
     "Mike Bantom": {
         "PTS": 33,
@@ -263,11 +272,12 @@
         "DBPM": 181,
         "VORP": 123,
         "eFG%": 90,
-        "G": 233,
-        "grade": -2897.73,
+        "grade": 77.8,
         "name": "Mike Bantom",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 33,
+        "team": "NYN"
     },
     "Tom Barker": {
         "PTS": 147,
@@ -290,11 +300,12 @@
         "DBPM": 139,
         "VORP": 239,
         "eFG%": 213,
-        "G": 181,
-        "grade": -5499.18,
+        "grade": 53.37,
         "name": "Tom Barker",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 59,
+        "team": "ATL"
     },
     "Marvin Barnes": {
         "PTS": 118,
@@ -317,11 +328,12 @@
         "DBPM": 180,
         "VORP": 208,
         "eFG%": 156,
-        "G": 194,
-        "grade": -4942.04,
+        "grade": 58.63,
         "name": "Marvin Barnes",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 53,
+        "team": "DET"
     },
     "Jim Barnett": {
         "PTS": 231,
@@ -344,11 +356,12 @@
         "DBPM": 212,
         "VORP": 222,
         "eFG%": 180,
-        "G": 243,
-        "grade": -6726.06,
+        "grade": 43.0,
         "name": "Jim Barnett",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 16,
+        "team": "PHI"
     },
     "Mike Barr": {
         "PTS": 236,
@@ -371,11 +384,12 @@
         "DBPM": 70,
         "VORP": 141,
         "eFG%": 182,
-        "G": 135,
-        "grade": -5149.69,
+        "grade": 55.95,
         "name": "Mike Barr",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 73,
+        "team": "KCK"
     },
     "Rick Barry*": {
         "PTS": 14,
@@ -398,11 +412,12 @@
         "DBPM": 69,
         "VORP": 11,
         "eFG%": 178,
-        "G": 90,
-        "grade": -1651.85,
+        "grade": 87.27,
         "name": "Rick Barry",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "GSW"
     },
     "Tim Bassett": {
         "PTS": 130,
@@ -425,11 +440,12 @@
         "DBPM": 85,
         "VORP": 235,
         "eFG%": 234,
-        "G": 121,
-        "grade": -4974.21,
+        "grade": 57.36,
         "name": "Tim Bassett",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "NYN"
     },
     "Butch Beard": {
         "PTS": 209,
@@ -452,11 +468,12 @@
         "DBPM": 40,
         "VORP": 122,
         "eFG%": 34,
-        "G": 151,
-        "grade": -3916.96,
+        "grade": 67.41,
         "name": "Butch Beard",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "NYK"
     },
     "Ron Behagen": {
         "PTS": 136,
@@ -479,11 +496,12 @@
         "DBPM": 161,
         "VORP": 192,
         "eFG%": 211,
-        "G": 176,
-        "grade": -4950.82,
+        "grade": 58.31,
         "name": "Ron Behagen",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 60,
+        "team": "NOJ"
     },
     "Mel Bennett": {
         "PTS": 220,
@@ -506,11 +524,12 @@
         "DBPM": 179,
         "VORP": 238,
         "eFG%": 247,
-        "G": 159,
-        "grade": -6379.49,
+        "grade": 45.05,
         "name": "Mel Bennett",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 67,
+        "team": "IND"
     },
     "Henry Bibby": {
         "PTS": 109,
@@ -533,11 +552,12 @@
         "DBPM": 111,
         "VORP": 140,
         "eFG%": 200,
-        "G": 66,
-        "grade": -3859.93,
+        "grade": 66.8,
         "name": "Henry Bibby",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "PHI"
     },
     "Dave Bing*": {
         "PTS": 96,
@@ -560,11 +580,12 @@
         "DBPM": 150,
         "VORP": 112,
         "eFG%": 142,
-        "G": 164,
-        "grade": -3773.66,
+        "grade": 68.89,
         "name": "Dave Bing",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 64,
+        "team": "WSB"
     },
     "Tom Boerwinkle": {
         "PTS": 240,
@@ -587,11 +608,12 @@
         "DBPM": 28,
         "VORP": 97,
         "eFG%": 55,
-        "G": 44,
-        "grade": -3674.22,
+        "grade": 68.2,
         "name": "Tom Boerwinkle",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "CHI"
     },
     "Ron Boone": {
         "PTS": 12,
@@ -614,11 +636,12 @@
         "DBPM": 211,
         "VORP": 31,
         "eFG%": 87,
-        "G": 43,
-        "grade": -1887.28,
+        "grade": 84.49,
         "name": "Ron Boone",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "KCK"
     },
     "Tom Boswell": {
         "PTS": 183,
@@ -641,11 +664,12 @@
         "DBPM": 65,
         "VORP": 179,
         "eFG%": 28,
-        "G": 150,
-        "grade": -4022.25,
+        "grade": 66.44,
         "name": "Tom Boswell",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "BOS"
     },
     "Freddie Boyd": {
         "PTS": 112,
@@ -668,11 +692,12 @@
         "DBPM": 120,
         "VORP": 157,
         "eFG%": 79,
-        "G": 209,
-        "grade": -3987.16,
+        "grade": 67.54,
         "name": "Freddie Boyd",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 47,
+        "team": "NOJ"
     },
     "Bill Bradley*": {
         "PTS": 228,
@@ -695,11 +720,12 @@
         "DBPM": 138,
         "VORP": 207,
         "eFG%": 114,
-        "G": 158,
-        "grade": -5412.91,
+        "grade": 53.85,
         "name": "Bill Bradley",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 67,
+        "team": "NYK"
     },
     "Jim Brewer": {
         "PTS": 138,
@@ -722,11 +748,12 @@
         "DBPM": 33,
         "VORP": 35,
         "eFG%": 148,
-        "G": 65,
-        "grade": -2777.83,
+        "grade": 76.66,
         "name": "Jim Brewer",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "CLE"
     },
     "Junior Bridgeman": {
         "PTS": 61,
@@ -749,11 +776,12 @@
         "DBPM": 224,
         "VORP": 121,
         "eFG%": 152,
-        "G": 42,
-        "grade": -3425.63,
+        "grade": 70.44,
         "name": "Junior Bridgeman",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "MIL"
     },
     "Allan Bristow": {
         "PTS": 81,
@@ -776,11 +804,12 @@
         "DBPM": 196,
         "VORP": 105,
         "eFG%": 62,
-        "G": 41,
-        "grade": -2858.25,
+        "grade": 75.6,
         "name": "Allan Bristow",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SAS"
     },
     "Gary Brokaw": {
         "PTS": 164,
@@ -803,11 +832,12 @@
         "DBPM": 149,
         "VORP": 156,
         "eFG%": 103,
-        "G": 223,
-        "grade": -4314.71,
+        "grade": 64.74,
         "name": "Gary Brokaw",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 39,
+        "team": "CLE"
     },
     "Fred Brown": {
         "PTS": 42,
@@ -830,11 +860,12 @@
         "DBPM": 64,
         "VORP": 34,
         "eFG%": 76,
-        "G": 141,
-        "grade": -1954.55,
+        "grade": 85.18,
         "name": "Fred Brown",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "SEA"
     },
     "John Brown": {
         "PTS": 201,
@@ -857,11 +888,12 @@
         "DBPM": 110,
         "VORP": 206,
         "eFG%": 133,
-        "G": 110,
-        "grade": -4855.77,
+        "grade": 58.3,
         "name": "John Brown",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "ATL"
     },
     "Joe Bryant": {
         "PTS": 225,
@@ -884,11 +916,12 @@
         "DBPM": 63,
         "VORP": 165,
         "eFG%": 160,
-        "G": 173,
-        "grade": -5040.02,
+        "grade": 57.46,
         "name": "Joe Bryant",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 61,
+        "team": "PHI"
     },
     "Quinn Buckner": {
         "PTS": 135,
@@ -911,11 +944,12 @@
         "DBPM": 21,
         "VORP": 96,
         "eFG%": 189,
-        "G": 89,
-        "grade": -4238.67,
+        "grade": 63.65,
         "name": "Quinn Buckner",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "MIL"
     },
     "Ticky Burden": {
         "PTS": 200,
@@ -938,11 +972,12 @@
         "DBPM": 109,
         "VORP": 221,
         "eFG%": 210,
-        "G": 172,
-        "grade": -6261.05,
+        "grade": 46.3,
         "name": "Ticky Burden",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 61,
+        "team": "NYK"
     },
     "Tom Burleson": {
         "PTS": 117,
@@ -965,11 +1000,12 @@
         "DBPM": 44,
         "VORP": 95,
         "eFG%": 172,
-        "G": 40,
-        "grade": -3127.32,
+        "grade": 73.13,
         "name": "Tom Burleson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SEA"
     },
     "Don Buse": {
         "PTS": 149,
@@ -992,11 +1028,12 @@
         "DBPM": 15,
         "VORP": 23,
         "eFG%": 216,
-        "G": 64,
-        "grade": -3093.68,
+        "grade": 73.76,
         "name": "Don Buse",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "IND"
     },
     "Corky Calhoun": {
         "PTS": 243,
@@ -1019,11 +1056,12 @@
         "DBPM": 119,
         "VORP": 205,
         "eFG%": 113,
-        "G": 149,
-        "grade": -5325.17,
+        "grade": 54.53,
         "name": "Corky Calhoun",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "POR"
     },
     "Mack Calvin": {
         "PTS": 86,
@@ -1046,11 +1084,12 @@
         "DBPM": 178,
         "VORP": 155,
         "eFG%": 170,
-        "G": 239,
-        "grade": -3858.47,
+        "grade": 69.12,
         "name": "Mack Calvin",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 29,
+        "team": "DEN"
     },
     "Austin Carr": {
         "PTS": 50,
@@ -1073,11 +1112,12 @@
         "DBPM": 223,
         "VORP": 91,
         "eFG%": 132,
-        "G": 39,
-        "grade": -3258.93,
+        "grade": 71.92,
         "name": "Austin Carr",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "CLE"
     },
     "M.L. Carr": {
         "PTS": 65,
@@ -1100,11 +1140,12 @@
         "DBPM": 57,
         "VORP": 38,
         "eFG%": 86,
-        "G": 38,
-        "grade": -1950.16,
+        "grade": 83.85,
         "name": "M.L. Carr",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "DET"
     },
     "Fred Carter": {
         "PTS": 141,
@@ -1127,11 +1168,12 @@
         "DBPM": 246,
         "VORP": 231,
         "eFG%": 215,
-        "G": 208,
-        "grade": -6030.0,
+        "grade": 48.89,
         "name": "Fred Carter",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 47,
+        "team": "MIL"
     },
     "Harvey Catchings": {
         "PTS": 245,
@@ -1154,11 +1196,12 @@
         "DBPM": 6,
         "VORP": 130,
         "eFG%": 39,
-        "G": 193,
-        "grade": -4061.73,
+        "grade": 66.65,
         "name": "Harvey Catchings",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 53,
+        "team": "PHI"
     },
     "Don Chaney": {
         "PTS": 185,
@@ -1181,11 +1224,12 @@
         "DBPM": 27,
         "VORP": 84,
         "eFG%": 223,
-        "G": 63,
-        "grade": -4022.25,
+        "grade": 65.27,
         "name": "Don Chaney",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "LAL"
     },
     "Ken Charles": {
         "PTS": 85,
@@ -1208,11 +1252,12 @@
         "DBPM": 56,
         "VORP": 111,
         "eFG%": 218,
-        "G": 37,
-        "grade": -3981.31,
+        "grade": 65.3,
         "name": "Ken Charles",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "ATL"
     },
     "Phil Chenier": {
         "PTS": 25,
@@ -1235,11 +1280,12 @@
         "DBPM": 104,
         "VORP": 53,
         "eFG%": 169,
-        "G": 101,
-        "grade": -2486.83,
+        "grade": 79.79,
         "name": "Phil Chenier",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "WSB"
     },
     "Jim Chones": {
         "PTS": 71,
@@ -1262,11 +1308,12 @@
         "DBPM": 148,
         "VORP": 104,
         "eFG%": 117,
-        "G": 36,
-        "grade": -2966.46,
+        "grade": 74.55,
         "name": "Jim Chones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "CLE"
     },
     "Jim Cleamons": {
         "PTS": 100,
@@ -1289,11 +1336,12 @@
         "DBPM": 84,
         "VORP": 73,
         "eFG%": 188,
-        "G": 175,
-        "grade": -3416.85,
+        "grade": 72.29,
         "name": "Jim Cleamons",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 60,
+        "team": "CLE"
     },
     "E.C. Coleman": {
         "PTS": 134,
@@ -1316,11 +1364,12 @@
         "DBPM": 94,
         "VORP": 204,
         "eFG%": 121,
-        "G": 109,
-        "grade": -4134.85,
+        "grade": 64.86,
         "name": "E.C. Coleman",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "NOJ"
     },
     "Doug Collins": {
         "PTS": 34,
@@ -1343,11 +1392,12 @@
         "DBPM": 160,
         "VORP": 62,
         "eFG%": 25,
-        "G": 185,
-        "grade": -1868.27,
+        "grade": 86.56,
         "name": "Doug Collins",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 58,
+        "team": "PHI"
     },
     "Dave Cowens*": {
         "PTS": 48,
@@ -1370,11 +1420,12 @@
         "DBPM": 20,
         "VORP": 33,
         "eFG%": 187,
-        "G": 203,
-        "grade": -2365.45,
+        "grade": 82.26,
         "name": "Dave Cowens",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 50,
+        "team": "BOS"
     },
     "Louie Dampier*": {
         "PTS": 178,
@@ -1397,11 +1448,12 @@
         "DBPM": 234,
         "VORP": 220,
         "eFG%": 126,
-        "G": 72,
-        "grade": -5129.22,
+        "grade": 55.29,
         "name": "Louie Dampier",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 80,
+        "team": "SAS"
     },
     "Bob Dandridge*": {
         "PTS": 19,
@@ -1424,11 +1476,12 @@
         "DBPM": 210,
         "VORP": 52,
         "eFG%": 102,
-        "G": 148,
-        "grade": -2368.38,
+        "grade": 81.5,
         "name": "Bob Dandridge",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "MIL"
     },
     "Mel Daniels*": {
         "PTS": 241,
@@ -1451,11 +1504,12 @@
         "DBPM": 48,
         "VORP": 203,
         "eFG%": 241,
-        "G": 247,
-        "grade": -6454.07,
+        "grade": 45.54,
         "name": "Mel Daniels",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 11,
+        "team": "NYN"
     },
     "Adrian Dantley*": {
         "PTS": 23,
@@ -1478,11 +1532,12 @@
         "DBPM": 209,
         "VORP": 28,
         "eFG%": 22,
-        "G": 108,
-        "grade": -1609.44,
+        "grade": 87.89,
         "name": "Adrian Dantley",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "BUF"
     },
     "Dwight Davis": {
         "PTS": 217,
@@ -1505,11 +1560,12 @@
         "DBPM": 187,
         "VORP": 230,
         "eFG%": 168,
-        "G": 232,
-        "grade": -6065.1,
+        "grade": 48.89,
         "name": "Dwight Davis",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 33,
+        "team": "GSW"
     },
     "Johnny Davis": {
         "PTS": 148,
@@ -1532,11 +1588,12 @@
         "DBPM": 228,
         "VORP": 178,
         "eFG%": 175,
-        "G": 88,
-        "grade": -4725.62,
+        "grade": 59.19,
         "name": "Johnny Davis",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "POR"
     },
     "Mel Davis": {
         "PTS": 133,
@@ -1559,11 +1616,12 @@
         "DBPM": 240,
         "VORP": 243,
         "eFG%": 245,
-        "G": 229,
-        "grade": -6338.55,
+        "grade": 46.35,
         "name": "Mel Davis",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 34,
+        "team": "NYN"
     },
     "Darryl Dawkins": {
         "PTS": 208,
@@ -1586,11 +1644,12 @@
         "DBPM": 39,
         "VORP": 139,
         "eFG%": 1,
-        "G": 180,
-        "grade": -3516.29,
+        "grade": 71.45,
         "name": "Darryl Dawkins",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 59,
+        "team": "PHI"
     },
     "Randy Denton": {
         "PTS": 207,
@@ -1613,11 +1672,12 @@
         "DBPM": 222,
         "VORP": 229,
         "eFG%": 230,
-        "G": 212,
-        "grade": -6282.98,
+        "grade": 46.63,
         "name": "Randy Denton",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 45,
+        "team": "ATL"
     },
     "Derrek Dickey": {
         "PTS": 159,
@@ -1640,11 +1700,12 @@
         "DBPM": 227,
         "VORP": 177,
         "eFG%": 130,
-        "G": 205,
-        "grade": -4775.34,
+        "grade": 60.3,
         "name": "Derrek Dickey",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 49,
+        "team": "GSW"
     },
     "Coby Dietrick": {
         "PTS": 139,
@@ -1667,11 +1728,12 @@
         "DBPM": 93,
         "VORP": 154,
         "eFG%": 125,
-        "G": 35,
-        "grade": -3919.89,
+        "grade": 65.84,
         "name": "Coby Dietrick",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SAS"
     },
     "Ernie DiGregorio": {
         "PTS": 92,
@@ -1694,11 +1756,12 @@
         "DBPM": 245,
         "VORP": 242,
         "eFG%": 212,
-        "G": 62,
-        "grade": -5113.13,
+        "grade": 55.31,
         "name": "Ernie DiGregorio",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "BUF"
     },
     "Leon Douglas": {
         "PTS": 157,
@@ -1721,11 +1784,12 @@
         "DBPM": 159,
         "VORP": 234,
         "eFG%": 75,
-        "G": 34,
-        "grade": -4380.52,
+        "grade": 61.62,
         "name": "Leon Douglas",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "DET"
     },
     "John Drew": {
         "PTS": 7,
@@ -1748,11 +1812,12 @@
         "DBPM": 219,
         "VORP": 24,
         "eFG%": 63,
-        "G": 130,
-        "grade": -1850.72,
+        "grade": 85.98,
         "name": "John Drew",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 74,
+        "team": "ATL"
     },
     "Charles Dudley": {
         "PTS": 163,
@@ -1775,11 +1840,12 @@
         "DBPM": 118,
         "VORP": 70,
         "eFG%": 19,
-        "G": 87,
-        "grade": -2728.11,
+        "grade": 77.4,
         "name": "Charles Dudley",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "GSW"
     },
     "Mike Dunleavy": {
         "PTS": 216,
@@ -1802,11 +1868,12 @@
         "DBPM": 195,
         "VORP": 228,
         "eFG%": 217,
-        "G": 236,
-        "grade": -6471.62,
+        "grade": 45.23,
         "name": "Mike Dunleavy",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 32,
+        "team": "PHI"
     },
     "Jim Eakins": {
         "PTS": 189,
@@ -1829,11 +1896,12 @@
         "DBPM": 73,
         "VORP": 110,
         "eFG%": 151,
-        "G": 33,
-        "grade": -3320.34,
+        "grade": 71.28,
         "name": "Jim Eakins",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "KCK"
     },
     "Al Eberhard": {
         "PTS": 171,
@@ -1856,11 +1924,12 @@
         "DBPM": 171,
         "VORP": 219,
         "eFG%": 85,
-        "G": 156,
-        "grade": -4670.05,
+        "grade": 60.6,
         "name": "Al Eberhard",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 68,
+        "team": "DET"
     },
     "Alex English*": {
         "PTS": 212,
@@ -1883,11 +1952,12 @@
         "DBPM": 239,
         "VORP": 191,
         "eFG%": 82,
-        "G": 174,
-        "grade": -4832.37,
+        "grade": 59.36,
         "name": "Alex English",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 60,
+        "team": "MIL"
     },
     "Keith Erickson": {
         "PTS": 182,
@@ -1910,11 +1980,12 @@
         "DBPM": 83,
         "VORP": 176,
         "eFG%": 69,
-        "G": 202,
-        "grade": -4610.1,
+        "grade": 61.77,
         "name": "Keith Erickson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 50,
+        "team": "PHO"
     },
     "Julius Erving*": {
         "PTS": 16,
@@ -1937,11 +2008,12 @@
         "DBPM": 31,
         "VORP": 4,
         "eFG%": 46,
-        "G": 32,
-        "grade": -704.27,
+        "grade": 95.14,
         "name": "Julius Erving",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "PHI"
     },
     "Butch Feher": {
         "PTS": 211,
@@ -1964,11 +2036,12 @@
         "DBPM": 137,
         "VORP": 153,
         "eFG%": 12,
-        "G": 206,
-        "grade": -3943.29,
+        "grade": 67.9,
         "name": "Butch Feher",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 48,
+        "team": "PHO"
     },
     "Mike Flynn": {
         "PTS": 146,
@@ -1991,11 +2064,12 @@
         "DBPM": 208,
         "VORP": 152,
         "eFG%": 184,
-        "G": 134,
-        "grade": -4882.09,
+        "grade": 58.38,
         "name": "Mike Flynn",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 73,
+        "team": "IND"
     },
     "Chris Ford": {
         "PTS": 77,
@@ -2018,11 +2092,12 @@
         "DBPM": 38,
         "VORP": 37,
         "eFG%": 84,
-        "G": 31,
-        "grade": -2286.49,
+        "grade": 80.69,
         "name": "Chris Ford",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "DET"
     },
     "Don Ford": {
         "PTS": 160,
@@ -2045,11 +2120,12 @@
         "DBPM": 126,
         "VORP": 151,
         "eFG%": 124,
-        "G": 30,
-        "grade": -4123.15,
+        "grade": 63.91,
         "name": "Don Ford",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "LAL"
     },
     "Fred Foster": {
         "PTS": 235,
@@ -2072,11 +2148,12 @@
         "DBPM": 243,
         "VORP": 245,
         "eFG%": 231,
-        "G": 179,
-        "grade": -7034.61,
+        "grade": 39.33,
         "name": "Fred Foster",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 59,
+        "team": "BUF"
     },
     "Jim Fox": {
         "PTS": 180,
@@ -2099,11 +2176,12 @@
         "DBPM": 177,
         "VORP": 202,
         "eFG%": 120,
-        "G": 145,
-        "grade": -4358.58,
+        "grade": 63.3,
         "name": "Jim Fox",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 71,
+        "team": "NYN"
     },
     "Walt Frazier*": {
         "PTS": 40,
@@ -2126,11 +2204,12 @@
         "DBPM": 103,
         "VORP": 45,
         "eFG%": 61,
-        "G": 120,
-        "grade": -2015.96,
+        "grade": 84.34,
         "name": "Walt Frazier",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "NYK"
     },
     "World B. Free": {
         "PTS": 49,
@@ -2153,11 +2232,12 @@
         "DBPM": 218,
         "VORP": 109,
         "eFG%": 131,
-        "G": 100,
-        "grade": -3216.52,
+        "grade": 73.12,
         "name": "World B. Free",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "PHI"
     },
     "Mike Gale": {
         "PTS": 104,
@@ -2180,11 +2260,12 @@
         "DBPM": 35,
         "VORP": 51,
         "eFG%": 99,
-        "G": 29,
-        "grade": -2387.39,
+        "grade": 79.74,
         "name": "Mike Gale",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SAS"
     },
     "Rowland Garrett": {
         "PTS": 219,
@@ -2207,11 +2288,12 @@
         "DBPM": 194,
         "VORP": 190,
         "eFG%": 145,
-        "G": 231,
-        "grade": -5719.99,
+        "grade": 52.02,
         "name": "Rowland Garrett",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 33,
+        "team": "MIL"
     },
     "Gus Gerard": {
         "PTS": 194,
@@ -2234,11 +2316,12 @@
         "DBPM": 102,
         "VORP": 201,
         "eFG%": 221,
-        "G": 218,
-        "grade": -5953.96,
+        "grade": 49.72,
         "name": "Gus Gerard",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 41,
+        "team": "BUF"
     },
     "George Gervin*": {
         "PTS": 9,
@@ -2261,11 +2344,12 @@
         "DBPM": 147,
         "VORP": 9,
         "eFG%": 8,
-        "G": 28,
-        "grade": -906.07,
+        "grade": 93.24,
         "name": "George Gervin",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SAS"
     },
     "John Gianelli": {
         "PTS": 168,
@@ -2288,11 +2372,12 @@
         "DBPM": 125,
         "VORP": 189,
         "eFG%": 197,
-        "G": 186,
-        "grade": -5243.28,
+        "grade": 55.77,
         "name": "John Gianelli",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 57,
+        "team": "BUF"
     },
     "Herm Gilliam": {
         "PTS": 127,
@@ -2315,11 +2400,12 @@
         "DBPM": 170,
         "VORP": 175,
         "eFG%": 179,
-        "G": 71,
-        "grade": -4614.49,
+        "grade": 59.98,
         "name": "Herm Gilliam",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 80,
+        "team": "POR"
     },
     "Artis Gilmore*": {
         "PTS": 32,
@@ -2342,11 +2428,12 @@
         "DBPM": 30,
         "VORP": 6,
         "eFG%": 20,
-        "G": 27,
-        "grade": -1031.83,
+        "grade": 92.08,
         "name": "Artis Gilmore",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "CHI"
     },
     "Gail Goodrich*": {
         "PTS": 75,
@@ -2369,11 +2456,12 @@
         "DBPM": 205,
         "VORP": 150,
         "eFG%": 159,
-        "G": 240,
-        "grade": -4361.51,
+        "grade": 64.54,
         "name": "Gail Goodrich",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 27,
+        "team": "NOJ"
     },
     "Leonard Gray": {
         "PTS": 188,
@@ -2396,11 +2484,12 @@
         "DBPM": 82,
         "VORP": 227,
         "eFG%": 183,
-        "G": 184,
-        "grade": -5608.86,
+        "grade": 52.41,
         "name": "Leonard Gray",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 58,
+        "team": "WSB"
     },
     "Mike Green": {
         "PTS": 113,
@@ -2423,11 +2512,12 @@
         "DBPM": 68,
         "VORP": 90,
         "eFG%": 174,
-        "G": 119,
-        "grade": -3487.05,
+        "grade": 70.91,
         "name": "Mike Green",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "SEA"
     },
     "Steve Green": {
         "PTS": 181,
@@ -2450,11 +2540,12 @@
         "DBPM": 207,
         "VORP": 226,
         "eFG%": 194,
-        "G": 147,
-        "grade": -5733.15,
+        "grade": 50.78,
         "name": "Steve Green",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "IND"
     },
     "Kevin Grevey": {
         "PTS": 170,
@@ -2477,11 +2568,12 @@
         "DBPM": 217,
         "VORP": 241,
         "eFG%": 205,
-        "G": 118,
-        "grade": -6231.8,
+        "grade": 45.85,
         "name": "Kevin Grevey",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "WSB"
     },
     "Paul Griffin": {
         "PTS": 210,
@@ -2504,11 +2596,12 @@
         "DBPM": 29,
         "VORP": 83,
         "eFG%": 7,
-        "G": 61,
-        "grade": -2562.87,
+        "grade": 78.57,
         "name": "Paul Griffin",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "NOJ"
     },
     "Bob Gross": {
         "PTS": 80,
@@ -2531,11 +2624,12 @@
         "DBPM": 55,
         "VORP": 22,
         "eFG%": 13,
-        "G": 26,
-        "grade": -1163.44,
+        "grade": 90.87,
         "name": "Bob Gross",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "POR"
     },
     "John Havlicek*": {
         "PTS": 39,
@@ -2558,11 +2652,12 @@
         "DBPM": 108,
         "VORP": 48,
         "eFG%": 144,
-        "G": 86,
-        "grade": -2464.89,
+        "grade": 79.79,
         "name": "John Havlicek",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "BOS"
     },
     "Steve Hawes": {
         "PTS": 145,
@@ -2585,11 +2680,12 @@
         "DBPM": 62,
         "VORP": 129,
         "eFG%": 70,
-        "G": 215,
-        "grade": -3570.4,
+        "grade": 71.43,
         "name": "Steve Hawes",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 44,
+        "team": "ATL"
     },
     "Bubbles Hawkins": {
         "PTS": 29,
@@ -2612,11 +2708,12 @@
         "DBPM": 146,
         "VORP": 94,
         "eFG%": 155,
-        "G": 197,
-        "grade": -3700.54,
+        "grade": 70.0,
         "name": "Bubbles Hawkins",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 52,
+        "team": "NYN"
     },
     "Elvin Hayes*": {
         "PTS": 8,
@@ -2639,11 +2736,12 @@
         "DBPM": 47,
         "VORP": 7,
         "eFG%": 44,
-        "G": 25,
-        "grade": -1043.53,
+        "grade": 91.95,
         "name": "Elvin Hayes",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "WSB"
     },
     "Spencer Haywood*": {
         "PTS": 46,
@@ -2666,11 +2764,12 @@
         "DBPM": 216,
         "VORP": 138,
         "eFG%": 150,
-        "G": 237,
-        "grade": -3615.73,
+        "grade": 71.31,
         "name": "Spencer Haywood",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 31,
+        "team": "NYK"
     },
     "Gar Heard": {
         "PTS": 116,
@@ -2693,11 +2792,12 @@
         "DBPM": 54,
         "VORP": 164,
         "eFG%": 237,
-        "G": 211,
-        "grade": -4516.51,
+        "grade": 62.74,
         "name": "Gar Heard",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 46,
+        "team": "PHO"
     },
     "Tom Henderson": {
         "PTS": 84,
@@ -2720,11 +2820,12 @@
         "DBPM": 61,
         "VORP": 103,
         "eFG%": 96,
-        "G": 217,
-        "grade": -3101.0,
+        "grade": 75.74,
         "name": "Tom Henderson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 41,
+        "team": "WSB"
     },
     "Armond Hill": {
         "PTS": 187,
@@ -2747,11 +2848,12 @@
         "DBPM": 169,
         "VORP": 233,
         "eFG%": 233,
-        "G": 60,
-        "grade": -5344.18,
+        "grade": 53.17,
         "name": "Armond Hill",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "ATL"
     },
     "Darnell Hillman": {
         "PTS": 91,
@@ -2774,11 +2876,12 @@
         "DBPM": 81,
         "VORP": 137,
         "eFG%": 171,
-        "G": 24,
-        "grade": -3508.98,
+        "grade": 69.44,
         "name": "Darnell Hillman",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "IND"
     },
     "Wilbur Holland": {
         "PTS": 56,
@@ -2801,11 +2904,12 @@
         "DBPM": 23,
         "VORP": 44,
         "eFG%": 141,
-        "G": 85,
-        "grade": -2425.41,
+        "grade": 80.14,
         "name": "Wilbur Holland",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "CHI"
     },
     "Lionel Hollins": {
         "PTS": 57,
@@ -2828,11 +2932,12 @@
         "DBPM": 46,
         "VORP": 72,
         "eFG%": 193,
-        "G": 117,
-        "grade": -3209.21,
+        "grade": 73.41,
         "name": "Lionel Hollins",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "POR"
     },
     "Mo Howard": {
         "PTS": 199,
@@ -2855,11 +2960,12 @@
         "DBPM": 53,
         "VORP": 174,
         "eFG%": 74,
-        "G": 241,
-        "grade": -4846.99,
+        "grade": 60.12,
         "name": "Mo Howard",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 23,
+        "team": "NOJ"
     },
     "Lou Hudson*": {
         "PTS": 44,
@@ -2882,11 +2988,12 @@
         "DBPM": 193,
         "VORP": 120,
         "eFG%": 137,
-        "G": 183,
-        "grade": -3644.97,
+        "grade": 70.32,
         "name": "Lou Hudson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 58,
+        "team": "ATL"
     },
     "Kim Hughes": {
         "PTS": 233,
@@ -2909,11 +3016,12 @@
         "DBPM": 4,
         "VORP": 119,
         "eFG%": 204,
-        "G": 59,
-        "grade": -4494.58,
+        "grade": 60.91,
         "name": "Kim Hughes",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "NYN"
     },
     "Dan Issel*": {
         "PTS": 11,
@@ -2936,11 +3044,12 @@
         "DBPM": 145,
         "VORP": 18,
         "eFG%": 27,
-        "G": 84,
-        "grade": -1135.65,
+        "grade": 91.9,
         "name": "Dan Issel",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "DEN"
     },
     "Phil Jackson*": {
         "PTS": 242,
@@ -2963,11 +3072,12 @@
         "DBPM": 60,
         "VORP": 200,
         "eFG%": 177,
-        "G": 116,
-        "grade": -5588.38,
+        "grade": 51.69,
         "name": "Phil Jackson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "NYK"
     },
     "Aaron James": {
         "PTS": 89,
@@ -2990,11 +3100,12 @@
         "DBPM": 221,
         "VORP": 173,
         "eFG%": 59,
-        "G": 196,
-        "grade": -4131.92,
+        "grade": 66.05,
         "name": "Aaron James",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 52,
+        "team": "NOJ"
     },
     "Charles Johnson": {
         "PTS": 166,
@@ -3017,11 +3128,12 @@
         "DBPM": 107,
         "VORP": 188,
         "eFG%": 181,
-        "G": 83,
-        "grade": -5269.6,
+        "grade": 54.16,
         "name": "Charles Johnson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "GSW"
     },
     "Dennis Johnson*": {
         "PTS": 128,
@@ -3044,11 +3156,12 @@
         "DBPM": 19,
         "VORP": 43,
         "eFG%": 38,
-        "G": 58,
-        "grade": -2182.67,
+        "grade": 81.99,
         "name": "Dennis Johnson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "SEA"
     },
     "George Johnson": {
         "PTS": 156,
@@ -3071,11 +3184,12 @@
         "DBPM": 14,
         "VORP": 108,
         "eFG%": 153,
-        "G": 222,
-        "grade": -3846.77,
+        "grade": 69.0,
         "name": "George Johnson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 39,
+        "team": "BUF"
     },
     "John Johnson": {
         "PTS": 126,
@@ -3098,11 +3212,12 @@
         "DBPM": 192,
         "VORP": 136,
         "eFG%": 129,
-        "G": 82,
-        "grade": -4256.22,
+        "grade": 63.39,
         "name": "John Johnson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "HOU"
     },
     "Mickey Johnson": {
         "PTS": 41,
@@ -3125,11 +3240,12 @@
         "DBPM": 92,
         "VORP": 42,
         "eFG%": 158,
-        "G": 57,
-        "grade": -1938.46,
+        "grade": 84.21,
         "name": "Mickey Johnson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "CHI"
     },
     "Ollie Johnson": {
         "PTS": 177,
@@ -3152,11 +3268,12 @@
         "DBPM": 144,
         "VORP": 135,
         "eFG%": 60,
-        "G": 56,
-        "grade": -3530.91,
+        "grade": 69.67,
         "name": "Ollie Johnson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "KCK"
     },
     "Bobby Jones*": {
         "PTS": 55,
@@ -3179,11 +3296,12 @@
         "DBPM": 1,
         "VORP": 2,
         "eFG%": 6,
-        "G": 23,
-        "grade": -639.93,
+        "grade": 95.61,
         "name": "Bobby Jones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "DEN"
     },
     "Caldwell Jones": {
         "PTS": 186,
@@ -3206,11 +3324,12 @@
         "DBPM": 10,
         "VORP": 71,
         "eFG%": 33,
-        "G": 22,
-        "grade": -2891.89,
+        "grade": 75.04,
         "name": "Caldwell Jones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "PHI"
     },
     "Dwight Jones": {
         "PTS": 193,
@@ -3233,11 +3352,12 @@
         "DBPM": 158,
         "VORP": 149,
         "eFG%": 51,
-        "G": 129,
-        "grade": -3798.52,
+        "grade": 68.2,
         "name": "Dwight Jones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 74,
+        "team": "HOU"
     },
     "Rich Jones": {
         "PTS": 95,
@@ -3260,11 +3380,12 @@
         "DBPM": 117,
         "VORP": 218,
         "eFG%": 236,
-        "G": 228,
-        "grade": -5341.25,
+        "grade": 55.44,
         "name": "Rich Jones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 34,
+        "team": "NYN"
     },
     "Robin Jones": {
         "PTS": 206,
@@ -3287,11 +3408,12 @@
         "DBPM": 72,
         "VORP": 118,
         "eFG%": 110,
-        "G": 165,
-        "grade": -4063.2,
+        "grade": 66.26,
         "name": "Robin Jones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 63,
+        "team": "POR"
     },
     "Wil Jones": {
         "PTS": 70,
@@ -3314,11 +3436,12 @@
         "DBPM": 143,
         "VORP": 134,
         "eFG%": 199,
-        "G": 70,
-        "grade": -3636.2,
+        "grade": 68.89,
         "name": "Wil Jones",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 80,
+        "team": "IND"
     },
     "Rich Kelley": {
         "PTS": 169,
@@ -3341,11 +3464,12 @@
         "DBPM": 18,
         "VORP": 60,
         "eFG%": 81,
-        "G": 115,
-        "grade": -2285.03,
+        "grade": 81.82,
         "name": "Rich Kelley",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "NOJ"
     },
     "Larry Kenon": {
         "PTS": 13,
@@ -3368,11 +3492,12 @@
         "DBPM": 157,
         "VORP": 13,
         "eFG%": 53,
-        "G": 99,
-        "grade": -1104.94,
+        "grade": 92.38,
         "name": "Larry Kenon",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "SAS"
     },
     "Billy Knight": {
         "PTS": 3,
@@ -3395,11 +3520,12 @@
         "DBPM": 220,
         "VORP": 10,
         "eFG%": 52,
-        "G": 98,
-        "grade": -1452.97,
+        "grade": 89.19,
         "name": "Billy Knight",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "IND"
     },
     "Steve Kuberski": {
         "PTS": 227,
@@ -3422,11 +3548,12 @@
         "DBPM": 204,
         "VORP": 217,
         "eFG%": 209,
-        "G": 114,
-        "grade": -6035.85,
+        "grade": 47.58,
         "name": "Steve Kuberski",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "BOS"
     },
     "Kevin Kunnert": {
         "PTS": 122,
@@ -3449,11 +3576,12 @@
         "DBPM": 80,
         "VORP": 102,
         "eFG%": 65,
-        "G": 55,
-        "grade": -2840.7,
+        "grade": 75.95,
         "name": "Kevin Kunnert",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "HOU"
     },
     "Mitch Kupchak": {
         "PTS": 99,
@@ -3476,11 +3604,12 @@
         "DBPM": 176,
         "VORP": 69,
         "eFG%": 5,
-        "G": 21,
-        "grade": -2282.1,
+        "grade": 80.59,
         "name": "Mitch Kupchak",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "WSB"
     },
     "C.J. Kupec": {
         "PTS": 218,
@@ -3503,11 +3632,12 @@
         "DBPM": 242,
         "VORP": 225,
         "eFG%": 154,
-        "G": 20,
-        "grade": -5440.69,
+        "grade": 51.76,
         "name": "C.J. Kupec",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "LAL"
     },
     "Sam Lacey": {
         "PTS": 94,
@@ -3530,11 +3660,12 @@
         "DBPM": 9,
         "VORP": 17,
         "eFG%": 207,
-        "G": 19,
-        "grade": -2260.17,
+        "grade": 80.77,
         "name": "Sam Lacey",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "KCK"
     },
     "Bo Lamar": {
         "PTS": 165,
@@ -3557,11 +3688,12 @@
         "DBPM": 203,
         "VORP": 216,
         "eFG%": 226,
-        "G": 144,
-        "grade": -5980.28,
+        "grade": 48.49,
         "name": "Bo Lamar",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 71,
+        "team": "LAL"
     },
     "Bob Lanier*": {
         "PTS": 6,
@@ -3584,11 +3716,12 @@
         "DBPM": 79,
         "VORP": 5,
         "eFG%": 11,
-        "G": 163,
-        "grade": -771.54,
+        "grade": 96.27,
         "name": "Bob Lanier",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 64,
+        "team": "DET"
     },
     "John Laskowski": {
         "PTS": 238,
@@ -3611,11 +3744,12 @@
         "DBPM": 43,
         "VORP": 187,
         "eFG%": 246,
-        "G": 207,
-        "grade": -6120.67,
+        "grade": 48.05,
         "name": "John Laskowski",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 47,
+        "team": "CHI"
     },
     "Mo Layton": {
         "PTS": 198,
@@ -3638,11 +3772,12 @@
         "DBPM": 233,
         "VORP": 172,
         "eFG%": 66,
-        "G": 188,
-        "grade": -4617.41,
+        "grade": 61.51,
         "name": "Mo Layton",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 56,
+        "team": "NYK"
     },
     "Ron Lee": {
         "PTS": 108,
@@ -3665,11 +3800,12 @@
         "DBPM": 8,
         "VORP": 68,
         "eFG%": 173,
-        "G": 18,
-        "grade": -3421.24,
+        "grade": 70.16,
         "name": "Ron Lee",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "PHO"
     },
     "Freddie Lewis": {
         "PTS": 167,
@@ -3692,11 +3828,12 @@
         "DBPM": 226,
         "VORP": 215,
         "eFG%": 225,
-        "G": 235,
-        "grade": -5989.06,
+        "grade": 49.62,
         "name": "Freddie Lewis",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 32,
+        "team": "IND"
     },
     "Scott Lloyd": {
         "PTS": 197,
@@ -3719,11 +3856,12 @@
         "DBPM": 238,
         "VORP": 237,
         "eFG%": 92,
-        "G": 153,
-        "grade": -5244.74,
+        "grade": 55.32,
         "name": "Scott Lloyd",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 69,
+        "team": "MIL"
     },
     "Bob Love": {
         "PTS": 230,
@@ -3746,11 +3884,12 @@
         "DBPM": 156,
         "VORP": 199,
         "eFG%": 240,
-        "G": 234,
-        "grade": -6230.34,
+        "grade": 47.41,
         "name": "Bob Love",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 32,
+        "team": "SEA"
     },
     "John Lucas": {
         "PTS": 83,
@@ -3773,11 +3912,12 @@
         "DBPM": 124,
         "VORP": 47,
         "eFG%": 80,
-        "G": 17,
-        "grade": -2432.72,
+        "grade": 79.17,
         "name": "John Lucas",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "HOU"
     },
     "Maurice Lucas": {
         "PTS": 24,
@@ -3800,11 +3940,12 @@
         "DBPM": 186,
         "VORP": 36,
         "eFG%": 108,
-        "G": 81,
-        "grade": -1815.63,
+        "grade": 85.65,
         "name": "Maurice Lucas",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "POR"
     },
     "Moses Malone*": {
         "PTS": 64,
@@ -3827,11 +3968,12 @@
         "DBPM": 155,
         "VORP": 27,
         "eFG%": 72,
-        "G": 69,
-        "grade": -1811.24,
+        "grade": 85.53,
         "name": "Moses Malone",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 80,
+        "team": "HOU"
     },
     "Pete Maravich*": {
         "PTS": 1,
@@ -3854,11 +3996,12 @@
         "DBPM": 237,
         "VORP": 30,
         "eFG%": 191,
-        "G": 133,
-        "grade": -2475.13,
+        "grade": 80.33,
         "name": "Pete Maravich",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 73,
+        "team": "NOJ"
     },
     "Jack Marin": {
         "PTS": 173,
@@ -3881,11 +4024,12 @@
         "DBPM": 202,
         "VORP": 198,
         "eFG%": 109,
-        "G": 190,
-        "grade": -5272.53,
+        "grade": 55.56,
         "name": "Jack Marin",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 54,
+        "team": "CHI"
     },
     "Scott May": {
         "PTS": 58,
@@ -3908,11 +4052,12 @@
         "DBPM": 136,
         "VORP": 89,
         "eFG%": 147,
-        "G": 140,
-        "grade": -2951.84,
+        "grade": 76.07,
         "name": "Scott May",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "CHI"
     },
     "Bob McAdoo*": {
         "PTS": 2,
@@ -3935,11 +4080,12 @@
         "DBPM": 91,
         "VORP": 16,
         "eFG%": 10,
-        "G": 195,
-        "grade": -1018.67,
+        "grade": 94.44,
         "name": "Bob McAdoo",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 52,
+        "team": "NYK"
     },
     "Andre McCarter": {
         "PTS": 221,
@@ -3962,11 +4108,12 @@
         "DBPM": 215,
         "VORP": 197,
         "eFG%": 116,
-        "G": 178,
-        "grade": -5619.09,
+        "grade": 52.24,
         "name": "Andre McCarter",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 59,
+        "team": "KCK"
     },
     "Ted McClain": {
         "PTS": 144,
@@ -3989,11 +4136,12 @@
         "DBPM": 37,
         "VORP": 148,
         "eFG%": 164,
-        "G": 139,
-        "grade": -4120.23,
+        "grade": 65.39,
         "name": "Ted McClain",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "DEN"
     },
     "Jim McElroy": {
         "PTS": 93,
@@ -4016,11 +4164,12 @@
         "DBPM": 168,
         "VORP": 133,
         "eFG%": 94,
-        "G": 132,
-        "grade": -3608.42,
+        "grade": 69.97,
         "name": "Jim McElroy",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 73,
+        "team": "NOJ"
     },
     "George McGinnis*": {
         "PTS": 17,
@@ -4043,11 +4192,12 @@
         "DBPM": 90,
         "VORP": 21,
         "eFG%": 128,
-        "G": 80,
-        "grade": -1729.35,
+        "grade": 86.43,
         "name": "George McGinnis",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "PHI"
     },
     "Tom McMillen": {
         "PTS": 121,
@@ -4070,11 +4220,12 @@
         "DBPM": 236,
         "VORP": 214,
         "eFG%": 64,
-        "G": 187,
-        "grade": -4409.76,
+        "grade": 63.39,
         "name": "Tom McMillen",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 56,
+        "team": "NYK"
     },
     "Jim McMillian": {
         "PTS": 111,
@@ -4097,11 +4248,12 @@
         "DBPM": 123,
         "VORP": 128,
         "eFG%": 112,
-        "G": 157,
-        "grade": -3960.83,
+        "grade": 67.09,
         "name": "Jim McMillian",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 67,
+        "team": "NYK"
     },
     "John Mengelt": {
         "PTS": 140,
@@ -4124,11 +4276,12 @@
         "DBPM": 135,
         "VORP": 163,
         "eFG%": 136,
-        "G": 171,
-        "grade": -4449.25,
+        "grade": 62.82,
         "name": "John Mengelt",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 61,
+        "team": "CHI"
     },
     "Joe Meriweather": {
         "PTS": 82,
@@ -4151,11 +4304,12 @@
         "DBPM": 134,
         "VORP": 117,
         "eFG%": 17,
-        "G": 128,
-        "grade": -2641.83,
+        "grade": 78.74,
         "name": "Joe Meriweather",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 74,
+        "team": "ATL"
     },
     "Dave Meyers": {
         "PTS": 115,
@@ -4178,11 +4332,12 @@
         "DBPM": 154,
         "VORP": 147,
         "eFG%": 101,
-        "G": 201,
-        "grade": -3890.64,
+        "grade": 68.32,
         "name": "Dave Meyers",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 50,
+        "team": "MIL"
     },
     "Steve Mix": {
         "PTS": 97,
@@ -4205,11 +4360,12 @@
         "DBPM": 59,
         "VORP": 46,
         "eFG%": 18,
-        "G": 124,
-        "grade": -1733.74,
+        "grade": 86.97,
         "name": "Steve Mix",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 75,
+        "team": "PHI"
     },
     "Eric Money": {
         "PTS": 107,
@@ -4232,11 +4388,12 @@
         "DBPM": 106,
         "VORP": 93,
         "eFG%": 21,
-        "G": 131,
-        "grade": -2760.28,
+        "grade": 77.7,
         "name": "Eric Money",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 73,
+        "team": "DET"
     },
     "Earl Monroe*": {
         "PTS": 26,
@@ -4259,11 +4416,12 @@
         "DBPM": 167,
         "VORP": 26,
         "eFG%": 26,
-        "G": 107,
-        "grade": -1564.11,
+        "grade": 88.29,
         "name": "Earl Monroe",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "NYK"
     },
     "Otto Moore": {
         "PTS": 192,
@@ -4286,11 +4444,12 @@
         "DBPM": 17,
         "VORP": 82,
         "eFG%": 227,
-        "G": 54,
-        "grade": -4134.85,
+        "grade": 64.13,
         "name": "Otto Moore",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "NOJ"
     },
     "Calvin Murphy*": {
         "PTS": 37,
@@ -4313,11 +4472,12 @@
         "DBPM": 153,
         "VORP": 32,
         "eFG%": 58,
-        "G": 16,
-        "grade": -1820.01,
+        "grade": 84.74,
         "name": "Calvin Murphy",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "HOU"
     },
     "Swen Nater": {
         "PTS": 69,
@@ -4340,11 +4500,12 @@
         "DBPM": 201,
         "VORP": 55,
         "eFG%": 15,
-        "G": 138,
-        "grade": -1818.55,
+        "grade": 86.39,
         "name": "Swen Nater",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "MIL"
     },
     "Lloyd Neal": {
         "PTS": 172,
@@ -4367,11 +4528,12 @@
         "DBPM": 191,
         "VORP": 186,
         "eFG%": 93,
-        "G": 182,
-        "grade": -4649.58,
+        "grade": 61.14,
         "name": "Lloyd Neal",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 58,
+        "team": "POR"
     },
     "Johnny Neumann": {
         "PTS": 191,
@@ -4394,11 +4556,12 @@
         "DBPM": 232,
         "VORP": 244,
         "eFG%": 229,
-        "G": 177,
-        "grade": -6540.35,
+        "grade": 43.82,
         "name": "Johnny Neumann",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 59,
+        "team": "LAL"
     },
     "Mike Newlin": {
         "PTS": 73,
@@ -4421,11 +4584,12 @@
         "DBPM": 231,
         "VORP": 101,
         "eFG%": 140,
-        "G": 15,
-        "grade": -3210.67,
+        "grade": 72.04,
         "name": "Mike Newlin",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "HOU"
     },
     "Willie Norwood": {
         "PTS": 155,
@@ -4448,11 +4612,12 @@
         "DBPM": 133,
         "VORP": 146,
         "eFG%": 95,
-        "G": 113,
-        "grade": -3902.34,
+        "grade": 67.04,
         "name": "Willie Norwood",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "SEA"
     },
     "Mark Olberding": {
         "PTS": 98,
@@ -4475,11 +4640,12 @@
         "DBPM": 214,
         "VORP": 162,
         "eFG%": 42,
-        "G": 14,
-        "grade": -2928.44,
+        "grade": 74.6,
         "name": "Mark Olberding",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SAS"
     },
     "Frank Oleynick": {
         "PTS": 232,
@@ -4502,11 +4668,12 @@
         "DBPM": 241,
         "VORP": 232,
         "eFG%": 243,
-        "G": 200,
-        "grade": -6897.15,
+        "grade": 40.87,
         "name": "Frank Oleynick",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 50,
+        "team": "SEA"
     },
     "Tom Owens": {
         "PTS": 229,
@@ -4529,11 +4696,12 @@
         "DBPM": 213,
         "VORP": 196,
         "eFG%": 37,
-        "G": 210,
-        "grade": -4965.44,
+        "grade": 58.63,
         "name": "Tom Owens",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 46,
+        "team": "HOU"
     },
     "Robert Parish*": {
         "PTS": 129,
@@ -4556,11 +4724,12 @@
         "DBPM": 78,
         "VORP": 81,
         "eFG%": 41,
-        "G": 106,
-        "grade": -2391.78,
+        "grade": 80.73,
         "name": "Robert Parish",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "GSW"
     },
     "Sonny Parker": {
         "PTS": 196,
@@ -4583,11 +4752,12 @@
         "DBPM": 52,
         "VORP": 80,
         "eFG%": 16,
-        "G": 161,
-        "grade": -2741.27,
+        "grade": 78.27,
         "name": "Sonny Parker",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 65,
+        "team": "GSW"
     },
     "Billy Paultz": {
         "PTS": 51,
@@ -4610,11 +4780,12 @@
         "DBPM": 122,
         "VORP": 59,
         "eFG%": 89,
-        "G": 13,
-        "grade": -2223.61,
+        "grade": 81.02,
         "name": "Billy Paultz",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "SAS"
     },
     "Curtis Perry": {
         "PTS": 90,
@@ -4637,11 +4808,12 @@
         "DBPM": 105,
         "VORP": 145,
         "eFG%": 192,
-        "G": 214,
-        "grade": -3810.22,
+        "grade": 69.22,
         "name": "Curtis Perry",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 44,
+        "team": "PHO"
     },
     "Cliff Pondexter": {
         "PTS": 244,
@@ -4664,11 +4836,12 @@
         "DBPM": 77,
         "VORP": 171,
         "eFG%": 214,
-        "G": 97,
-        "grade": -5693.67,
+        "grade": 50.48,
         "name": "Cliff Pondexter",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "CHI"
     },
     "Howard Porter": {
         "PTS": 66,
@@ -4691,11 +4864,12 @@
         "DBPM": 225,
         "VORP": 132,
         "eFG%": 68,
-        "G": 96,
-        "grade": -3150.71,
+        "grade": 73.67,
         "name": "Howard Porter",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "DET"
     },
     "Kevin Porter": {
         "PTS": 131,
@@ -4718,11 +4892,12 @@
         "DBPM": 244,
         "VORP": 161,
         "eFG%": 29,
-        "G": 53,
-        "grade": -3497.28,
+        "grade": 69.93,
         "name": "Kevin Porter",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "DET"
     },
     "Jim Price": {
         "PTS": 150,
@@ -4745,11 +4920,12 @@
         "DBPM": 13,
         "VORP": 127,
         "eFG%": 163,
-        "G": 189,
-        "grade": -3966.68,
+        "grade": 67.46,
         "name": "Jim Price",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 55,
+        "team": "DEN"
     },
     "Ed Ratleff": {
         "PTS": 224,
@@ -4772,11 +4948,12 @@
         "DBPM": 132,
         "VORP": 170,
         "eFG%": 185,
-        "G": 225,
-        "grade": -5784.33,
+        "grade": 51.36,
         "name": "Ed Ratleff",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 37,
+        "team": "HOU"
     },
     "Clifford Ray": {
         "PTS": 143,
@@ -4799,11 +4976,12 @@
         "DBPM": 51,
         "VORP": 58,
         "eFG%": 3,
-        "G": 105,
-        "grade": -2105.16,
+        "grade": 83.33,
         "name": "Clifford Ray",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "GSW"
     },
     "Kevin Restani": {
         "PTS": 204,
@@ -4826,11 +5004,12 @@
         "DBPM": 152,
         "VORP": 126,
         "eFG%": 24,
-        "G": 162,
-        "grade": -4112.91,
+        "grade": 65.77,
         "name": "Kevin Restani",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 64,
+        "team": "MIL"
     },
     "Truck Robinson": {
         "PTS": 10,
@@ -4853,11 +5032,12 @@
         "DBPM": 175,
         "VORP": 67,
         "eFG%": 78,
-        "G": 227,
-        "grade": -2105.16,
+        "grade": 84.96,
         "name": "Truck Robinson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 36,
+        "team": "ATL"
     },
     "Bill Robinzine": {
         "PTS": 103,
@@ -4880,11 +5060,12 @@
         "DBPM": 131,
         "VORP": 160,
         "eFG%": 143,
-        "G": 123,
-        "grade": -3726.86,
+        "grade": 68.77,
         "name": "Bill Robinzine",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 75,
+        "team": "KCK"
     },
     "Dave Robisch": {
         "PTS": 78,
@@ -4907,11 +5088,12 @@
         "DBPM": 190,
         "VORP": 79,
         "eFG%": 139,
-        "G": 68,
-        "grade": -2729.57,
+        "grade": 77.14,
         "name": "Dave Robisch",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 80,
+        "team": "IND"
     },
     "Dan Roundfield": {
         "PTS": 62,
@@ -4934,11 +5116,12 @@
         "DBPM": 101,
         "VORP": 107,
         "eFG%": 107,
-        "G": 170,
-        "grade": -2978.16,
+        "grade": 76.23,
         "name": "Dan Roundfield",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 61,
+        "team": "IND"
     },
     "Curtis Rowe": {
         "PTS": 110,
@@ -4961,11 +5144,12 @@
         "DBPM": 100,
         "VORP": 88,
         "eFG%": 48,
-        "G": 79,
-        "grade": -2796.84,
+        "grade": 76.67,
         "name": "Curtis Rowe",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "BOS"
     },
     "Campy Russell": {
         "PTS": 45,
@@ -4988,11 +5172,12 @@
         "DBPM": 130,
         "VORP": 54,
         "eFG%": 186,
-        "G": 146,
-        "grade": -2750.04,
+        "grade": 77.99,
         "name": "Campy Russell",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 70,
+        "team": "CLE"
     },
     "Cazzie Russell": {
         "PTS": 47,
@@ -5015,11 +5200,12 @@
         "DBPM": 200,
         "VORP": 66,
         "eFG%": 57,
-        "G": 12,
-        "grade": -2271.87,
+        "grade": 80.57,
         "name": "Cazzie Russell",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "LAL"
     },
     "Fred Saunders": {
         "PTS": 190,
@@ -5042,11 +5228,12 @@
         "DBPM": 89,
         "VORP": 213,
         "eFG%": 106,
-        "G": 155,
-        "grade": -5257.9,
+        "grade": 55.23,
         "name": "Fred Saunders",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 68,
+        "team": "BOS"
     },
     "Charlie Scott*": {
         "PTS": 35,
@@ -5069,11 +5256,12 @@
         "DBPM": 76,
         "VORP": 116,
         "eFG%": 167,
-        "G": 216,
-        "grade": -3530.91,
+        "grade": 71.8,
         "name": "Charlie Scott",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 43,
+        "team": "BOS"
     },
     "Bruce Seals": {
         "PTS": 88,
@@ -5096,11 +5284,12 @@
         "DBPM": 174,
         "VORP": 224,
         "eFG%": 166,
-        "G": 52,
-        "grade": -4577.93,
+        "grade": 60.06,
         "name": "Bruce Seals",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "SEA"
     },
     "Lonnie Shelton": {
         "PTS": 79,
@@ -5123,11 +5312,12 @@
         "DBPM": 32,
         "VORP": 65,
         "eFG%": 83,
-        "G": 11,
-        "grade": -2270.4,
+        "grade": 80.57,
         "name": "Lonnie Shelton",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "NYK"
     },
     "John Shumate": {
         "PTS": 54,
@@ -5150,11 +5340,12 @@
         "DBPM": 71,
         "VORP": 41,
         "eFG%": 43,
-        "G": 127,
-        "grade": -1789.3,
+        "grade": 86.51,
         "name": "John Shumate",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 74,
+        "team": "BUF"
     },
     "James Silas": {
         "PTS": 119,
@@ -5177,11 +5368,12 @@
         "DBPM": 235,
         "VORP": 185,
         "eFG%": 198,
-        "G": 242,
-        "grade": -4832.37,
+        "grade": 60.27,
         "name": "James Silas",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 22,
+        "team": "SAS"
     },
     "Paul Silas": {
         "PTS": 162,
@@ -5204,11 +5396,12 @@
         "DBPM": 173,
         "VORP": 212,
         "eFG%": 244,
-        "G": 51,
-        "grade": -5056.1,
+        "grade": 55.68,
         "name": "Paul Silas",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "DEN"
     },
     "Ralph Simpson": {
         "PTS": 87,
@@ -5231,11 +5424,12 @@
         "DBPM": 230,
         "VORP": 184,
         "eFG%": 203,
-        "G": 104,
-        "grade": -5064.88,
+        "grade": 56.31,
         "name": "Ralph Simpson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "DET"
     },
     "Al Skinner": {
         "PTS": 74,
@@ -5258,11 +5452,12 @@
         "DBPM": 67,
         "VORP": 78,
         "eFG%": 196,
-        "G": 78,
-        "grade": -3179.96,
+        "grade": 73.16,
         "name": "Al Skinner",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "NYN"
     },
     "Bingo Smith": {
         "PTS": 60,
@@ -5285,11 +5480,12 @@
         "DBPM": 166,
         "VORP": 92,
         "eFG%": 157,
-        "G": 50,
-        "grade": -3216.52,
+        "grade": 72.45,
         "name": "Bingo Smith",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "CLE"
     },
     "Elmore Smith": {
         "PTS": 132,
@@ -5312,11 +5508,12 @@
         "DBPM": 12,
         "VORP": 115,
         "eFG%": 36,
-        "G": 226,
-        "grade": -3248.69,
+        "grade": 74.51,
         "name": "Elmore Smith",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 36,
+        "team": "CLE"
     },
     "Phil Smith": {
         "PTS": 30,
@@ -5339,11 +5536,12 @@
         "DBPM": 199,
         "VORP": 56,
         "eFG%": 73,
-        "G": 10,
-        "grade": -1967.71,
+        "grade": 83.32,
         "name": "Phil Smith",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "GSW"
     },
     "Randy Smith": {
         "PTS": 21,
@@ -5366,11 +5564,12 @@
         "DBPM": 99,
         "VORP": 29,
         "eFG%": 100,
-        "G": 9,
-        "grade": -1850.72,
+        "grade": 84.37,
         "name": "Randy Smith",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "BUF"
     },
     "Dick Snyder": {
         "PTS": 125,
@@ -5393,11 +5592,12 @@
         "DBPM": 116,
         "VORP": 114,
         "eFG%": 135,
-        "G": 8,
-        "grade": -3544.08,
+        "grade": 68.9,
         "name": "Dick Snyder",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "CLE"
     },
     "Ricky Sobers": {
         "PTS": 63,
@@ -5420,11 +5620,12 @@
         "DBPM": 88,
         "VORP": 64,
         "eFG%": 49,
-        "G": 77,
-        "grade": -2078.84,
+        "grade": 83.2,
         "name": "Ricky Sobers",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "PHO"
     },
     "Mike Sojourner": {
         "PTS": 223,
@@ -5447,11 +5648,12 @@
         "DBPM": 189,
         "VORP": 169,
         "eFG%": 98,
-        "G": 199,
-        "grade": -5073.65,
+        "grade": 57.5,
         "name": "Mike Sojourner",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 51,
+        "team": "ATL"
     },
     "Kevin Stacom": {
         "PTS": 213,
@@ -5474,11 +5676,12 @@
         "DBPM": 198,
         "VORP": 211,
         "eFG%": 222,
-        "G": 76,
-        "grade": -6098.73,
+        "grade": 46.5,
         "name": "Kevin Stacom",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "BOS"
     },
     "Bud Stallworth": {
         "PTS": 176,
@@ -5501,11 +5704,12 @@
         "DBPM": 151,
         "VORP": 195,
         "eFG%": 115,
-        "G": 220,
-        "grade": -5695.13,
+        "grade": 52.1,
         "name": "Bud Stallworth",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 40,
+        "team": "NOJ"
     },
     "Larry Steele": {
         "PTS": 102,
@@ -5528,11 +5732,12 @@
         "DBPM": 34,
         "VORP": 57,
         "eFG%": 45,
-        "G": 49,
-        "grade": -2071.53,
+        "grade": 82.89,
         "name": "Larry Steele",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "POR"
     },
     "Earl Tatum": {
         "PTS": 120,
@@ -5555,11 +5760,12 @@
         "DBPM": 45,
         "VORP": 100,
         "eFG%": 105,
-        "G": 154,
-        "grade": -3337.89,
+        "grade": 72.73,
         "name": "Earl Tatum",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 68,
+        "team": "LAL"
     },
     "Brian Taylor": {
         "PTS": 43,
@@ -5582,11 +5788,12 @@
         "DBPM": 26,
         "VORP": 15,
         "eFG%": 35,
-        "G": 137,
-        "grade": -1305.28,
+        "grade": 91.06,
         "name": "Brian Taylor",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "KCK"
     },
     "Fatty Taylor": {
         "PTS": 237,
@@ -5609,11 +5816,12 @@
         "DBPM": 2,
         "VORP": 87,
         "eFG%": 208,
-        "G": 75,
-        "grade": -4560.38,
+        "grade": 60.52,
         "name": "Fatty Taylor",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "DEN"
     },
     "Ira Terrell": {
         "PTS": 137,
@@ -5636,11 +5844,12 @@
         "DBPM": 87,
         "VORP": 106,
         "eFG%": 31,
-        "G": 95,
-        "grade": -3171.19,
+        "grade": 73.47,
         "name": "Ira Terrell",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "PHO"
     },
     "Chuck Terry": {
         "PTS": 214,
@@ -5663,11 +5872,12 @@
         "DBPM": 42,
         "VORP": 223,
         "eFG%": 228,
-        "G": 169,
-        "grade": -5790.18,
+        "grade": 50.56,
         "name": "Chuck Terry",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 61,
+        "team": "NYN"
     },
     "Claude Terry": {
         "PTS": 124,
@@ -5690,11 +5900,12 @@
         "DBPM": 115,
         "VORP": 159,
         "eFG%": 9,
-        "G": 245,
-        "grade": -3419.78,
+        "grade": 73.2,
         "name": "Claude Terry",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 12,
+        "team": "ATL"
     },
     "David Thompson*": {
         "PTS": 5,
@@ -5717,11 +5928,12 @@
         "DBPM": 165,
         "VORP": 12,
         "eFG%": 32,
-        "G": 7,
-        "grade": -1077.16,
+        "grade": 91.4,
         "name": "David Thompson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "DEN"
     },
     "Nate Thurmond*": {
         "PTS": 205,
@@ -5744,11 +5956,12 @@
         "DBPM": 11,
         "VORP": 99,
         "eFG%": 224,
-        "G": 204,
-        "grade": -4295.7,
+        "grade": 64.66,
         "name": "Nate Thurmond",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 49,
+        "team": "CLE"
     },
     "Rudy Tomjanovich*": {
         "PTS": 15,
@@ -5771,11 +5984,12 @@
         "DBPM": 229,
         "VORP": 20,
         "eFG%": 30,
-        "G": 48,
-        "grade": -1502.69,
+        "grade": 88.07,
         "name": "Rudy Tomjanovich",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "HOU"
     },
     "Dave Twardzik": {
         "PTS": 101,
@@ -5798,11 +6012,12 @@
         "DBPM": 22,
         "VORP": 25,
         "eFG%": 2,
-        "G": 126,
-        "grade": -1429.58,
+        "grade": 89.77,
         "name": "Dave Twardzik",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 74,
+        "team": "POR"
     },
     "Wes Unseld*": {
         "PTS": 153,
@@ -5825,11 +6040,12 @@
         "DBPM": 16,
         "VORP": 19,
         "eFG%": 56,
-        "G": 6,
-        "grade": -1939.92,
+        "grade": 83.52,
         "name": "Wes Unseld",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "WSB"
     },
     "Dick Van Arsdale": {
         "PTS": 154,
@@ -5852,11 +6068,12 @@
         "DBPM": 185,
         "VORP": 183,
         "eFG%": 134,
-        "G": 94,
-        "grade": -4415.61,
+        "grade": 62.1,
         "name": "Dick Van Arsdale",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "PHO"
     },
     "Tom Van Arsdale": {
         "PTS": 195,
@@ -5879,11 +6096,12 @@
         "DBPM": 197,
         "VORP": 246,
         "eFG%": 190,
-        "G": 103,
-        "grade": -6022.69,
+        "grade": 47.55,
         "name": "Tom Van Arsdale",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 77,
+        "team": "PHO"
     },
     "Jan van Breda Kolff": {
         "PTS": 106,
@@ -5906,11 +6124,12 @@
         "DBPM": 75,
         "VORP": 98,
         "eFG%": 162,
-        "G": 136,
-        "grade": -3112.69,
+        "grade": 74.55,
         "name": "Jan van Breda Kolff",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 72,
+        "team": "NYN"
     },
     "Norm Van Lier": {
         "PTS": 105,
@@ -5933,11 +6152,12 @@
         "DBPM": 66,
         "VORP": 77,
         "eFG%": 219,
-        "G": 5,
-        "grade": -3074.67,
+        "grade": 73.15,
         "name": "Norm Van Lier",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "CHI"
     },
     "Neal Walk": {
         "PTS": 203,
@@ -5960,11 +6180,12 @@
         "DBPM": 114,
         "VORP": 182,
         "eFG%": 54,
-        "G": 246,
-        "grade": -4902.56,
+        "grade": 59.68,
         "name": "Neal Walk",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 11,
+        "team": "NYK"
     },
     "Andy Walker": {
         "PTS": 222,
@@ -5987,11 +6208,12 @@
         "DBPM": 58,
         "VORP": 168,
         "eFG%": 119,
-        "G": 219,
-        "grade": -4984.45,
+        "grade": 58.58,
         "name": "Andy Walker",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 40,
+        "team": "NOJ"
     },
     "Foots Walker": {
         "PTS": 179,
@@ -6014,11 +6236,12 @@
         "DBPM": 25,
         "VORP": 76,
         "eFG%": 149,
-        "G": 168,
-        "grade": -3288.17,
+        "grade": 73.37,
         "name": "Foots Walker",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 62,
+        "team": "CLE"
     },
     "Bill Walton*": {
         "PTS": 31,
@@ -6041,11 +6264,12 @@
         "DBPM": 7,
         "VORP": 3,
         "eFG%": 14,
-        "G": 160,
-        "grade": -894.37,
+        "grade": 95.11,
         "name": "Bill Walton",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 65,
+        "team": "POR"
     },
     "Lloyd Walton": {
         "PTS": 226,
@@ -6068,11 +6292,12 @@
         "DBPM": 129,
         "VORP": 144,
         "eFG%": 97,
-        "G": 192,
-        "grade": -4341.03,
+        "grade": 64.09,
         "name": "Lloyd Walton",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 53,
+        "team": "MIL"
     },
     "Cornell Warner": {
         "PTS": 234,
@@ -6095,11 +6320,12 @@
         "DBPM": 184,
         "VORP": 194,
         "eFG%": 91,
-        "G": 244,
-        "grade": -5570.84,
+        "grade": 53.56,
         "name": "Cornell Warner",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 14,
+        "team": "LAL"
     },
     "Kermit Washington": {
         "PTS": 114,
@@ -6122,11 +6348,12 @@
         "DBPM": 142,
         "VORP": 125,
         "eFG%": 40,
-        "G": 191,
-        "grade": -2763.2,
+        "grade": 78.47,
         "name": "Kermit Washington",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 53,
+        "team": "LAL"
     },
     "Richard Washington": {
         "PTS": 68,
@@ -6149,11 +6376,12 @@
         "DBPM": 206,
         "VORP": 240,
         "eFG%": 195,
-        "G": 4,
-        "grade": -4282.54,
+        "grade": 62.11,
         "name": "Richard Washington",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "KCK"
     },
     "Slick Watts": {
         "PTS": 67,
@@ -6176,11 +6404,12 @@
         "DBPM": 41,
         "VORP": 50,
         "eFG%": 206,
-        "G": 74,
-        "grade": -3332.04,
+        "grade": 71.72,
         "name": "Slick Watts",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "SEA"
     },
     "Nick Weatherspoon": {
         "PTS": 72,
@@ -6203,11 +6432,12 @@
         "DBPM": 164,
         "VORP": 167,
         "eFG%": 122,
-        "G": 198,
-        "grade": -3993.0,
+        "grade": 67.34,
         "name": "Nick Weatherspoon",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 51,
+        "team": "SEA"
     },
     "Marvin Webster": {
         "PTS": 175,
@@ -6230,11 +6460,12 @@
         "DBPM": 36,
         "VORP": 86,
         "eFG%": 50,
-        "G": 67,
-        "grade": -2795.37,
+        "grade": 76.52,
         "name": "Marvin Webster",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 80,
+        "team": "DEN"
     },
     "Scott Wedman": {
         "PTS": 52,
@@ -6257,11 +6488,12 @@
         "DBPM": 183,
         "VORP": 61,
         "eFG%": 123,
-        "G": 47,
-        "grade": -2366.92,
+        "grade": 80.17,
         "name": "Scott Wedman",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "KCK"
     },
     "Bob Weiss": {
         "PTS": 247,
@@ -6284,11 +6516,12 @@
         "DBPM": 3,
         "VORP": 113,
         "eFG%": 104,
-        "G": 167,
-        "grade": -4257.68,
+        "grade": 64.51,
         "name": "Bob Weiss",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 62,
+        "team": "WSB"
     },
     "Paul Westphal*": {
         "PTS": 18,
@@ -6311,11 +6544,12 @@
         "DBPM": 98,
         "VORP": 8,
         "eFG%": 23,
-        "G": 46,
-        "grade": -1034.75,
+        "grade": 92.31,
         "name": "Paul Westphal",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 81,
+        "team": "PHO"
     },
     "Jo Jo White*": {
         "PTS": 27,
@@ -6338,11 +6572,12 @@
         "DBPM": 97,
         "VORP": 40,
         "eFG%": 201,
-        "G": 3,
-        "grade": -2336.21,
+        "grade": 79.86,
         "name": "Jo Jo White",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "BOS"
     },
     "Sidney Wicks": {
         "PTS": 53,
@@ -6365,11 +6600,12 @@
         "DBPM": 74,
         "VORP": 63,
         "eFG%": 127,
-        "G": 2,
-        "grade": -2434.18,
+        "grade": 78.95,
         "name": "Sidney Wicks",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "BOS"
     },
     "Bob Wilkerson": {
         "PTS": 174,
@@ -6392,11 +6628,12 @@
         "DBPM": 113,
         "VORP": 193,
         "eFG%": 235,
-        "G": 93,
-        "grade": -5421.68,
+        "grade": 52.9,
         "name": "Bob Wilkerson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "SEA"
     },
     "Jamaal Wilkes*": {
         "PTS": 38,
@@ -6419,11 +6656,12 @@
         "DBPM": 121,
         "VORP": 39,
         "eFG%": 77,
-        "G": 112,
-        "grade": -1779.07,
+        "grade": 86.4,
         "name": "Jamaal Wilkes",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 76,
+        "team": "GSW"
     },
     "Chuck Williams": {
         "PTS": 246,
@@ -6446,11 +6684,12 @@
         "DBPM": 86,
         "VORP": 181,
         "eFG%": 242,
-        "G": 213,
-        "grade": -5989.06,
+        "grade": 49.33,
         "name": "Chuck Williams",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 44,
+        "team": "BUF"
     },
     "Gus Williams": {
         "PTS": 123,
@@ -6473,11 +6712,12 @@
         "DBPM": 50,
         "VORP": 85,
         "eFG%": 111,
-        "G": 1,
-        "grade": -3049.81,
+        "grade": 73.32,
         "name": "Gus Williams",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 82,
+        "team": "GSW"
     },
     "Nate Williams": {
         "PTS": 76,
@@ -6500,11 +6740,12 @@
         "DBPM": 163,
         "VORP": 143,
         "eFG%": 146,
-        "G": 73,
-        "grade": -3915.5,
+        "grade": 66.38,
         "name": "Nate Williams",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 79,
+        "team": "NOJ"
     },
     "John Williamson": {
         "PTS": 20,
@@ -6527,11 +6768,12 @@
         "DBPM": 188,
         "VORP": 131,
         "eFG%": 71,
-        "G": 238,
-        "grade": -3172.65,
+        "grade": 75.36,
         "name": "John Williamson",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 30,
+        "team": "IND"
     },
     "Bill Willoughby": {
         "PTS": 215,
@@ -6554,11 +6796,12 @@
         "DBPM": 141,
         "VORP": 166,
         "eFG%": 165,
-        "G": 221,
-        "grade": -5120.45,
+        "grade": 57.36,
         "name": "Bill Willoughby",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 39,
+        "team": "ATL"
     },
     "Brian Winters": {
         "PTS": 28,
@@ -6581,11 +6824,12 @@
         "DBPM": 182,
         "VORP": 49,
         "eFG%": 47,
-        "G": 92,
-        "grade": -1947.23,
+        "grade": 84.6,
         "name": "Brian Winters",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "MIL"
     },
     "Willie Wise": {
         "PTS": 142,
@@ -6608,11 +6852,12 @@
         "DBPM": 96,
         "VORP": 142,
         "eFG%": 118,
-        "G": 122,
-        "grade": -4064.66,
+        "grade": 65.68,
         "name": "Willie Wise",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 75,
+        "team": "DEN"
     },
     "Dave Wohl": {
         "PTS": 158,
@@ -6635,11 +6880,12 @@
         "DBPM": 128,
         "VORP": 236,
         "eFG%": 232,
-        "G": 224,
-        "grade": -5841.36,
+        "grade": 50.82,
         "name": "Dave Wohl",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 37,
+        "team": "NYN"
     },
     "Larry Wright": {
         "PTS": 152,
@@ -6662,10 +6908,11 @@
         "DBPM": 172,
         "VORP": 210,
         "eFG%": 176,
-        "G": 91,
-        "grade": -5032.71,
+        "grade": 56.43,
         "name": "Larry Wright",
         "league_grade": 75.85,
-        "year": "1977"
+        "year": 1977,
+        "games_played": 78,
+        "team": "WSB"
     }
 }

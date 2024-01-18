@@ -14,4 +14,4 @@ category_rankings.reverse()
 
 with open("r.txt", "w+") as f:
     for item in category_rankings:
-        f.write(f"{item[0]} -> <a href=\"/season/2023\">{item[1]}</a><br>\n")
+        f.write(f"{item[0]} -> <a href=\"/season/{item[0].split('_')[-1]}\">{item[1]}</a><br>\n")

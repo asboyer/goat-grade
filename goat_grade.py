@@ -1,6 +1,9 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import json
+import os
+
+root = os.path.dirname(__file__)
 
 NBA_SEASON = [10, 11, 12, 1, 2, 3, 4, 5, 6]
 
@@ -77,7 +80,7 @@ def get_stats(year, categories, folder):
             if float(reg_stats[player]["G"]) < 10:
                 del reg_stats[player]
 
-    with open(f"./stats/raw_stats{year}.json", "w+", encoding="utf8") as file:
+    with open(os.path.join(root, f"stats/raw_stats{year}.json"), "w+", encoding="utf8") as file:
         file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
 
     return reg_stats, categories
@@ -103,7 +106,7 @@ def GOAT_GRADE(year,
         # # offline mode
         # if not os.path.exists(f"stats/raw_stats{year}.json", "r", encoding="utf8")
 
-        f = open(f"stats/raw_stats{year}.json", "r", encoding="utf8")
+        f = open(os.path.join(root, f"stats/raw_stats{year}.json"), "r", encoding="utf8")
         stats = json.load(f)
         f.close()
 
@@ -187,7 +190,7 @@ def GOAT_GRADE(year,
         ranks[player]["games_played"] = int(stats[player]["G"])
         ranks[player]["team"] = stats[player]["Tm"] 
 
-    with open(f"./{folder}{file_name}.json", "w+", encoding="utf8") as file:
+    with open(f"{folder}{file_name}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent =4))
 
 

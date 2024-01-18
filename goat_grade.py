@@ -77,7 +77,7 @@ def get_stats(year, categories, folder):
             if float(reg_stats[player]["G"]) < 10:
                 del reg_stats[player]
 
-    with open(f"stats/raw_stats{year}.json", "w+", encoding="utf8") as file:
+    with open(f"./stats/raw_stats{year}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(reg_stats, ensure_ascii=False, indent =4))
 
     return reg_stats, categories
@@ -187,7 +187,7 @@ def GOAT_GRADE(year,
         ranks[player]["games_played"] = int(stats[player]["G"])
         ranks[player]["team"] = stats[player]["Tm"] 
 
-    with open(f"{folder}{file_name}.json", "w+", encoding="utf8") as file:
+    with open(f"./{folder}{file_name}.json", "w+", encoding="utf8") as file:
         file.write(json.dumps(ranks, ensure_ascii=False, indent =4))
 
 

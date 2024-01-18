@@ -48,7 +48,7 @@ def index():
 # all time seasons
 @app.route("/all_time")
 def all():
-    return open('r.txt', 'r').read()
+    return open('./r.txt', 'r').read()
 
 @app.route("/season/<name>")
 def season(name):
@@ -62,7 +62,7 @@ def season(name):
 
     try:
         update = False
-        last_day = int(open("last_update.txt", "r").readlines()[0])
+        last_day = int(open("./last_update.txt", "r").readlines()[0])
         
         in_season = current_month in NBA_SEASON
         current_year_og = current_month in [10, 11, 12] and current_year + 1 == year
@@ -70,11 +70,11 @@ def season(name):
 
         if in_season and (current_year_og or current_year_alt) and last_day != current_day: 
             print("Update stats!")
-            f = open("last_update.txt", "w")
+            f = open("./last_update.txt", "w")
             f.write(str(current_day) + "\n" + today.strftime("%b %d %Y %H:%M:%S"))
             update = True
 
-        elif not os.path.exists(f'stats/raw_stats{year}.json'):
+        elif not os.path.exists(f'./stats/raw_stats{year}.json'):
             print("Update stats!!")
             update = True
         
@@ -87,7 +87,7 @@ def season(name):
 
 @app.route("/data/<name>")
 def data(name):
-    if os.path.exists(f'grades/{name}'):
-        f = open(f'grades/{name}')
+    if os.path.exists(f'./grades/{name}'):
+        f = open(f'./grades/{name}')
         data = json.load(f)
         return data

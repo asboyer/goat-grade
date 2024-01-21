@@ -17,7 +17,7 @@
         "grade": 56.25,
         "name": "Zaid Abdul-Aziz",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "MIL"
     },
@@ -39,7 +39,7 @@
         "grade": 93.77,
         "name": "Kareem Abdul-Jabbar",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "MIL"
     },
@@ -61,7 +61,7 @@
         "grade": 48.88,
         "name": "Rick Adelman",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 35,
         "team": "SDR"
     },
@@ -83,7 +83,7 @@
         "grade": 61.9,
         "name": "Lucius Allen",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "SEA"
     },
@@ -105,7 +105,7 @@
         "grade": 45.81,
         "name": "Al Attles",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 45,
         "team": "SFW"
     },
@@ -127,7 +127,7 @@
         "grade": 48.4,
         "name": "Jim Barnes",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 77,
         "team": "BOS"
     },
@@ -149,7 +149,7 @@
         "grade": 77.23,
         "name": "Dick Barnett",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "NYK"
     },
@@ -171,7 +171,7 @@
         "grade": 76.03,
         "name": "Jim Barnett",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "SDR"
     },
@@ -193,7 +193,7 @@
         "grade": 91.02,
         "name": "Elgin Baylor",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 54,
         "team": "LAL"
     },
@@ -215,7 +215,7 @@
         "grade": 67.1,
         "name": "Butch Beard",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 72,
         "team": "ATL"
     },
@@ -237,7 +237,7 @@
         "grade": 75.44,
         "name": "Walt Bellamy",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 23,
         "team": "ATL"
     },
@@ -259,7 +259,7 @@
         "grade": 77.48,
         "name": "Dave Bing",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 70,
         "team": "DET"
     },
@@ -281,7 +281,7 @@
         "grade": 73.0,
         "name": "John Block",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "SDR"
     },
@@ -303,7 +303,7 @@
         "grade": 70.38,
         "name": "Tom Boerwinkle",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "CHI"
     },
@@ -325,7 +325,7 @@
         "grade": 81.3,
         "name": "Bob Boozer",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "SEA"
     },
@@ -347,7 +347,7 @@
         "grade": 76.24,
         "name": "Bill Bradley",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 67,
         "team": "NYK"
     },
@@ -369,7 +369,7 @@
         "grade": 83.47,
         "name": "Bill Bridges",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "ATL"
     },
@@ -391,7 +391,7 @@
         "grade": 54.74,
         "name": "Em Bryant",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 71,
         "team": "BOS"
     },
@@ -413,7 +413,7 @@
         "grade": 83.82,
         "name": "Joe Caldwell",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "ATL"
     },
@@ -435,7 +435,7 @@
         "grade": 42.06,
         "name": "Fred Carter",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 76,
         "team": "BAL"
     },
@@ -457,7 +457,7 @@
         "grade": 86.61,
         "name": "Wilt Chamberlain",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 12,
         "team": "LAL"
     },
@@ -479,7 +479,7 @@
         "grade": 47.47,
         "name": "Jerry Chambers",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 79,
         "team": "PHO"
     },
@@ -501,7 +501,7 @@
         "grade": 41.3,
         "name": "Don Chaney",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 63,
         "team": "BOS"
     },
@@ -523,7 +523,7 @@
         "grade": 62.14,
         "name": "Len Chappell",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 75,
         "team": "MIL"
     },
@@ -545,7 +545,7 @@
         "grade": 86.88,
         "name": "Archie Clark",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 76,
         "team": "PHI"
     },
@@ -567,7 +567,7 @@
         "grade": 61.04,
         "name": "Barry Clemens",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "SEA"
     },
@@ -589,7 +589,7 @@
         "grade": 63.52,
         "name": "Mel Counts",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "LAL"
     },
@@ -611,7 +611,7 @@
         "grade": 67.76,
         "name": "Freddie Crawford",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 77,
         "team": "MIL"
     },
@@ -633,7 +633,7 @@
         "grade": 88.98,
         "name": "Billy Cunningham",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "PHI"
     },
@@ -655,7 +655,7 @@
         "grade": 82.13,
         "name": "Bob Dandridge",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "MIL"
     },
@@ -677,7 +677,7 @@
         "grade": 75.34,
         "name": "Jim Davis",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "ATL"
     },
@@ -699,7 +699,7 @@
         "grade": 62.38,
         "name": "Mike Davis",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 56,
         "team": "BAL"
     },
@@ -721,7 +721,7 @@
         "grade": 73.86,
         "name": "Dave DeBusschere",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 79,
         "team": "NYK"
     },
@@ -743,7 +743,7 @@
         "grade": 61.18,
         "name": "Connie Dierking",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 76,
         "team": "CIN"
     },
@@ -765,7 +765,7 @@
         "grade": 76.96,
         "name": "Terry Dischinger",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 75,
         "team": "DET"
     },
@@ -787,7 +787,7 @@
         "grade": 58.53,
         "name": "Johnny Egan",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 72,
         "team": "LAL"
     },
@@ -809,7 +809,7 @@
         "grade": 58.28,
         "name": "Joe Ellis",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 76,
         "team": "SFW"
     },
@@ -831,7 +831,7 @@
         "grade": 66.11,
         "name": "Leroy Ellis",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 72,
         "team": "BAL"
     },
@@ -853,7 +853,7 @@
         "grade": 66.73,
         "name": "Keith Erickson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 68,
         "team": "LAL"
     },
@@ -875,7 +875,7 @@
         "grade": 66.45,
         "name": "Hank Finkel",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "BOS"
     },
@@ -897,7 +897,7 @@
         "grade": 61.52,
         "name": "Fred Foster",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 74,
         "team": "CIN"
     },
@@ -919,7 +919,7 @@
         "grade": 80.23,
         "name": "Jim Fox",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "PHO"
     },
@@ -941,7 +941,7 @@
         "grade": 94.6,
         "name": "Walt Frazier",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 77,
         "team": "NYK"
     },
@@ -963,7 +963,7 @@
         "grade": 53.6,
         "name": "Dave Gambee",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 73,
         "team": "SFW"
     },
@@ -985,7 +985,7 @@
         "grade": 62.07,
         "name": "Dick Garrett",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 73,
         "team": "LAL"
     },
@@ -1007,7 +1007,7 @@
         "grade": 50.74,
         "name": "Herm Gilliam",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 57,
         "team": "CIN"
     },
@@ -1029,7 +1029,7 @@
         "grade": 81.27,
         "name": "Gail Goodrich",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "PHO"
     },
@@ -1051,7 +1051,7 @@
         "grade": 86.16,
         "name": "Johnny Green",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "CIN"
     },
@@ -1073,7 +1073,7 @@
         "grade": 45.02,
         "name": "Lamar Green",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 58,
         "team": "PHO"
     },
@@ -1095,7 +1095,7 @@
         "grade": 81.58,
         "name": "Hal Greer",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "PHI"
     },
@@ -1117,7 +1117,7 @@
         "grade": 52.91,
         "name": "Gary Gregor",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "ATL"
     },
@@ -1139,7 +1139,7 @@
         "grade": 61.35,
         "name": "Matt Guokas",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "PHI"
     },
@@ -1161,7 +1161,7 @@
         "grade": 89.16,
         "name": "Happy Hairston",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 55,
         "team": "LAL"
     },
@@ -1183,7 +1183,7 @@
         "grade": 42.92,
         "name": "Shaler Halimon",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 38,
         "team": "CHI"
     },
@@ -1205,7 +1205,7 @@
         "grade": 43.85,
         "name": "Art Harris",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 76,
         "team": "PHO"
     },
@@ -1227,7 +1227,7 @@
         "grade": 79.85,
         "name": "Clem Haskins",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "CHI"
     },
@@ -1249,7 +1249,7 @@
         "grade": 90.71,
         "name": "John Havlicek",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "BOS"
     },
@@ -1271,7 +1271,7 @@
         "grade": 91.16,
         "name": "Connie Hawkins",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "PHO"
     },
@@ -1293,7 +1293,7 @@
         "grade": 81.13,
         "name": "Elvin Hayes",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "SDR"
     },
@@ -1315,7 +1315,7 @@
         "grade": 78.79,
         "name": "Walt Hazzard",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "ATL"
     },
@@ -1337,7 +1337,7 @@
         "grade": 67.66,
         "name": "Fred Hetzel",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 63,
         "team": "PHI"
     },
@@ -1359,7 +1359,7 @@
         "grade": 42.95,
         "name": "Bill Hewitt",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 45,
         "team": "DET"
     },
@@ -1381,7 +1381,7 @@
         "grade": 64.28,
         "name": "Bailey Howell",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "BOS"
     },
@@ -1403,7 +1403,7 @@
         "grade": 91.91,
         "name": "Lou Hudson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "ATL"
     },
@@ -1425,7 +1425,7 @@
         "grade": 86.3,
         "name": "Darrall Imhoff",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 79,
         "team": "PHI"
     },
@@ -1447,7 +1447,7 @@
         "grade": 49.77,
         "name": "Luke Jackson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 37,
         "team": "PHI"
     },
@@ -1469,7 +1469,7 @@
         "grade": 77.41,
         "name": "Gus Johnson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "BAL"
     },
@@ -1491,7 +1491,7 @@
         "grade": 53.22,
         "name": "Rich Johnson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 65,
         "team": "BOS"
     },
@@ -1513,7 +1513,7 @@
         "grade": 64.0,
         "name": "Wali Jones",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "PHI"
     },
@@ -1535,7 +1535,7 @@
         "grade": 52.25,
         "name": "Bob Kauffman",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 64,
         "team": "CHI"
     },
@@ -1557,7 +1557,7 @@
         "grade": 57.08,
         "name": "Toby Kimball",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 77,
         "team": "SDR"
     },
@@ -1579,7 +1579,7 @@
         "grade": 69.76,
         "name": "Don Kojis",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 56,
         "team": "SDR"
     },
@@ -1601,7 +1601,7 @@
         "grade": 55.18,
         "name": "Howard Komives",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "DET"
     },
@@ -1623,7 +1623,7 @@
         "grade": 44.85,
         "name": "Steve Kuberski",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 51,
         "team": "BOS"
     },
@@ -1645,7 +1645,7 @@
         "grade": 69.72,
         "name": "Stu Lantz",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "SDR"
     },
@@ -1667,7 +1667,7 @@
         "grade": 62.73,
         "name": "Clyde Lee",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "SFW"
     },
@@ -1689,7 +1689,7 @@
         "grade": 44.78,
         "name": "Bobby Lewis",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 73,
         "team": "SFW"
     },
@@ -1711,7 +1711,7 @@
         "grade": 74.93,
         "name": "Kevin Loughery",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 55,
         "team": "BAL"
     },
@@ -1733,7 +1733,7 @@
         "grade": 85.78,
         "name": "Bob Love",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "CHI"
     },
@@ -1755,7 +1755,7 @@
         "grade": 89.67,
         "name": "Jerry Lucas",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 63,
         "team": "SFW"
     },
@@ -1777,7 +1777,7 @@
         "grade": 43.47,
         "name": "Ed Manning",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 38,
         "team": "CHI"
     },
@@ -1799,7 +1799,7 @@
         "grade": 87.61,
         "name": "Jack Marin",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "BAL"
     },
@@ -1821,7 +1821,7 @@
         "grade": 44.19,
         "name": "Willie McCarter",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 40,
         "team": "LAL"
     },
@@ -1843,7 +1843,7 @@
         "grade": 87.74,
         "name": "Jon McGlocklin",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "MIL"
     },
@@ -1865,7 +1865,7 @@
         "grade": 66.55,
         "name": "McCoy McLemore",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 73,
         "team": "DET"
     },
@@ -1887,7 +1887,7 @@
         "grade": 77.2,
         "name": "Tom Meschery",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "SEA"
     },
@@ -1909,7 +1909,7 @@
         "grade": 57.63,
         "name": "Steve Mix",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 18,
         "team": "DET"
     },
@@ -1931,7 +1931,7 @@
         "grade": 82.09,
         "name": "Earl Monroe",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "BAL"
     },
@@ -1953,7 +1953,7 @@
         "grade": 71.21,
         "name": "Otto Moore",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "DET"
     },
@@ -1975,7 +1975,7 @@
         "grade": 70.41,
         "name": "Erwin Mueller",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 74,
         "team": "DET"
     },
@@ -1997,7 +1997,7 @@
         "grade": 84.71,
         "name": "Jeff Mullins",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 74,
         "team": "SFW"
     },
@@ -2019,7 +2019,7 @@
         "grade": 58.73,
         "name": "Dorie Murrey",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "SEA"
     },
@@ -2041,7 +2041,7 @@
         "grade": 86.33,
         "name": "Don Nelson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "BOS"
     },
@@ -2063,7 +2063,7 @@
         "grade": 58.84,
         "name": "Don Ohl",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 66,
         "team": "ATL"
     },
@@ -2085,7 +2085,7 @@
         "grade": 56.42,
         "name": "Bob Portman",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 60,
         "team": "SFW"
     },
@@ -2107,7 +2107,7 @@
         "grade": 52.01,
         "name": "Bob Quick",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 19,
         "team": "DET"
     },
@@ -2129,7 +2129,7 @@
         "grade": 57.77,
         "name": "Luther Rackley",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 66,
         "team": "CIN"
     },
@@ -2151,7 +2151,7 @@
         "grade": 92.53,
         "name": "Willis Reed",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "NYK"
     },
@@ -2173,7 +2173,7 @@
         "grade": 48.19,
         "name": "Pat Riley",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 36,
         "team": "SDR"
     },
@@ -2195,7 +2195,7 @@
         "grade": 66.52,
         "name": "Mike Riordan",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "NYK"
     },
@@ -2217,7 +2217,7 @@
         "grade": 61.8,
         "name": "Rick Roberson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 74,
         "team": "LAL"
     },
@@ -2239,7 +2239,7 @@
         "grade": 95.22,
         "name": "Oscar Robertson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 69,
         "team": "CIN"
     },
@@ -2261,7 +2261,7 @@
         "grade": 87.88,
         "name": "Flynn Robinson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "MIL"
     },
@@ -2283,7 +2283,7 @@
         "grade": 45.81,
         "name": "Guy Rodgers",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 64,
         "team": "MIL"
     },
@@ -2305,7 +2305,7 @@
         "grade": 77.51,
         "name": "Bob Rule",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "SEA"
     },
@@ -2327,7 +2327,7 @@
         "grade": 78.06,
         "name": "Cazzie Russell",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "NYK"
     },
@@ -2349,7 +2349,7 @@
         "grade": 68.52,
         "name": "Tom Sanders",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 57,
         "team": "BOS"
     },
@@ -2371,7 +2371,7 @@
         "grade": 61.45,
         "name": "Dale Schlueter",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 63,
         "team": "SFW"
     },
@@ -2393,7 +2393,7 @@
         "grade": 63.25,
         "name": "Ray Scott",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 73,
         "team": "BAL"
     },
@@ -2415,7 +2415,7 @@
         "grade": 65.24,
         "name": "Larry Siegfried",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "BOS"
     },
@@ -2437,7 +2437,7 @@
         "grade": 70.65,
         "name": "Paul Silas",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "PHO"
     },
@@ -2459,7 +2459,7 @@
         "grade": 61.18,
         "name": "Jerry Sloan",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 53,
         "team": "CHI"
     },
@@ -2481,7 +2481,7 @@
         "grade": 46.88,
         "name": "Adrian Smith",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 45,
         "team": "SFW"
     },
@@ -2503,7 +2503,7 @@
         "grade": 51.57,
         "name": "Bingo Smith",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 75,
         "team": "SDR"
     },
@@ -2525,7 +2525,7 @@
         "grade": 79.23,
         "name": "Greg Smith",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "MIL"
     },
@@ -2547,7 +2547,7 @@
         "grade": 84.23,
         "name": "Dick Snyder",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 76,
         "team": "SEA"
     },
@@ -2569,7 +2569,7 @@
         "grade": 62.8,
         "name": "Dave Stallworth",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "NYK"
     },
@@ -2591,7 +2591,7 @@
         "grade": 74.03,
         "name": "Nate Thurmond",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 43,
         "team": "SFW"
     },
@@ -2613,7 +2613,7 @@
         "grade": 50.32,
         "name": "John Trapp",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 70,
         "team": "SDR"
     },
@@ -2635,7 +2635,7 @@
         "grade": 67.62,
         "name": "John Tresvant",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 20,
         "team": "LAL"
     },
@@ -2657,7 +2657,7 @@
         "grade": 50.53,
         "name": "Bill Turner",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 69,
         "team": "CIN"
     },
@@ -2679,7 +2679,7 @@
         "grade": 90.5,
         "name": "Wes Unseld",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "BAL"
     },
@@ -2701,7 +2701,7 @@
         "grade": 87.33,
         "name": "Dick Van Arsdale",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 77,
         "team": "PHO"
     },
@@ -2723,7 +2723,7 @@
         "grade": 76.96,
         "name": "Tom Van Arsdale",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 71,
         "team": "CIN"
     },
@@ -2745,7 +2745,7 @@
         "grade": 58.46,
         "name": "Norm Van Lier",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "CIN"
     },
@@ -2767,7 +2767,7 @@
         "grade": 64.14,
         "name": "Neal Walk",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "PHO"
     },
@@ -2789,7 +2789,7 @@
         "grade": 89.33,
         "name": "Chet Walker",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 78,
         "team": "CHI"
     },
@@ -2811,7 +2811,7 @@
         "grade": 80.23,
         "name": "Jimmy Walker",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 81,
         "team": "DET"
     },
@@ -2833,7 +2833,7 @@
         "grade": 77.2,
         "name": "Jim Washington",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 79,
         "team": "PHI"
     },
@@ -2855,7 +2855,7 @@
         "grade": 67.21,
         "name": "Bob Weiss",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 82,
         "team": "CHI"
     },
@@ -2877,7 +2877,7 @@
         "grade": 53.6,
         "name": "Walt Wesley",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 72,
         "team": "CHI"
     },
@@ -2899,7 +2899,7 @@
         "grade": 95.6,
         "name": "Jerry West",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 74,
         "team": "LAL"
     },
@@ -2921,7 +2921,7 @@
         "grade": 66.11,
         "name": "Jo Jo White",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 60,
         "team": "BOS"
     },
@@ -2943,7 +2943,7 @@
         "grade": 74.65,
         "name": "Lenny Wilkens",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 75,
         "team": "SEA"
     },
@@ -2965,7 +2965,7 @@
         "grade": 61.32,
         "name": "Art Williams",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "SDR"
     },
@@ -2987,7 +2987,7 @@
         "grade": 49.5,
         "name": "Bernie Williams",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 72,
         "team": "SDR"
     },
@@ -3009,7 +3009,7 @@
         "grade": 70.69,
         "name": "Ron Williams",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 80,
         "team": "SFW"
     },
@@ -3031,7 +3031,7 @@
         "grade": 49.67,
         "name": "George Wilson",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 67,
         "team": "PHI"
     },
@@ -3053,7 +3053,7 @@
         "grade": 63.62,
         "name": "Lee Winfield",
         "league_grade": 74.57,
-        "year": "1970",
+        "year": 1970,
         "games_played": 64,
         "team": "SEA"
     }

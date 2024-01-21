@@ -22,11 +22,12 @@
         "DBPM": 147,
         "VORP": 187,
         "eFG%": 163,
-        "G": 144,
-        "grade": 66.15,
+        "grade": 66.04,
         "name": "Kareem Abdul-Jabbar",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "LAL"
     },
     "Mark Acres": {
         "PTS": 262,
@@ -51,11 +52,12 @@
         "DBPM": 168,
         "VORP": 220,
         "eFG%": 128,
-        "G": 197,
-        "grade": 54.46,
+        "grade": 54.38,
         "name": "Mark Acres",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 62,
+        "team": "BOS"
     },
     "Michael Adams": {
         "PTS": 38,
@@ -80,11 +82,12 @@
         "DBPM": 100,
         "VORP": 25,
         "eFG%": 73,
-        "G": 121,
-        "grade": 85.42,
+        "grade": 85.95,
         "name": "Michael Adams",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "DEN"
     },
     "Mark Aguirre": {
         "PTS": 68,
@@ -109,11 +112,12 @@
         "DBPM": 156,
         "VORP": 108,
         "eFG%": 75,
-        "G": 231,
-        "grade": 75.42,
+        "grade": 76.66,
         "name": "Mark Aguirre",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 36,
+        "team": "DET"
     },
     "Danny Ainge": {
         "PTS": 25,
@@ -138,11 +142,12 @@
         "DBPM": 179,
         "VORP": 83,
         "eFG%": 63,
-        "G": 249,
-        "grade": 80.86,
+        "grade": 82.54,
         "name": "Danny Ainge",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 28,
+        "team": "SAC"
     },
     "Mark Alarie": {
         "PTS": 190,
@@ -167,11 +172,12 @@
         "DBPM": 202,
         "VORP": 186,
         "eFG%": 110,
-        "G": 143,
-        "grade": 66.53,
+        "grade": 66.42,
         "name": "Mark Alarie",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "WSB"
     },
     "Steve Alford": {
         "PTS": 202,
@@ -196,11 +202,12 @@
         "DBPM": 178,
         "VORP": 201,
         "eFG%": 106,
-        "G": 203,
-        "grade": 61.97,
+        "grade": 62.3,
         "name": "Steve Alford",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 57,
+        "team": "GSW"
     },
     "Greg Anderson": {
         "PTS": 89,
@@ -225,11 +232,12 @@
         "DBPM": 201,
         "VORP": 185,
         "eFG%": 89,
-        "G": 37,
-        "grade": 72.27,
+        "grade": 71.3,
         "name": "Greg Anderson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "SAS"
     },
     "Michael Anderson": {
         "PTS": 213,
@@ -254,11 +262,12 @@
         "DBPM": 146,
         "VORP": 200,
         "eFG%": 254,
-        "G": 230,
-        "grade": 54.58,
+        "grade": 54.86,
         "name": "Michael Anderson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 36,
+        "team": "SAS"
     },
     "Richard Anderson": {
         "PTS": 225,
@@ -283,11 +292,12 @@
         "DBPM": 99,
         "VORP": 120,
         "eFG%": 127,
-        "G": 155,
-        "grade": 65.67,
+        "grade": 65.66,
         "name": "Richard Anderson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "POR"
     },
     "Ron Anderson": {
         "PTS": 59,
@@ -312,11 +322,12 @@
         "DBPM": 254,
         "VORP": 139,
         "eFG%": 113,
-        "G": 36,
-        "grade": 75.79,
+        "grade": 74.97,
         "name": "Ron Anderson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "PHI"
     },
     "Willie Anderson": {
         "PTS": 36,
@@ -341,11 +352,12 @@
         "DBPM": 76,
         "VORP": 46,
         "eFG%": 94,
-        "G": 60,
-        "grade": 84.43,
+        "grade": 84.26,
         "name": "Willie Anderson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "SAS"
     },
     "John Bagley": {
         "PTS": 174,
@@ -370,11 +382,12 @@
         "DBPM": 224,
         "VORP": 232,
         "eFG%": 241,
-        "G": 172,
-        "grade": 56.21,
+        "grade": 55.95,
         "name": "John Bagley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 68,
+        "team": "NJN"
     },
     "Thurl Bailey": {
         "PTS": 31,
@@ -399,11 +412,12 @@
         "DBPM": 167,
         "VORP": 82,
         "eFG%": 135,
-        "G": 35,
-        "grade": 82.72,
+        "grade": 82.2,
         "name": "Thurl Bailey",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "UTA"
     },
     "Charles Barkley*": {
         "PTS": 8,
@@ -428,11 +442,12 @@
         "DBPM": 98,
         "VORP": 4,
         "eFG%": 3,
-        "G": 102,
-        "grade": 94.58,
+        "grade": 95.31,
         "name": "Charles Barkley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "PHI"
     },
     "John Battle": {
         "PTS": 137,
@@ -457,11 +472,12 @@
         "DBPM": 209,
         "VORP": 138,
         "eFG%": 183,
-        "G": 34,
-        "grade": 68.48,
+        "grade": 67.3,
         "name": "John Battle",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "ATL"
     },
     "Benoit Benjamin": {
         "PTS": 57,
@@ -486,11 +502,12 @@
         "DBPM": 52,
         "VORP": 73,
         "eFG%": 23,
-        "G": 101,
-        "grade": 83.2,
+        "grade": 83.41,
         "name": "Benoit Benjamin",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "LAC"
     },
     "Ricky Berry": {
         "PTS": 119,
@@ -515,11 +532,12 @@
         "DBPM": 216,
         "VORP": 171,
         "eFG%": 79,
-        "G": 191,
-        "grade": 68.15,
+        "grade": 68.63,
         "name": "Ricky Berry",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 64,
+        "team": "SAC"
     },
     "Walter Berry": {
         "PTS": 150,
@@ -544,11 +562,12 @@
         "DBPM": 39,
         "VORP": 119,
         "eFG%": 20,
-        "G": 226,
-        "grade": 75.7,
+        "grade": 76.9,
         "name": "Walter Berry",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 40,
+        "team": "HOU"
     },
     "Rolando Blackman": {
         "PTS": 29,
@@ -573,11 +592,12 @@
         "DBPM": 240,
         "VORP": 89,
         "eFG%": 124,
-        "G": 114,
-        "grade": 79.63,
+        "grade": 79.81,
         "name": "Rolando Blackman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "DAL"
     },
     "Muggsy Bogues": {
         "PTS": 219,
@@ -602,11 +622,12 @@
         "DBPM": 86,
         "VORP": 75,
         "eFG%": 240,
-        "G": 100,
-        "grade": 66.33,
+        "grade": 65.76,
         "name": "Muggsy Bogues",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "CHH"
     },
     "Manute Bol": {
         "PTS": 249,
@@ -631,11 +652,12 @@
         "DBPM": 3,
         "VORP": 137,
         "eFG%": 258,
-        "G": 86,
-        "grade": 59.21,
+        "grade": 58.17,
         "name": "Manute Bol",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "GSW"
     },
     "Anthony Bowie": {
         "PTS": 156,
@@ -660,11 +682,12 @@
         "DBPM": 223,
         "VORP": 219,
         "eFG%": 88,
-        "G": 259,
-        "grade": 60.02,
+        "grade": 60.86,
         "name": "Anthony Bowie",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 18,
+        "team": "SAS"
     },
     "Sam Bowie": {
         "PTS": 155,
@@ -689,11 +712,12 @@
         "DBPM": 45,
         "VORP": 157,
         "eFG%": 181,
-        "G": 257,
-        "grade": 64.65,
+        "grade": 65.68,
         "name": "Sam Bowie",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 20,
+        "team": "POR"
     },
     "Adrian Branch": {
         "PTS": 173,
@@ -718,11 +742,12 @@
         "DBPM": 215,
         "VORP": 170,
         "eFG%": 172,
-        "G": 179,
-        "grade": 62.68,
+        "grade": 62.79,
         "name": "Adrian Branch",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "POR"
     },
     "Randy Breuer": {
         "PTS": 245,
@@ -747,11 +772,12 @@
         "DBPM": 85,
         "VORP": 169,
         "eFG%": 150,
-        "G": 219,
-        "grade": 59.24,
+        "grade": 59.62,
         "name": "Randy Breuer",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 48,
+        "team": "MIL"
     },
     "Frank Brickowski": {
         "PTS": 88,
@@ -776,11 +802,12 @@
         "DBPM": 75,
         "VORP": 115,
         "eFG%": 62,
-        "G": 190,
-        "grade": 76.84,
+        "grade": 77.71,
         "name": "Frank Brickowski",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 64,
+        "team": "SAS"
     },
     "Scott Brooks": {
         "PTS": 224,
@@ -805,11 +832,12 @@
         "DBPM": 120,
         "VORP": 88,
         "eFG%": 105,
-        "G": 33,
-        "grade": 70.28,
+        "grade": 69.18,
         "name": "Scott Brooks",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "PHI"
     },
     "Mike Brown": {
         "PTS": 238,
@@ -834,11 +862,12 @@
         "DBPM": 145,
         "VORP": 252,
         "eFG%": 256,
-        "G": 183,
-        "grade": 52.45,
+        "grade": 52.13,
         "name": "Mike Brown",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 66,
+        "team": "UTA"
     },
     "Mark Bryant": {
         "PTS": 230,
@@ -863,11 +892,12 @@
         "DBPM": 185,
         "VORP": 245,
         "eFG%": 132,
-        "G": 205,
-        "grade": 53.88,
+        "grade": 53.87,
         "name": "Mark Bryant",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 56,
+        "team": "POR"
     },
     "Michael Cage": {
         "PTS": 126,
@@ -892,11 +922,12 @@
         "DBPM": 134,
         "VORP": 67,
         "eFG%": 98,
-        "G": 85,
-        "grade": 78.87,
+        "grade": 78.71,
         "name": "Michael Cage",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "SEA"
     },
     "Tony Campbell": {
         "PTS": 205,
@@ -921,11 +952,12 @@
         "DBPM": 208,
         "VORP": 231,
         "eFG%": 192,
-        "G": 194,
-        "grade": 58.39,
+        "grade": 58.47,
         "name": "Tony Campbell",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 63,
+        "team": "LAL"
     },
     "Antoine Carr": {
         "PTS": 168,
@@ -950,11 +982,12 @@
         "DBPM": 74,
         "VORP": 136,
         "eFG%": 149,
-        "G": 113,
-        "grade": 69.93,
+        "grade": 69.67,
         "name": "Antoine Carr",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "ATL"
     },
     "Joe Barry Carroll": {
         "PTS": 82,
@@ -979,11 +1012,12 @@
         "DBPM": 71,
         "VORP": 128,
         "eFG%": 207,
-        "G": 189,
-        "grade": 69.99,
+        "grade": 70.53,
         "name": "Joe Barry Carroll",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 64,
+        "team": "NJN"
     },
     "Bill Cartwright": {
         "PTS": 104,
@@ -1008,11 +1042,12 @@
         "DBPM": 252,
         "VORP": 263,
         "eFG%": 162,
-        "G": 112,
-        "grade": 62.82,
+        "grade": 62.22,
         "name": "Bill Cartwright",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "CHI"
     },
     "Terry Catledge": {
         "PTS": 124,
@@ -1037,11 +1072,12 @@
         "DBPM": 239,
         "VORP": 244,
         "eFG%": 116,
-        "G": 99,
-        "grade": 66.46,
+        "grade": 65.88,
         "name": "Terry Catledge",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "WSB"
     },
     "Tom Chambers": {
         "PTS": 9,
@@ -1066,11 +1102,12 @@
         "DBPM": 144,
         "VORP": 35,
         "eFG%": 148,
-        "G": 59,
-        "grade": 87.94,
+        "grade": 87.92,
         "name": "Tom Chambers",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "PHO"
     },
     "Rex Chapman": {
         "PTS": 54,
@@ -1095,11 +1132,12 @@
         "DBPM": 262,
         "VORP": 255,
         "eFG%": 226,
-        "G": 135,
-        "grade": 60.56,
+        "grade": 60.1,
         "name": "Rex Chapman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "CHH"
     },
     "Maurice Cheeks*": {
         "PTS": 116,
@@ -1124,11 +1162,12 @@
         "DBPM": 155,
         "VORP": 49,
         "eFG%": 137,
-        "G": 163,
-        "grade": 76.46,
+        "grade": 77.03,
         "name": "Maurice Cheeks",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "PHI"
     },
     "Derrick Chievous": {
         "PTS": 140,
@@ -1153,11 +1192,12 @@
         "DBPM": 222,
         "VORP": 243,
         "eFG%": 218,
-        "G": 58,
-        "grade": 60.23,
+        "grade": 58.94,
         "name": "Derrick Chievous",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "HOU"
     },
     "Ben Coleman": {
         "PTS": 227,
@@ -1182,11 +1222,12 @@
         "DBPM": 247,
         "VORP": 242,
         "eFG%": 133,
-        "G": 199,
-        "grade": 56.48,
+        "grade": 56.51,
         "name": "Ben Coleman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 58,
+        "team": "PHI"
     },
     "Steve Colter": {
         "PTS": 189,
@@ -1211,11 +1252,12 @@
         "DBPM": 44,
         "VORP": 101,
         "eFG%": 209,
-        "G": 84,
-        "grade": 68.09,
+        "grade": 67.43,
         "name": "Steve Colter",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "WSB"
     },
     "Dallas Comegys": {
         "PTS": 197,
@@ -1240,11 +1282,12 @@
         "DBPM": 143,
         "VORP": 230,
         "eFG%": 126,
-        "G": 178,
-        "grade": 60.79,
+        "grade": 60.8,
         "name": "Dallas Comegys",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "SAS"
     },
     "Lester Conner": {
         "PTS": 125,
@@ -1269,11 +1312,12 @@
         "DBPM": 30,
         "VORP": 33,
         "eFG%": 180,
-        "G": 32,
-        "grade": 80.78,
+        "grade": 80.14,
         "name": "Lester Conner",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "NJN"
     },
     "Darwin Cook": {
         "PTS": 218,
@@ -1298,11 +1342,12 @@
         "DBPM": 59,
         "VORP": 199,
         "eFG%": 216,
-        "G": 244,
-        "grade": 56.06,
+        "grade": 56.56,
         "name": "Darwin Cook",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 30,
+        "team": "DEN"
     },
     "Michael Cooper": {
         "PTS": 178,
@@ -1327,11 +1372,12 @@
         "DBPM": 51,
         "VORP": 72,
         "eFG%": 67,
-        "G": 83,
-        "grade": 75.92,
+        "grade": 75.61,
         "name": "Michael Cooper",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "LAL"
     },
     "Wayne Cooper": {
         "PTS": 193,
@@ -1356,11 +1402,12 @@
         "DBPM": 22,
         "VORP": 100,
         "eFG%": 101,
-        "G": 98,
-        "grade": 75.12,
+        "grade": 74.93,
         "name": "Wayne Cooper",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "DEN"
     },
     "Tyrone Corbin": {
         "PTS": 160,
@@ -1385,11 +1432,12 @@
         "DBPM": 38,
         "VORP": 71,
         "eFG%": 25,
-        "G": 120,
-        "grade": 79.43,
+        "grade": 79.67,
         "name": "Tyrone Corbin",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "PHO"
     },
     "Dave Corzine": {
         "PTS": 210,
@@ -1414,11 +1462,12 @@
         "DBPM": 177,
         "VORP": 229,
         "eFG%": 186,
-        "G": 57,
-        "grade": 60.51,
+        "grade": 59.21,
         "name": "Dave Corzine",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "CHI"
     },
     "Pat Cummings": {
         "PTS": 149,
@@ -1443,11 +1492,12 @@
         "DBPM": 200,
         "VORP": 254,
         "eFG%": 93,
-        "G": 213,
-        "grade": 60.43,
+        "grade": 60.8,
         "name": "Pat Cummings",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 53,
+        "team": "MIA"
     },
     "Terry Cummings": {
         "PTS": 11,
@@ -1472,11 +1522,12 @@
         "DBPM": 199,
         "VORP": 45,
         "eFG%": 176,
-        "G": 82,
-        "grade": 84.92,
+        "grade": 85.01,
         "name": "Terry Cummings",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "MIL"
     },
     "Earl Cureton": {
         "PTS": 196,
@@ -1501,11 +1552,12 @@
         "DBPM": 142,
         "VORP": 239,
         "eFG%": 91,
-        "G": 31,
-        "grade": 63.37,
+        "grade": 61.93,
         "name": "Earl Cureton",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "CHH"
     },
     "Dell Curry": {
         "PTS": 111,
@@ -1530,11 +1582,12 @@
         "DBPM": 182,
         "VORP": 118,
         "eFG%": 71,
-        "G": 218,
-        "grade": 70.99,
+        "grade": 71.89,
         "name": "Dell Curry",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 48,
+        "team": "CHH"
     },
     "Quintin Dailey": {
         "PTS": 60,
@@ -1559,11 +1612,12 @@
         "DBPM": 214,
         "VORP": 145,
         "eFG%": 184,
-        "G": 169,
-        "grade": 68.21,
+        "grade": 68.46,
         "name": "Quintin Dailey",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 69,
+        "team": "LAC"
     },
     "Adrian Dantley*": {
         "PTS": 24,
@@ -1588,11 +1642,12 @@
         "DBPM": 259,
         "VORP": 156,
         "eFG%": 189,
-        "G": 241,
-        "grade": 69.41,
+        "grade": 70.49,
         "name": "Adrian Dantley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 31,
+        "team": "DAL"
     },
     "Brad Daugherty": {
         "PTS": 33,
@@ -1617,11 +1672,12 @@
         "DBPM": 70,
         "VORP": 31,
         "eFG%": 29,
-        "G": 111,
-        "grade": 89.82,
+        "grade": 90.44,
         "name": "Brad Daugherty",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "CLE"
     },
     "Brad Davis": {
         "PTS": 200,
@@ -1646,11 +1702,12 @@
         "DBPM": 119,
         "VORP": 135,
         "eFG%": 40,
-        "G": 110,
-        "grade": 72.25,
+        "grade": 72.06,
         "name": "Brad Davis",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "DAL"
     },
     "Charles Davis": {
         "PTS": 250,
@@ -1675,11 +1732,12 @@
         "DBPM": 250,
         "VORP": 228,
         "eFG%": 225,
-        "G": 216,
-        "grade": 50.19,
+        "grade": 50.12,
         "name": "Charles Davis",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 49,
+        "team": "CHI"
     },
     "Walter Davis": {
         "PTS": 67,
@@ -1704,11 +1762,12 @@
         "DBPM": 228,
         "VORP": 114,
         "eFG%": 78,
-        "G": 56,
-        "grade": 77.12,
+        "grade": 76.57,
         "name": "Walter Davis",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "DEN"
     },
     "Johnny Dawkins": {
         "PTS": 80,
@@ -1733,11 +1792,12 @@
         "DBPM": 198,
         "VORP": 155,
         "eFG%": 214,
-        "G": 239,
-        "grade": 65.38,
+        "grade": 66.25,
         "name": "Johnny Dawkins",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 32,
+        "team": "SAS"
     },
     "Vinny Del Negro": {
         "PTS": 182,
@@ -1762,11 +1822,12 @@
         "DBPM": 69,
         "VORP": 144,
         "eFG%": 143,
-        "G": 81,
-        "grade": 68.95,
+        "grade": 68.3,
         "name": "Vinny Del Negro",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "SAC"
     },
     "James Donaldson": {
         "PTS": 144,
@@ -1791,11 +1852,12 @@
         "DBPM": 97,
         "VORP": 99,
         "eFG%": 4,
-        "G": 212,
-        "grade": 77.88,
+        "grade": 79.03,
         "name": "James Donaldson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 53,
+        "team": "DAL"
     },
     "Clyde Drexler*": {
         "PTS": 4,
@@ -1820,11 +1882,12 @@
         "DBPM": 37,
         "VORP": 5,
         "eFG%": 86,
-        "G": 109,
-        "grade": 93.37,
+        "grade": 94.13,
         "name": "Clyde Drexler",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "POR"
     },
     "Kevin Duckworth": {
         "PTS": 41,
@@ -1849,11 +1912,12 @@
         "DBPM": 253,
         "VORP": 260,
         "eFG%": 156,
-        "G": 97,
-        "grade": 70.44,
+        "grade": 70.03,
         "name": "Kevin Duckworth",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "POR"
     },
     "Joe Dumars*": {
         "PTS": 51,
@@ -1878,11 +1942,12 @@
         "DBPM": 141,
         "VORP": 38,
         "eFG%": 65,
-        "G": 168,
-        "grade": 84.64,
+        "grade": 85.63,
         "name": "Joe Dumars",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 69,
+        "team": "DET"
     },
     "Ledell Eackles": {
         "PTS": 117,
@@ -1907,11 +1972,12 @@
         "DBPM": 251,
         "VORP": 168,
         "eFG%": 217,
-        "G": 80,
-        "grade": 64.57,
+        "grade": 63.7,
         "name": "Ledell Eackles",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "WSB"
     },
     "Mark Eaton": {
         "PTS": 204,
@@ -1936,11 +2002,12 @@
         "DBPM": 4,
         "VORP": 59,
         "eFG%": 188,
-        "G": 30,
-        "grade": 70.74,
+        "grade": 69.62,
         "name": "Mark Eaton",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "UTA"
     },
     "James Edwards": {
         "PTS": 177,
@@ -1965,11 +2032,12 @@
         "DBPM": 84,
         "VORP": 218,
         "eFG%": 92,
-        "G": 128,
-        "grade": 65.09,
+        "grade": 64.76,
         "name": "James Edwards",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "DET"
     },
     "Kevin Edwards": {
         "PTS": 85,
@@ -1994,11 +2062,12 @@
         "DBPM": 154,
         "VORP": 167,
         "eFG%": 238,
-        "G": 96,
-        "grade": 65.58,
+        "grade": 64.93,
         "name": "Kevin Edwards",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "MIA"
     },
     "Craig Ehlo": {
         "PTS": 172,
@@ -2023,11 +2092,12 @@
         "DBPM": 14,
         "VORP": 58,
         "eFG%": 66,
-        "G": 29,
-        "grade": 77.72,
+        "grade": 76.91,
         "name": "Craig Ehlo",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "CLE"
     },
     "Dale Ellis": {
         "PTS": 3,
@@ -2052,11 +2122,12 @@
         "DBPM": 246,
         "VORP": 20,
         "eFG%": 14,
-        "G": 28,
-        "grade": 89.44,
+        "grade": 89.16,
         "name": "Dale Ellis",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "SEA"
     },
     "Alex English*": {
         "PTS": 6,
@@ -2081,11 +2152,12 @@
         "DBPM": 258,
         "VORP": 53,
         "eFG%": 112,
-        "G": 27,
-        "grade": 83.07,
+        "grade": 82.48,
         "name": "Alex English",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "DEN"
     },
     "Patrick Ewing*": {
         "PTS": 12,
@@ -2110,11 +2182,12 @@
         "DBPM": 8,
         "VORP": 11,
         "eFG%": 7,
-        "G": 79,
-        "grade": 93.31,
+        "grade": 93.74,
         "name": "Patrick Ewing",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "NYK"
     },
     "Jim Farmer": {
         "PTS": 247,
@@ -2139,11 +2212,12 @@
         "DBPM": 233,
         "VORP": 227,
         "eFG%": 232,
-        "G": 228,
-        "grade": 49.54,
+        "grade": 49.57,
         "name": "Jim Farmer",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 37,
+        "team": "UTA"
     },
     "Dave Feitl": {
         "PTS": 229,
@@ -2168,11 +2242,12 @@
         "DBPM": 197,
         "VORP": 253,
         "eFG%": 227,
-        "G": 202,
-        "grade": 51.95,
+        "grade": 51.81,
         "name": "Dave Feitl",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 57,
+        "team": "WSB"
     },
     "Vern Fleming": {
         "PTS": 78,
@@ -2197,11 +2272,12 @@
         "DBPM": 176,
         "VORP": 57,
         "eFG%": 59,
-        "G": 127,
-        "grade": 81.05,
+        "grade": 81.43,
         "name": "Vern Fleming",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "IND"
     },
     "Sleepy Floyd": {
         "PTS": 79,
@@ -2226,11 +2302,12 @@
         "DBPM": 108,
         "VORP": 30,
         "eFG%": 85,
-        "G": 26,
-        "grade": 84.85,
+        "grade": 84.33,
         "name": "Sleepy Floyd",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "HOU"
     },
     "Corey Gaines": {
         "PTS": 263,
@@ -2255,11 +2332,12 @@
         "DBPM": 133,
         "VORP": 198,
         "eFG%": 237,
-        "G": 238,
-        "grade": 50.54,
+        "grade": 50.72,
         "name": "Corey Gaines",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 32,
+        "team": "NJN"
     },
     "Winston Garland": {
         "PTS": 75,
@@ -2284,11 +2362,12 @@
         "DBPM": 67,
         "VORP": 79,
         "eFG%": 222,
-        "G": 95,
-        "grade": 75.3,
+        "grade": 75.09,
         "name": "Winston Garland",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "GSW"
     },
     "Tom Garrick": {
         "PTS": 199,
@@ -2313,11 +2392,12 @@
         "DBPM": 96,
         "VORP": 217,
         "eFG%": 118,
-        "G": 162,
-        "grade": 63.84,
+        "grade": 63.82,
         "name": "Tom Garrick",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "LAC"
     },
     "Armen Gilliam": {
         "PTS": 65,
@@ -2342,11 +2422,12 @@
         "DBPM": 213,
         "VORP": 127,
         "eFG%": 87,
-        "G": 142,
-        "grade": 75.72,
+        "grade": 76.02,
         "name": "Armen Gilliam",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "PHO"
     },
     "Mike Gminski": {
         "PTS": 50,
@@ -2371,11 +2452,12 @@
         "DBPM": 232,
         "VORP": 66,
         "eFG%": 155,
-        "G": 25,
-        "grade": 81.45,
+        "grade": 80.77,
         "name": "Mike Gminski",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "PHI"
     },
     "Gary Grant": {
         "PTS": 110,
@@ -2400,11 +2482,12 @@
         "DBPM": 184,
         "VORP": 184,
         "eFG%": 224,
-        "G": 161,
-        "grade": 63.87,
+        "grade": 63.84,
         "name": "Gary Grant",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "LAC"
     },
     "Harvey Grant": {
         "PTS": 214,
@@ -2429,11 +2512,12 @@
         "DBPM": 132,
         "VORP": 183,
         "eFG%": 185,
-        "G": 160,
-        "grade": 57.73,
+        "grade": 57.41,
         "name": "Harvey Grant",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "WSB"
     },
     "Horace Grant": {
         "PTS": 108,
@@ -2458,11 +2542,12 @@
         "DBPM": 140,
         "VORP": 94,
         "eFG%": 53,
-        "G": 94,
-        "grade": 79.45,
+        "grade": 79.42,
         "name": "Horace Grant",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "CHI"
     },
     "Stuart Gray": {
         "PTS": 259,
@@ -2487,11 +2572,12 @@
         "DBPM": 166,
         "VORP": 216,
         "eFG%": 171,
-        "G": 154,
-        "grade": 54.36,
+        "grade": 53.83,
         "name": "Stuart Gray",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "IND"
     },
     "Sylvester Gray": {
         "PTS": 163,
@@ -2516,11 +2602,12 @@
         "DBPM": 165,
         "VORP": 215,
         "eFG%": 252,
-        "G": 207,
-        "grade": 58.33,
+        "grade": 58.54,
         "name": "Sylvester Gray",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 55,
+        "team": "MIA"
     },
     "Jeff Grayer": {
         "PTS": 171,
@@ -2545,11 +2632,12 @@
         "DBPM": 175,
         "VORP": 182,
         "eFG%": 223,
-        "G": 263,
-        "grade": 59.16,
+        "grade": 60.0,
         "name": "Jeff Grayer",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 11,
+        "team": "MIL"
     },
     "A.C. Green": {
         "PTS": 93,
@@ -2574,11 +2662,12 @@
         "DBPM": 139,
         "VORP": 44,
         "eFG%": 32,
-        "G": 24,
-        "grade": 87.27,
+        "grade": 86.84,
         "name": "A.C. Green",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "LAL"
     },
     "Rickey Green": {
         "PTS": 217,
@@ -2603,11 +2692,12 @@
         "DBPM": 83,
         "VORP": 134,
         "eFG%": 12,
-        "G": 243,
-        "grade": 73.21,
+        "grade": 74.48,
         "name": "Rickey Green",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 30,
+        "team": "MIL"
     },
     "Sidney Green": {
         "PTS": 201,
@@ -2632,11 +2722,12 @@
         "DBPM": 196,
         "VORP": 214,
         "eFG%": 194,
-        "G": 23,
-        "grade": 62.16,
+        "grade": 60.58,
         "name": "Sidney Green",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "NYK"
     },
     "Dave Greenwood": {
         "PTS": 209,
@@ -2661,11 +2752,12 @@
         "DBPM": 66,
         "VORP": 181,
         "eFG%": 255,
-        "G": 247,
-        "grade": 57.87,
+        "grade": 58.49,
         "name": "Dave Greenwood",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 29,
+        "team": "DEN"
     },
     "Darrell Griffith": {
         "PTS": 84,
@@ -2690,11 +2782,12 @@
         "DBPM": 118,
         "VORP": 154,
         "eFG%": 161,
-        "G": 22,
-        "grade": 71.98,
+        "grade": 70.83,
         "name": "Darrell Griffith",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "UTA"
     },
     "Bob Hansen": {
         "PTS": 170,
@@ -2719,11 +2812,12 @@
         "DBPM": 48,
         "VORP": 180,
         "eFG%": 97,
-        "G": 221,
-        "grade": 63.14,
+        "grade": 63.71,
         "name": "Bob Hansen",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 46,
+        "team": "UTA"
     },
     "Bill Hanzlik": {
         "PTS": 231,
@@ -2748,11 +2842,12 @@
         "DBPM": 95,
         "VORP": 213,
         "eFG%": 221,
-        "G": 225,
-        "grade": 55.76,
+        "grade": 56.04,
         "name": "Bill Hanzlik",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 41,
+        "team": "DEN"
     },
     "Derek Harper": {
         "PTS": 48,
@@ -2777,11 +2872,12 @@
         "DBPM": 58,
         "VORP": 17,
         "eFG%": 52,
-        "G": 55,
-        "grade": 89.45,
+        "grade": 89.46,
         "name": "Derek Harper",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "DAL"
     },
     "Ron Harper": {
         "PTS": 35,
@@ -2806,11 +2902,12 @@
         "DBPM": 7,
         "VORP": 10,
         "eFG%": 46,
-        "G": 21,
-        "grade": 93.13,
+        "grade": 92.93,
         "name": "Ron Harper",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "CLE"
     },
     "Scott Hastings": {
         "PTS": 226,
@@ -2835,11 +2932,12 @@
         "DBPM": 73,
         "VORP": 238,
         "eFG%": 205,
-        "G": 134,
-        "grade": 60.15,
+        "grade": 59.66,
         "name": "Scott Hastings",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "MIA"
     },
     "Hersey Hawkins": {
         "PTS": 71,
@@ -2864,11 +2962,12 @@
         "DBPM": 153,
         "VORP": 81,
         "eFG%": 111,
-        "G": 93,
-        "grade": 77.5,
+        "grade": 77.36,
         "name": "Hersey Hawkins",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "PHI"
     },
     "Gerald Henderson": {
         "PTS": 195,
@@ -2893,11 +2992,12 @@
         "DBPM": 207,
         "VORP": 197,
         "eFG%": 191,
-        "G": 188,
-        "grade": 59.42,
+        "grade": 59.48,
         "name": "Gerald Henderson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 65,
+        "team": "PHI"
     },
     "Rod Higgins": {
         "PTS": 122,
@@ -2922,11 +3022,12 @@
         "DBPM": 164,
         "VORP": 70,
         "eFG%": 35,
-        "G": 54,
-        "grade": 80.75,
+        "grade": 80.35,
         "name": "Rod Higgins",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "GSW"
     },
     "Roy Hinson": {
         "PTS": 63,
@@ -2951,11 +3052,12 @@
         "DBPM": 183,
         "VORP": 196,
         "eFG%": 139,
-        "G": 20,
-        "grade": 73.24,
+        "grade": 72.13,
         "name": "Roy Hinson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "NJN"
     },
     "Craig Hodges": {
         "PTS": 134,
@@ -2980,11 +3082,12 @@
         "DBPM": 174,
         "VORP": 98,
         "eFG%": 9,
-        "G": 215,
-        "grade": 75.87,
+        "grade": 76.96,
         "name": "Craig Hodges",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 49,
+        "team": "CHI"
     },
     "Michael Holton": {
         "PTS": 159,
@@ -3009,11 +3112,12 @@
         "DBPM": 195,
         "VORP": 179,
         "eFG%": 236,
-        "G": 177,
-        "grade": 61.66,
+        "grade": 61.7,
         "name": "Michael Holton",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "CHH"
     },
     "Dave Hoppen": {
         "PTS": 194,
@@ -3038,11 +3142,12 @@
         "DBPM": 206,
         "VORP": 241,
         "eFG%": 8,
-        "G": 119,
-        "grade": 68.31,
+        "grade": 68.03,
         "name": "Dave Hoppen",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "CHH"
     },
     "Dennis Hopson": {
         "PTS": 100,
@@ -3067,11 +3172,12 @@
         "DBPM": 173,
         "VORP": 166,
         "eFG%": 250,
-        "G": 196,
-        "grade": 65.62,
+        "grade": 66.04,
         "name": "Dennis Hopson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 62,
+        "team": "NJN"
     },
     "Jeff Hornacek": {
         "PTS": 91,
@@ -3096,11 +3202,12 @@
         "DBPM": 33,
         "VORP": 29,
         "eFG%": 70,
-        "G": 108,
-        "grade": 85.33,
+        "grade": 85.71,
         "name": "Jeff Hornacek",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "PHO"
     },
     "Jay Humphries": {
         "PTS": 115,
@@ -3125,11 +3232,12 @@
         "DBPM": 43,
         "VORP": 62,
         "eFG%": 90,
-        "G": 147,
-        "grade": 79.71,
+        "grade": 80.25,
         "name": "Jay Humphries",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 73,
+        "team": "MIL"
     },
     "Marc Iavaroni": {
         "PTS": 261,
@@ -3154,11 +3262,12 @@
         "DBPM": 107,
         "VORP": 251,
         "eFG%": 215,
-        "G": 118,
-        "grade": 51.75,
+        "grade": 50.71,
         "name": "Marc Iavaroni",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "UTA"
     },
     "Mark Jackson": {
         "PTS": 53,
@@ -3183,11 +3292,12 @@
         "DBPM": 117,
         "VORP": 24,
         "eFG%": 77,
-        "G": 153,
-        "grade": 84.65,
+        "grade": 85.48,
         "name": "Mark Jackson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "NYK"
     },
     "Buck Johnson": {
         "PTS": 136,
@@ -3212,11 +3322,12 @@
         "DBPM": 57,
         "VORP": 113,
         "eFG%": 39,
-        "G": 176,
-        "grade": 75.06,
+        "grade": 75.69,
         "name": "Buck Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "HOU"
     },
     "Dennis Johnson*": {
         "PTS": 133,
@@ -3241,11 +3352,12 @@
         "DBPM": 152,
         "VORP": 153,
         "eFG%": 220,
-        "G": 152,
         "grade": 66.71,
         "name": "Dennis Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "BOS"
     },
     "Eddie Johnson": {
         "PTS": 19,
@@ -3270,11 +3382,12 @@
         "DBPM": 221,
         "VORP": 52,
         "eFG%": 37,
-        "G": 166,
-        "grade": 84.61,
+        "grade": 85.57,
         "name": "Eddie Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 70,
+        "team": "PHO"
     },
     "Frank Johnson": {
         "PTS": 239,
@@ -3299,11 +3412,12 @@
         "DBPM": 151,
         "VORP": 212,
         "eFG%": 212,
-        "G": 175,
-        "grade": 56.25,
+        "grade": 56.02,
         "name": "Frank Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "HOU"
     },
     "Kevin Johnson": {
         "PTS": 23,
@@ -3328,11 +3442,12 @@
         "DBPM": 82,
         "VORP": 9,
         "eFG%": 82,
-        "G": 53,
-        "grade": 91.93,
+        "grade": 92.03,
         "name": "Kevin Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "PHO"
     },
     "Magic Johnson*": {
         "PTS": 15,
@@ -3357,11 +3472,12 @@
         "DBPM": 16,
         "VORP": 3,
         "eFG%": 30,
-        "G": 117,
-        "grade": 96.15,
+        "grade": 97.11,
         "name": "Magic Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "LAL"
     },
     "Steve Johnson": {
         "PTS": 132,
@@ -3386,11 +3502,12 @@
         "DBPM": 212,
         "VORP": 250,
         "eFG%": 43,
-        "G": 151,
-        "grade": 65.57,
+        "grade": 65.51,
         "name": "Steve Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "POR"
     },
     "Vinnie Johnson": {
         "PTS": 83,
@@ -3415,11 +3532,12 @@
         "DBPM": 65,
         "VORP": 48,
         "eFG%": 175,
-        "G": 19,
-        "grade": 79.62,
+        "grade": 78.79,
         "name": "Vinnie Johnson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "DET"
     },
     "Caldwell Jones": {
         "PTS": 257,
@@ -3444,11 +3562,12 @@
         "DBPM": 29,
         "VORP": 226,
         "eFG%": 251,
-        "G": 150,
-        "grade": 55.37,
+        "grade": 54.84,
         "name": "Caldwell Jones",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "POR"
     },
     "Charles Jones": {
         "PTS": 258,
@@ -3473,11 +3592,12 @@
         "DBPM": 50,
         "VORP": 152,
         "eFG%": 174,
-        "G": 223,
-        "grade": 59.73,
+        "grade": 60.17,
         "name": "Charles Jones",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 43,
+        "team": "WSB"
     },
     "Shelton Jones": {
         "PTS": 228,
@@ -3502,11 +3622,12 @@
         "DBPM": 220,
         "VORP": 211,
         "eFG%": 202,
-        "G": 224,
-        "grade": 52.89,
+        "grade": 53.04,
         "name": "Shelton Jones",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 42,
+        "team": "PHI"
     },
     "Michael Jordan*": {
         "PTS": 1,
@@ -3531,11 +3652,12 @@
         "DBPM": 1,
         "VORP": 1,
         "eFG%": 18,
-        "G": 52,
-        "grade": 98.6,
+        "grade": 98.98,
         "name": "Michael Jordan",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "CHI"
     },
     "Tim Kempton": {
         "PTS": 207,
@@ -3560,11 +3682,12 @@
         "DBPM": 131,
         "VORP": 240,
         "eFG%": 69,
-        "G": 92,
-        "grade": 62.05,
+        "grade": 61.2,
         "name": "Tim Kempton",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "CHH"
     },
     "Jerome Kersey": {
         "PTS": 44,
@@ -3589,11 +3712,12 @@
         "DBPM": 64,
         "VORP": 43,
         "eFG%": 170,
-        "G": 126,
-        "grade": 82.75,
+        "grade": 83.2,
         "name": "Jerome Kersey",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "POR"
     },
     "Albert King": {
         "PTS": 181,
@@ -3618,11 +3742,12 @@
         "DBPM": 205,
         "VORP": 237,
         "eFG%": 213,
-        "G": 220,
-        "grade": 55.1,
+        "grade": 55.3,
         "name": "Albert King",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 46,
+        "team": "SAS"
     },
     "Bernard King*": {
         "PTS": 20,
@@ -3647,11 +3772,12 @@
         "DBPM": 231,
         "VORP": 65,
         "eFG%": 151,
-        "G": 51,
-        "grade": 79.72,
+        "grade": 79.24,
         "name": "Bernard King",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "WSB"
     },
     "Greg Kite": {
         "PTS": 254,
@@ -3676,11 +3802,12 @@
         "DBPM": 130,
         "VORP": 210,
         "eFG%": 31,
-        "G": 262,
-        "grade": 57.6,
+        "grade": 58.36,
         "name": "Greg Kite",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 12,
+        "team": "CHH"
     },
     "Joe Kleine": {
         "PTS": 206,
@@ -3705,11 +3832,12 @@
         "DBPM": 172,
         "VORP": 178,
         "eFG%": 198,
-        "G": 248,
-        "grade": 60.35,
+        "grade": 61.09,
         "name": "Joe Kleine",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 28,
+        "team": "BOS"
     },
     "Jon Koncak": {
         "PTS": 235,
@@ -3734,11 +3862,12 @@
         "DBPM": 18,
         "VORP": 97,
         "eFG%": 42,
-        "G": 141,
-        "grade": 72.69,
+        "grade": 72.85,
         "name": "Jon Koncak",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "ATL"
     },
     "Larry Krystkowiak": {
         "PTS": 99,
@@ -3763,11 +3892,12 @@
         "DBPM": 171,
         "VORP": 112,
         "eFG%": 160,
-        "G": 78,
-        "grade": 77.27,
+        "grade": 76.96,
         "name": "Larry Krystkowiak",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "MIL"
     },
     "Bill Laimbeer": {
         "PTS": 87,
@@ -3792,11 +3922,12 @@
         "DBPM": 13,
         "VORP": 23,
         "eFG%": 61,
-        "G": 50,
-        "grade": 88.94,
+        "grade": 88.87,
         "name": "Bill Laimbeer",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "DET"
     },
     "Jerome Lane": {
         "PTS": 234,
@@ -3821,11 +3952,12 @@
         "DBPM": 245,
         "VORP": 236,
         "eFG%": 243,
-        "G": 210,
-        "grade": 50.52,
+        "grade": 50.4,
         "name": "Jerome Lane",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 54,
+        "team": "DEN"
     },
     "Allen Leavell": {
         "PTS": 252,
@@ -3850,11 +3982,12 @@
         "DBPM": 163,
         "VORP": 225,
         "eFG%": 263,
-        "G": 206,
-        "grade": 49.75,
+        "grade": 49.56,
         "name": "Allen Leavell",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 55,
+        "team": "HOU"
     },
     "Eric Leckner": {
         "PTS": 242,
@@ -3879,11 +4012,12 @@
         "DBPM": 94,
         "VORP": 249,
         "eFG%": 19,
-        "G": 133,
-        "grade": 62.77,
+        "grade": 62.39,
         "name": "Eric Leckner",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "UTA"
     },
     "Keith Lee": {
         "PTS": 233,
@@ -3908,11 +4042,12 @@
         "DBPM": 129,
         "VORP": 235,
         "eFG%": 249,
-        "G": 201,
-        "grade": 53.9,
+        "grade": 53.85,
         "name": "Keith Lee",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 57,
+        "team": "NJN"
     },
     "Fat Lever": {
         "PTS": 28,
@@ -3937,11 +4072,12 @@
         "DBPM": 20,
         "VORP": 8,
         "eFG%": 182,
-        "G": 159,
-        "grade": 87.36,
+        "grade": 88.38,
         "name": "Fat Lever",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "DEN"
     },
     "Cliff Levingston": {
         "PTS": 143,
@@ -3966,11 +4102,12 @@
         "DBPM": 47,
         "VORP": 80,
         "eFG%": 34,
-        "G": 77,
-        "grade": 79.58,
+        "grade": 79.36,
         "name": "Cliff Levingston",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "ATL"
     },
     "Reggie Lewis": {
         "PTS": 37,
@@ -3995,11 +4132,12 @@
         "DBPM": 81,
         "VORP": 42,
         "eFG%": 123,
-        "G": 49,
-        "grade": 85.19,
+        "grade": 84.93,
         "name": "Reggie Lewis",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "BOS"
     },
     "Alton Lister": {
         "PTS": 162,
@@ -4024,11 +4162,12 @@
         "DBPM": 63,
         "VORP": 177,
         "eFG%": 95,
-        "G": 18,
-        "grade": 70.65,
+        "grade": 69.4,
         "name": "Alton Lister",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "SEA"
     },
     "Brad Lohaus": {
         "PTS": 161,
@@ -4053,11 +4192,12 @@
         "DBPM": 194,
         "VORP": 209,
         "eFG%": 231,
-        "G": 246,
-        "grade": 58.01,
+        "grade": 58.62,
         "name": "Brad Lohaus",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 29,
+        "team": "SAC"
     },
     "Grant Long": {
         "PTS": 109,
@@ -4082,11 +4222,12 @@
         "DBPM": 80,
         "VORP": 126,
         "eFG%": 131,
-        "G": 17,
-        "grade": 77.03,
+        "grade": 76.06,
         "name": "Grant Long",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "MIA"
     },
     "Sidney Lowe": {
         "PTS": 264,
@@ -4111,11 +4252,12 @@
         "DBPM": 25,
         "VORP": 151,
         "eFG%": 264,
-        "G": 261,
-        "grade": 57.64,
+        "grade": 58.39,
         "name": "Sidney Lowe",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 14,
+        "team": "CHH"
     },
     "John Lucas": {
         "PTS": 244,
@@ -4140,11 +4282,12 @@
         "DBPM": 79,
         "VORP": 96,
         "eFG%": 239,
-        "G": 140,
-        "grade": 65.08,
+        "grade": 64.88,
         "name": "John Lucas",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "SEA"
     },
     "Rick Mahorn": {
         "PTS": 176,
@@ -4169,11 +4312,12 @@
         "DBPM": 21,
         "VORP": 87,
         "eFG%": 58,
-        "G": 149,
-        "grade": 75.8,
+        "grade": 76.18,
         "name": "Rick Mahorn",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "DET"
     },
     "Dan Majerle": {
         "PTS": 154,
@@ -4198,11 +4342,12 @@
         "DBPM": 28,
         "VORP": 107,
         "eFG%": 204,
-        "G": 209,
-        "grade": 67.1,
+        "grade": 67.73,
         "name": "Dan Majerle",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 54,
+        "team": "PHO"
     },
     "Jeff Malone": {
         "PTS": 17,
@@ -4227,11 +4372,12 @@
         "DBPM": 257,
         "VORP": 106,
         "eFG%": 147,
-        "G": 125,
-        "grade": 74.77,
+        "grade": 74.85,
         "name": "Jeff Malone",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "WSB"
     },
     "Karl Malone*": {
         "PTS": 2,
@@ -4256,11 +4402,12 @@
         "DBPM": 32,
         "VORP": 6,
         "eFG%": 51,
-        "G": 76,
-        "grade": 95.23,
+        "grade": 95.72,
         "name": "Karl Malone",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "UTA"
     },
     "Moses Malone*": {
         "PTS": 26,
@@ -4285,11 +4432,12 @@
         "DBPM": 227,
         "VORP": 32,
         "eFG%": 115,
-        "G": 48,
-        "grade": 86.81,
+        "grade": 86.62,
         "name": "Moses Malone",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "ATL"
     },
     "Danny Manning": {
         "PTS": 56,
@@ -4314,11 +4462,12 @@
         "DBPM": 162,
         "VORP": 150,
         "eFG%": 103,
-        "G": 251,
-        "grade": 72.68,
+        "grade": 74.01,
         "name": "Danny Manning",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 26,
+        "team": "LAC"
     },
     "Vernon Maxwell": {
         "PTS": 113,
@@ -4343,11 +4492,12 @@
         "DBPM": 226,
         "VORP": 224,
         "eFG%": 203,
-        "G": 91,
-        "grade": 63.62,
+        "grade": 62.83,
         "name": "Vernon Maxwell",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "SAS"
     },
     "Tim McCormick": {
         "PTS": 223,
@@ -4372,11 +4522,12 @@
         "DBPM": 128,
         "VORP": 234,
         "eFG%": 142,
-        "G": 47,
-        "grade": 60.18,
+        "grade": 58.76,
         "name": "Tim McCormick",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "HOU"
     },
     "Rodney McCray": {
         "PTS": 101,
@@ -4401,11 +4552,12 @@
         "DBPM": 138,
         "VORP": 93,
         "eFG%": 173,
-        "G": 171,
-        "grade": 72.3,
+        "grade": 72.76,
         "name": "Rodney McCray",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 68,
+        "team": "SAC"
     },
     "Xavier McDaniel": {
         "PTS": 22,
@@ -4430,11 +4582,12 @@
         "DBPM": 249,
         "VORP": 105,
         "eFG%": 109,
-        "G": 16,
-        "grade": 80.25,
+        "grade": 79.42,
         "name": "Xavier McDaniel",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "SEA"
     },
     "Mike McGee": {
         "PTS": 95,
@@ -4459,11 +4612,12 @@
         "DBPM": 193,
         "VORP": 133,
         "eFG%": 41,
-        "G": 75,
-        "grade": 71.12,
+        "grade": 70.5,
         "name": "Mike McGee",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "NJN"
     },
     "Kevin McHale*": {
         "PTS": 14,
@@ -4488,11 +4642,12 @@
         "DBPM": 219,
         "VORP": 28,
         "eFG%": 17,
-        "G": 107,
-        "grade": 87.97,
+        "grade": 88.46,
         "name": "Kevin McHale",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "BOS"
     },
     "Derrick McKey": {
         "PTS": 64,
@@ -4517,11 +4672,12 @@
         "DBPM": 116,
         "VORP": 51,
         "eFG%": 55,
-        "G": 15,
-        "grade": 87.23,
+        "grade": 86.7,
         "name": "Derrick McKey",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "SEA"
     },
     "Nate McMillan": {
         "PTS": 180,
@@ -4546,11 +4702,12 @@
         "DBPM": 27,
         "VORP": 37,
         "eFG%": 242,
-        "G": 132,
-        "grade": 73.39,
+        "grade": 73.49,
         "name": "Nate McMillan",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "SEA"
     },
     "Reggie Miller*": {
         "PTS": 62,
@@ -4575,11 +4732,12 @@
         "DBPM": 115,
         "VORP": 36,
         "eFG%": 28,
-        "G": 139,
-        "grade": 85.51,
+        "grade": 86.22,
         "name": "Reggie Miller",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "IND"
     },
     "Sidney Moncrief*": {
         "PTS": 107,
@@ -4604,11 +4762,12 @@
         "DBPM": 56,
         "VORP": 56,
         "eFG%": 64,
-        "G": 195,
-        "grade": 82.71,
+        "grade": 83.9,
         "name": "Sidney Moncrief",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 62,
+        "team": "MIL"
     },
     "Chris Morris": {
         "PTS": 81,
@@ -4633,11 +4792,12 @@
         "DBPM": 150,
         "VORP": 95,
         "eFG%": 108,
-        "G": 124,
-        "grade": 75.45,
+        "grade": 75.56,
         "name": "Chris Morris",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "NJN"
     },
     "Chris Mullin*": {
         "PTS": 5,
@@ -4662,11 +4822,12 @@
         "DBPM": 78,
         "VORP": 12,
         "eFG%": 60,
-        "G": 14,
-        "grade": 94.13,
+        "grade": 93.9,
         "name": "Chris Mullin",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "GSW"
     },
     "Larry Nance": {
         "PTS": 49,
@@ -4691,11 +4852,12 @@
         "DBPM": 15,
         "VORP": 19,
         "eFG%": 26,
-        "G": 146,
-        "grade": 90.06,
+        "grade": 91.06,
         "name": "Larry Nance",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 73,
+        "team": "CLE"
     },
     "Calvin Natt": {
         "PTS": 158,
@@ -4720,11 +4882,12 @@
         "DBPM": 264,
         "VORP": 208,
         "eFG%": 262,
-        "G": 264,
-        "grade": 50.84,
+        "grade": 51.32,
         "name": "Calvin Natt",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 10,
+        "team": "SAS"
     },
     "Craig Neal": {
         "PTS": 256,
@@ -4749,11 +4912,12 @@
         "DBPM": 238,
         "VORP": 223,
         "eFG%": 233,
-        "G": 237,
-        "grade": 48.78,
+        "grade": 48.88,
         "name": "Craig Neal",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 32,
+        "team": "MIA"
     },
     "Johnny Newman": {
         "PTS": 61,
@@ -4778,11 +4942,12 @@
         "DBPM": 127,
         "VORP": 61,
         "eFG%": 36,
-        "G": 46,
-        "grade": 84.0,
+        "grade": 83.65,
         "name": "Johnny Newman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "NYK"
     },
     "Norm Nixon": {
         "PTS": 188,
@@ -4807,11 +4972,12 @@
         "DBPM": 261,
         "VORP": 258,
         "eFG%": 246,
-        "G": 211,
-        "grade": 52.68,
+        "grade": 52.67,
         "name": "Norm Nixon",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 53,
+        "team": "LAC"
     },
     "Ken Norman": {
         "PTS": 40,
@@ -4836,11 +5002,12 @@
         "DBPM": 192,
         "VORP": 86,
         "eFG%": 84,
-        "G": 74,
-        "grade": 79.58,
+        "grade": 79.33,
         "name": "Ken Norman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "LAC"
     },
     "Charles Oakley": {
         "PTS": 97,
@@ -4865,11 +5032,12 @@
         "DBPM": 170,
         "VORP": 92,
         "eFG%": 57,
-        "G": 13,
-        "grade": 82.23,
+        "grade": 81.45,
         "name": "Charles Oakley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "NYK"
     },
     "Hakeem Olajuwon*": {
         "PTS": 10,
@@ -4894,11 +5062,12 @@
         "DBPM": 5,
         "VORP": 7,
         "eFG%": 74,
-        "G": 12,
-        "grade": 92.28,
+        "grade": 91.95,
         "name": "Hakeem Olajuwon",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "HOU"
     },
     "Robert Parish*": {
         "PTS": 34,
@@ -4923,11 +5092,12 @@
         "DBPM": 137,
         "VORP": 18,
         "eFG%": 6,
-        "G": 73,
-        "grade": 90.49,
+        "grade": 90.72,
         "name": "Robert Parish",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "BOS"
     },
     "Jim Paxson": {
         "PTS": 153,
@@ -4952,11 +5122,12 @@
         "DBPM": 211,
         "VORP": 222,
         "eFG%": 196,
-        "G": 200,
-        "grade": 59.44,
+        "grade": 59.63,
         "name": "Jim Paxson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 57,
+        "team": "BOS"
     },
     "John Paxson": {
         "PTS": 175,
@@ -4981,11 +5152,12 @@
         "DBPM": 181,
         "VORP": 143,
         "eFG%": 49,
-        "G": 106,
-        "grade": 71.48,
+        "grade": 71.2,
         "name": "John Paxson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "CHI"
     },
     "Sam Perkins": {
         "PTS": 72,
@@ -5010,11 +5182,12 @@
         "DBPM": 161,
         "VORP": 85,
         "eFG%": 178,
-        "G": 105,
-        "grade": 79.15,
+        "grade": 79.21,
         "name": "Sam Perkins",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "DAL"
     },
     "Chuck Person": {
         "PTS": 18,
@@ -5039,11 +5212,12 @@
         "DBPM": 242,
         "VORP": 111,
         "eFG%": 68,
-        "G": 72,
-        "grade": 79.5,
+        "grade": 79.23,
         "name": "Chuck Person",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "IND"
     },
     "Jim Petersen": {
         "PTS": 128,
@@ -5068,11 +5242,12 @@
         "DBPM": 114,
         "VORP": 259,
         "eFG%": 195,
-        "G": 182,
-        "grade": 61.53,
+        "grade": 61.61,
         "name": "Jim Petersen",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 66,
+        "team": "SAC"
     },
     "Ricky Pierce": {
         "PTS": 43,
@@ -5097,11 +5272,12 @@
         "DBPM": 160,
         "VORP": 54,
         "eFG%": 48,
-        "G": 131,
-        "grade": 84.79,
+        "grade": 85.39,
         "name": "Ricky Pierce",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "MIL"
     },
     "Ed Pinckney": {
         "PTS": 129,
@@ -5126,11 +5302,12 @@
         "DBPM": 42,
         "VORP": 104,
         "eFG%": 24,
-        "G": 245,
-        "grade": 79.51,
+        "grade": 81.08,
         "name": "Ed Pinckney",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 29,
+        "team": "BOS"
     },
     "Scottie Pippen*": {
         "PTS": 76,
@@ -5155,11 +5332,12 @@
         "DBPM": 41,
         "VORP": 69,
         "eFG%": 122,
-        "G": 145,
-        "grade": 79.45,
+        "grade": 79.96,
         "name": "Scottie Pippen",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 73,
+        "team": "CHI"
     },
     "Olden Polynice": {
         "PTS": 255,
@@ -5184,11 +5362,12 @@
         "DBPM": 93,
         "VORP": 207,
         "eFG%": 81,
-        "G": 71,
-        "grade": 61.31,
+        "grade": 60.2,
         "name": "Olden Polynice",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "SEA"
     },
     "Terry Porter": {
         "PTS": 42,
@@ -5213,11 +5392,12 @@
         "DBPM": 159,
         "VORP": 26,
         "eFG%": 80,
-        "G": 45,
-        "grade": 87.51,
+        "grade": 87.31,
         "name": "Terry Porter",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "POR"
     },
     "Paul Pressey": {
         "PTS": 106,
@@ -5242,11 +5422,12 @@
         "DBPM": 24,
         "VORP": 41,
         "eFG%": 136,
-        "G": 174,
-        "grade": 81.09,
+        "grade": 81.98,
         "name": "Paul Pressey",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "MIL"
     },
     "Harold Pressley": {
         "PTS": 105,
@@ -5271,11 +5452,12 @@
         "DBPM": 92,
         "VORP": 47,
         "eFG%": 76,
-        "G": 70,
-        "grade": 80.86,
+        "grade": 80.63,
         "name": "Harold Pressley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "SAC"
     },
     "Mark Price": {
         "PTS": 32,
@@ -5300,11 +5482,12 @@
         "DBPM": 113,
         "VORP": 13,
         "eFG%": 5,
-        "G": 130,
-        "grade": 92.22,
+        "grade": 93.15,
         "name": "Mark Price",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "CLE"
     },
     "Kurt Rambis": {
         "PTS": 118,
@@ -5329,11 +5512,12 @@
         "DBPM": 91,
         "VORP": 78,
         "eFG%": 54,
-        "G": 129,
-        "grade": 80.66,
+        "grade": 81.05,
         "name": "Kurt Rambis",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 75,
+        "team": "CHH"
     },
     "Blair Rasmussen": {
         "PTS": 167,
@@ -5358,11 +5542,12 @@
         "DBPM": 241,
         "VORP": 257,
         "eFG%": 211,
-        "G": 116,
-        "grade": 59.17,
+        "grade": 58.44,
         "name": "Blair Rasmussen",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "DEN"
     },
     "Robert Reid": {
         "PTS": 74,
@@ -5387,11 +5572,12 @@
         "DBPM": 256,
         "VORP": 261,
         "eFG%": 229,
-        "G": 11,
-        "grade": 60.88,
+        "grade": 59.12,
         "name": "Robert Reid",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "CHH"
     },
     "Jerry Reynolds": {
         "PTS": 166,
@@ -5416,11 +5602,12 @@
         "DBPM": 62,
         "VORP": 110,
         "eFG%": 248,
-        "G": 204,
-        "grade": 67.07,
+        "grade": 67.64,
         "name": "Jerry Reynolds",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 56,
+        "team": "SEA"
     },
     "Mitch Richmond*": {
         "PTS": 16,
@@ -5445,11 +5632,12 @@
         "DBPM": 237,
         "VORP": 77,
         "eFG%": 146,
-        "G": 90,
-        "grade": 81.13,
+        "grade": 81.12,
         "name": "Mitch Richmond",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "GSW"
     },
     "Doc Rivers": {
         "PTS": 90,
@@ -5474,11 +5662,12 @@
         "DBPM": 6,
         "VORP": 14,
         "eFG%": 141,
-        "G": 123,
-        "grade": 86.91,
+        "grade": 87.52,
         "name": "Doc Rivers",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "ATL"
     },
     "Fred Roberts": {
         "PTS": 208,
@@ -5503,11 +5692,12 @@
         "DBPM": 106,
         "VORP": 165,
         "eFG%": 114,
-        "G": 158,
-        "grade": 66.18,
+        "grade": 66.22,
         "name": "Fred Roberts",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "MIL"
     },
     "Alvin Robertson": {
         "PTS": 47,
@@ -5532,11 +5722,12 @@
         "DBPM": 19,
         "VORP": 34,
         "eFG%": 121,
-        "G": 187,
-        "grade": 82.82,
+        "grade": 83.93,
         "name": "Alvin Robertson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 65,
+        "team": "SAS"
     },
     "Cliff Robinson": {
         "PTS": 70,
@@ -5561,11 +5752,12 @@
         "DBPM": 236,
         "VORP": 195,
         "eFG%": 140,
-        "G": 260,
-        "grade": 64.18,
+        "grade": 65.22,
         "name": "Cliff Robinson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 14,
+        "team": "PHI"
     },
     "Dennis Rodman*": {
         "PTS": 147,
@@ -5590,11 +5782,12 @@
         "DBPM": 36,
         "VORP": 40,
         "eFG%": 2,
-        "G": 10,
-        "grade": 85.52,
+        "grade": 84.86,
         "name": "Dennis Rodman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "DET"
     },
     "Brian Rowsom": {
         "PTS": 192,
@@ -5619,11 +5812,12 @@
         "DBPM": 235,
         "VORP": 164,
         "eFG%": 100,
-        "G": 232,
-        "grade": 69.16,
+        "grade": 70.13,
         "name": "Brian Rowsom",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 34,
+        "team": "CHH"
     },
     "John Salley": {
         "PTS": 184,
@@ -5648,11 +5842,12 @@
         "DBPM": 12,
         "VORP": 91,
         "eFG%": 96,
-        "G": 173,
-        "grade": 73.17,
+        "grade": 73.69,
         "name": "John Salley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 67,
+        "team": "DET"
     },
     "Ralph Sampson*": {
         "PTS": 198,
@@ -5677,11 +5872,12 @@
         "DBPM": 61,
         "VORP": 206,
         "eFG%": 201,
-        "G": 198,
-        "grade": 61.35,
+        "grade": 61.6,
         "name": "Ralph Sampson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 61,
+        "team": "GSW"
     },
     "Mike Sanders": {
         "PTS": 139,
@@ -5706,11 +5902,12 @@
         "DBPM": 55,
         "VORP": 205,
         "eFG%": 200,
-        "G": 9,
-        "grade": 67.29,
+        "grade": 65.79,
         "name": "Mike Sanders",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "CLE"
     },
     "Danny Schayes": {
         "PTS": 98,
@@ -5735,11 +5932,12 @@
         "DBPM": 112,
         "VORP": 132,
         "eFG%": 38,
-        "G": 122,
-        "grade": 81.81,
+        "grade": 82.18,
         "name": "Danny Schayes",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 76,
+        "team": "DEN"
     },
     "Russ Schoene": {
         "PTS": 222,
@@ -5764,11 +5962,12 @@
         "DBPM": 169,
         "VORP": 194,
         "eFG%": 208,
-        "G": 167,
-        "grade": 59.32,
+        "grade": 59.15,
         "name": "Russ Schoene",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 69,
+        "team": "SEA"
     },
     "Detlef Schrempf": {
         "PTS": 73,
@@ -5793,11 +5992,12 @@
         "DBPM": 136,
         "VORP": 103,
         "eFG%": 47,
-        "G": 236,
-        "grade": 80.05,
+        "grade": 81.55,
         "name": "Detlef Schrempf",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 32,
+        "team": "IND"
     },
     "Byron Scott": {
         "PTS": 30,
@@ -5822,11 +6022,12 @@
         "DBPM": 126,
         "VORP": 55,
         "eFG%": 45,
-        "G": 138,
-        "grade": 87.08,
+        "grade": 87.86,
         "name": "Byron Scott",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "LAL"
     },
     "Rony Seikaly": {
         "PTS": 120,
@@ -5851,11 +6052,12 @@
         "DBPM": 230,
         "VORP": 264,
         "eFG%": 206,
-        "G": 104,
-        "grade": 59.65,
+        "grade": 58.82,
         "name": "Rony Seikaly",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "MIA"
     },
     "Brad Sellers": {
         "PTS": 186,
@@ -5880,11 +6082,12 @@
         "DBPM": 125,
         "VORP": 163,
         "eFG%": 120,
-        "G": 69,
-        "grade": 69.54,
+        "grade": 68.78,
         "name": "Brad Sellers",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "CHI"
     },
     "John Shasky": {
         "PTS": 216,
@@ -5909,11 +6112,12 @@
         "DBPM": 244,
         "VORP": 193,
         "eFG%": 119,
-        "G": 186,
-        "grade": 61.51,
+        "grade": 61.63,
         "name": "John Shasky",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 65,
+        "team": "MIA"
     },
     "Brian Shaw": {
         "PTS": 152,
@@ -5938,11 +6142,12 @@
         "DBPM": 111,
         "VORP": 102,
         "eFG%": 230,
-        "G": 8,
-        "grade": 69.16,
+        "grade": 67.74,
         "name": "Brian Shaw",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "BOS"
     },
     "Purvis Short": {
         "PTS": 169,
@@ -5967,11 +6172,12 @@
         "DBPM": 105,
         "VORP": 176,
         "eFG%": 247,
-        "G": 185,
-        "grade": 61.67,
+        "grade": 61.79,
         "name": "Purvis Short",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 65,
+        "team": "HOU"
     },
     "Jerry Sichting": {
         "PTS": 246,
@@ -5996,11 +6202,12 @@
         "DBPM": 191,
         "VORP": 192,
         "eFG%": 197,
-        "G": 252,
-        "grade": 54.66,
+        "grade": 55.18,
         "name": "Jerry Sichting",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 25,
+        "team": "POR"
     },
     "Jack Sikma*": {
         "PTS": 92,
@@ -6025,11 +6232,12 @@
         "DBPM": 26,
         "VORP": 27,
         "eFG%": 145,
-        "G": 68,
-        "grade": 85.74,
+        "grade": 85.71,
         "name": "Jack Sikma",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "MIL"
     },
     "Scott Skiles": {
         "PTS": 187,
@@ -6054,11 +6262,12 @@
         "DBPM": 225,
         "VORP": 162,
         "eFG%": 169,
-        "G": 67,
-        "grade": 66.08,
+        "grade": 65.14,
         "name": "Scott Skiles",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "IND"
     },
     "Charles Smith": {
         "PTS": 58,
@@ -6083,11 +6292,12 @@
         "DBPM": 204,
         "VORP": 149,
         "eFG%": 104,
-        "G": 157,
-        "grade": 75.58,
+        "grade": 76.04,
         "name": "Charles Smith",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "LAC"
     },
     "Derek Smith": {
         "PTS": 164,
@@ -6112,11 +6322,12 @@
         "DBPM": 135,
         "VORP": 161,
         "eFG%": 130,
-        "G": 229,
-        "grade": 64.59,
+        "grade": 65.31,
         "name": "Derek Smith",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 36,
+        "team": "PHI"
     },
     "Kenny Smith": {
         "PTS": 46,
@@ -6141,11 +6352,12 @@
         "DBPM": 243,
         "VORP": 131,
         "eFG%": 138,
-        "G": 44,
-        "grade": 74.67,
+        "grade": 73.88,
         "name": "Kenny Smith",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "SAC"
     },
     "Larry Smith": {
         "PTS": 212,
@@ -6170,11 +6382,12 @@
         "DBPM": 124,
         "VORP": 148,
         "eFG%": 13,
-        "G": 66,
-        "grade": 72.95,
+        "grade": 72.32,
         "name": "Larry Smith",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "GSW"
     },
     "Otis Smith": {
         "PTS": 131,
@@ -6199,11 +6412,12 @@
         "DBPM": 123,
         "VORP": 130,
         "eFG%": 219,
-        "G": 65,
-        "grade": 70.2,
+        "grade": 69.43,
         "name": "Otis Smith",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "GSW"
     },
     "Rik Smits": {
         "PTS": 112,
@@ -6228,11 +6442,12 @@
         "DBPM": 90,
         "VORP": 117,
         "eFG%": 56,
-        "G": 7,
-        "grade": 78.13,
+        "grade": 77.1,
         "name": "Rik Smits",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "IND"
     },
     "Mike Smrek": {
         "PTS": 237,
@@ -6257,11 +6472,12 @@
         "DBPM": 49,
         "VORP": 233,
         "eFG%": 168,
-        "G": 222,
-        "grade": 55.07,
+        "grade": 55.29,
         "name": "Mike Smrek",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 43,
+        "team": "SAS"
     },
     "Rory Sparrow": {
         "PTS": 103,
@@ -6286,11 +6502,12 @@
         "DBPM": 190,
         "VORP": 204,
         "eFG%": 190,
-        "G": 64,
-        "grade": 67.76,
+        "grade": 66.87,
         "name": "Rory Sparrow",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "MIA"
     },
     "John Stockton*": {
         "PTS": 52,
@@ -6315,11 +6532,12 @@
         "DBPM": 2,
         "VORP": 2,
         "eFG%": 16,
-        "G": 6,
-        "grade": 94.61,
+        "grade": 94.32,
         "name": "John Stockton",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "UTA"
     },
     "Rod Strickland": {
         "PTS": 148,
@@ -6344,11 +6562,12 @@
         "DBPM": 72,
         "VORP": 74,
         "eFG%": 134,
-        "G": 43,
-        "grade": 77.53,
+        "grade": 76.86,
         "name": "Rod Strickland",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "NYK"
     },
     "Jon Sundvold": {
         "PTS": 123,
@@ -6373,11 +6592,12 @@
         "DBPM": 260,
         "VORP": 191,
         "eFG%": 117,
-        "G": 170,
-        "grade": 62.93,
+        "grade": 62.96,
         "name": "Jon Sundvold",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 68,
+        "team": "MIA"
     },
     "Roy Tarpley": {
         "PTS": 45,
@@ -6402,11 +6622,12 @@
         "DBPM": 77,
         "VORP": 116,
         "eFG%": 22,
-        "G": 258,
-        "grade": 82.41,
+        "grade": 84.26,
         "name": "Roy Tarpley",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 19,
+        "team": "DAL"
     },
     "Anthony Taylor": {
         "PTS": 185,
@@ -6431,11 +6652,12 @@
         "DBPM": 54,
         "VORP": 175,
         "eFG%": 259,
-        "G": 255,
-        "grade": 55.95,
+        "grade": 56.56,
         "name": "Anthony Taylor",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 21,
+        "team": "MIA"
     },
     "Terry Teagle": {
         "PTS": 69,
@@ -6460,11 +6682,12 @@
         "DBPM": 210,
         "VORP": 142,
         "eFG%": 154,
-        "G": 181,
-        "grade": 73.33,
+        "grade": 73.94,
         "name": "Terry Teagle",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 66,
+        "team": "GSW"
     },
     "Reggie Theus": {
         "PTS": 66,
@@ -6489,11 +6712,12 @@
         "DBPM": 149,
         "VORP": 64,
         "eFG%": 164,
-        "G": 5,
-        "grade": 81.23,
+        "grade": 80.32,
         "name": "Reggie Theus",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "ATL"
     },
     "Isiah Thomas*": {
         "PTS": 39,
@@ -6518,11 +6742,12 @@
         "DBPM": 60,
         "VORP": 22,
         "eFG%": 153,
-        "G": 63,
-        "grade": 85.95,
+        "grade": 85.88,
         "name": "Isiah Thomas",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "DET"
     },
     "Billy Thompson": {
         "PTS": 121,
@@ -6547,11 +6772,12 @@
         "DBPM": 89,
         "VORP": 129,
         "eFG%": 125,
-        "G": 89,
-        "grade": 72.81,
+        "grade": 72.42,
         "name": "Billy Thompson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "MIA"
     },
     "LaSalle Thompson": {
         "PTS": 102,
@@ -6576,11 +6802,12 @@
         "DBPM": 122,
         "VORP": 125,
         "eFG%": 27,
-        "G": 235,
-        "grade": 78.58,
+        "grade": 80.0,
         "name": "LaSalle Thompson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 33,
+        "team": "IND"
     },
     "Mychal Thompson": {
         "PTS": 142,
@@ -6605,11 +6832,12 @@
         "DBPM": 121,
         "VORP": 124,
         "eFG%": 10,
-        "G": 62,
-        "grade": 77.23,
+        "grade": 76.75,
         "name": "Mychal Thompson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "LAL"
     },
     "Otis Thorpe": {
         "PTS": 55,
@@ -6634,11 +6862,12 @@
         "DBPM": 104,
         "VORP": 50,
         "eFG%": 21,
-        "G": 4,
-        "grade": 86.88,
+        "grade": 86.22,
         "name": "Otis Thorpe",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "HOU"
     },
     "Sedale Threatt": {
         "PTS": 151,
@@ -6663,11 +6892,12 @@
         "DBPM": 35,
         "VORP": 90,
         "eFG%": 83,
-        "G": 193,
-        "grade": 77.7,
+        "grade": 78.64,
         "name": "Sedale Threatt",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 63,
+        "team": "SEA"
     },
     "Wayman Tisdale": {
         "PTS": 27,
@@ -6692,11 +6922,12 @@
         "DBPM": 203,
         "VORP": 123,
         "eFG%": 44,
-        "G": 240,
-        "grade": 78.59,
+        "grade": 80.07,
         "name": "Wayman Tisdale",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 31,
+        "team": "SAC"
     },
     "Kelly Tripucka": {
         "PTS": 13,
@@ -6721,11 +6952,12 @@
         "DBPM": 229,
         "VORP": 76,
         "eFG%": 144,
-        "G": 156,
-        "grade": 79.08,
+        "grade": 79.68,
         "name": "Kelly Tripucka",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 71,
+        "team": "CHH"
     },
     "Trent Tucker": {
         "PTS": 157,
@@ -6750,11 +6982,12 @@
         "DBPM": 53,
         "VORP": 63,
         "eFG%": 11,
-        "G": 42,
-        "grade": 77.36,
+        "grade": 76.68,
         "name": "Trent Tucker",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "NYK"
     },
     "Elston Turner": {
         "PTS": 241,
@@ -6779,11 +7012,12 @@
         "DBPM": 46,
         "VORP": 174,
         "eFG%": 235,
-        "G": 103,
-        "grade": 60.31,
+        "grade": 59.5,
         "name": "Elston Turner",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 78,
+        "team": "DEN"
     },
     "Terry Tyler": {
         "PTS": 215,
@@ -6808,11 +7042,12 @@
         "DBPM": 158,
         "VORP": 190,
         "eFG%": 167,
-        "G": 165,
-        "grade": 60.62,
+        "grade": 60.48,
         "name": "Terry Tyler",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 70,
+        "team": "DAL"
     },
     "Kelvin Upshaw": {
         "PTS": 183,
@@ -6837,11 +7072,12 @@
         "DBPM": 157,
         "VORP": 189,
         "eFG%": 99,
-        "G": 254,
-        "grade": 61.27,
+        "grade": 62.11,
         "name": "Kelvin Upshaw",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 23,
+        "team": "BOS"
     },
     "Darnell Valentine": {
         "PTS": 232,
@@ -6866,11 +7102,12 @@
         "DBPM": 40,
         "VORP": 160,
         "eFG%": 234,
-        "G": 115,
-        "grade": 61.69,
+        "grade": 61.07,
         "name": "Darnell Valentine",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 77,
+        "team": "CLE"
     },
     "Kiki Vandeweghe": {
         "PTS": 141,
@@ -6895,11 +7132,12 @@
         "DBPM": 234,
         "VORP": 173,
         "eFG%": 166,
-        "G": 250,
-        "grade": 64.29,
+        "grade": 65.23,
         "name": "Kiki Vandeweghe",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 27,
+        "team": "NYK"
     },
     "Jay Vincent": {
         "PTS": 146,
@@ -6924,11 +7162,12 @@
         "DBPM": 263,
         "VORP": 248,
         "eFG%": 257,
-        "G": 253,
-        "grade": 49.54,
+        "grade": 49.84,
         "name": "Jay Vincent",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 24,
+        "team": "SAS"
     },
     "Sam Vincent": {
         "PTS": 138,
@@ -6953,11 +7192,12 @@
         "DBPM": 189,
         "VORP": 141,
         "eFG%": 129,
-        "G": 164,
-        "grade": 69.81,
+        "grade": 70.08,
         "name": "Sam Vincent",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 70,
+        "team": "CHI"
     },
     "Darrell Walker": {
         "PTS": 145,
@@ -6982,11 +7222,12 @@
         "DBPM": 17,
         "VORP": 60,
         "eFG%": 253,
-        "G": 88,
-        "grade": 72.26,
+        "grade": 71.83,
         "name": "Darrell Walker",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "WSB"
     },
     "Kenny Walker": {
         "PTS": 220,
@@ -7011,11 +7252,12 @@
         "DBPM": 88,
         "VORP": 147,
         "eFG%": 102,
-        "G": 87,
-        "grade": 68.52,
+        "grade": 67.91,
         "name": "Kenny Walker",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 79,
+        "team": "NYK"
     },
     "Pearl Washington": {
         "PTS": 165,
@@ -7040,11 +7282,12 @@
         "DBPM": 87,
         "VORP": 140,
         "eFG%": 245,
-        "G": 208,
-        "grade": 62.21,
+        "grade": 62.6,
         "name": "Pearl Washington",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 54,
+        "team": "MIA"
     },
     "Spud Webb": {
         "PTS": 248,
@@ -7069,11 +7312,12 @@
         "DBPM": 34,
         "VORP": 109,
         "eFG%": 193,
-        "G": 41,
-        "grade": 68.41,
+        "grade": 67.31,
         "name": "Spud Webb",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "ATL"
     },
     "Chris Welp": {
         "PTS": 251,
@@ -7098,11 +7342,12 @@
         "DBPM": 103,
         "VORP": 247,
         "eFG%": 210,
-        "G": 148,
-        "grade": 52.99,
+        "grade": 52.32,
         "name": "Chris Welp",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 72,
+        "team": "PHI"
     },
     "Bill Wennington": {
         "PTS": 236,
@@ -7127,11 +7372,12 @@
         "DBPM": 102,
         "VORP": 256,
         "eFG%": 228,
-        "G": 184,
-        "grade": 55.3,
+        "grade": 55.13,
         "name": "Bill Wennington",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 65,
+        "team": "DAL"
     },
     "Mark West": {
         "PTS": 179,
@@ -7156,11 +7402,12 @@
         "DBPM": 11,
         "VORP": 68,
         "eFG%": 1,
-        "G": 3,
-        "grade": 79.59,
+        "grade": 78.59,
         "name": "Mark West",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "PHO"
     },
     "Clinton Wheeler": {
         "PTS": 260,
@@ -7185,11 +7432,12 @@
         "DBPM": 10,
         "VORP": 159,
         "eFG%": 179,
-        "G": 256,
-        "grade": 56.88,
+        "grade": 57.55,
         "name": "Clinton Wheeler",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 20,
+        "team": "POR"
     },
     "Eric White": {
         "PTS": 240,
@@ -7214,11 +7462,12 @@
         "DBPM": 255,
         "VORP": 203,
         "eFG%": 50,
-        "G": 227,
-        "grade": 58.36,
+        "grade": 58.79,
         "name": "Eric White",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 37,
+        "team": "LAC"
     },
     "Jerome Whitehead": {
         "PTS": 253,
@@ -7243,11 +7492,12 @@
         "DBPM": 188,
         "VORP": 246,
         "eFG%": 261,
-        "G": 214,
-        "grade": 47.22,
+        "grade": 47.0,
         "name": "Jerome Whitehead",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 52,
+        "team": "SAS"
     },
     "Dominique Wilkins*": {
         "PTS": 7,
@@ -7272,11 +7522,12 @@
         "DBPM": 218,
         "VORP": 15,
         "eFG%": 165,
-        "G": 61,
-        "grade": 87.53,
+        "grade": 87.5,
         "name": "Dominique Wilkins",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 80,
+        "team": "ATL"
     },
     "Gerald Wilkins": {
         "PTS": 77,
@@ -7301,11 +7552,12 @@
         "DBPM": 148,
         "VORP": 84,
         "eFG%": 159,
-        "G": 40,
-        "grade": 76.26,
+        "grade": 75.5,
         "name": "Gerald Wilkins",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "NYK"
     },
     "Buck Williams": {
         "PTS": 94,
@@ -7330,11 +7582,12 @@
         "DBPM": 187,
         "VORP": 122,
         "eFG%": 33,
-        "G": 137,
-        "grade": 77.21,
+        "grade": 77.53,
         "name": "Buck Williams",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "NJN"
     },
     "Herb Williams": {
         "PTS": 191,
@@ -7359,11 +7612,12 @@
         "DBPM": 68,
         "VORP": 221,
         "eFG%": 260,
-        "G": 242,
-        "grade": 55.95,
+        "grade": 56.42,
         "name": "Herb Williams",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 30,
+        "team": "DAL"
     },
     "Hot Rod Williams": {
         "PTS": 114,
@@ -7388,11 +7642,12 @@
         "DBPM": 23,
         "VORP": 39,
         "eFG%": 72,
-        "G": 2,
-        "grade": 86.07,
+        "grade": 85.35,
         "name": "Hot Rod Williams",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "CLE"
     },
     "John Williams": {
         "PTS": 86,
@@ -7417,11 +7672,12 @@
         "DBPM": 9,
         "VORP": 16,
         "eFG%": 158,
-        "G": 1,
-        "grade": 86.82,
+        "grade": 86.13,
         "name": "John Williams",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 82,
+        "team": "WSB"
     },
     "Reggie Williams": {
         "PTS": 127,
@@ -7446,11 +7702,12 @@
         "DBPM": 110,
         "VORP": 202,
         "eFG%": 187,
-        "G": 192,
-        "grade": 63.46,
+        "grade": 63.74,
         "name": "Reggie Williams",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 63,
+        "team": "LAC"
     },
     "David Wingate": {
         "PTS": 243,
@@ -7475,11 +7732,12 @@
         "DBPM": 248,
         "VORP": 188,
         "eFG%": 152,
-        "G": 234,
-        "grade": 57.62,
+        "grade": 58.08,
         "name": "David Wingate",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 33,
+        "team": "PHI"
     },
     "Randy Wittman": {
         "PTS": 221,
@@ -7504,11 +7762,12 @@
         "DBPM": 186,
         "VORP": 172,
         "eFG%": 157,
-        "G": 233,
-        "grade": 58.26,
+        "grade": 58.74,
         "name": "Randy Wittman",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 33,
+        "team": "IND"
     },
     "Joe Wolf": {
         "PTS": 211,
@@ -7533,11 +7792,12 @@
         "DBPM": 217,
         "VORP": 262,
         "eFG%": 244,
-        "G": 180,
-        "grade": 51.6,
+        "grade": 51.21,
         "name": "Joe Wolf",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 66,
+        "team": "LAC"
     },
     "Mike Woodson": {
         "PTS": 96,
@@ -7562,11 +7822,12 @@
         "DBPM": 101,
         "VORP": 146,
         "eFG%": 199,
-        "G": 39,
-        "grade": 71.36,
+        "grade": 70.37,
         "name": "Mike Woodson",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "HOU"
     },
     "Orlando Woolridge": {
         "PTS": 135,
@@ -7591,11 +7852,12 @@
         "DBPM": 180,
         "VORP": 158,
         "eFG%": 177,
-        "G": 136,
-        "grade": 68.7,
+        "grade": 68.62,
         "name": "Orlando Woolridge",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 74,
+        "team": "LAL"
     },
     "James Worthy*": {
         "PTS": 21,
@@ -7620,11 +7882,12 @@
         "DBPM": 109,
         "VORP": 21,
         "eFG%": 15,
-        "G": 38,
-        "grade": 91.68,
+        "grade": 91.6,
         "name": "James Worthy",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 81,
+        "team": "LAL"
     },
     "Danny Young": {
         "PTS": 203,
@@ -7649,10 +7912,11 @@
         "DBPM": 31,
         "VORP": 121,
         "eFG%": 107,
-        "G": 217,
-        "grade": 68.14,
+        "grade": 68.9,
         "name": "Danny Young",
         "league_grade": 80.7,
-        "year": "1989"
+        "year": 1989,
+        "games_played": 48,
+        "team": "POR"
     }
 }
